@@ -1,0 +1,4 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+buprenorphine	norbuprenorphine	Biochemical Reaction	CYP2C8, CYP3A4, CYP3A5, CYP3A7	Gene	hepatocyte	31929398, 15743975, 12069411, 9180349		buprenorphine		Biochemical reaction from buprenorphine to norbuprenorphine. This interaction can be catalyzed by CYP2C8, CYP3A4, CYP3A7 or CYP3A5.
+buprenorphine	buprenorphine 3-glucuronide	Biochemical Reaction	UGT1A1, UGT1A3, UGT2B7	Gene	hepatocyte	31929398, 19841060, 12433804, 9616184		buprenorphine		Biochemical reaction from buprenorphine to buprenorphine 3-glucuronide. This interaction can be catalyzed by UGT1A3, UGT1A1 or UGT2B7.
+norbuprenorphine	norbuprenorphine glucuronide	Biochemical Reaction	UGT1A1, UGT1A3	Gene	hepatocyte	31929398, 19841060, 9616184				Biochemical reaction from norbuprenorphine to norbuprenorphine glucuronide. This interaction can be catalyzed by UGT1A1 or UGT1A3.

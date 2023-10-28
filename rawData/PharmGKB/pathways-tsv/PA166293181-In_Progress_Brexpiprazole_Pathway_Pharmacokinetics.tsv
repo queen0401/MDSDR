@@ -1,0 +1,3 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+brexpiprazole	brexpiprazole S-oxide	Biochemical Reaction	CYP2D6, CYP3A4	Gene	hepatocyte	36350097		brexpiprazole		Biochemical reaction from brexpiprazole to brexpiprazole S-oxide. This interaction can be catalyzed by CYP3A4 or CYP2D6.
+brexpiprazole	brexpiprazole DM-3412	Biochemical Reaction	CYP2D6	Gene	hepatocyte	36350097		brexpiprazole		Biochemical reaction from brexpiprazole to brexpiprazole DM-3412. This interaction is catalyzed by CYP2D6.

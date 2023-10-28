@@ -1,0 +1,9 @@
+download time of data
+CIViC: 2023/10/18 
+PharmGKB:2023/10/18 
+KinaseMD:2023/10/19
+dbMCS:2023/10/19 
+AIMMS:2023/10/20 
+TKI:2023/10/20
+RET:2023/10/20
+

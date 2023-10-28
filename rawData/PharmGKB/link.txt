@@ -1,0 +1,12 @@
+https://api.pharmgkb.org/v1/download/file/data/clinicalAnnotations.zip
+https://api.pharmgkb.org/v1/download/file/data/clinicalAnnotations_LOE1-2.zip
+https://api.pharmgkb.org/v1/download/file/data/variantAnnotations.zip
+https://api.pharmgkb.org/v1/download/file/data/relationships.zip
+https://api.pharmgkb.org/v1/download/file/data/drugLabels.zip
+https://api.pharmgkb.org/v1/download/file/data/pathways-tsv.zip
+https://api.pharmgkb.org/v1/download/file/data/clinicalVariants.zip
+https://api.pharmgkb.org/v1/download/file/data/genes.zip
+https://api.pharmgkb.org/v1/download/file/data/variants.zip
+https://api.pharmgkb.org/v1/download/file/data/drugs.zip
+https://api.pharmgkb.org/v1/download/file/data/chemicals.zip
+https://api.pharmgkb.org/v1/download/file/data/phenotypes.zip

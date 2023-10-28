@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+alectinib	alectinib metabolite M6	Biochemical Reaction			hepatocyte	27180975		alectinib		Biochemical reaction from alectinib to alectinib metabolite M6.
+alectinib	alectinib metabolite M1b	Biochemical Reaction			hepatocyte	27180975		alectinib		Biochemical reaction from alectinib to alectinib metabolite M1b.
+alectinib	alectinib metabolite M4	Biochemical Reaction	CYP3A	Gene	hepatocyte	27180975		alectinib		Biochemical reaction from alectinib to alectinib metabolite M4. This interaction is catalyzed by CYP3A.
+alectinib	alectinib metabolite M1a	Biochemical Reaction			hepatocyte	27180975		alectinib		Biochemical reaction from alectinib to alectinib metabolite M1a.
+alectinib metabolite M4	ALK	Inhibition			hepatocyte, neoplastic cell	27180975	ALK			alectinib metabolite M4 inhibits ALK.
+alectinib	ALK	Inhibition			hepatocyte, neoplastic cell	27180975	ALK	alectinib		alectinib inhibits ALK.
+alectinib	ABCB1	Inhibition			hepatocyte, neoplastic cell	31068367	ABCB1	alectinib		alectinib inhibits ABCB1.
+alectinib	ABCG2	Inhibition			hepatocyte, neoplastic cell	31068367	ABCG2	alectinib		alectinib inhibits ABCG2.

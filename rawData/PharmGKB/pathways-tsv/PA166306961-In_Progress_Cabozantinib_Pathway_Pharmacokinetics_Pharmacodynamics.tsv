@@ -1,0 +1,21 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+cabozantinib	cabozantinib n-oxide	Biochemical Reaction	CYP2C9, CYP3A4	Gene	hepatocyte	27734291, 26015560		cabozantinib		Biochemical reaction from cabozantinib to cabozantinib n-oxide. This interaction can be catalyzed by CYP2C9 or CYP3A4.
+cabozantinib	cabozantinib metabolite m7	Biochemical Reaction			hepatocyte	27734291, 26015560		cabozantinib		Biochemical reaction from cabozantinib to cabozantinib metabolite m7.
+cabozantinib metabolite m7	cabozantinib metabolite m2a	Biochemical Reaction			hepatocyte	27734291, 26015560				Biochemical reaction from cabozantinib metabolite m7 to cabozantinib metabolite m2a.
+cabozantinib	cabozantinib metabolite m9	Biochemical Reaction			hepatocyte	27734291, 26015560		cabozantinib		Biochemical reaction from cabozantinib to cabozantinib metabolite m9.
+cabozantinib n-oxide	CYP2C8	Inhibition			hepatocyte	27734291	CYP2C8			cabozantinib n-oxide inhibits CYP2C8.
+cabozantinib	MET	Inhibition			null, neoplastic cell	33638808, 27734291	MET	cabozantinib		cabozantinib inhibits MET.
+cabozantinib	CYP2C8	Inhibition			hepatocyte	27734291	CYP2C8	cabozantinib		cabozantinib inhibits CYP2C8.
+cabozantinib	AXL	Inhibition			null, neoplastic cell	27734291	AXL	cabozantinib		cabozantinib inhibits AXL.
+cabozantinib metabolite m2a	SLC22A6	Inhibition			null, hepatocyte	27734291	SLC22A6			cabozantinib metabolite m2a inhibits SLC22A6.
+cabozantinib	KDR	Inhibition			null, neoplastic cell	27734291	KDR	cabozantinib		cabozantinib inhibits KDR.
+cabozantinib	ABCB1	Inhibition			null, enterocyte	27734291	ABCB1	cabozantinib		cabozantinib inhibits ABCB1.
+cabozantinib	SLC47A2	Inhibition			null, neoplastic cell	27734291	SLC47A2	cabozantinib		cabozantinib inhibits SLC47A2.
+cabozantinib metabolite m2a	SLC47A2	Inhibition			null, neoplastic cell	27734291	SLC47A2			cabozantinib metabolite m2a inhibits SLC47A2.
+cabozantinib	RET	Inhibition			null, neoplastic cell	27734291	RET	cabozantinib		cabozantinib inhibits RET.
+cabozantinib metabolite m2a	ABCB11	Inhibition			null, hepatocyte	27734291	ABCB11			cabozantinib metabolite m2a inhibits ABCB11.
+cabozantinib	SLC47A1	Inhibition			null, neoplastic cell	27734291	SLC47A1	cabozantinib		cabozantinib inhibits SLC47A1.
+cabozantinib metabolite m2a	SLC22A8	Inhibition			null, hepatocyte	27734291	SLC22A8			cabozantinib metabolite m2a inhibits SLC22A8.
+cabozantinib metabolite m2a	SLC47A1	Inhibition			null, neoplastic cell	27734291	SLC47A1			cabozantinib metabolite m2a inhibits SLC47A1.
+cabozantinib	cabozantinib	Transport	ABCC2	Gene	null, hepatocyte	27734291		cabozantinib		Transport from cabozantinib to cabozantinib. This interaction is catalyzed by ABCC2.
+cabozantinib metabolite m2a	cabozantinib metabolite m2a	Transport	ABCC2, ABCG2, SLCO1B1, SLCO1B3	Gene	hepatocyte, null	27734291				Transport from cabozantinib metabolite m2a to cabozantinib metabolite m2a. This interaction can be catalyzed by ABCG2, SLCO1B1, SLCO1B3 or ABCC2.

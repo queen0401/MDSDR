@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+edoxaban	n-desmethyl edoxaban	Biochemical Reaction	CYP3A4	Gene	hepatocyte	30658513		edoxaban		Biochemical reaction from edoxaban to n-desmethyl edoxaban. This interaction is catalyzed by CYP3A4.
+edoxaban	edoxaban M4	Biochemical Reaction	CES1	Gene	hepatocyte	30658513		edoxaban		Biochemical reaction from edoxaban to edoxaban M4. This interaction is catalyzed by CES1.
+edoxaban	edoxaban n-oxide	Biochemical Reaction	CYP3A4	Gene	hepatocyte	30658513		edoxaban		Biochemical reaction from edoxaban to edoxaban n-oxide. This interaction is catalyzed by CYP3A4.
+edoxaban	edoxaban n-glucuronide	Biochemical Reaction			hepatocyte	30658513		edoxaban		Biochemical reaction from edoxaban to edoxaban n-glucuronide.
+edoxaban	F10	Inhibition			null	30658513	F10	edoxaban		edoxaban inhibits F10.
+edoxaban M4	edoxaban M4	Transport	SLCO1B1	Gene	hepatocyte, null	30658513				Transport from edoxaban M4 to edoxaban M4. This interaction is catalyzed by SLCO1B1.
+edoxaban	edoxaban	Transport	SLCO1B1	Gene	hepatocyte, null	30658513		edoxaban		Transport from edoxaban to edoxaban. This interaction is catalyzed by SLCO1B1.

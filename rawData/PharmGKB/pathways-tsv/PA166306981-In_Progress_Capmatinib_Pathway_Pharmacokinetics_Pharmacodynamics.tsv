@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+capmatinib	capmatinib metabolite M21	Biochemical Reaction	CYP3A4	Gene	null, hepatocyte	32665418		capmatinib		Biochemical reaction from capmatinib to capmatinib metabolite M21. This interaction is catalyzed by CYP3A4.
+capmatinib	capmatinib metabolite M16	Biochemical Reaction	AOX1	Gene	null, hepatocyte	36087217, 32665418		capmatinib		Biochemical reaction from capmatinib to capmatinib metabolite M16. This interaction is catalyzed by AOX1.
+capmatinib	capmatinib metabolite M8	Biochemical Reaction	CYP3A4	Gene	null, hepatocyte	32665418		capmatinib		Biochemical reaction from capmatinib to capmatinib metabolite M8. This interaction is catalyzed by CYP3A4.
+capmatinib	MET	Inhibition			null, neoplastic cell	33638808, 32665418	MET	capmatinib		capmatinib inhibits MET.

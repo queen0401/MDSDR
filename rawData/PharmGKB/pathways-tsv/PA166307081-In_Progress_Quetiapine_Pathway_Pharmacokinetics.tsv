@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+quetiapine	quetiapine sulfoxide	Biochemical Reaction	CYP3A4	Gene	hepatocyte	33199804, 11510628		quetiapine		Biochemical reaction from quetiapine to quetiapine sulfoxide. This interaction is catalyzed by CYP3A4.
+quetiapine	7-hydroxy quetiapine	Biochemical Reaction	CYP2D6	Gene	hepatocyte	33199804, 11510628		quetiapine		Biochemical reaction from quetiapine to 7-hydroxy quetiapine. This interaction is catalyzed by CYP2D6.
+norquetiapine	7-hydroxy N-desalkylquetiapine	Biochemical Reaction	CYP2D6	Gene	hepatocyte	22688609, 11510628				Biochemical reaction from norquetiapine to 7-hydroxy N-desalkylquetiapine. This interaction is catalyzed by CYP2D6.
+norquetiapine	N-desalkylquetiapine sulfoxide	Biochemical Reaction	CYP3A4	Gene	hepatocyte	33199804, 22688609				Biochemical reaction from norquetiapine to N-desalkylquetiapine sulfoxide. This interaction is catalyzed by CYP3A4.
+quetiapine	norquetiapine	Biochemical Reaction	CYP3A4	Gene	hepatocyte	33199804, 22688609, 11510628		quetiapine		Biochemical reaction from quetiapine to norquetiapine. This interaction is catalyzed by CYP3A4.

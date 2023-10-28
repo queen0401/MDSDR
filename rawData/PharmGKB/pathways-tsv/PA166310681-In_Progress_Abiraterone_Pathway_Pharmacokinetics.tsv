@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+abiraterone	delta4-abiraterone	Biochemical Reaction	HSD3B1, HSD3B2	Gene	hepatocyte	37574850		abiraterone		Biochemical reaction from abiraterone to delta4-abiraterone. This interaction can be catalyzed by HSD3B2 or HSD3B1.
+delta4-abiraterone	3-keto-5alpha-abiraterone	Biochemical Reaction			hepatocyte	37574850				Biochemical reaction from delta4-abiraterone to 3-keto-5alpha-abiraterone.
+abiraterone	abiraterone glucuronide	Biochemical Reaction	UGT1A4	Gene	hepatocyte	37574850, 31727674		abiraterone		Biochemical reaction from abiraterone to abiraterone glucuronide. This interaction is catalyzed by UGT1A4.
+abiraterone	abiraterone sulfate	Biochemical Reaction	SULT2A1	Gene	hepatocyte	37574850		abiraterone		Biochemical reaction from abiraterone to abiraterone sulfate. This interaction is catalyzed by SULT2A1.
+abiraterone sulfate	n-oxide abiraterone sulfate	Biochemical Reaction	CYP3A4	Gene	hepatocyte	37574850				Biochemical reaction from abiraterone sulfate to n-oxide abiraterone sulfate. This interaction is catalyzed by CYP3A4.
+abiraterone	abiraterone	Transport	SLCO2B1	Gene	null, hepatocyte	37574850		abiraterone		Transport from abiraterone to abiraterone. This interaction is catalyzed by SLCO2B1.

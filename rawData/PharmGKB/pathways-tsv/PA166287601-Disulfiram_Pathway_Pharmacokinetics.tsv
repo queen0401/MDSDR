@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+disulfiram	bis(diethyldithiocarbamate) copper complex	Biochemical Reaction			null	1471547		disulfiram		Biochemical reaction from disulfiram to bis(diethyldithiocarbamate) copper complex.
+s-methyl diethylthiocarbamate	methyl diethylthiocarbamate sulfoxide	Biochemical Reaction	CYP2E1	Gene	hepatocyte	1471547				Biochemical reaction from s-methyl diethylthiocarbamate to methyl diethylthiocarbamate sulfoxide. This interaction is catalyzed by CYP2E1.
+diethyldithiocarbamic acid	carbon disulfide, diethylamine	Biochemical Reaction			null	1471547				Biochemical reaction from diethyldithiocarbamic acid to carbon disulfide, diethylamine.
+s-methyl DDC	s-methyl diethylthiocarbamate	Biochemical Reaction			hepatocyte	1471547				Biochemical reaction from s-methyl DDC to s-methyl diethylthiocarbamate.
+disulfiram	diethyldithiocarbamic acid	Biochemical Reaction	GSR	Gene	null	1471547		disulfiram		Biochemical reaction from disulfiram to diethyldithiocarbamic acid. This interaction is catalyzed by GSR.
+diethyldithiocarbamic acid, s-adenosylmethionine	s-adenosylhomocysteine, s-methyl DDC	Biochemical Reaction	TPMT	Gene	null, hepatocyte	9780130, 8392551				Biochemical reaction from diethyldithiocarbamic acid, s-adenosylmethionine to s-adenosylhomocysteine, s-methyl DDC. This interaction is catalyzed by TPMT.
+methyl diethylthiocarbamate sulfoxide	methyl diethylthiocarbamate sulfone	Biochemical Reaction	CYP2E1	Gene	hepatocyte	1471547				Biochemical reaction from methyl diethylthiocarbamate sulfoxide to methyl diethylthiocarbamate sulfone. This interaction is catalyzed by CYP2E1.
+bis(diethyldithiocarbamate) copper complex	diethyldithiocarbamic acid	Biochemical Reaction			null	1471547				Biochemical reaction from bis(diethyldithiocarbamate) copper complex to diethyldithiocarbamic acid.
+disulfiram	CYP2E1	Inhibition			null, hepatocyte	11851639, 10348802	CYP2E1	disulfiram		disulfiram inhibits CYP2E1.

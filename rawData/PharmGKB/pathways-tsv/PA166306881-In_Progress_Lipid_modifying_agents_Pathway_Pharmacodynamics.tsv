@@ -1,0 +1,16 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+inclisiran	PCSK9	Inhibition			null	23932550	PCSK9	inclisiran	familial hypercholesterolemia	inclisiran inhibits PCSK9.
+evinacumab	ANGPTL3	Inhibition			null, hepatocyte	36614969	ANGPTL3	evinacumab	familial hypercholesterolemia	evinacumab inhibits ANGPTL3.
+lomitapide	MTTP	Inhibition			null, hepatocyte	23932550	MTTP	lomitapide	familial hypercholesterolemia	lomitapide inhibits MTTP.
+evolocumab	PCSK9	Inhibition			null	29353350	PCSK9	evolocumab	familial hypercholesterolemia	evolocumab inhibits PCSK9.
+alirocumab	PCSK9	Inhibition			null	28964736	PCSK9	alirocumab	familial hypercholesterolemia	alirocumab inhibits PCSK9.
+LDLR	MTTP	Leads To			hepatocyte	36614969	LDLR, MTTP		familial hypercholesterolemia	LDLR leads to MTTP.
+PCSK9	LDLR	Leads To			null, hepatocyte	29353350, 28964736, 23932550	LDLR, PCSK9		familial hypercholesterolemia	PCSK9 leads to LDLR.
+LDLR	low density lipoprotein	Leads To			hepatocyte, null	29353350	LDLR		familial hypercholesterolemia	LDLR leads to low density lipoprotein.
+PCSK9	familial hypercholesterolemia	Leads To			null	36614969	PCSK9		familial hypercholesterolemia	PCSK9 leads to familial hypercholesterolemia.
+LDLR	familial hypercholesterolemia	Leads To			hepatocyte, null	36614969	LDLR		familial hypercholesterolemia	LDLR leads to familial hypercholesterolemia.
+APOB	LDLR	Leads To			null, hepatocyte	36614969	APOB, LDLR		familial hypercholesterolemia	APOB leads to LDLR.
+low density lipoprotein	LDLR	Leads To			null, hepatocyte	29353350	LDLR		familial hypercholesterolemia	low density lipoprotein leads to LDLR.
+MTTP	APOB	Leads To			hepatocyte, null	23932550	APOB, MTTP		familial hypercholesterolemia	MTTP leads to APOB.
+ANGPTL3	low density lipoprotein	Leads To			hepatocyte, null	36614969	ANGPTL3		familial hypercholesterolemia	ANGPTL3 leads to low density lipoprotein.
+APOB	familial hypercholesterolemia	Leads To			null	36614969	APOB		familial hypercholesterolemia	APOB leads to familial hypercholesterolemia.

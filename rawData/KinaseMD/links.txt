@@ -1,0 +1,8 @@
+https://bioinfo.uth.edu/kmd/files/kinase_basic.xlsx
+https://bioinfo.uth.edu/kmd/files/all_mutation_filtered.txt
+https://bioinfo.uth.edu/kmd/files/all_drug_response.txt
+https://bioinfo.uth.edu/kmd/files/GDSC_drug.txt
+https://bioinfo.uth.edu/kmd/files/drug_resistance.xlsx
+https://bioinfo.uth.edu/kmd/files/Phosphorylations_site.txt
+https://bioinfo.uth.edu/kmd/files/Kinase_Substrate_Dataset.txt
+https://bioinfo.uth.edu/kmd/files/network.xlsx

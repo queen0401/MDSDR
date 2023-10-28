@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+metoclopramide	metoclopramide metabolite m5	Biochemical Reaction			hepatocyte	20423954		metoclopramide		Biochemical reaction from metoclopramide to metoclopramide metabolite m5.
+metoclopramide	metoclopramide n4-sulfonate	Biochemical Reaction			hepatocyte	20423954		metoclopramide		Biochemical reaction from metoclopramide to metoclopramide n4-sulfonate.
+metoclopramide	des-ethylmetoclopramide	Biochemical Reaction	CYP2D6, CYP3A4	Gene	hepatocyte	24010633, 20423954, 11854155		metoclopramide		Biochemical reaction from metoclopramide to des-ethylmetoclopramide. This interaction can be catalyzed by CYP3A4 or CYP2D6.
+metoclopramide	metoclopramide o-glucuronide	Biochemical Reaction			hepatocyte	20423954		metoclopramide		Biochemical reaction from metoclopramide to metoclopramide o-glucuronide.
+metoclopramide	CYP2D6	Inhibition			hepatocyte	24010633	CYP2D6	metoclopramide		metoclopramide inhibits CYP2D6.

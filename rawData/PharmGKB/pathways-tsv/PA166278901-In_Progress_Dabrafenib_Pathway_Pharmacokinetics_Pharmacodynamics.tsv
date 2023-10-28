@@ -1,0 +1,12 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+dabrafenib	CYP2C8	Activation			hepatocyte	34780725, 30094711	CYP2C8	dabrafenib		dabrafenib activates CYP2C8.
+dabrafenib	CYP3A4	Activation			hepatocyte	30094711	CYP3A4	dabrafenib		dabrafenib activates CYP3A4.
+hydroxy dabrafenib	carboxy dabrafenib	Biochemical Reaction	CYP3A4	Gene	hepatocyte	30094711				Biochemical reaction from hydroxy dabrafenib to carboxy dabrafenib. This interaction is catalyzed by CYP3A4.
+carboxy dabrafenib	desmethyl dabrafenib	Biochemical Reaction			null	30094711				Biochemical reaction from carboxy dabrafenib to desmethyl dabrafenib.
+dabrafenib	hydroxy dabrafenib	Biochemical Reaction	CYP2C8, CYP3A4	Gene	hepatocyte	30094711		dabrafenib		Biochemical reaction from dabrafenib to hydroxy dabrafenib. This interaction can be catalyzed by CYP2C8 or CYP3A4.
+dabrafenib	ABCB1	Inhibition			hepatocyte, neoplastic cell	34780725	ABCB1	dabrafenib		dabrafenib inhibits ABCB1.
+dabrafenib	ABCG2	Inhibition			hepatocyte, neoplastic cell	34780725	ABCG2	dabrafenib		dabrafenib inhibits ABCG2.
+dabrafenib	BRAF	Inhibition			hepatocyte, neoplastic cell	30094711	BRAF	dabrafenib		dabrafenib inhibits BRAF.
+dabrafenib	CYP3A4	Inhibition			hepatocyte	34780725, 30094711	CYP3A4	dabrafenib		dabrafenib inhibits CYP3A4.
+dabrafenib	CYP2C8	Inhibition			hepatocyte	34780725, 30094711	CYP2C8	dabrafenib		dabrafenib inhibits CYP2C8.
+carboxy dabrafenib	carboxy dabrafenib	Transport			hepatocyte, null	30094711				Transport from carboxy dabrafenib to carboxy dabrafenib.

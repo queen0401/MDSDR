@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+meperidine	meperidinic acid	Biochemical Reaction	CES1	Gene	hepatocyte	30902024, 10381793		meperidine	Neurotoxicity Syndromes	Biochemical reaction from meperidine to meperidinic acid. This interaction is catalyzed by CES1.
+meperidine	normeperidine	Biochemical Reaction	CYP2B6, CYP2C19, CYP3A4	Gene	hepatocyte	30902024, 15319333		meperidine	Neurotoxicity Syndromes	Biochemical reaction from meperidine to normeperidine. This interaction can be catalyzed by CYP2C19, CYP2B6 or CYP3A4.
+meperidinic acid	normeperidinic acid	Biochemical Reaction			hepatocyte	30902024			Neurotoxicity Syndromes	Biochemical reaction from meperidinic acid to normeperidinic acid.
+normeperidine	normeperidinic acid	Biochemical Reaction			hepatocyte	30902024			Neurotoxicity Syndromes	Biochemical reaction from normeperidine to normeperidinic acid.
+normeperidine	Neurotoxicity Syndromes	Leads To			hepatocyte, null	30902024, 8747629			Neurotoxicity Syndromes	normeperidine leads to Neurotoxicity Syndromes.

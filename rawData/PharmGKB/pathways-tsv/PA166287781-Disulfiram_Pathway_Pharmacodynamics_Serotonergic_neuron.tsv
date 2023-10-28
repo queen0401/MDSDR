@@ -1,0 +1,11 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+5-hydroxyindole-3-acetaldehyde	5-hydroxyindole-3-acetic acid	Biochemical Reaction	ALDH1A1, ALDH2	Gene	neuron	14984243				Biochemical reaction from 5-hydroxyindole-3-acetaldehyde to 5-hydroxyindole-3-acetic acid. This interaction can be catalyzed by ALDH2 or ALDH1A1.
+5-hydroxytryptophol	5-hydroxytryptophol sulfate	Biochemical Reaction	SULT1A1	Gene	neuron	14984243				Biochemical reaction from 5-hydroxytryptophol to 5-hydroxytryptophol sulfate. This interaction is catalyzed by SULT1A1.
+serotonin	5-hydroxyindole-3-acetaldehyde	Biochemical Reaction	MAOA, MAOB	Gene	neuron	14984243				Biochemical reaction from serotonin to 5-hydroxyindole-3-acetaldehyde. This interaction can be catalyzed by MAOA or MAOB.
+5-hydroxyindole-3-acetaldehyde	5-hydroxytryptophol	Biochemical Reaction	ADH1B	Gene	neuron	23266708, 14984243, 10336614				Biochemical reaction from 5-hydroxyindole-3-acetaldehyde to 5-hydroxytryptophol. This interaction is catalyzed by ADH1B.
+l-tryptophan	5-hydroxy-L-tryptophan	Biochemical Reaction	TPH2	Gene	neuron	26265436, 22925276				Biochemical reaction from l-tryptophan to 5-hydroxy-L-tryptophan. This interaction is catalyzed by TPH2.
+5-hydroxytryptophol	5-hydroxytryptophol glucuronide	Biochemical Reaction	UGT1A6	Gene	neuron	15761113, 15258112, 14984243				Biochemical reaction from 5-hydroxytryptophol to 5-hydroxytryptophol glucuronide. This interaction is catalyzed by UGT1A6.
+5-hydroxy-L-tryptophan	serotonin	Biochemical Reaction	DDC	Gene	neuron	33808712, 26265436				Biochemical reaction from 5-hydroxy-L-tryptophan to serotonin. This interaction is catalyzed by DDC.
+disulfiram	ALDH2	Inhibition			neuron	19720750, 14984243, 8392551	ALDH2	disulfiram		disulfiram inhibits ALDH2.
+disulfiram	TPH2	Inhibition			neuron	26265436	TPH2	disulfiram		disulfiram inhibits TPH2.
+disulfiram	ALDH1A1	Inhibition			neuron	22544865, 19720750, 14984243	ALDH1A1	disulfiram		disulfiram inhibits ALDH1A1.

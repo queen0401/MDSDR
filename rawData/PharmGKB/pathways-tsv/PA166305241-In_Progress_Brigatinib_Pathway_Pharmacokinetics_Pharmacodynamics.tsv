@@ -1,0 +1,4 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+brigatinib	n-demethyl brigatinib	Biochemical Reaction	CYP2C8, CYP3A4	Gene	hepatocyte	31287236		brigatinib		Biochemical reaction from brigatinib to n-demethyl brigatinib. This interaction can be catalyzed by CYP3A4 or CYP2C8.
+n-demethyl brigatinib	ALK	Inhibition			hepatocyte, neoplastic cell	31287236	ALK			n-demethyl brigatinib inhibits ALK.
+brigatinib	ALK	Inhibition			hepatocyte, neoplastic cell	31287236	ALK	brigatinib		brigatinib inhibits ALK.

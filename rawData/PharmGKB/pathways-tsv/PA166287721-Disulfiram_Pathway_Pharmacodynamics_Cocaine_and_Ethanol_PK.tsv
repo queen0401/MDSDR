@@ -1,0 +1,18 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+acetaldehyde	acetic acid	Biochemical Reaction	ALDH2	Gene	hepatocyte	19720750, 17718403			diastolic blood pressure,heart rate,systolic blood pressure	Biochemical reaction from acetaldehyde to acetic acid. This interaction is catalyzed by ALDH2.
+cocaine	norcocaine	Biochemical Reaction	CYP3A4	Gene	null	27224254, 9788003		cocaine	diastolic blood pressure,heart rate,systolic blood pressure	Biochemical reaction from cocaine to norcocaine. This interaction is catalyzed by CYP3A4.
+cocaine, ethanol	cocaethylene	Biochemical Reaction			null, hepatocyte	19720750, 7870932		cocaine, ethanol	diastolic blood pressure,heart rate,systolic blood pressure	Biochemical reaction from cocaine, ethanol to cocaethylene.
+cocaine	ecgonine methyl ester	Biochemical Reaction	BCHE	Gene	null	27224254, 9547934, 428191		cocaine	diastolic blood pressure,heart rate,systolic blood pressure	Biochemical reaction from cocaine to ecgonine methyl ester. This interaction is catalyzed by BCHE.
+ethanol	acetaldehyde	Biochemical Reaction	ADH1B, ADH4	Gene	hepatocyte	23266708, 19720750, 17718403, 10336614		ethanol	diastolic blood pressure,heart rate,systolic blood pressure	Biochemical reaction from ethanol to acetaldehyde. This interaction can be catalyzed by ADH4 or ADH1B.
+cocaine	benzoylecgonine	Biochemical Reaction	CES1, CES2	Gene	null	27224254, 20649590, 7870932		cocaine	diastolic blood pressure,heart rate,systolic blood pressure	Biochemical reaction from cocaine to benzoylecgonine. This interaction can be catalyzed by CES1 or CES2.
+disulfiram	BCHE	Inhibition			hepatocyte, null	9547934	BCHE	disulfiram	diastolic blood pressure,heart rate,systolic blood pressure	disulfiram inhibits BCHE.
+cocaethylene	SLC6A3	Inhibition			null, neuron	7870932	SLC6A3		diastolic blood pressure,heart rate,systolic blood pressure	cocaethylene inhibits SLC6A3.
+disulfiram	CES2	Inhibition			hepatocyte, null	9547934	CES2	disulfiram	diastolic blood pressure,heart rate,systolic blood pressure	disulfiram inhibits CES2.
+cocaine	SLC6A4	Inhibition			null, neuron	34396557, 14612135	SLC6A4	cocaine	diastolic blood pressure,heart rate,systolic blood pressure	cocaine inhibits SLC6A4.
+disulfiram	ALDH2	Inhibition			hepatocyte	19720750, 8392551	ALDH2	disulfiram	diastolic blood pressure,heart rate,systolic blood pressure	disulfiram inhibits ALDH2.
+cocaine	SLC6A5	Inhibition			null, neuron	34396557	SLC6A5	cocaine	diastolic blood pressure,heart rate,systolic blood pressure	cocaine inhibits SLC6A5.
+cocaine	SLC6A3	Inhibition			null, neuron	34396557, 14612135, 7870932	SLC6A3	cocaine	diastolic blood pressure,heart rate,systolic blood pressure	cocaine inhibits SLC6A3.
+disulfiram	CES1	Inhibition			hepatocyte, null	9547934	CES1	disulfiram	diastolic blood pressure,heart rate,systolic blood pressure	disulfiram inhibits CES1.
+acetaldehyde	systolic blood pressure	Leads To			hepatocyte, null	9788003			diastolic blood pressure,heart rate,systolic blood pressure	acetaldehyde leads to systolic blood pressure.
+acetaldehyde	heart rate	Leads To			hepatocyte, null	9788003			diastolic blood pressure,heart rate,systolic blood pressure	acetaldehyde leads to heart rate.
+acetaldehyde	diastolic blood pressure	Leads To			hepatocyte, null	9788003			diastolic blood pressure,heart rate,systolic blood pressure	acetaldehyde leads to diastolic blood pressure.

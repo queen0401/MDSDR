@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+risperidone	7-hydroxyrisperidone	Biochemical Reaction			hepatocyte	34335273, 7507814		risperidone		Biochemical reaction from risperidone to 7-hydroxyrisperidone.
+risperidone	paliperidone	Biochemical Reaction	CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	34335273, 26944100, 26129906, 24329187, 24026091, 16833023, 10639689, 7507814		risperidone		Biochemical reaction from risperidone to paliperidone. This interaction can be catalyzed by CYP2D6, CYP3A4 or CYP3A5.
+risperidone	risperidone m3	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	34335273, 7507814		risperidone		Biochemical reaction from risperidone to risperidone m3. This interaction can be catalyzed by CYP3A4 or CYP3A5.
+risperidone	risperidone	Transport	ABCB1, ABCG2	Gene	hepatocyte, null	34335273, 29443543, 28719598		risperidone		Transport from risperidone to risperidone. This interaction can be catalyzed by ABCB1 or ABCG2.

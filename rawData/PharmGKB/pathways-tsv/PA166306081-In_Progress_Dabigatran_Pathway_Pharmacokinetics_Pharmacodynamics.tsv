@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+dabigatran	dabigatran glucuronide	Biochemical Reaction	UGT1A9, UGT2B15, UGT2B7	Gene	hepatocyte, null	30658513, 20551237		dabigatran		Biochemical reaction from dabigatran to dabigatran glucuronide. This interaction can be catalyzed by UGT2B15, UGT2B7 or UGT1A9.
+dabigatran etexilate	dabigatran	Biochemical Reaction	CES1, CES2	Gene	enterocyte, hepatocyte	30658513, 24212379		dabigatran, dabigatran etexilate		Biochemical reaction from dabigatran etexilate to dabigatran. This interaction can be catalyzed by CES2 or CES1.
+dabigatran	thrombin	Inhibition			hepatocyte, null	30658513		dabigatran		dabigatran inhibits thrombin.
+idarucizumab	dabigatran	Inhibition			null, hepatocyte	30658513		dabigatran, idarucizumab		idarucizumab inhibits dabigatran.
+F2	thrombin	Leads To			hepatocyte, null	30658513	F2			F2 leads to thrombin.

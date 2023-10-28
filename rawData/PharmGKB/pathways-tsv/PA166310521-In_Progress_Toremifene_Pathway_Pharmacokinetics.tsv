@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+n-desmethyltoremifene	4-hydroxy-n-desmethyltoremifene	Biochemical Reaction	CYP2C9, CYP2D6	Gene	hepatocyte	26423799, 22915089				Biochemical reaction from n-desmethyltoremifene to 4-hydroxy-n-desmethyltoremifene. This interaction can be catalyzed by CYP2D6 or CYP2C9.
+toremifene	4-hydroxytoremifene	Biochemical Reaction	CYP2B6, CYP2C19, CYP2C9, CYP2D6	Gene	hepatocyte	26423799, 22915089		toremifene		Biochemical reaction from toremifene to 4-hydroxytoremifene. This interaction can be catalyzed by CYP2C19, CYP2D6, CYP2B6 or CYP2C9.
+toremifene	n-desmethyltoremifene	Biochemical Reaction	CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	26423799, 22915089		toremifene		Biochemical reaction from toremifene to n-desmethyltoremifene. This interaction can be catalyzed by CYP3A5, CYP3A4 or CYP2D6.
+4-hydroxytoremifene	4-hydroxy-n-desmethyltoremifene	Biochemical Reaction	CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	26423799, 22915089				Biochemical reaction from 4-hydroxytoremifene to 4-hydroxy-n-desmethyltoremifene. This interaction can be catalyzed by CYP3A5, CYP3A4 or CYP2D6.

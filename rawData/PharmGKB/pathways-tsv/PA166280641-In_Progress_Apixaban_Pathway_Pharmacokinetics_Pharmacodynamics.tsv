@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+o-demethyl apixaban	o-demethyl apixaban sulfate	Biochemical Reaction	SULT1A1	Gene	hepatocyte	36186466, 18832478				Biochemical reaction from o-demethyl apixaban to o-demethyl apixaban sulfate. This interaction is catalyzed by SULT1A1.
+apixaban	o-demethyl apixaban	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	36186466, 29457840, 18832478		apixaban		Biochemical reaction from apixaban to o-demethyl apixaban. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+apixaban	F10	Inhibition			null	29457840, 18832478	F10	apixaban		apixaban inhibits F10.
+apixaban	apixaban	Transport	ABCB1, ABCG2	Gene	hepatocyte, null	36186466, 29767545, 29457840		apixaban		Transport from apixaban to apixaban. This interaction can be catalyzed by ABCB1 or ABCG2.

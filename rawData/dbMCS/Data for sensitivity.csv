@@ -1,0 +1,2556 @@
+Gene,Entrez_id,cDNA,Drug,Drug_id,Association,Evidence level
+ABCB1,5243,c.2677T>A,Paclitaxel,DB01229,Sensitive,2
+ABCB1,5243,c.3435T>C,Cisplatin,DB00515,Sensitive,2
+ABCB1,5243,c.3435T>C,Carboplatin,DB00958,Sensitive,3
+ABL1,25,c.944C>T,Axitinib,DB06626,Sensitive,3
+ABL1,25,c.943A>G,Bosutinib,DB06616,Sensitive,1
+ABL1,25,c.949T>G,Bosutinib,DB06616,Sensitive,1
+ABL1,25,c.949T>A,Bosutinib,DB06616,Sensitive,1
+ABL1,25,c.950T>G,Bosutinib,DB06616,Sensitive,1
+ABL1,25,c.757T>C,Bosutinib,DB06616,Sensitive,1
+ABL1,25,c.1075T>G,Bosutinib,DB06616,Sensitive,1
+ABL1,25,c.1076T>G,Bosutinib,DB06616,Sensitive,1
+ABL1,25,c.1075T>A,Bosutinib,DB06616,Sensitive,1
+ABL1,25,c.895G>C,Cabozantinib,DB08875,Sensitive,3
+ABL1,25,c.895G>C,Crizotinib,DB08865,Sensitive,3
+ABL1,25,c.1076T>G,Dasatinib,DB01254,Sensitive,1
+ABL1,25,c.1075T>A,Dasatinib,DB01254,Sensitive,1
+ABL1,25,c.757T>C,Dasatinib,DB01254,Sensitive,1
+ABL1,25,c.764A>T,Dasatinib,DB01254,Sensitive,1
+ABL1,25,c.895G>C,Foretinib,DB12307,Sensitive,3
+ABL1,25,c.943A>G,Nilotinib,DB04868,Sensitive,1
+ABL1,25,c.949T>C,Nilotinib,DB04868,Sensitive,1
+ABL1,25,c.949T>G,Nilotinib,DB04868,Sensitive,1
+ABL1,25,c.949T>A,Nilotinib,DB04868,Sensitive,1
+ABL1,25,c.950T>G,Nilotinib,DB04868,Sensitive,1
+ABL1,25,c.895G>C,Nilotinib,DB04868,Sensitive,1
+ABL1,25,c.944C>T,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.895G>C,Vandetanib,DB05294,Sensitive,3
+ABL1,25,c.949T>C,Ponatinib,DB08901,Sensitive,2
+ABL1,25,c.827A>G,Nilotinib,DB04868,Sensitive,3
+ABL1,25,c.1052T>C,Nilotinib,DB04868,Sensitive,3
+ABL1,25,c.1457T>C,Nilotinib,DB04868,Sensitive,2
+ABL1,25,c.1192G>C,Nilotinib,DB04868,Sensitive,3
+ABL1,25,c.1051C>T,Dasatinib,DB01254,Sensitive,3
+ABL1,25,c.1018_1019delGGinsCT,Imatinib,DB00619,Sensitive,3
+ABL1,25,c.1018_1019delGGinsCT,Dasatinib,DB01254,Sensitive,3
+ABL1,25,c.1051C>T,Imatinib,DB00619,Sensitive,3
+ABL1,25,c.943A>G,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.949T>C,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.949T>G,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.949T>A,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.950T>G,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.1075T>G,Dasatinib,DB01254,Sensitive,1
+ABL1,25,c.1075T>G,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.1076T>G,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.1075T>A,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.757T>C,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.763G>A,Dasatinib,DB01254,Sensitive,1
+ABL1,25,c.763G>A,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.764A>T,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.895G>C,Ponatinib,DB08901,Sensitive,1
+ABL1,25,c.994C>T,Dasatinib,DB01254,Sensitive,3
+ABL1,25,c.994C>T,Imatinib,DB00619,Sensitive,3
+ABL1,25,c.961_962delGGinsCT,Dasatinib,DB01254,Sensitive,3
+ABL1,25,c.961_962delGGinsCT,Imatinib,DB00619,Sensitive,3
+ABL1,25,c.763G>A,Bosutinib,DB06616,Sensitive,1
+ABL1,25,c.764A>T,Bosutinib,DB06616,Sensitive,1
+ABL1,25,c.949T>C,Bosutinib,DB06616,Sensitive,1
+AKT1,207,c.712C>T,Everolimus,DB01590,Sensitive,2
+AKT1,207,c.49G>A,Temsirolimus,DB06287,Sensitive,2
+AKT1,207,c.49G>A,Uprosertib,DB11969,Sensitive,3
+AKT1,207,c.49G>A,Capivasertib,DB12218,Sensitive,2
+AKT1,207,c.49G>A,allosteric AKT inhibitors,.,Sensitive,3
+AKT1,207,c.49G>A,non-allosteric AKT inhibitors,.,Sensitive,2
+AKT1,207,c.49G>A,allosteric AKT inhibitors,.,Sensitive,2
+AKT1,207,c.49G>A,AKT inhibitors,.,Sensitive,3
+AKT1,207,c.49G>A,PI3K pathway inhibitors,.,Sensitive,2
+AKT1,207,c.202_231,Capivasertib,DB12218,Sensitive,3
+AKT1,207,c.49G>A,ARQ 751,.,Sensitive,3
+AKT1,207,c.49G>A,BAY1125976,.,Sensitive,3
+AKT1,207,c.49G>A,Ipatasertib,DB11743,Sensitive,2
+AKT1,207,c.49G>A,Miransertib,DB14982,Sensitive,2
+AKT1,207,c.49G>A,Miransertib,DB14982,Sensitive,3
+AKT1,207,c.235C>A,Capivasertib,DB12218,Sensitive,2
+ALK,238,c.4223A>T,Brigatinib,DB12267,Sensitive,2
+ALK,238,c.3586C>A,Brigatinib,DB12267,Sensitive,2
+ALK,238,c.3586C>A,Ceritinib,DB09063,Sensitive,1
+ALK,238,c.3617C>A,Ceritinib,DB09063,Sensitive,1
+ALK,238,c.3806G>C,Ceritinib,DB09063,Sensitive,1
+ALK,238,c.3512T>C,Ceritinib,DB09063,Sensitive,1
+ALK,238,c.2567T>C,Crizotinib,DB08865,Sensitive,3
+ALK,238,c.1043C>A,Crizotinib,DB08865,Sensitive,3
+ALK,238,c.3592C>T,Crizotinib,DB08865,Sensitive,2
+ALK,238,c.3824G>A,Crizotinib,DB08865,Sensitive,3
+ALK,238,c.3383G>C,Crizotinib,DB08865,Sensitive,3
+ALK,238,c.3512T>A,Crizotinib,DB08865,Sensitive,3
+ALK,238,c.3575G>C,Crizotinib,DB08865,Sensitive,3
+ALK,238,c.3734T>G,Crizotinib,DB08865,Sensitive,3
+ALK,238,c.3467G>A,Lorlatinib,DB12130,Sensitive,3
+ALK,238,c.3522C>A,Alectinib,DB11363,Sensitive,3
+ALK,238,c.3586C>A,Alectinib,DB11363,Sensitive,3
+ALK,238,c.3522C>A,TAE684,.,Sensitive,3
+ALK,238,c.3824G>A,Crizotinib,DB08865,Sensitive,2
+ALK,238,c.3467G>A,Lorlatinib,DB12130,Sensitive,2
+ALK,238,c.3512T>C,Ceritinib,DB09063,Sensitive,2
+ALK,238,c.3512T>C,TAE684,.,Sensitive,3
+ALK,238,c.3538G>C,Ceritinib,DB09063,Sensitive,3
+ALK,238,c.3538G>C,TAE684,.,Sensitive,3
+ALK,238,c.3538G>C,Brigatinib,DB12267,Sensitive,3
+ALK,238,c.3522C>A,AZD3463,.,Sensitive,3
+ALK,238,c.3522C>A,Lorlatinib,DB12130,Sensitive,3
+ALK,238,c.3734T>G,Lorlatinib,DB12130,Sensitive,3
+ALK,238,c.3824G>A,Lorlatinib,DB12130,Sensitive,3
+ALK,238,c.3734T>G,Ceritinib,DB09063,Sensitive,2
+ALK,238,c.3586C>A,Ceritinib,DB09063,Sensitive,3
+ALK,238,c.3806G>C,Ceritinib,DB09063,Sensitive,3
+ALK,238,c.3617C>A,Ceritinib,DB09063,Sensitive,3
+ALK,238,c.3453_3454,Tanespimycin,DB05134,Sensitive,3
+ALK,238,c.3604G>A,Tanespimycin,DB05134,Sensitive,3
+ALK,238,c.3806G>C,Brigatinib,DB12267,Sensitive,3
+ALK,238,c.3734T>G,Brigatinib,DB12267,Sensitive,3
+ALK,238,c.3383G>C,Brigatinib,DB12267,Sensitive,3
+ALK,238,c.3271G>A,Alectinib + Doxorubicin,DB11363 + DB00997,Sensitive,3
+ALK,238,c.3271G>A,AZD3463 + Doxorubicin,. + DB00997,Sensitive,3
+ALK,238,c.3271G>A,AZD3463,.,Sensitive,3
+ALK,238,c.3271G>A,Alectinib,DB11363,Sensitive,3
+ALK,238,c.3467G>A,Alectinib,DB11363,Sensitive,3
+ALK,238,c.3824G>A,Crizotinib + Cyclophosphamide + Topotecan,DB08865 + DB00531 + DB01030,Sensitive,3
+ALK,238,c.3824G>A,CEP-28122,.,Sensitive,3
+ALK,238,c.3824G>A,Ceritinib,DB09063,Sensitive,3
+ALK,238,c.3824G>A,Brigatinib,DB12267,Sensitive,3
+ALK,238,c.3520T>G,Brigatinib,DB12267,Sensitive,3
+ALK,238,c.3512T>A,Brigatinib,DB12267,Sensitive,3
+ALK,238,c.3520T>C,Lorlatinib,DB12130,Sensitive,3
+ALK,238,c.3520T>C,Brigatinib,DB12267,Sensitive,3
+ALK,238,c.3520T>C,CEP-28122,.,Sensitive,3
+ALK,238,c.3520T>C,AZD3463,.,Sensitive,3
+ALK,238,c.3575G>C,Brigatinib,DB12267,Sensitive,3
+ALK,238,c.3833A>C,Brigatinib,DB12267,Sensitive,3
+ALK,238,c.3733T>G,Entrectinib,DB11986,Sensitive,2
+APC,324,c.2432C>A,G007-LK,.,Sensitive,3
+APC,324,c.2432C>A,IWR-1,.,Sensitive,3
+APC,324,c.2432C>A,XAV939,.,Sensitive,3
+APC,324,c.4216C>T,NVP-TNKS656,.,Sensitive,3
+APC,324,c.4216C>T,XAV939,.,Sensitive,3
+APC,324,c.4216C>T,G007-LK,.,Sensitive,3
+APC,324,c.1658G>A,IWR-1,.,Sensitive,3
+APC,324,c.1658G>A,G007-LK,.,Sensitive,3
+APC,324,c.4012C>T,TASIN-1,.,Sensitive,3
+APC,324,c.4012C>T,JW67,.,Sensitive,3
+APC,324,c.4012C>T,JW74,.,Sensitive,3
+APC,324,c.3925G>T,TASIN-1,.,Sensitive,3
+APC,324,c.4463T>A,TASIN-1,.,Sensitive,3
+APC,324,c.646C>T,IWR-1,.,Sensitive,3
+APC,324,c.646C>T,G007-LK,.,Sensitive,3
+APC,324,c.4246_4248delGGCinsTGA,TASIN-1,.,Sensitive,3
+AR,367,c.2629T>C + c.2632A>G,Enzalutamide,DB08899,Sensitive,3
+ARAF,369,c.641C>G,Sorafenib,DB00398,Sensitive,2
+ARAF,369,c.641C>G,Trametinib,DB08911,Sensitive,3
+ARID1A,8289,c.3524delC,Dasatinib,DB01254,Sensitive,3
+ARID1A,8289,c.1366C>T,Talazoparib,DB11760,Sensitive,3
+ARID1A,8289,c.1366C>T,Dasatinib,DB01254,Sensitive,3
+ARID1A,8289,c.1366C>T,Olaparib,DB09074,Sensitive,3
+ARID1A,8289,c.1366C>T,VE-821,.,Sensitive,3
+ARID1A,8289,c.1366C>T,Berzosertib,DB11794,Sensitive,3
+ARID1A,8289,c.1366C>T,Rucaparib,DB12332,Sensitive,3
+ARID1A,8289,c.3442C>T,JQ1,.,Sensitive,3
+ATM,472,c.6860_6861insGT,Olaparib,DB09074,Sensitive,2
+ATM,472,c.8623A>C,Olaparib,DB09074,Sensitive,2
+ATM,472,c.1810C>T,Olaparib,DB09074,Sensitive,3
+ATM,472,c.4346T>A,Olaparib,DB09074,Sensitive,2
+ATM,472,c.6112C>T,Olaparib,DB09074,Sensitive,3
+ATM,472,c.1555G>A,Olaparib,DB09074,Sensitive,3
+ATM,472,c.175G>T,Olaparib,DB09074,Sensitive,3
+ATM,472,c.1229T>C,Temozolomide + Veliparib,DB00853 + DB07232,Sensitive,2
+ATM,472,c.8246A>T,Olaparib,DB09074,Sensitive,3
+ATM,472,c.2471C>T,Olaparib,DB09074,Sensitive,3
+ATM,472,c.5620C>T,Olaparib,DB09074,Sensitive,3
+ATM,472,c.998C>T,Temozolomide + Veliparib,DB00853 + DB07232,Sensitive,2
+ATM,472,c.2879C>A,Olaparib,DB09074,Sensitive,3
+ATM,472,c.8174A>G,Temozolomide + Veliparib,DB00853 + DB07232,Sensitive,2
+ATM,472,c.4365T>G,Olaparib,DB09074,Sensitive,3
+ATM,472,c.5521G>A,Olaparib,DB09074,Sensitive,3
+BRAF,673,c.1802A>G,Trametinib,DB08911,Sensitive,2
+BRAF,673,c.1790T>G,Trametinib,DB08911,Sensitive,2
+BRAF,673,c.1798_1799delGTinsAG,Trametinib,DB08911,Sensitive,2
+BRAF,673,c.1799T>A,Dabrafenib,DB08912,Sensitive,2
+BRAF,673,c.1799T>A,Dabrafenib,DB08912,Sensitive,1
+BRAF,673,c.1798_1799delGTinsAG,Dabrafenib,DB08912,Sensitive,2
+BRAF,673,c.1799T>A,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,2
+BRAF,673,c.1799T>A,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,1
+BRAF,673,c.1798_1799delGTinsAA,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,1
+BRAF,673,c.1397G>T,Dasatinib,DB01254,Sensitive,3
+BRAF,673,c.1415A>G,Dasatinib,DB01254,Sensitive,2
+BRAF,673,c.1799T>A,Panitumumab + Dabrafenib + Trametinib,DB01269 + DB08912 + DB08911,Sensitive,2
+BRAF,673,c.1799T>A,PLX4720,DB06999,Sensitive,3
+BRAF,673,c.1799T>A,Selumetinib,DB11689,Sensitive,2
+BRAF,673,c.1781A>G,Sorafenib,DB00398,Sensitive,3
+BRAF,673,c.1406G>A,Sorafenib,DB00398,Sensitive,3
+BRAF,673,c.1799T>A,Trametinib,DB08911,Sensitive,1
+BRAF,673,c.1798_1799delGTinsAA,Trametinib,DB08911,Sensitive,1
+BRAF,673,c.1799_1800delTGinsAC,Vemurafenib,DB08881,Sensitive,1
+BRAF,673,c.1798_1799delGTinsAA,Vemurafenib,DB08881,Sensitive,1
+BRAF,673,c.1798G>A,Vemurafenib,DB08881,Sensitive,1
+BRAF,673,c.1799T>G,Vemurafenib,DB08881,Sensitive,1
+BRAF,673,c.1798_1799delGTinsAG,Vemurafenib,DB08881,Sensitive,1
+BRAF,673,c.1799T>A,Vemurafenib,DB08881,Sensitive,2
+BRAF,673,c.1799T>A,Vemurafenib,DB08881,Sensitive,1
+BRAF,673,c.1799T>A,Vemurafenib + Cobimetinib,DB08881 + DB05239,Sensitive,1
+BRAF,673,c.1798_1799delGTinsAA,Vemurafenib + Cobimetinib,DB08881 + DB05239,Sensitive,1
+BRAF,673,c.1799T>A + c.1798G>A,Dabrafenib,DB08912,Sensitive,2
+BRAF,673,c.1799T>A,Sorafenib + Panitumumab,DB00398 + DB01269,Sensitive,3
+BRAF,673,c.1798_1799,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,2
+BRAF,673,c.1799_1800delTGinsAC,Dabrafenib,DB08912,Sensitive,2
+BRAF,673,c.1799T>A,PLX4720 + Pictilisib,DB06999 + DB11663,Sensitive,3
+BRAF,673,c.1799T>A,PLX4720 + Nutlin-3,DB06999 + .,Sensitive,3
+BRAF,673,c.1799T>A,Vemurafenib + Capecitabine + Bevacizumab,DB08881 + DB01101 + DB00112,Sensitive,3
+BRAF,673,c.1799T>A,Vemurafenib,DB08881,Sensitive,3
+BRAF,673,c.1790T>G,Vemurafenib,DB08881,Sensitive,2
+BRAF,673,c.1799T>A,Pictilisib,DB11663,Sensitive,2
+BRAF,673,c.1798_1799,RO4987655,DB12933,Sensitive,2
+BRAF,673,c.1799T>A,Selumetinib + Dactolisib,DB11689 + DB11651,Sensitive,3
+BRAF,673,c.1799T>A,Cobimetinib,DB05239,Sensitive,3
+BRAF,673,c.1453_1470del18,LY3009120,.,Sensitive,3
+BRAF,673,c.1798_1799delGTinsAA,Vemurafenib,DB08881,Sensitive,2
+BRAF,673,c.1798_1799,Dabrafenib,DB08912,Sensitive,2
+BRAF,673,c.1799T>A,Vemurafenib + Gefitinib + Cetuximab,DB08881 + DB00317 + DB00002,Sensitive,3
+BRAF,673,c.1798_1799,Trametinib + Dabrafenib,DB08911 + DB08912,Sensitive,1
+BRAF,673,c.1799T>A,Vemurafenib + Cobimetinib,DB08881 + DB05239,Sensitive,2
+BRAF,673,c.1798_1799,Vemurafenib + Cobimetinib,DB08881 + DB05239,Sensitive,2
+BRAF,673,c.1799T>A,Dactolisib + GDC-0879,DB11651 + .,Sensitive,3
+BRAF,673,c.1799T>A,Dabrafenib + Trametinib + Vemurafenib,DB08911 + DB08912 + DB08881,Sensitive,2
+BRAF,673,c.1781A>C,MEK inhibitors,.,Sensitive,3
+BRAF,673,c.1781A>C,Sorafenib,DB00398,Sensitive,3
+BRAF,673,c.1781A>T,Sorafenib,DB00398,Sensitive,3
+BRAF,673,c.1781A>T,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1448_1449delAAinsTG,MEK inhibitors,.,Sensitive,3
+BRAF,673,c.1448_1449delAAinsTG,Sorafenib,DB00398,Sensitive,3
+BRAF,673,c.1790T>G,Vemurafenib,DB08881,Sensitive,3
+BRAF,673,c.1789_1790delCTinsTC,Vemurafenib,DB08881,Sensitive,3
+BRAF,673,c.1789_1790delCTinsTC,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1789_1790delCTinsTC,TAK-733,DB12241,Sensitive,2
+BRAF,673,c.1790T>A,Vemurafenib,DB08881,Sensitive,3
+BRAF,673,c.1790T>A,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1801A>G,Vemurafenib,DB08881,Sensitive,3
+BRAF,673,c.1801A>G,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1789C>G,Trametinib,DB08911,Sensitive,2
+BRAF,673,c.1798_1799,Vemurafenib,DB08881,Sensitive,2
+BRAF,673,c.1799T>A,Vemurafenib + Panitumumab,DB08881 + DB01269,Sensitive,2
+BRAF,673,c.1786G>T,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,3
+BRAF,673,c.1798_1799,Trametinib,DB08911,Sensitive,2
+BRAF,673,c.1799T>A,Vemurafenib + Irinotecan + Cetuximab,DB08881 + DB00762 + DB00002,Sensitive,2
+BRAF,673,c.1799T>A,Trametinib,DB08911,Sensitive,2
+BRAF,673,c.1798_1799delGTinsAA,Dabrafenib,DB08912,Sensitive,2
+BRAF,673,c.1798_1799delGTinsAA,Trametinib,DB08911,Sensitive,2
+BRAF,673,c.1799T>A,Trametinib + Dabrafenib,DB08911 + DB08912,Sensitive,2
+BRAF,673,c.1798_1799delGTinsAA,Trametinib + Dabrafenib,DB08911 + DB08912,Sensitive,2
+BRAF,673,c.1799_1800delTGinsAC,Vemurafenib,DB08881,Sensitive,3
+BRAF,673,c.1799T>A,Dabrafenib + Trametinib DMSO,DB08912 + DB08911,Sensitive,2
+BRAF,673,c.1799T>A,Vemurafenib + Panitumumab + Irinotecan,DB08881 + DB01269 + DB00762,Sensitive,2
+BRAF,673,c.1799T>A,Vemurafenib + Pertuzumab,DB08881 + DB06366,Sensitive,2
+BRAF,673,c.1798_1799,Encorafenib + Cetuximab,DB11718 + DB00002,Sensitive,2
+BRAF,673,c.1798_1799,Alpelisib + Cetuximab + Encorafenib,DB12015 + DB00002 + DB11718,Sensitive,2
+BRAF,673,c.1798_1799delGTinsAA,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,2
+BRAF,673,c.1798_1799,Trametinib + Dabrafenib,DB08911 + DB08912,Sensitive,2
+BRAF,673,c.1798_1799,Binimetinib + Encorafenib,DB11967 + DB11718,Sensitive,1
+BRAF,673,c.1798_1799,Cetuximab + Irinotecan + Vemurafenib,DB00002 + DB00762 + DB08881,Sensitive,2
+BRAF,673,c.1799_1800delTGinsAC,BRAF inhibitors,.,Sensitive,2
+BRAF,673,c.1799_1800delTGinsAC,Mitogen-Activated Protein Kinase Kinase inhibitor + BRAF inhibitor,.,Sensitive,2
+BRAF,673,c.1799_1801delTGA,Mitogen-Activated Protein Kinase Kinase inhibitor + BRAF inhibitor,.,Sensitive,2
+BRAF,673,c.1405_1407,Mitogen-Activated Protein Kinase Kinase inhibitor + BRAF inhibitor,.,Sensitive,2
+BRAF,673,c.1799T>A,BRAF inhibitors,.,Sensitive,3
+BRAF,673,c.1799T>A,BRAF inhibitors,.,Sensitive,2
+BRAF,673,c.1406G>C,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,2
+BRAF,673,c.1454T>G,ERK inhibitors,.,Sensitive,2
+BRAF,673,c.1799T>A,ERK inhibitors,.,Sensitive,2
+BRAF,673,c.1798_1799delGTinsAG,BRAF inhibitors,.,Sensitive,2
+BRAF,673,c.1802A>G,MEK inhibitors,.,Sensitive,2
+BRAF,673,c.1790T>G,MEK inhibitors,.,Sensitive,2
+BRAF,673,c.1799_1800delTGinsAC,CCT196969,.,Sensitive,3
+BRAF,673,c.1799_1800delTGinsAC,TAK-632,.,Sensitive,3
+BRAF,673,c.1799_1800delTGinsAC,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,2
+BRAF,673,c.1799_1800delTGinsAC,AZ628,.,Sensitive,3
+BRAF,673,c.1799_1800delTGinsAC,CCT241161,.,Sensitive,3
+BRAF,673,c.1799_1800delTGinsAC,PLX7904,.,Sensitive,3
+BRAF,673,c.1406G>T,Sorafenib,DB00398,Sensitive,2
+BRAF,673,c.1458_1472del15,Cobimetinib,DB05239,Sensitive,2
+BRAF,673,c.1458_1472del15,Cobimetinib,DB05239,Sensitive,3
+BRAF,673,c.1798_1800,Buparlisib + Vemurafenib,DB11666 + DB08881,Sensitive,3
+BRAF,673,c.1798_1800,MK2206 + Vemurafenib,. + DB08881,Sensitive,3
+BRAF,673,c.1798_1800,Cobimetinib + Vemurafenib,DB08881 + DB05239,Sensitive,2
+BRAF,673,c.1798_1800,Vemurafenib,DB08881,Sensitive,2
+BRAF,673,c.1798_1800,Atezolizumab + Vemurafenib,DB11595 + DB08881,Sensitive,2
+BRAF,673,c.1798_1800,Selumetinib + Vemurafenib,DB11689 + DB08881,Sensitive,3
+BRAF,673,c.1798_1800,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,2
+BRAF,673,c.1798_1800,Binimetinib,DB11967,Sensitive,2
+BRAF,673,c.1798_1800,Trametinib + Vemurafenib,DB08911 + DB08881,Sensitive,3
+BRAF,673,c.1798_1800,Cetuximab + Vemurafenib,DB00002 + DB08881,Sensitive,2
+BRAF,673,c.1798_1800,MK2206 + Trametinib,. + DB0891,Sensitive,3
+BRAF,673,c.1798_1800,Atezolizumab + Cobimetinib + Vemurafenib,DB11595 + DB08881 + DB05239,Sensitive,2
+BRAF,673,c.1798_1800,Buparlisib + Trametinib,DB11666 + DB0891,Sensitive,3
+BRAF,673,c.1798_1800,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,1
+BRAF,673,c.1798_1800,Buparlisib + Selumetinib,DB11666 + DB11689,Sensitive,3
+BRAF,673,c.1790T>A,Ulixertinib,DB13930,Sensitive,2
+BRAF,673,c.1789_1790delCTinsTC,Binimetinib,DB11967,Sensitive,3
+BRAF,673,c.1789_1790delCTinsTC,Cobimetinib,DB05239,Sensitive,3
+BRAF,673,c.1789_1790delCTinsTC,Binimetinib + Encorafenib,DB11967 + DB11718,Sensitive,3
+BRAF,673,c.1789_1790delCTinsTC,Dabrafenib,DB08912,Sensitive,3
+BRAF,673,c.1789_1790delCTinsTC,Encorafenib + Trametinib,DB11718 + DB0891,Sensitive,3
+BRAF,673,c.1789_1790delCTinsTC,Encorafenib,DB11718,Sensitive,3
+BRAF,673,c.1789_1790delCTinsTC,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,2
+BRAF,673,c.1789_1790delCTinsTC,LY3009120,.,Sensitive,3
+BRAF,673,c.1741A>G,RMC-4550,.,Sensitive,3
+BRAF,673,c.1801A>G,Trametinib,DB08911,Sensitive,2
+BRAF,673,c.1415A>G,Dasatinib,DB01254,Sensitive,3
+BRAF,673,c.1798_1799delGTinsAA,Pembrolizumab,DB09037,Sensitive,2
+BRAF,673,c.1798_1799delGTinsAA,Omipalisib,DB12703,Sensitive,3
+BRAF,673,c.1798_1799delGTinsAA,Binimetinib + Encorafenib,DB11967 + DB11718,Sensitive,1
+BRAF,673,c.1798_1799delGTinsAA,Nivolumab,DB09035,Sensitive,2
+BRAF,673,c.1457_1471del15,Dabrafenib,DB08912,Sensitive,2
+BRAF,673,c.1457_1471del15,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1457_1471del15,LY3009120,.,Sensitive,3
+BRAF,673,c.1457_1471del15,Trametinib,DB08911,Sensitive,2
+BRAF,673,c.1406G>C,TAE226,.,Sensitive,3
+BRAF,673,c.1406G>C,Dabrafenib,DB08912,Sensitive,3
+BRAF,673,c.1406G>C,Ulixertinib,DB13930,Sensitive,2
+BRAF,673,c.1406G>C,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,3
+BRAF,673,c.1406G>C,Encorafenib + Trametinib,DB11718 + DB0891,Sensitive,3
+BRAF,673,c.1406G>C,PLX8394,DB16038,Sensitive,3
+BRAF,673,c.1406G>C,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1460_1474del15,LY3009120,.,Sensitive,3
+BRAF,673,c.1460_1474del15,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.739T>C,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.739T>C,Dabrafenib,DB08912,Sensitive,3
+BRAF,673,c.1397G>A,AZ628,.,Sensitive,3
+BRAF,673,c.1397G>A,TAK-632,.,Sensitive,3
+BRAF,673,c.1454T>G,Ulixertinib,DB13930,Sensitive,2
+BRAF,673,c.1799T>A,Panitumumab + Vemurafenib,DB01269 + DB08881,Sensitive,2
+BRAF,673,c.1799T>A,Lifirafenib,DB14773,Sensitive,3
+BRAF,673,c.1799T>A,Everolimus + PLX4720,DB01590 + DB06999,Sensitive,3
+BRAF,673,c.1799T>A,BI-847325,.,Sensitive,3
+BRAF,673,c.1799T>A,INU-152,.,Sensitive,3
+BRAF,673,c.1799T>A,Erlotinib + Vemurafenib,DB00530 + DB05239,Sensitive,3
+BRAF,673,c.1799T>A,Cetuximab + PLX4720,DB00002 + DB06999,Sensitive,3
+BRAF,673,c.1799T>A,SCH772984,.,Sensitive,3
+BRAF,673,c.1799T>A,Dabrafenib + Panitumumab,DB08912 + DB01269,Sensitive,2
+BRAF,673,c.1799T>A,SBI-0640756,.,Sensitive,3
+BRAF,673,c.1799T>A,Dasatinib + Trametinib,DB01254 + DB0891,Sensitive,3
+BRAF,673,c.1799T>A,TW-37 + Vemurafenib,. + DB08881,Sensitive,3
+BRAF,673,c.1799T>A,E6201,.,Sensitive,3
+BRAF,673,c.1799T>A,CI-1040,DB12429,Sensitive,3
+BRAF,673,c.1799T>A,PAC-1 + Vemurafenib,DB13048 + DB08881,Sensitive,3
+BRAF,673,c.1799T>A,Cetuximab + Selumetinib,DB00002 + DB11689,Sensitive,3
+BRAF,673,c.1799T>A,Ulixertinib,DB13930,Sensitive,2
+BRAF,673,c.1799T>A,Pimasertib,DB14904,Sensitive,3
+BRAF,673,c.1799T>A,Imatinib + PLX4720,DB00619 + DB06999,Sensitive,3
+BRAF,673,c.1799T>A,Binimetinib,DB11967,Sensitive,2
+BRAF,673,c.1799T>A,Gefitinib + PLX4720,DB00317 + DB06999,Sensitive,3
+BRAF,673,c.1799T>A,CCT196969,.,Sensitive,3
+BRAF,673,c.1799T>A,Omipalisib,DB12703,Sensitive,3
+BRAF,673,c.1799T>A,Dabrafenib + SCH772984,DB08912 + .,Sensitive,3
+BRAF,673,c.1799T>A,Cetuximab + Dabrafenib + SCH772984,DB00002 + DB08912 + .,Sensitive,3
+BRAF,673,c.1799T>A,Afatinib + BI-882370,DB08916 + .,Sensitive,3
+BRAF,673,c.1799T>A,Binimetinib + Encorafenib,DB11967 + DB11718,Sensitive,1
+BRAF,673,c.1799T>A,Cetuximab + Vemurafenib,DB00002 + DB08881,Sensitive,3
+BRAF,673,c.1799T>A,Navitoclax + PLX4720,DB12340 + DB06999,Sensitive,3
+BRAF,673,c.1799T>A,PD-0325901,DB07101,Sensitive,3
+BRAF,673,c.1799T>A,Ganetespib + TAK-733,DB12047 + DB12241,Sensitive,3
+BRAF,673,c.1799T>A,SBI-755199,.,Sensitive,3
+BRAF,673,c.1799T>A,Navitoclax + Vemurafenib,DB12340 + DB08881,Sensitive,3
+BRAF,673,c.1799T>A,Dasatinib,DB01254,Sensitive,3
+BRAF,673,c.1799T>A,Everolimus + Selumetinib,DB01590 + DB11689,Sensitive,3
+BRAF,673,c.1799T>A,PLX8394,DB16038,Sensitive,3
+BRAF,673,c.1799T>A,Pimasertib + Regorafenib,DB14904 + Regorafenib,Sensitive,3
+BRAF,673,c.1799T>A,Selumetinib,DB11689,Sensitive,3
+BRAF,673,c.1799T>A,GDC0879,.,Sensitive,3
+BRAF,673,c.1799T>A,BI-882370 + Cetuximab,. + DB00002,Sensitive,3
+BRAF,673,c.1799T>A,RO-5126766 free base,DB15254,Sensitive,3
+BRAF,673,c.1799T>A,Trametinib + TW-37,DB08911 + .,Sensitive,3
+BRAF,673,c.1799T>A,Cediranib + PLX4720,DB04849 + DB06999,Sensitive,3
+BRAF,673,c.1799T>A,Pimasertib + Sorafenib,DB14904 + DB00398,Sensitive,3
+BRAF,673,c.1799T>A,SB590885,.,Sensitive,3
+BRAF,673,c.1799T>A,Agerafenib,DB15068,Sensitive,3
+BRAF,673,c.1799T>A,Cobimetinib + Vemurafenib,DB08881 + DB05239,Sensitive,2
+BRAF,673,c.1799T>A,Dasatinib + SCH772984,DB01254 + .,Sensitive,3
+BRAF,673,c.1799T>A,Alpelisib + Cetuximab + Encorafenib,DB12015 + DB00002 + DB11718,Sensitive,3
+BRAF,673,c.1799T>A,Alpelisib + PLX4720,DB12015 + DB06999,Sensitive,3
+BRAF,673,c.1799T>A,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,3
+BRAF,673,c.1799T>A,Trametinib + Vemurafenib,DB08911 + DB08881,Sensitive,2
+BRAF,673,c.1799T>A,SBI-0640726,.,Sensitive,3
+BRAF,673,c.1799T>A,Cobimetinib,DB05239,Sensitive,2
+BRAF,673,c.1799T>A,Palbociclib + PD-0325901,DB09073 + DB07101,Sensitive,3
+BRAF,673,c.1799T>A,Everolimus + Pimasertib,DB01590 + DB14904,Sensitive,3
+BRAF,673,c.1799T>A,EBI-907,.,Sensitive,3
+BRAF,673,c.1799T>A,PAC-1 + Trametinib + Vemurafenib,DB13048 + DB08911 + DB08881,Sensitive,3
+BRAF,673,c.1799T>A,PLX4720 + Selumetinib,DB06999 + DB11689,Sensitive,3
+BRAF,673,c.1799T>A,Refametinib,DB06309,Sensitive,3
+BRAF,673,c.1799T>A,RO4987655,DB12933,Sensitive,3
+BRAF,673,c.1799T>A,DETD-35,.,Sensitive,3
+BRAF,673,c.1799T>A,Lapatinib + Panobinostat,DB01259 + DB06603,Sensitive,3
+BRAF,673,c.1799T>A,Cobimetinib + Vemurafenib,DB08881 + DB05239,Sensitive,3
+BRAF,673,c.1799T>A,DETD-35 + Vemurafenib,. + DB08881,Sensitive,3
+BRAF,673,c.1799T>A,PLX4720 + Tivozanib,DB11800 + DB11800,Sensitive,3
+BRAF,673,c.1799T>A,Navitoclax + Trametinib,DB12340 + DB08911,Sensitive,3
+BRAF,673,c.1799T>A,PF-00477736 + PF3644022,DB12611 + .,Sensitive,3
+BRAF,673,c.1799T>A,TAK-632,.,Sensitive,3
+BRAF,673,c.1799T>A,Dasatinib + Selumetinib,DB01254 + DB11689,Sensitive,3
+BRAF,673,c.1799T>A,Saracatinib,DB11805,Sensitive,3
+BRAF,673,c.1799T>A,Cetuximab + SCH772984,DB00002 + .,Sensitive,3
+BRAF,673,c.1799T>A,PLX7904,.,Sensitive,3
+BRAF,673,c.1799T>A,Regorafenib,DB08896,Sensitive,3
+BRAF,673,c.1799T>A,BI-69A11,.,Sensitive,3
+BRAF,673,c.1799T>A,Cetuximab + Dabrafenib,DB00002 + DB08912,Sensitive,3
+BRAF,673,c.1799T>A,Lapatinib + Vemurafenib,DB01259 + DB08881,Sensitive,3
+BRAF,673,c.1799T>A,CLM3,.,Sensitive,3
+BRAF,673,c.1799T>A,Sorafenib,DB00398,Sensitive,3
+BRAF,673,c.1799T>A,RAF-265,DB05984,Sensitive,2
+BRAF,673,c.1799T>A,RAF-265,DB05984,Sensitive,3
+BRAF,673,c.1799T>A,RAF709,.,Sensitive,3
+BRAF,673,c.1799T>A,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1799T>A,CCT241161,.,Sensitive,3
+BRAF,673,c.1799T>A,BGB-283 + Cetuximab,DB14773 + DB00002,Sensitive,3
+BRAF,673,c.1799T>A,Encorafenib + Ribociclib,DB11718 + DB11730,Sensitive,2
+BRAF,673,c.1799T>A,Cetuximab + Sorafenib,DB00002 + DB00398,Sensitive,2
+BRAF,673,c.1799T>A,Cediranib + PLX4720 + Selumetinib,DB04849 + DB06999 + DB11689,Sensitive,3
+BRAF,673,c.1799T>A,Erlotinib + PLX4720,DB00530 + DB06999,Sensitive,3
+BRAF,673,c.1799T>A,DEL-22379,.,Sensitive,3
+BRAF,673,c.1799T>A,Ganetespib,DB12047,Sensitive,3
+BRAF,673,c.1799T>A,BI-882370 + Trametinib,. + DB08911,Sensitive,3
+BRAF,673,c.1799T>A,Dabrafenib + Omipalisib,DB08912 + DB12703,Sensitive,3
+BRAF,673,c.1799T>A,LSN3074753,.,Sensitive,3
+BRAF,673,c.1799T>A,Binimetinib + Cetuximab + Encorafenib,DB11967 + DB00002 + DB11718,Sensitive,2
+BRAF,673,c.1799T>A,BI2536,.,Sensitive,3
+BRAF,673,c.1799T>A,Ulixertinib,DB13930,Sensitive,3
+BRAF,673,c.1799T>A,DT01 + Fluorouracil + Oxaliplatin,. + DB00544 + DB00526,Sensitive,3
+BRAF,673,c.1799T>A,PLX4720 + Vorinostat,DB06999 + DB02546,Sensitive,3
+BRAF,673,c.1799T>A,Omipalisib + Trametinib,DB12703 + DB08911,Sensitive,3
+BRAF,673,c.1799T>A,S3I-201,.,Sensitive,3
+BRAF,673,c.1799T>A,Cetuximab + Dabrafenib + Trametinib,DB00002 + DB08912 + DB08911,Sensitive,3
+BRAF,673,c.1799T>A,Gefitinib + Vemurafenib,DB00317 + DB08881,Sensitive,3
+BRAF,673,c.1799T>A,AZ628,.,Sensitive,3
+BRAF,673,c.1799T>A,LY3009120,.,Sensitive,3
+BRAF,673,c.1799T>A,Dabrafenib + Panitumumab + Trametinib,DB08912 + DB01269 + DB08911,Sensitive,2
+BRAF,673,c.1799T>A,Doxorubicin + PLX4720,DB00997 + DB06999,Sensitive,3
+BRAF,673,c.1799T>A,BI2536 + PLX4720,. + DB06999,Sensitive,3
+BRAF,673,c.1799T>A,Cetuximab + Encorafenib,DB00002 + DB11718,Sensitive,3
+BRAF,673,c.1799T>A,Gedatolisib,DB11896,Sensitive,3
+BRAF,673,c.1799T>A,Dabrafenib,DB08912,Sensitive,3
+BRAF,673,c.1803A>C,LY3009120,.,Sensitive,3
+BRAF,673,c.1397G>T,PLX8394,DB16038,Sensitive,3
+BRAF,673,c.1397G>T,Irinotecan + Panitumumab,DB00762 + DB01269,Sensitive,2
+BRAF,673,c.1397G>T,Cetuximab,DB00002,Sensitive,3
+BRAF,673,c.1397G>T,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1397G>T,RMC-4550,.,Sensitive,3
+BRAF,673,c.1397G>T,TAK-632,.,Sensitive,3
+BRAF,673,c.1397G>T,TAE226,.,Sensitive,3
+BRAF,673,c.1397G>T,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,3
+BRAF,673,c.1786G>C,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1786G>C,RMC-4550,.,Sensitive,3
+BRAF,673,c.1786G>C,Dabrafenib + Trametinib,DB08912 + DB08911,Sensitive,3
+BRAF,673,c.1742A>G,PF-00477736 + PF3644022,DB12611 + .,Sensitive,3
+BRAF,673,c.1781A>G,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1790T>G,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1780G>A,RMC-4550,.,Sensitive,3
+BRAF,673,c.1798_1799delGTinsAG,TAK-632,.,Sensitive,3
+BRAF,673,c.1798_1799delGTinsAG,Vemurafenib,DB08881,Sensitive,3
+BRAF,673,c.1798_1799delGTinsAG,AZ628,.,Sensitive,3
+BRAF,673,c.1798_1799delGTinsAG,PLX7904,.,Sensitive,3
+BRAF,673,c.1453_1470delinsTAT,Trametinib,DB08911,Sensitive,3
+BRAF,673,c.1453_1470delinsTAT,LY3009120,.,Sensitive,3
+BRAF,673,c.1800G>A,Vemurafenib,DB08881,Sensitive,1
+BRAF,673,c.1799T>A,Encorafenib + Binimetinib,DB11718 + DB11967,Sensitive,1
+BRAF,673,c.1798_1799delGTinsAA,Encorafenib + Binimetinib,DB11718 + DB11967,Sensitive,1
+BRAF,673,c.1799T>A,Encorafenib + Binimetinib + Cetuximab,DB11718 + DB11967 + DB00002,Sensitive,1
+BRAF,673,c.1800G>A,Vemurafenib + Panitumumab,DB08881 + DB01269,Sensitive,2
+BRAF,673,c.1800G>A,Panitumumab + Dabrafenib + Trametinib,DB01269 + DB08912 + DB08911,Sensitive,2
+BRAF,673,c.1803A>G,Trametinib,DB08911,Sensitive,2
+BRAF,673,c.1791A>T,Trametinib,DB08911,Sensitive,2
+BRAF,673,c.1392A>T,PLX8394,DB16038,Sensitive,3
+BRAF,673,c.1405G>A,PLX8394,DB16038,Sensitive,3
+BRAF,673,c.1406G>T,PLX8394,DB16038,Sensitive,3
+BRAF,673,c.1803A>G,PLX8394,DB16038,Sensitive,3
+BRAF,673,c.1791A>T,PLX8394,DB16038,Sensitive,3
+BRCA1,672,c.1A>G,Rucaparib,DB12332,Sensitive,2
+BRCA1,672,c.3G>T,Rucaparib,DB12332,Sensitive,2
+BRCA1,672,c.181T>G,Rucaparib,DB12332,Sensitive,2
+BRCA1,672,c.191G>A,Rucaparib,DB12332,Sensitive,2
+BRCA1,672,c.211A>G,Rucaparib,DB12332,Sensitive,2
+BRCA1,672,c.212G>A,Rucaparib,DB12332,Sensitive,2
+BRCA1,672,c.4484G>T,Rucaparib,DB12332,Sensitive,2
+BRCA1,672,c.4675G>A,Rucaparib,DB12332,Sensitive,2
+BRCA1,672,c.5074G>A,Rucaparib,DB12332,Sensitive,2
+BRCA1,672,c.4327C>T,Rucaparib,DB12332,Sensitive,2
+BRCA1,672,c.4399C>T,Rucaparib,DB12332,Sensitive,2
+BRCA1,672,c.5445G>A,Olaparib,DB09074,Sensitive,3
+BRCA2,675,c.2T>G,Rucaparib,DB12332,Sensitive,2
+BRCA2,675,c.3G>T,Rucaparib,DB12332,Sensitive,2
+BRCA2,675,c.475G>A,Rucaparib,DB12332,Sensitive,2
+BRCA2,675,c.631G>C,Rucaparib,DB12332,Sensitive,2
+BRCA2,675,c.631G>A,Rucaparib,DB12332,Sensitive,2
+BRCA2,675,c.7007G>C,Rucaparib,DB12332,Sensitive,2
+BRCA2,675,c.7007G>A,Rucaparib,DB12332,Sensitive,2
+CALR,811,c.1153_1154insTAATT,Ruxolitinib,DB08877,Sensitive,3
+CBL,867,c.1111T>C,Dasatinib,DB01254,Sensitive,3
+CBL,867,c.1150T>C,Dasatinib,DB01254,Sensitive,3
+CBL,867,c.1111T>C,JAK inhibitors,.,Sensitive,3
+CBL,867,c.1150T>C,JAK inhibitors,.,Sensitive,3
+CDK4,1019,c.70C>T,Palbociclib,DB09073,Sensitive,3
+CDKN2A,1029,c.238C>T,Palbociclib,DB09073,Sensitive,3
+CSF1R,1436,c.1711T>G,Imatinib,DB00619,Sensitive,3
+CSF3R,1441,c.1853C>T,Ruxolitinib,DB08877,Sensitive,2
+CSF3R,1441,c.1843A>G,Ruxolitinib,DB08877,Sensitive,3
+CSF3R,1441,c.2221_2223,Dasatinib,DB01254,Sensitive,3
+CSF3R,1441,c.2254_2256,Dasatinib,DB01254,Sensitive,3
+CSF3R,1441,c.2371_2373,Dasatinib,DB01254,Sensitive,3
+CSF3R,1441,c.2311_2310,Dasatinib,DB01254,Sensitive,3
+CSF3R,1441,c.2347_2346,Dasatinib,DB01254,Sensitive,3
+CSF3R,1441,c.2221C>T,Ibrutinib + Ruxolitinib,DB09053 + DB08877,Sensitive,3
+CSF3R,1441,c.2221C>T,Ruxolitinib,DB08877,Sensitive,3
+CSF3R,1441,c.2221C>T,Ibrutinib,DB09053,Sensitive,3
+CSF3R,1441,c.1853C>T,Ibrutinib,DB09053,Sensitive,3
+CSF3R,1441,c.1853C>T,Ibrutinib + Ruxolitinib,DB09053 + DB08877,Sensitive,3
+CSF3R,1441,c.1853C>T,Ruxolitinib,DB08877,Sensitive,3
+CSF3R,1441,c.1919C>A,Ruxolitinib,DB08877,Sensitive,3
+CSF3R,1441,c.1828A>C,Trametinib,DB08911,Sensitive,3
+CSF3R,1441,c.1828A>C,Ruxolitinib,DB08877,Sensitive,3
+CSF3R,1441,c.1829A>G,Ruxolitinib,DB08877,Sensitive,3
+CSF3R,1441,c.1829A>G,Trametinib,DB08911,Sensitive,3
+CTNNB1,1499,c.106C>T,Everolimus + Letrozole,DB01590 + DB01006,Sensitive,2
+CTNNB1,1499,c.110C>G,Everolimus + Letrozole,DB01590 + DB01006,Sensitive,2
+CTNNB1,1499,c.110C>A,Everolimus + Letrozole,DB01590 + DB01006,Sensitive,2
+CTNNB1,1499,c.95A>T,Everolimus + Letrozole,DB01590 + DB01006,Sensitive,2
+CTNNB1,1499,c.133_135delTCT,NTRC 0066-0,.,Sensitive,3
+CTNNB1,1499,c.133_135delTCT,NMS-P715,.,Sensitive,3
+CTNNB1,1499,c.133_135delTCT,BAY1217389,.,Sensitive,3
+CTNNB1,1499,c.133_135delTCT,MPI-0479605,.,Sensitive,3
+CTNNB1,1499,c.133_135delTCT,Mps1-IN-1,.,Sensitive,3
+CTNNB1,1499,c.133_135delTCT,BAY1161909,.,Sensitive,3
+CTNNB1,1499,c.133_135delTCT,Mps-BAY2b,.,Sensitive,3
+CTNNB1,1499,c.121A>G,NMS-P715,.,Sensitive,3
+CTNNB1,1499,c.121A>G,BAY1217389,.,Sensitive,3
+CTNNB1,1499,c.121A>G,BAY1161909,.,Sensitive,3
+CTNNB1,1499,c.121A>G,Mps-BAY2b,.,Sensitive,3
+CTNNB1,1499,c.121A>G,MPI-0479605,.,Sensitive,3
+CTNNB1,1499,c.121A>G,Imatinib,DB00619,Sensitive,2
+CTNNB1,1499,c.121A>G,NTRC 0066-0,.,Sensitive,3
+CTNNB1,1499,c.121A>G,Mps1-IN-1,.,Sensitive,3
+CTNNB1,1499,c.98C>A,NMS-P715,.,Sensitive,3
+CTNNB1,1499,c.98C>A,Mps-BAY2b,.,Sensitive,3
+CTNNB1,1499,c.98C>A,Mps1-IN-1,.,Sensitive,3
+CTNNB1,1499,c.98C>A,NTRC 0066-0,.,Sensitive,3
+CTNNB1,1499,c.98C>A,MPI-0479605,.,Sensitive,3
+CTNNB1,1499,c.98C>A,BAY1217389,.,Sensitive,3
+CTNNB1,1499,c.98C>A,BAY1161909,.,Sensitive,3
+CTNNB1,1499,c.134C>T,BAY1217389,.,Sensitive,3
+CTNNB1,1499,c.134C>T,NTRC 0066-0,.,Sensitive,3
+CTNNB1,1499,c.134C>T,Imatinib,DB00619,Sensitive,2
+CTNNB1,1499,c.134C>T,MPI-0479605,.,Sensitive,3
+CTNNB1,1499,c.134C>T,Mps-BAY2b,.,Sensitive,3
+CTNNB1,1499,c.134C>T,NMS-P715,.,Sensitive,3
+CTNNB1,1499,c.134C>T,Mps1-IN-1,.,Sensitive,3
+DDR2,4921,c.1912A>T,Dasatinib,DB01254,Sensitive,3
+DDR2,4921,c.716T>G,Dasatinib,DB01254,Sensitive,3
+DDR2,4921,c.757G>T,Dasatinib,DB01254,Sensitive,3
+DDR2,4921,c.2321G>T,Dasatinib,DB01254,Sensitive,3
+DDR2,4921,c.187C>G,Dasatinib,DB01254,Sensitive,3
+DDR2,4921,c.1513G>A,Dasatinib,DB01254,Sensitive,3
+DDR2,4921,c.2304T>G,Dasatinib,DB01254,Sensitive,2
+DDR2,4921,c.2304T>G,Erlotinib,DB00530,Sensitive,2
+DDR2,4921,c.2304T>A,Dasatinib + Erlotinib,DB01254 + DB00530,Sensitive,2
+DDR2,4921,c.2304T>G,Dasatinib + Erlotinib,DB01254 + DB00530,Sensitive,2
+DDR2,4921,c.757G>T,Nilotinib + Saracatinib,DB04868 + DB11805,Sensitive,3
+DDR2,4921,c.757G>T,Ponatinib,DB08901,Sensitive,3
+DDR2,4921,c.716T>G,Ponatinib,DB08901,Sensitive,3
+DDR2,4921,c.716T>G,Nilotinib + Saracatinib,DB04868 + DB11805,Sensitive,3
+DDR2,4921,c.1912A>T,Ponatinib,DB08901,Sensitive,3
+DDR2,4921,c.1912A>T,Nilotinib + Saracatinib,DB04868 + DB11805,Sensitive,3
+DDR2,4921,c.2321G>T,Nilotinib + Saracatinib,DB04868 + DB11805,Sensitive,3
+DDR2,4921,c.2321G>T,Ponatinib,DB08901,Sensitive,3
+DDR2,4921,c.187C>G,Nilotinib + Saracatinib,DB04868 + DB11805,Sensitive,3
+DDR2,4921,c.187C>G,Ponatinib,DB08901,Sensitive,3
+DDR2,4921,c.1513G>A,Nilotinib + Saracatinib,DB04868 + DB11805,Sensitive,3
+DDR2,4921,c.1513G>A,Ponatinib,DB08901,Sensitive,3
+DNMT3A,1788,c.2645G>A,Idarubicin,DB01177,Sensitive,2
+DPYD,1806,c.1679T>G,Capecitabine,DB01101,Sensitive,1
+DPYD,1806,c.2846A>T,Capecitabine,DB01101,Sensitive,1
+DPYD,1806,c.1679T>G,Fluorouracil,DB00544,Sensitive,1
+DPYD,1806,c.2846A>T,Fluorouracil,DB00544,Sensitive,1
+DPYD,1806,c.1679T>G,Tegafur,DB09256,Sensitive,1
+DPYD,1806,c.2846A>T,Tegafur,DB09256,Sensitive,1
+EGFR,1956,c.2369C>T,Rociletinib,DB11907,Sensitive,2
+EGFR,1956,c.2369C>T,Olmutinib,DB13164,Sensitive,2
+EGFR,1956,c.2573T>G,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2582T>A,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2156G>C,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2155G>A,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2155G>T,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2156G>A,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2240T>C,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2303G>T,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2582T>C,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2582T>G,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2573T>G,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,2
+EGFR,1956,c.2582T>A,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,2
+EGFR,1956,c.2156G>C,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,2
+EGFR,1956,c.2155G>A,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,2
+EGFR,1956,c.2155G>T,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,2
+EGFR,1956,c.2156G>A,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,2
+EGFR,1956,c.2240T>C,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,2
+EGFR,1956,c.2303G>T,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,2
+EGFR,1956,c.2582T>C,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,2
+EGFR,1956,c.2582T>G,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,2
+EGFR,1956,c.2369C>T,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,2
+EGFR,1956,c.2369C>T,Afatinib + Nimotuzumab,DB08916 + DB06192,Sensitive,2
+EGFR,1956,c.1636C>T,Cetuximab,DB00002,Sensitive,2
+EGFR,1956,c.2257C>T,Cetuximab + Sirolimus,DB00002 + DB00877,Sensitive,2
+EGFR,1956,c.866C>T,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.323G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.1793G>T,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.787A>C,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2270A>G,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2237A>G,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2573T>G,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2573T>G,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2582T>A,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2156G>C,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2155G>A,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2155G>T,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2156G>A,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2240T>C,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2582T>C,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2582T>G,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2068G>A,Lapatinib,DB01259,Sensitive,2
+EGFR,1956,c.2573T>G,Osimertinib,DB09330,Sensitive,2
+EGFR,1956,c.2369C>T,Osimertinib,DB09330,Sensitive,1
+EGFR,1956,c.1476C>G,Panitumumab,DB01269,Sensitive,2
+EGFR,1956,c.2185_2283,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.2369C>T,Pemetrexed + Erlotinib,DB00642 + DB00530,Sensitive,2
+EGFR,1956,c.2369C>T,Staurosporine,DB02010,Sensitive,3
+EGFR,1956,c.2185_2283,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2170G>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2155G>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2573T>G,Afatinib,DB08916,Sensitive,2
+EGFR,1956,c.2185_2283,Afatinib,DB08916,Sensitive,2
+EGFR,1956,c.2185_2283,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.3274_3276,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.3274_3276,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2186_2283+1del99,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2186_2283+1del99,Afatinib,DB08916,Sensitive,2
+EGFR,1956,c.1393G>A,Futuximab,DB15262,Sensitive,2
+EGFR,1956,c.1476C>A,Panitumumab,DB01269,Sensitive,2
+EGFR,1956,c.1476C>A,Futuximab,DB15262,Sensitive,3
+EGFR,1956,c.1351C>T,Panitumumab,DB01269,Sensitive,3
+EGFR,1956,c.1351C>T,Futuximab,DB15262,Sensitive,3
+EGFR,1956,c.1400A>C,Futuximab,DB15262,Sensitive,3
+EGFR,1956,c.1400A>C,Panitumumab,DB01269,Sensitive,3
+EGFR,1956,c.2257C>T,Sirolimus + Cetuximab,DB00877 + DB00002,Sensitive,2
+EGFR,1956,c.2303G>T,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.2369C>T,Osimertinib,DB09330,Sensitive,2
+EGFR,1956,c.2155G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2155_2156,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2308_2309insCAAGCGTAG,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2369C>T,Neratinib,DB11828,Sensitive,3
+EGFR,1956,c.2369C>T,Canertinib,DB05424,Sensitive,3
+EGFR,1956,c.2573T>G,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.2573T>G,Lapatinib,DB01259,Sensitive,3
+EGFR,1956,c.2573T>G,Dacomitinib,DB11963,Sensitive,2
+EGFR,1956,c.2573T>G,Neratinib,DB11828,Sensitive,3
+EGFR,1956,c.2573T>G,Canertinib,DB05424,Sensitive,3
+EGFR,1956,c.2573T>G,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2573T>G,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2573T>G,AEE-788,DB12558,Sensitive,3
+EGFR,1956,c.2155_2157,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.2155_2157,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2225T>C,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2156G>A,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2321T>C,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.2500_2502delGTGinsATC,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.2513T>C,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.2551G>A,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2240_2257del18,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2492G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2573T>G,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2573T>G,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2581_2583,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.2581_2583,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2582T>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2603A>G,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2326C>T,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2192G>T,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2200G>C,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2353A>G,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2390G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2401T>C,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2185_2283,Dacomitinib,DB11963,Sensitive,2
+EGFR,1956,c.2582T>A,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2156G>C,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2155G>A,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2155G>T,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2156G>A,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2240T>C,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2303G>T,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2582T>C,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2582T>G,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2185_2283,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2185_2283,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2310_2311insGGT,Poziotinib,DB12114,Sensitive,2
+EGFR,1956,c.2310_2311insGGT,Osimertinib,DB09330,Sensitive,2
+EGFR,1956,c.2310_2311insGGT,TAS6417,.,Sensitive,3
+EGFR,1956,c.2311_2313delinsTTTCAT,Poziotinib,DB12114,Sensitive,3
+EGFR,1956,c.2239_2253delinsCCT,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.2239_2253delinsCCT,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2239_2253delinsCCT,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2239_2253delinsCCT,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2239_2253delinsCCT,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2236_2237insTACCTGTAGCAATCAAGG,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2236_2237insTACCTGTAGCAATCAAGG,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2292_2293insCATCAT,AUY922,DB11881,Sensitive,3
+EGFR,1956,c.2299_2307,Poziotinib,DB12114,Sensitive,3
+EGFR,1956,c.2299_2307,TAS6417,.,Sensitive,3
+EGFR,1956,c.2299_2307,Naquotinib,DB12036,Sensitive,3
+EGFR,1956,c.2299_2307,Nazartinib,DB16250,Sensitive,3
+EGFR,1956,c.2299_2307,AUY922,DB11881,Sensitive,2
+EGFR,1956,c.2299_2307,Poziotinib,DB12114,Sensitive,2
+EGFR,1956,c.2299_2307,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.664C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.664C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2308_2309insCAAGCGTAG,AUY922,DB11881,Sensitive,2
+EGFR,1956,c.2153T>A,Neratinib,DB11828,Sensitive,3
+EGFR,1956,c.2153T>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2153T>A,EKI-285,.,Sensitive,3
+EGFR,1956,c.2153T>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2302_2310,Poziotinib,DB12114,Sensitive,3
+EGFR,1956,c.2302_2310,Neratinib,DB11828,Sensitive,3
+EGFR,1956,c.2302_2310,Nazartinib,DB16250,Sensitive,3
+EGFR,1956,c.2302_2310,AUY922,DB11881,Sensitive,2
+EGFR,1956,c.2302_2310,Poziotinib,DB12114,Sensitive,2
+EGFR,1956,c.2302_2310,Osimertinib,DB09330,Sensitive,2
+EGFR,1956,c.2302_2310,TAS6417,.,Sensitive,3
+EGFR,1956,c.2302_2310,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2302_2310,AUY922,DB11881,Sensitive,3
+EGFR,1956,c.2293G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2293G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2293G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2504A>T,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2504A>T,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2504A>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2504A>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2504A>T,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2551G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.3458G>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.3458G>T,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.3458G>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2611G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2611G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2257C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2257C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.185T>G,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.185T>G,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.185T>G,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.185T>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2316_2317insGGTAACCCT,AUY922,DB11881,Sensitive,3
+EGFR,1956,c.2316_2317insGGTAACCCT,Naquotinib,DB12036,Sensitive,3
+EGFR,1956,c.2316_2317insGGTAACCCT,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2316_2317insGGTAACCCT,Poziotinib,DB12114,Sensitive,3
+EGFR,1956,c.2316_2317insGGTAACCCT,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.1793G>T,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.1793G>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.1793G>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2155G>T,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2155G>T,Dacomitinib,DB11963,Sensitive,2
+EGFR,1956,c.2155G>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2582T>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2582T>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2582T>A,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2582T>A,Lazertinib,DB16216,Sensitive,3
+EGFR,1956,c.1393G>A,MM-151,.,Sensitive,3
+EGFR,1956,c.2290_2291insTTCAAGAGGCAT,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2290_2291insTTCAAGAGGCAT,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.2290_2291insTTCAAGAGGCAT,Naquotinib,DB12036,Sensitive,3
+EGFR,1956,c.2290_2291insTTCAAGAGGCAT,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2290_2291insTTCAAGAGGCAT,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2290_2291insTTCAAGAGGCAT,AUY922,DB11881,Sensitive,3
+EGFR,1956,c.2290_2291insTTCAAGAGGCAT,Poziotinib,DB12114,Sensitive,3
+EGFR,1956,c.2290_2291insTTCAAGAGGCAT,TAS6417,.,Sensitive,3
+EGFR,1956,c.2290_2291insTTCAAGAGGCAT,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.323G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.323G>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.323G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2593G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2530C>G,Neratinib,DB11828,Sensitive,3
+EGFR,1956,c.2530C>G,EKI-285,.,Sensitive,3
+EGFR,1956,c.2530C>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2579A>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2579A>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2500G>A,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2500G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.102_869del11834,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2621G>A,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2620G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2620G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2620G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2239_2240delTTinsCC,Afatinib,DB08916,Sensitive,2
+EGFR,1956,c.2235_2236insACACCTGTAGCAATCAAG,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2252C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2125_2127,Afatinib,DB08916,Sensitive,2
+EGFR,1956,c.2232C>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2314_2319,AUY922,DB11881,Sensitive,2
+EGFR,1956,c.2314_2319,TAS6417,.,Sensitive,3
+EGFR,1956,c.2156G>C,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2156G>C,Dacomitinib,DB11963,Sensitive,3
+EGFR,1956,c.2156G>C,Neratinib,DB11828,Sensitive,3
+EGFR,1956,c.2156G>C,Dacomitinib,DB11963,Sensitive,2
+EGFR,1956,c.2156G>C,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2497T>G,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2497T>G,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2497T>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2141A>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2141A>G,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2326C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2326C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2618G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.865G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.865G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.865G>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2310_2311insGGTGTA,AUY922,DB11881,Sensitive,2
+EGFR,1956,c.2311_2319,TAS6417,.,Sensitive,3
+EGFR,1956,c.2311_2319,Dacomitinib,DB11963,Sensitive,3
+EGFR,1956,c.2311_2319,Poziotinib,DB12114,Sensitive,3
+EGFR,1956,c.2311_2319,Nazartinib,DB16250,Sensitive,3
+EGFR,1956,c.2311_2319,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2311_2319,Neratinib,DB11828,Sensitive,3
+EGFR,1956,c.2311_2319,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2086_3099,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2086_3099,Afatinib,DB08916,Sensitive,2
+EGFR,1956,c.2086_3099,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2086_3099,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2222C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2222C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2499G>T,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2499G>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2499G>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2573T>G,EAI045,.,Sensitive,3
+EGFR,1956,c.2573T>G,TAE226,.,Sensitive,3
+EGFR,1956,c.2573T>G,EKI-285,.,Sensitive,3
+EGFR,1956,c.2573T>G,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2573T>G,Naquotinib,DB12036,Sensitive,3
+EGFR,1956,c.2573T>G,Lazertinib,DB16216,Sensitive,3
+EGFR,1956,c.2573T>G,Bevacizumab + Erlotinib,DB00112 + DB00530,Sensitive,2
+EGFR,1956,c.2573T>G,Lifirafenib,DB14773,Sensitive,3
+EGFR,1956,c.2573T>G,Brigatinib,DB12267,Sensitive,3
+EGFR,1956,c.2573T>G,TAS-121,.,Sensitive,2
+EGFR,1956,c.2573T>G,Buparlisib + Osimertinib,DB11666 + DB09330,Sensitive,3
+EGFR,1956,c.2573T>G,Icotinib,DB11737,Sensitive,2
+EGFR,1956,c.2573T>G,Osimertinib + Selumetinib,DB09330 + DB11689,Sensitive,3
+EGFR,1956,c.2573T>G,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2573T>G,Dasatinib + Selumetinib,DB01254 + DB11689,Sensitive,3
+EGFR,1956,c.2573T>G,Ibrutinib,DB09053,Sensitive,3
+EGFR,1956,c.2573T>G,Afatinib + Cetuximab,DB08916 + DB00002,Sensitive,3
+EGFR,1956,c.2573T>G,Gefitinib + Pemetrexed,DB00317 + DB00642,Sensitive,2
+EGFR,1956,c.2573T>G,AV-412,DB06021,Sensitive,3
+EGFR,1956,c.2573T>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2573T>G,Cabozantinib + Erlotinib,DB08875 + DB00530,Sensitive,2
+EGFR,1956,c.2573T>G,AZD-3759,DB14795,Sensitive,3
+EGFR,1956,c.2573T>G,Vandetanib,DB05294,Sensitive,3
+EGFR,1956,c.2573T>G,JBJ-04-125-02,.,Sensitive,3
+EGFR,1956,c.2335G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2240_2254del15,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2240_2254del15,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2240_2254del15,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2240_2254del15,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2236_2250delinsATCCCT,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2236_2250delinsATCCCT,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2236_2250delinsATCCCT,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2236_2250delinsATCCCT,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2236_2250delinsATCCCT,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2389T>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2251_2277delinsAAC,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2251_2277delinsAAC,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2251_2277delinsAAC,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2251_2277delinsAAC,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2251_2277delinsAAC,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.89_889del11867,hEGFRvIII-CD3 bi-scFv,.,Sensitive,3
+EGFR,1956,c.2236_2250del15,ER2,.,Sensitive,3
+EGFR,1956,c.2236_2250del15,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2236_2250del15,Erlotinib + Ganetespib,DB00530 + DB12047,Sensitive,3
+EGFR,1956,c.2236_2250del15,Vandetanib,DB05294,Sensitive,3
+EGFR,1956,c.2236_2250del15,Naquotinib,DB12036,Sensitive,3
+EGFR,1956,c.2236_2250del15,Cisplatin + ER2,DB00515 + .,Sensitive,3
+EGFR,1956,c.2236_2250del15,Trametinib + WZ4002,DB08911 + .,Sensitive,3
+EGFR,1956,c.2236_2250del15,Gedatolisib,DB11896,Sensitive,3
+EGFR,1956,c.2236_2250del15,Lifirafenib,DB14773,Sensitive,3
+EGFR,1956,c.2236_2250del15,Brigatinib,DB12267,Sensitive,3
+EGFR,1956,c.2236_2250del15,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2236_2250del15,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2236_2250del15,Abivertinib,DB15327,Sensitive,3
+EGFR,1956,c.2236_2250del15,TAS6417,.,Sensitive,3
+EGFR,1956,c.2236_2250del15,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.754C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2215_2232,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2215_2232,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.3352G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.3352G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.3352G>A,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.3352G>A,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.3352G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2239_2256del18,Gefitinib,DB00317,Sensitive,2
+EGFR,1956,c.866C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.866C>T,Icotinib,DB11737,Sensitive,2
+EGFR,1956,c.866C>T,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.866C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2254_2277del24,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2254_2277del24,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2254_2277del24,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2254_2277del24,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2254_2277del24,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2492G>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2492G>T,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2492G>T,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2492G>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.874G>C,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.874G>C,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.874G>C,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.1391C>T,MM-151,.,Sensitive,3
+EGFR,1956,c.2560A>G,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2492G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2492G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.910C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.910C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.910C>T,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2310_2311insGGTTTT,AUY922,DB11881,Sensitive,2
+EGFR,1956,c.2239_2259delinsCAA,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2239_2259delinsCAA,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2239_2259delinsCAA,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2239_2259delinsCAA,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2239_2259delinsCAA,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2236_2253delinsGTA,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2236_2253delinsGTA,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2236_2253delinsGTA,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2236_2253delinsGTA,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2203G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2203G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2369C>T,Cabozantinib + Erlotinib,DB08875 + DB00530,Sensitive,2
+EGFR,1956,c.2369C>T,AV-412,DB06021,Sensitive,3
+EGFR,1956,c.2369C>T,CUDC-101,DB12174,Sensitive,3
+EGFR,1956,c.2369C>T,Abivertinib,DB15327,Sensitive,2
+EGFR,1956,c.2369C>T,BEZ235 + Selumetinib,. + DB11689,Sensitive,3
+EGFR,1956,c.2369C>T,Amlexanox + Selumetinib,DB01025 + DB11689,Sensitive,3
+EGFR,1956,c.2369C>T,Dactolisib,DB11651,Sensitive,3
+EGFR,1956,c.2236_2256delinsGTA,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2236_2256delinsGTA,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2236_2256delinsGTA,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2236_2256delinsGTA,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2317C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2317C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2239_2250del12,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2239_2250del12,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2239_2250del12,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2239_2250del12,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2239_2250del12,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2527G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2500G>C,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2500G>C,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2239_2250delinsCCT,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2239_2250delinsCCT,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2239_2250delinsCCT,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2239_2250delinsCCT,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.866C>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.866C>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2300C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2300C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2127_2129delAAC,Afatinib,DB08916,Sensitive,2
+EGFR,1956,c.2127_2129delAAC,Dacomitinib,DB11963,Sensitive,3
+EGFR,1956,c.2127_2129delAAC,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2127_2129delAAC,Neratinib,DB11828,Sensitive,3
+EGFR,1956,c.2218_2235,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2218_2235,Afatinib,DB08916,Sensitive,2
+EGFR,1956,c.2240T>C,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2240T>C,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2512C>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.1400A>C,MM-151,.,Sensitive,3
+EGFR,1956,c.2126A>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.646G>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.646G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.646G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.646G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.646G>A,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2305G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2305G>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2305G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2308_2316,AUY922,DB11881,Sensitive,2
+EGFR,1956,c.2308_2316,Poziotinib,DB12114,Sensitive,2
+EGFR,1956,c.2543C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2543C>T,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2543C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2159C>T,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2159C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2159C>T,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2159C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2159C>T,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2236_2259delinsGTAAGC,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2236_2259delinsGTAAGC,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2236_2259delinsGTAAGC,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2236_2259delinsGTAAGC,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2236_2259delinsGTAAGC,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2315_2316insTTATAACCC,AUY922,DB11881,Sensitive,2
+EGFR,1956,c.2125G>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2125G>A,Neratinib,DB11828,Sensitive,3
+EGFR,1956,c.2125G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2125G>A,Dacomitinib,DB11963,Sensitive,3
+EGFR,1956,c.1476C>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.1476C>G,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.1476C>G,Panitumumab,DB01269,Sensitive,3
+EGFR,1956,c.1476C>G,Necitumumab,DB09559,Sensitive,3
+EGFR,1956,c.1476C>G,Futuximab,DB15262,Sensitive,2
+EGFR,1956,c.1476C>G,MM-151,.,Sensitive,3
+EGFR,1956,c.2317_2318insCTAACCCTC,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2317_2318insCTAACCCTC,Dacomitinib,DB11963,Sensitive,3
+EGFR,1956,c.1787C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.1787C>T,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.1787C>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2283+1_2283+2insAGGCATTTCAAG,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2283+1_2283+2insAGGCATTTCAAG,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2107C>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.1351C>T,MM-151,.,Sensitive,3
+EGFR,1956,c.2318A>T,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2318A>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2240_2257del18,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2240_2257del18,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2240_2257del18,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2240_2257del18,Naquotinib,DB12036,Sensitive,3
+EGFR,1956,c.2240_2257del18,AEE-788,DB12558,Sensitive,3
+EGFR,1956,c.2240_2257del18,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2590G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2590G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2590G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2572C>A,Afatinib,DB08916,Sensitive,2
+EGFR,1956,c.2575G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2320G>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2320G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2105C>T,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2105C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2126A>C,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2126A>C,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2155G>A,Erlotinib,DB00530,Sensitive,2
+EGFR,1956,c.2155G>A,Dacomitinib,DB11963,Sensitive,2
+EGFR,1956,c.2155G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2155G>A,TAS-121,.,Sensitive,2
+EGFR,1956,c.2155G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2155G>A,TAS-121,.,Sensitive,3
+EGFR,1956,c.2582T>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2356G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2356G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2155_2157,Afatinib,DB08916,Sensitive,2
+EGFR,1956,c.2155_2157,Neratinib,DB11828,Sensitive,2
+EGFR,1956,c.2612C>G,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2612C>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2612C>G,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2612C>G,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2320_2321insCACATG,AUY922,DB11881,Sensitive,2
+EGFR,1956,c.2326C>G,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2326C>G,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2404G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2404G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2404G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2311_2312insGCGTAGACA,AUY922,DB11881,Sensitive,2
+EGFR,1956,c.2317_2319,AUY922,DB11881,Sensitive,3
+EGFR,1956,c.2317_2319,AUY922,DB11881,Sensitive,2
+EGFR,1956,c.917C>T,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.917C>T,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.917C>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.917C>T,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.829_830delATinsGA,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2108T>C,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2108T>C,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.1394G>A,MM-151,.,Sensitive,3
+EGFR,1956,c.1473A>G,MM-151,.,Sensitive,3
+EGFR,1956,c.2311_2313,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2240_2251del12,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2240_2251del12,Gefitinib,DB00317,Sensitive,3
+EGFR,1956,c.2240_2251del12,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2240_2251del12,Rociletinib,DB11907,Sensitive,3
+EGFR,1956,c.2240_2251del12,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2305G>C,Afatinib,DB08916,Sensitive,2
+EGFR,1956,c.2305G>C,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2317_2322delinsCTTATG,Bevacizumab + Gefitinib,DB00112 + DB00317,Sensitive,2
+EGFR,1956,c.2317_2322delinsCTTATG,Bevacizumab + Osimertinib,DB00112 + DB09330,Sensitive,2
+EGFR,1956,c.2308_2310delinsGGTTAT,Poziotinib,DB12114,Sensitive,2
+EGFR,1956,c.2308_2310delinsGGTTAT,Dacomitinib,DB11963,Sensitive,3
+EGFR,1956,c.2327G>A,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2327G>A,Erlotinib,DB00530,Sensitive,3
+EGFR,1956,c.2327G>A,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2327G>A,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2303G>T,Poziotinib,DB12114,Sensitive,2
+EGFR,1956,c.2314_2315insTTC,Osimertinib,DB09330,Sensitive,2
+EGFR,1956,c.2126A>T,Osimertinib,DB09330,Sensitive,3
+EGFR,1956,c.2126A>T,Afatinib,DB08916,Sensitive,3
+EGFR,1956,c.2126A>T,Cetuximab,DB00002,Sensitive,3
+EGFR,1956,c.2248G>C,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2248G>C,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2248G>C,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2125G>A,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2125G>A,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2125G>A,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2157C>T,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2157C>T,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2157C>T,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2239_2240delTTinsCC,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2239_2240delTTinsCC,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2497T>G,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2497T>G,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2497T>G,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2583G>T,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2583G>T,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.2583G>T,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.829_830delATinsGA,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.829_830delATinsGA,Erlotinib,DB00530,Sensitive,1
+EGFR,1956,c.829_830delATinsGA,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.2127_2129delAAC,Afatinib,DB08916,Sensitive,1
+EGFR,1956,c.2127_2129delAAC,Gefitinib,DB00317,Sensitive,1
+EGFR,1956,c.866C>T,Lapatinib,DB01259,Sensitive,3
+EGFR,1956,c.323G>A,Lapatinib,DB01259,Sensitive,3
+EGFR,1956,c.787A>C,Lapatinib,DB01259,Sensitive,3
+EGFR,1956,c.2281G>T,Osimertinib,DB09330,Sensitive,2
+EPHA2,1969,c.1171G>A,Dasatinib,DB01254,Sensitive,3
+EPHA2,1969,c.1171G>A,MTOR inhibitors,.,Sensitive,3
+ERBB2,2064,c.1976_1977delTTinsAG,Trastuzumab emtansine,DB05773,Sensitive,2
+ERBB2,2064,c.929C>T,Trastuzumab emtansine,DB05773,Sensitive,2
+ERBB2,2064,c.2393C>T,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2305G>T,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2305G>C,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2686C>T,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2329G>C,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2524G>A,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.926G>C,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.1976_1977delTTinsAG,Lapatinib,DB01259,Sensitive,2
+ERBB2,2064,c.2257A>G,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2264T>C,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.926G>C,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2305G>T,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2305G>C,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2686C>T,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2329G>C,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2524G>A,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2606T>G,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2305G>T,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.2305G>C,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.2686C>T,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.926G>A,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.929C>T,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.929C>A,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.931T>C,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.962A>G,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.1000T>A,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.2326_2327delGGinsCT,Trastuzumab,DB00072,Sensitive,2
+ERBB2,2064,c.2264_2278del15,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2264_2278del15,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2264T>G,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2340_2341,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2033G>A,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2033G>A,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2329G>T,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2325_2326,Afatinib + Sirolimus,DB08916 + DB00877,Sensitive,3
+ERBB2,2064,c.2325_2326,Afatinib,DB08916,Sensitive,2
+ERBB2,2064,c.2325_2326,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2340_2341,Dacomitinib,DB11963,Sensitive,2
+ERBB2,2064,c.2325_2326,Trastuzumab emtansine,DB05773,Sensitive,2
+ERBB2,2064,c.2524G>A,Trastuzumab + Neratinib + Lapatinib,DB00072 + DB11828 + DB01259,Sensitive,3
+ERBB2,2064,c.2264T>C,Trastuzumab + Neratinib + Lapatinib,DB00072 + DB11828 + DB01259,Sensitive,3
+ERBB2,2064,c.2329G>T,Trastuzumab + Neratinib + Lapatinib,DB00072 + DB11828 + DB01259,Sensitive,3
+ERBB2,2064,c.2596C>A,Trastuzumab + Neratinib + Lapatinib,DB00072 + DB11828 + DB01259,Sensitive,3
+ERBB2,2064,c.929C>T,Trastuzumab + Neratinib + Lapatinib,DB00072 + DB11828 + DB01259,Sensitive,3
+ERBB2,2064,c.929C>A,Trastuzumab + Neratinib + Lapatinib,DB00072 + DB11828 + DB01259,Sensitive,3
+ERBB2,2064,c.2326_2327delGGinsCT,Afatinib,DB08916,Sensitive,2
+ERBB2,2064,c.2340_2341,Afatinib,DB08916,Sensitive,2
+ERBB2,2064,c.2320delinsTGGCTGG,Dacomitinib,DB11963,Sensitive,2
+ERBB2,2064,c.2584A>G,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2318T>C,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2570A>G,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2632C>T,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2263_2264delCTinsAG,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2265_2279del15,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2340_2341insGGTAGCCCT,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.926G>A,ERBB2 TKIs,.,Sensitive,3
+ERBB2,2064,c.929C>T,ERBB2 TKIs,.,Sensitive,3
+ERBB2,2064,c.929C>A,ERBB2 TKIs,.,Sensitive,3
+ERBB2,2064,c.931T>C,ERBB2 TKIs,.,Sensitive,3
+ERBB2,2064,c.962A>G,ERBB2 TKIs,.,Sensitive,3
+ERBB2,2064,c.1000T>A,ERBB2 TKIs,.,Sensitive,3
+ERBB2,2064,c.930C>T,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2265T>G,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2331G>A,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2340_2341insGGTAGCCCT,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2325_2326insTATGTAATGGCA,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2325_2326insTATGTAATGGCA,Trastuzumab emtansine,DB05773,Sensitive,2
+ERBB2,2064,c.2326_2328delinsGTATGT,Trastuzumab emtansine,DB05773,Sensitive,2
+ERBB2,2064,c.2326_2327delGGinsCT,Trastuzumab-based chemotherapy,.,Sensitive,2
+ERBB2,2064,c.1988T>C,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.1988T>C,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.1988T>C,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.1988T>C,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.1988T>C,Pertuzumab,DB06366,Sensitive,3
+ERBB2,2064,c.1976_1977delTTinsAG,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.1976_1977delTTinsAG,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.1976_1977delTTinsAG,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.1976_1977delTTinsAG,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.1976_1977delTTinsAG,Compound 23814 + Tivozanib,. + DB11800,Sensitive,3
+ERBB2,2064,c.2743C>A,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.1979G>A,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.1979G>A,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.1979G>A,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.1979G>A,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.929C>T,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.929C>T,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.929C>T,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.929C>T,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2089G>C,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2303T>C,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2303T>C,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.2303T>C,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2317G>C,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2317G>C,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2317G>C,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.2339C>T,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2314_2325,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2314_2325,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2314_2325,Poziotinib,DB12114,Sensitive,2
+ERBB2,2064,c.2314_2325,Pyrotinib,DB14993,Sensitive,3
+ERBB2,2064,c.2314_2325,Ganetespib,DB12047,Sensitive,3
+ERBB2,2064,c.2314_2325,AUY922,DB11881,Sensitive,3
+ERBB2,2064,c.2314_2325,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2314_2325,Afatinib,DB08916,Sensitive,2
+ERBB2,2064,c.2314_2325,Poziotinib,DB12114,Sensitive,3
+ERBB2,2064,c.2326_2328delinsGTAGTA,Poziotinib,DB12114,Sensitive,3
+ERBB2,2064,c.2393_2394delCAinsTG,EKI-285,.,Sensitive,3
+ERBB2,2064,c.2393_2394delCAinsTG,Pilaralisib,DB11772,Sensitive,3
+ERBB2,2064,c.2393_2394delCAinsTG,Buparlisib,DB11666,Sensitive,3
+ERBB2,2064,c.2393_2394delCAinsTG,Lapatinib + Trastuzumab,DB01259 + DB00072,Sensitive,3
+ERBB2,2064,c.2393_2394delCAinsTG,Trastuzumab + XL147,DB00072 + .,Sensitive,3
+ERBB2,2064,c.2393_2394delCAinsTG,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2393_2394delCAinsTG,Cetuximab + Lapatinib,DB00002 + DB01259,Sensitive,3
+ERBB2,2064,c.2393_2394delCAinsTG,WZ4002,.,Sensitive,3
+ERBB2,2064,c.2329G>C,AEE-788,DB12558,Sensitive,3
+ERBB2,2064,c.2329G>C,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.2329G>C,Neratinib + Trastuzumab,DB11828 + DB00072,Sensitive,3
+ERBB2,2064,c.2329G>C,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2329G>C,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2264T>C,EKI-285,.,Sensitive,3
+ERBB2,2064,c.2264T>C,WZ4002,.,Sensitive,3
+ERBB2,2064,c.2596C>A,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2596C>A,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2596C>A,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.2332_2340,Afatinib,DB08916,Sensitive,2
+ERBB2,2064,c.2332_2340,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2332_2340,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2332_2340,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2332_2340,Dacomitinib,DB11963,Sensitive,2
+ERBB2,2064,c.2332_2340,Poziotinib,DB12114,Sensitive,3
+ERBB2,2064,c.2332_2340,Trastuzumab emtansine,DB05773,Sensitive,2
+ERBB2,2064,c.2332_2340,Dacomitinib,DB11963,Sensitive,3
+ERBB2,2064,c.2326_2328delinsCTTTGT,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2126A>T,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.2126A>T,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2126A>T,Pertuzumab,DB06366,Sensitive,3
+ERBB2,2064,c.2126A>T,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2176C>T,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2584A>G,AEE-788,DB12558,Sensitive,3
+ERBB2,2064,c.2263_2271delinsAGC,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2033G>A,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2033G>A,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.1958C>G,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.1958C>G,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2325_2326insTATGTAATGGCA,JQ1 + Osimertinib,. + DB09330,Sensitive,3
+ERBB2,2064,c.2437A>G,Afatinib,DB08916,Sensitive,2
+ERBB2,2064,c.2606T>G,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2149G>A,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2198C>T,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2305G>A,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2516T>G,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2326_2328delinsGTATGT,AZ5104,.,Sensitive,3
+ERBB2,2064,c.2326_2328delinsGTATGT,Poziotinib,DB12114,Sensitive,3
+ERBB2,2064,c.2326_2328delinsGTATGT,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2326_2328delinsGTATGT,AUY922,DB11881,Sensitive,3
+ERBB2,2064,c.2326_2328delinsGTATGT,Dacomitinib,DB11963,Sensitive,3
+ERBB2,2064,c.2326_2328delinsGTATGT,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.2326_2328delinsGTATGT,Ganetespib,DB12047,Sensitive,3
+ERBB2,2064,c.2326_2328delinsGTATGT,Poziotinib,DB12114,Sensitive,2
+ERBB2,2064,c.2326_2328delinsGTATGT,Pyrotinib,DB14993,Sensitive,3
+ERBB2,2064,c.2326_2328delinsGTATGT,Osimertinib,DB09330,Sensitive,3
+ERBB2,2064,c.2461G>A,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2347T>C,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2328_2329insTATGTAATGGCA,Canertinib,DB05424,Sensitive,3
+ERBB2,2064,c.1978G>C,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.1978G>C,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.1978G>C,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.1978G>C,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.2353C>T,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2263_2264delCTinsAG,WZ4002,.,Sensitive,3
+ERBB2,2064,c.2263_2264delCTinsAG,Neratinib,DB11828,Sensitive,2
+ERBB2,2064,c.2263_2264delCTinsAG,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.2263_2264delCTinsAG,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2263_2264delCTinsAG,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2263_2264delCTinsAG,EKI-285,.,Sensitive,3
+ERBB2,2064,c.2318T>C,AEE-788,DB12558,Sensitive,3
+ERBB2,2064,c.2632C>T,AEE-788,DB12558,Sensitive,3
+ERBB2,2064,c.2335_2336insGTCCTGGTT,Dacomitinib,DB11963,Sensitive,3
+ERBB2,2064,c.2570A>G,AEE-788,DB12558,Sensitive,3
+ERBB2,2064,c.2156A>G,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2524G>A,Afatinib,DB08916,Sensitive,3
+ERBB2,2064,c.2524G>A,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.926G>C,Trastuzumab,DB00072,Sensitive,3
+ERBB2,2064,c.2434G>A,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2434G>A,Poziotinib,DB12114,Sensitive,2
+ERBB2,2064,c.2407T>A,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.2265_2279del15,Gefitinib,DB00317,Sensitive,3
+ERBB2,2064,c.2393C>T,Tesevatinib,DB11973,Sensitive,3
+ERBB2,2064,c.929C>A,Neratinib,DB11828,Sensitive,3
+ERBB2,2064,c.929C>A,Afatinib,DB08916,Sensitive,2
+ERBB2,2064,c.929C>A,Neratinib + Trastuzumab,DB11828 + DB00072,Sensitive,3
+ERBB2,2064,c.929C>A,Lapatinib,DB01259,Sensitive,3
+ERBB2,2064,c.929C>A,Lapatinib + Trastuzumab,DB01259 + DB00072,Sensitive,3
+ERBB2,2064,c.2320_2322delinsTGGCTTGTA,Dacomitinib,DB11963,Sensitive,2
+ERBB2,2064,c.2320_2322delinsTGGCTTGTA,Dacomitinib,DB11963,Sensitive,3
+ERBB3,2065,c.850G>A,Afatinib,DB08916,Sensitive,2
+ERBB3,2065,c.307C>G,Afatinib,DB08916,Sensitive,2
+ERBB3,2065,c.310G>A,Afatinib,DB08916,Sensitive,2
+ERBB3,2065,c.785C>A,Lapatinib,DB01259,Sensitive,3
+ERBB3,2065,c.850G>A,Lapatinib,DB01259,Sensitive,3
+ERBB3,2065,c.2426A>G,Lapatinib,DB01259,Sensitive,3
+ERBB3,2065,c.785C>A,Pertuzumab,DB06366,Sensitive,3
+ERBB3,2065,c.850G>A,Pertuzumab,DB06366,Sensitive,3
+ERBB3,2065,c.785C>A,Trastuzumab,DB00072,Sensitive,3
+ERBB3,2065,c.850G>A,Trastuzumab,DB00072,Sensitive,3
+ERBB3,2065,c.2426A>G,Trastuzumab,DB00072,Sensitive,3
+ERBB3,2065,c.2564T>C,Afatinib,DB08916,Sensitive,3
+ERBB3,2065,c.2564T>C,Pertuzumab,DB06366,Sensitive,3
+ERBB3,2065,c.785C>A,anti-HER3 mAbs,.,Sensitive,3
+ERBB3,2065,c.785C>A,PI3K pathway inhibitors + MEK inhibitors,.,Sensitive,3
+ERBB3,2065,c.850G>A,anti-HER3 mAbs,.,Sensitive,3
+ERBB3,2065,c.850G>A,PI3K pathway inhibitors + MEK inhibitors,.,Sensitive,3
+ERBB3,2065,c.2426A>G,PI3K pathway inhibitors + MEK inhibitors,.,Sensitive,3
+ERBB4,2066,c.949G>A,Lapatinib,DB01259,Sensitive,3
+ERBB4,2066,c.1354G>A,Lapatinib,DB01259,Sensitive,3
+ERBB4,2066,c.1630C>T,Lapatinib,DB01259,Sensitive,3
+ERBB4,2066,c.1177C>T,Lapatinib,DB01259,Sensitive,3
+ERBB4,2066,c.2614G>A,Lapatinib,DB01259,Sensitive,3
+ERBB4,2066,c.1624G>A,Lapatinib,DB01259,Sensitive,3
+ERBB4,2066,c.3325G>T,Afatinib,DB08916,Sensitive,3
+ERBB4,2066,c.1687G>A,Lapatinib,DB01259,Sensitive,3
+ERCC2,2068,c.2251A>C,Paclitaxel + Carboplatin,DB01229 + DB00958,Sensitive,2
+ERRFI1,54206,c.1150G>T,Erlotinib,DB00530,Sensitive,2
+ESR1,2099,c.1607_1608delTCinsAA,Tamoxifen,DB00675,Sensitive,3
+ESR1,2099,c.1607_1608delTCinsAA,Fulvestrant,DB00947,Sensitive,3
+ESR1,2099,c.1613A>G,Tamoxifen,DB00675,Sensitive,3
+ESR1,2099,c.1613A>G,Fulvestrant,DB00947,Sensitive,3
+ESR1,2099,c.1610A>G,Tamoxifen,DB00675,Sensitive,3
+ESR1,2099,c.1610A>G,Fulvestrant,DB00947,Sensitive,3
+ESR1,2099,c.1609T>A,Tamoxifen,DB00675,Sensitive,3
+ESR1,2099,c.1609T>A,Fulvestrant,DB00947,Sensitive,3
+ESR1,2099,c.1610A>C,Tamoxifen,DB00675,Sensitive,3
+ETS2,2114,c.1023A>G,Paclitaxel + Cisplatin,DB01229 + DB00515,Sensitive,2
+EZH2,2146,c.1936T>A,GSK126,.,Sensitive,3
+EZH2,2146,c.1922A>T,EZH2 inhibitors,.,Sensitive,3
+EZH2,2146,c.2030C>G,EZH2 inhibitors,.,Sensitive,3
+EZH2,2146,c.1921T>A,DZNeP,.,Sensitive,3
+EZH2,2146,c.1921T>A,Vorinostat,DB02546,Sensitive,3
+EZH2,2146,c.1921T>A,GSK126,.,Sensitive,3
+EZH2,2146,c.1921T>A,ACY-957 + GSK126,.,Sensitive,3
+EZH2,2146,c.1921T>A,ACY-957,.,Sensitive,3
+EZH2,2146,c.1921T>A,ACY-957 + DZNeP,.,Sensitive,3
+EZH2,2146,c.1921T>A,EED226,.,Sensitive,3
+EZH2,2146,c.1921T>A,UNC1999,.,Sensitive,3
+EZH2,2146,c.1921T>A,ACY-957 + Doxorubicin,. + DB00997,Sensitive,3
+EZH2,2146,c.1921T>A,EED226 + EI1,.,Sensitive,3
+EZH2,2146,c.1922A>T,EPZ005687,.,Sensitive,3
+EZH2,2146,c.1922A>C,Vorinostat,DB02546,Sensitive,3
+EZH2,2146,c.1922A>C,GSK126,.,Sensitive,3
+EZH2,2146,c.1922A>C,ACY-957 + DZNeP,.,Sensitive,3
+EZH2,2146,c.1922A>C,ACY-957 + GSK126,.,Sensitive,3
+EZH2,2146,c.1922A>C,ACY-957,.,Sensitive,3
+EZH2,2146,c.1937A>T,EED226,.,Sensitive,3
+EZH2,2146,c.1937A>T,Tazemetostat,DB12887,Sensitive,3
+EZH2,2146,c.1936T>A,EED226,.,Sensitive,3
+EZH2,2146,c.1921T>C,GSK126,.,Sensitive,3
+EZH2,2146,c.1937A>C,EED226,.,Sensitive,3
+FBXW7,55294,c.1394G>A,Temsirolimus,DB06287,Sensitive,2
+FBXW7,55294,c.1513C>T,Vorinostat,DB02546,Sensitive,3
+FBXW7,55294,c.575A>C,Sirolimus,DB00877,Sensitive,2
+FGFR1,2260,c.1638C>A,Ponatinib,DB08901,Sensitive,2
+FGFR1,2260,c.1681G>A,FIIN-1,.,Sensitive,3
+FGFR1,2260,c.1681G>A,PRN1371,.,Sensitive,3
+FGFR2,2263,c.1650T>A,PD173074,.,Sensitive,3
+FGFR2,2263,c.755C>G,FGFR inhibitors,.,Sensitive,3
+FGFR2,2263,c.1647T>G,FGFR inhibitors,.,Sensitive,3
+FGFR2,2263,c.758C>G,Pazopanib,DB06589,Sensitive,2
+FGFR2,2263,c.870G>T,FGFR inhibitors,.,Sensitive,3
+FGFR2,2263,c.959C>G,FGFR inhibitors,.,Sensitive,3
+FGFR2,2263,c.1980G>C,FGFR inhibitors,.,Sensitive,3
+FGFR2,2263,c.1642A>G,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.870G>T,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.870G>T,Lenvatinib,DB09078,Sensitive,3
+FGFR2,2263,c.870G>T,AZD-4547,DB12247,Sensitive,3
+FGFR2,2263,c.870G>T,Infigratinib,DB11886,Sensitive,3
+FGFR2,2263,c.870G>T,Cediranib,DB04849,Sensitive,3
+FGFR2,2263,c.870G>T,Pazopanib,DB06589,Sensitive,3
+FGFR2,2263,c.1650T>G,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.1650T>G,PRN1371,.,Sensitive,3
+FGFR2,2263,c.1852T>A,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.1647T>G,Cediranib,DB04849,Sensitive,3
+FGFR2,2263,c.1647T>G,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.1647T>G,FIIN-1,.,Sensitive,3
+FGFR2,2263,c.1647T>G,Derazantinib,DB14889,Sensitive,3
+FGFR2,2263,c.1647T>G,DEBIO-1347,DB12903,Sensitive,3
+FGFR2,2263,c.1647T>G,PRN1371,.,Sensitive,3
+FGFR2,2263,c.1649A>G,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.1697A>G,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.870_872delGAT,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.870_872delGAT,Infigratinib,DB11886,Sensitive,3
+FGFR2,2263,c.1608G>C,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.755C>G,Nintedanib,DB09079,Sensitive,3
+FGFR2,2263,c.755C>G,Cediranib,DB04849,Sensitive,3
+FGFR2,2263,c.755C>G,Derazantinib,DB14889,Sensitive,3
+FGFR2,2263,c.755C>G,Dovitinib,DB05928,Sensitive,3
+FGFR2,2263,c.755C>G,GSK3052230,.,Sensitive,3
+FGFR2,2263,c.755C>G,E7090,.,Sensitive,3
+FGFR2,2263,c.755C>G,Brivanib,DB11958,Sensitive,3
+FGFR2,2263,c.755C>G,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.755C>G,DEBIO-1347,DB12903,Sensitive,3
+FGFR2,2263,c.755C>G,RO-5126766 free base,DB15254,Sensitive,3
+FGFR2,2263,c.1648A>C,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.1980G>C,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.1980G>C,Pazopanib,DB06589,Sensitive,3
+FGFR2,2263,c.1980G>C,PRN1371,.,Sensitive,3
+FGFR2,2263,c.1980G>C,Infigratinib,DB11886,Sensitive,3
+FGFR2,2263,c.1980G>C,Lenvatinib,DB09078,Sensitive,3
+FGFR2,2263,c.1980G>C,AZD-4547,DB12247,Sensitive,3
+FGFR2,2263,c.1980G>C,Cediranib,DB04849,Sensitive,3
+FGFR2,2263,c.799_819,Ponatinib,DB08901,Sensitive,3
+FGFR2,2263,c.799_819,Infigratinib,DB11886,Sensitive,3
+FGFR2,2263,c.1690G>T,DEBIO-1347,DB12903,Sensitive,3
+FGFR2,2263,c.1978A>G,Infigratinib,DB11886,Sensitive,3
+FGFR2,2263,c.1978A>G,Cediranib,DB04849,Sensitive,3
+FGFR2,2263,c.1978A>G,AZD-4547,DB12247,Sensitive,3
+FGFR2,2263,c.1978A>G,PRN1371,.,Sensitive,3
+FGFR2,2263,c.1978A>G,Lenvatinib,DB09078,Sensitive,3
+FGFR2,2263,c.1978A>G,Pazopanib,DB06589,Sensitive,3
+FGFR2,2263,c.1978A>G,Ponatinib,DB08901,Sensitive,3
+FGFR3,2261,c.746C>G,Pazopanib,DB06589,Sensitive,2
+FGFR3,2261,c.1948A>G,Bortezomib,DB00188,Sensitive,3
+FGFR3,2261,c.746C>G,FGFR inhibitors,.,Sensitive,3
+FGFR3,2261,c.2071G>A,FGFR inhibitors,.,Sensitive,3
+FGFR3,2261,c.1114G>T,R3Mab,.,Sensitive,3
+FGFR3,2261,c.1108G>T,Erdafitinib,DB12147,Sensitive,1
+FGFR3,2261,c.1124A>G,R3Mab,.,Sensitive,3
+FGFR3,2261,c.1124A>G,Dovitinib,DB05928,Sensitive,3
+FGFR3,2261,c.1124A>G,Ponatinib,DB08901,Sensitive,3
+FGFR3,2261,c.1954A>G,R3Mab,.,Sensitive,3
+FGFR3,2261,c.1954A>G,Derazantinib,DB14889,Sensitive,3
+FGFR3,2261,c.1822T>G,Ponatinib,DB08901,Sensitive,3
+FGFR3,2261,c.1822T>G,LY-2874455,DB13022,Sensitive,3
+FGFR3,2261,c.1822T>G,FIIN-2,.,Sensitive,3
+FGFR3,2261,c.1822T>G,Dovitinib,DB05928,Sensitive,3
+FGFR3,2261,c.742C>T,Dovitinib,DB05928,Sensitive,3
+FGFR3,2261,c.742C>T,Infigratinib,DB11886,Sensitive,3
+FGFR3,2261,c.742C>T,Erdafitinib,DB12147,Sensitive,1
+FGFR3,2261,c.742C>T,R3Mab,.,Sensitive,3
+FGFR3,2261,c.742C>T,Pazopanib,DB06589,Sensitive,3
+FGFR3,2261,c.1620C>G,Dovitinib,DB05928,Sensitive,3
+FGFR3,2261,c.1620C>G,Erdafitinib,DB12147,Sensitive,3
+FGFR3,2261,c.1620C>G,Ponatinib,DB08901,Sensitive,3
+FGFR3,2261,c.1948A>G,DEBIO-1347,DB12903,Sensitive,3
+FGFR3,2261,c.1948A>G,Erdafitinib,DB12147,Sensitive,3
+FGFR3,2261,c.1948A>G,PD98059,.,Sensitive,3
+FGFR3,2261,c.1948A>G,Dovitinib,DB05928,Sensitive,3
+FGFR3,2261,c.1948A>G,Ponatinib,DB08901,Sensitive,3
+FGFR3,2261,c.1948A>G,SU5402,.,Sensitive,3
+FGFR3,2261,c.1948A>G,FIIN-2,.,Sensitive,3
+FGFR3,2261,c.1948A>G,LY-2874455,DB13022,Sensitive,3
+FGFR3,2261,c.1949A>T,PRN1371,.,Sensitive,3
+FGFR3,2261,c.1156T>C,DEBIO-1347,DB12903,Sensitive,3
+FGFR3,2261,c.1663G>A,LY-2874455,DB13022,Sensitive,3
+FGFR3,2261,c.1663G>A,Dovitinib,DB05928,Sensitive,3
+FGFR3,2261,c.1663G>A,Ponatinib,DB08901,Sensitive,3
+FGFR3,2261,c.1118A>G,Erdafitinib,DB12147,Sensitive,1
+FGFR3,2261,c.1118A>G,E7090,.,Sensitive,3
+FGFR3,2261,c.1118A>G,DEBIO-1347,DB12903,Sensitive,3
+FGFR3,2261,c.746C>G,Dovitinib,DB05928,Sensitive,3
+FGFR3,2261,c.746C>G,Ponatinib,DB08901,Sensitive,3
+FGFR3,2261,c.746C>G,R3Mab,.,Sensitive,3
+FGFR3,2261,c.746C>G,Dovitinib,DB05928,Sensitive,2
+FGFR3,2261,c.746C>G,Infigratinib,DB11886,Sensitive,3
+FGFR3,2261,c.746C>G,DEBIO-1347,DB12903,Sensitive,3
+FGFR3,2261,c.746C>G,Erdafitinib,DB12147,Sensitive,1
+FGFR3,2261,c.746C>G,AZD-4547,DB12247,Sensitive,3
+FGFR3,2261,c.746C>G,Cediranib,DB04849,Sensitive,3
+FGFR3,2261,c.1108G>T,AZD-4547,DB12247,Sensitive,2
+FGFR3,2261,c.1108G>T,Infigratinib,DB11886,Sensitive,2
+FGFR3,2261,c.1108G>T,DEBIO-1347,DB12903,Sensitive,2
+FGFR3,2261,c.1138G>A,AZD-4547,DB12247,Sensitive,2
+FGFR3,2261,c.1138G>A,Infigratinib,DB11886,Sensitive,2
+FGFR3,2261,c.1138G>A,Erdafitinib,DB12147,Sensitive,2
+FGFR3,2261,c.1138G>A,DEBIO-1347,DB12903,Sensitive,2
+FGFR3,2261,c.1950G>A,AZD-4547,DB12247,Sensitive,2
+FGFR3,2261,c.1950G>A,Infigratinib,DB11886,Sensitive,2
+FGFR3,2261,c.1950G>A,Erdafitinib,DB12147,Sensitive,2
+FGFR3,2261,c.1950G>A,DEBIO-1347,DB12903,Sensitive,2
+FGFR3,2261,c.742C>T,AZD-4547,DB12247,Sensitive,2
+FGFR3,2261,c.742C>T,Infigratinib,DB11886,Sensitive,2
+FGFR3,2261,c.742C>T,DEBIO-1347,DB12903,Sensitive,2
+FGFR3,2261,c.746C>G,AZD-4547,DB12247,Sensitive,2
+FGFR3,2261,c.746C>G,Infigratinib,DB11886,Sensitive,2
+FGFR3,2261,c.746C>G,DEBIO-1347,DB12903,Sensitive,2
+FGFR3,2261,c.1111A>T,AZD-4547,DB12247,Sensitive,2
+FGFR3,2261,c.1111A>T,Infigratinib,DB11886,Sensitive,2
+FGFR3,2261,c.1111A>T,Erdafitinib,DB12147,Sensitive,2
+FGFR3,2261,c.1111A>T,DEBIO-1347,DB12903,Sensitive,2
+FGFR3,2261,c.1118A>G,AZD-4547,DB12247,Sensitive,2
+FGFR3,2261,c.1118A>G,Infigratinib,DB11886,Sensitive,2
+FGFR3,2261,c.1118A>G,DEBIO-1347,DB12903,Sensitive,2
+FGFR4,2264,c.1605C>G,PD173074,.,Sensitive,3
+FGFR4,2264,c.1649T>A,FGFR inhibitors,.,Sensitive,3
+FLT3,2322,c.1705_1837,Lestaurtinib,DB06469,Sensitive,2
+FLT3,2322,c.1705_1837,Sorafenib,DB00398,Sensitive,2
+FLT3,2322,c.1705_1837,AG1296,.,Sensitive,3
+FLT3,2322,c.2503G>T,Midostaurin,DB06595,Sensitive,2
+FLT3,2322,c.2504A>T,SU11248 + Cytarabine,DB01268 + DB00987,Sensitive,3
+FLT3,2322,c.2504A>T,SU11248 + Daunorubicin,DB01268 + DB00694,Sensitive,3
+FLT3,2322,c.2504A>T,AS602868,.,Sensitive,3
+FLT3,2322,c.2504A>T,AG1296,.,Sensitive,3
+FLT3,2322,c.2504A>T,Sunitinib,DB01268,Sensitive,2
+FLT3,2322,c.1705_1837,Ponatinib,DB08901,Sensitive,3
+FLT3,2322,c.1705_1837,Sunitinib,DB01268,Sensitive,3
+FLT3,2322,c.1705_1837,Sorafenib,DB00398,Sensitive,3
+FLT3,2322,c.1798_1799insGTCTTTATGTAGACTTTAGGGAGTATGAGTATG,Tandutinib,DB05465,Sensitive,3
+FLT3,2322,c.2504A>T,MRX-2843,.,Sensitive,3
+FLT3,2322,c.1783_1803,Tandutinib,DB05465,Sensitive,3
+FLT3,2322,c.2503_2505,Cytarabine + Daunorubicin + Midostaurin,DB00987 + DB00694 + DB06595,Sensitive,1
+FLT3,2322,c.2503G>T,E6201,.,Sensitive,3
+FLT3,2322,c.2503G>T,Crenolanib,DB11832,Sensitive,3
+FLT3,2322,c.2503G>T,Midostaurin,DB06595,Sensitive,3
+FLT3,2322,c.2503G>T,Quizartinib,DB12874,Sensitive,3
+FLT3,2322,c.2503G>T,Arsenic trioxide + Cytarabine + Methotrexate + Tretinoin,DB01169 + DB00987 + DB00563 + DB00755,Sensitive,2
+FLT3,2322,c.2503G>T,MRX-2843,.,Sensitive,3
+FLT3,2322,c.2503G>T,Gilteritinib,DB12141,Sensitive,3
+FLT3,2322,c.2503G>T,Crenolanib + Trametinib,DB11832 + DB08911,Sensitive,3
+FLT3,2322,c.2503G>T,G-749,.,Sensitive,3
+FLT3,2322,c.1794_1795insGGTCTTGTACAAGTAACAGGTAGCAGCGACAACGAGTATTTTTATGTAGACTTTAGGGAGTATGAG,Tandutinib,DB05465,Sensitive,3
+FLT3,2322,c.1715A>G,Midostaurin,DB06595,Sensitive,3
+FLT3,2322,c.1715A>G,Crenolanib,DB11832,Sensitive,3
+FLT3,2322,c.1797_1798insAGCACAGACAACGAGTATTTTTATGTAGACTTTAGGGAGTATGAGTAT,Azacitidine + Sorafenib,DB00928 + DB00398,Sensitive,2
+FLT3,2322,c.1797_1798insAGCACAGACAACGAGTATTTTTATGTAGACTTTAGGGAGTATGAGTAT,Quizartinib,DB12874,Sensitive,2
+FLT3,2322,c.2501G>A,PD98059,.,Sensitive,3
+FLT3,2322,c.2501G>A,Midostaurin,DB06595,Sensitive,3
+FLT3,2322,c.2506_2508,Cytarabine + Daunorubicin + Midostaurin,DB00987 + DB00694 + DB06595,Sensitive,1
+FLT3,2322,c.2503G>C,Crenolanib,DB11832,Sensitive,3
+FLT3,2322,c.2504A>G,E6201,.,Sensitive,3
+FLT3,2322,c.2525A>G,Midostaurin,DB06595,Sensitive,3
+FLT3,2322,c.2508_2510delCAT,Midostaurin,DB06595,Sensitive,3
+FLT3,2322,c.2508_2510delCAT,Tandutinib,DB05465,Sensitive,3
+FLT3,2322,c.1775T>G,Midostaurin,DB06595,Sensitive,3
+G6PD,2539,c.653C>T,Dabrafenib,DB08912,Sensitive,1
+GNA11,2767,c.626A>T,Selumetinib,DB11689,Sensitive,2
+GNA11,2767,c.626A>C,Selumetinib,DB11689,Sensitive,2
+GNA11,2767,c.626A>T,Vorinostat,DB02546,Sensitive,3
+GNA11,2767,c.626A>C,Vorinostat,DB02546,Sensitive,3
+GNA11,2767,c.626A>T,FR900359,.,Sensitive,3
+GNA11,2767,c.626A>T,AEB071 + Binimetinib,DB12369 + DB11967,Sensitive,3
+GNA11,2767,c.626A>T,Trametinib,DB08911,Sensitive,3
+GNA11,2767,c.626A>T,TAK-733,DB12241,Sensitive,3
+GNAQ,2776,c.626A>T,Refametinib,DB06309,Sensitive,2
+GNAQ,2776,c.626A>C,Enzastaurin,DB06486,Sensitive,3
+GNAQ,2776,c.626A>C,Sotrastaurin,DB12369,Sensitive,3
+GNAQ,2776,c.626A>C,TAK-733,DB12241,Sensitive,3
+GNAQ,2776,c.626A>C,FR900359,.,Sensitive,3
+GNAQ,2776,c.626A>C,Selumetinib,DB11689,Sensitive,3
+GNAQ,2776,c.626A>T,Sotrastaurin,DB12369,Sensitive,3
+GNAQ,2776,c.626A>T,TAK-733,DB12241,Sensitive,3
+GNAQ,2776,c.626A>T,AEB071 + PD-0325901,DB12369 + DB07101,Sensitive,3
+GNAQ,2776,c.626A>T,FR900359,.,Sensitive,3
+GNAQ,2776,c.626A>T,Omipalisib + Trametinib,DB12703 + DB08911,Sensitive,3
+GNAQ,2776,c.626A>T,Enzastaurin,DB06486,Sensitive,3
+GNAQ,2776,c.626A>T,Trametinib,DB08911,Sensitive,3
+GNAQ,2776,c.626A>T,Selumetinib,DB11689,Sensitive,3
+GNAQ,2776,c.626A>T,NAV-2729,.,Sensitive,3
+GNAQ,2776,c.626A>T,U0126,.,Sensitive,3
+GNAQ,2776,c.626A>T,Verteporfin,DB00460,Sensitive,3
+GNAS,2778,c.602G>A,Radioactive Iodine,.,Sensitive,2
+GNAS,2778,c.601C>T,JAK inhibitors,.,Sensitive,3
+GNAS,2778,c.602G>A,JAK inhibitors,.,Sensitive,3
+GNAS,2778,c.602G>T,JAK inhibitors,.,Sensitive,3
+GSTP1,2950,c.313A>G,Folfox Protocol,.,Sensitive,2
+HRAS,3265,c.182A>G,Binimetinib,DB11967,Sensitive,3
+HRAS,3265,c.182A>G,Everolimus,DB01590,Sensitive,3
+HRAS,3265,c.35G>T,Pz-1,.,Sensitive,3
+HRAS,3265,c.35G>T,Binimetinib + Everolimus,DB11967 + DB01590,Sensitive,3
+HRAS,3265,c.35G>T,Rigosertib,DB12146,Sensitive,3
+HRAS,3265,c.35G>T,SR-9009,DB14013,Sensitive,3
+HRAS,3265,c.35G>T,Binimetinib,DB11967,Sensitive,3
+HRAS,3265,c.35G>T,SR-9011,DB14014,Sensitive,3
+HRAS,3265,c.35G>T,Everolimus,DB01590,Sensitive,3
+HRAS,3265,c.35G>T,CI-1040,DB12429,Sensitive,3
+HRAS,3265,c.35G>T,Everolimus + Selumetinib,DB01590 + DB11689,Sensitive,3
+HRAS,3265,c.35G>T,SF1126,.,Sensitive,3
+HRAS,3265,c.182A>T,Everolimus + Selumetinib,DB01590 + DB11689,Sensitive,3
+HRAS,3265,c.182A>T,Binimetinib + Everolimus,DB11967 + DB01590,Sensitive,3
+HRAS,3265,c.182A>T,Selumetinib,DB11689,Sensitive,3
+HRAS,3265,c.182A>T,AZD8055 + Binimetinib,DB12774 + DB11967,Sensitive,3
+HRAS,3265,c.182A>T,Binimetinib,DB11967,Sensitive,3
+HRAS,3265,c.182A>T,Sirolimus + Trametinib,DB00877 + DB08911,Sensitive,3
+HRAS,3265,c.182A>T,Everolimus,DB01590,Sensitive,3
+HRAS,3265,c.182A>T,NS1,.,Sensitive,3
+HRAS,3265,c.37G>C,MK2206,.,Sensitive,3
+HSPH1,10808,c.1138-20_1138-4,Oxaliplatin + Fluorouracil,DB00526 + DB00544,Sensitive,2
+IDH1,3417,c.394C>T,GSK321,.,Sensitive,3
+IDH1,3417,c.395G>A,AGI-5198,.,Sensitive,3
+IDH1,3417,c.395G>T,Bevacizumab,DB00112,Sensitive,2
+IDH1,3417,c.394C>T,Temozolomide,DB00853,Sensitive,2
+IDH1,3417,c.394C>T,AGI-5198,.,Sensitive,3
+IDH1,3417,c.394C>T,Bevacizumab,DB00112,Sensitive,2
+IDH1,3417,c.394C>T,Ivosidenib,DB14568,Sensitive,2
+IDH1,3417,c.394C>T,BPTES,.,Sensitive,3
+IDH1,3417,c.394C>A,Bevacizumab,DB00112,Sensitive,2
+IDH1,3417,c.394C>T,Cetuximab,DB00002,Sensitive,2
+IDH1,3417,c.395G>A,IDH1 inhibitors,.,Sensitive,3
+IDH1,3417,c.394C>T,Dasatinib,DB01254,Sensitive,3
+IDH1,3417,c.395G>A,PARP inhibitors,.,Sensitive,3
+IDH1,3417,c.395G>T,BAY1436032,.,Sensitive,3
+IDH1,3417,c.395G>T,Ivosidenib,DB14568,Sensitive,1
+IDH1,3417,c.394C>G,Ivosidenib,DB14568,Sensitive,1
+IDH1,3417,c.394C>G,BAY1436032,.,Sensitive,3
+IDH1,3417,c.395G>A,Niraparib,DB11793,Sensitive,3
+IDH1,3417,c.395G>A,Decitabine,DB01262,Sensitive,3
+IDH1,3417,c.395G>A,BAY1436032,.,Sensitive,3
+IDH1,3417,c.395G>A,Olaparib,DB09074,Sensitive,3
+IDH1,3417,c.395G>A,Berzosertib,DB11794,Sensitive,3
+IDH1,3417,c.395G>A,Temozolomide + Vandetanib,DB00853 + DB05294,Sensitive,2
+IDH1,3417,c.395G>A,Cisplatin + Talazoparib,DB00515 + DB11760,Sensitive,3
+IDH1,3417,c.395G>A,Azacitidine,DB00928,Sensitive,3
+IDH1,3417,c.395G>A,Talazoparib,DB11760,Sensitive,3
+IDH1,3417,c.395G>A,Metformin,DB00331,Sensitive,3
+IDH1,3417,c.395G>A,Ivosidenib,DB14568,Sensitive,1
+IDH1,3417,c.395G>A,BPTES,.,Sensitive,3
+IDH1,3417,c.395G>A,Rucaparib,DB12332,Sensitive,3
+IDH1,3417,c.394C>T,Saracatinib,DB11805,Sensitive,3
+IDH1,3417,c.394C>T,Talazoparib,DB11760,Sensitive,3
+IDH1,3417,c.394C>T,BAY1436032,.,Sensitive,3
+IDH1,3417,c.394C>T,Olaparib,DB09074,Sensitive,3
+IDH1,3417,c.394C>A,Dasatinib,DB01254,Sensitive,3
+IDH1,3417,c.394C>A,Saracatinib,DB11805,Sensitive,3
+IDH1,3417,c.394C>A,Ivosidenib,DB14568,Sensitive,1
+IDH1,3417,c.394C>A,BAY1436032,.,Sensitive,3
+IDH2,3418,c.418_419delCGinsAA,Enasidenib,DB13874,Sensitive,2
+IDH2,3418,c.515G>A,Enasidenib,DB13874,Sensitive,2
+IDH2,3418,c.419G>A,IDH2 inhibitors,.,Sensitive,2
+IDH2,3418,c.515G>A,IDH2 inhibitors,.,Sensitive,2
+IDH2,3418,c.515G>A,Dasatinib,DB01254,Sensitive,3
+IDH2,3418,c.419G>T,Enasidenib,DB13874,Sensitive,1
+IDH2,3418,c.514A>T,Enasidenib,DB13874,Sensitive,1
+IDH2,3418,c.516G>C,Enasidenib,DB13874,Sensitive,1
+IDH2,3418,c.515G>A,Enasidenib,DB13874,Sensitive,3
+IDH2,3418,c.418C>T,Enasidenib,DB13874,Sensitive,1
+IDH2,3418,c.418C>G,Enasidenib,DB13874,Sensitive,1
+IDH2,3418,c.419G>A,Enasidenib,DB13874,Sensitive,3
+IDH2,3418,c.419G>A,AGI-6780,.,Sensitive,3
+IDH2,3418,c.515G>T,Enasidenib,DB13874,Sensitive,1
+IDH2,3418,c.514A>G,Enasidenib,DB13874,Sensitive,1
+IL7R,3575,c.553A>T,Ruxolitinib,DB08877,Sensitive,3
+JAK1,3716,c.2108G>T,Ruxolitinib,DB08877,Sensitive,3
+JAK1,3716,c.1937C>T,Ruxolitinib,DB08877,Sensitive,3
+JAK2,3717,c.1849G>T,Ruxolitinib,DB08877,Sensitive,2
+JAK2,3717,c.1849G>T,Ruxolitinib,DB08877,Sensitive,1
+JAK2,3717,c.1849G>T,Peginterferon alfa-2a,DB00008,Sensitive,2
+JAK2,3717,c.1849G>T,Fedratinib,DB12500,Sensitive,3
+JAK2,3717,c.2080T>C,Ruxolitinib,DB08877,Sensitive,2
+JAK2,3717,c.2047A>G,Ruxolitinib,DB08877,Sensitive,3
+JAK2,3717,c.1849G>T,CHZ868,.,Sensitive,3
+JAK2,3717,c.1849G>T,BMS-911543,DB12591,Sensitive,3
+JAK2,3717,c.1849G>T,AZD1208 + Ruxolitinib,. + DB08877,Sensitive,3
+JAK2,3717,c.1849G>T,Gandotinib,DB13040,Sensitive,2
+JAK2,3717,c.1849G>T,Ruxolitinib + ZSTK474,DB08877 + .,Sensitive,3
+JAK2,3717,c.1849G>T,Ropeginterferon alfa-2b,DB15119,Sensitive,3
+JAK2,3717,c.1849G>T,SHP099,.,Sensitive,3
+JAK2,3717,c.1849G>T,Ropeginterferon alfa-2b,DB15119,Sensitive,2
+JAK2,3717,c.1849G>T,Ruxolitinib + SGI-1776,DB08877 + DB12494,Sensitive,3
+JAK2,3717,c.1849G>T,Go6976,.,Sensitive,3
+JAK2,3717,c.1849G>T,NS-018,DB12784,Sensitive,3
+JAK2,3717,c.1849G>T,BEZ235 + Ruxolitinib,. + DB08877,Sensitive,3
+JAK2,3717,c.1849G>T,A-1155463,.,Sensitive,3
+JAK2,3717,c.1849G>T,Pictilisib + Ruxolitinib,DB11663 + DB8877,Sensitive,3
+JAK3,3718,c.1970G>A,JAK inhibitors,.,Sensitive,3
+JAK3,3718,c.260T>C,JAK inhibitors,.,Sensitive,3
+JAK3,3718,c.1503G>T,JAK inhibitors,.,Sensitive,3
+JAK3,3718,c.1715C>T,JAK inhibitors,.,Sensitive,3
+JAK3,3718,c.1718C>T,JAK inhibitors,.,Sensitive,3
+JAK3,3718,c.1766G>A,Tofacitinib,DB08895,Sensitive,3
+JAK3,3718,c.1715C>T,Tofacitinib,DB08895,Sensitive,3
+JAK3,3718,c.1747C>T,Tofacitinib,DB08895,Sensitive,3
+JAK3,3718,c.1718C>T,Tofacitinib,DB08895,Sensitive,3
+JAK3,3718,c.2021T>C,Tofacitinib,DB08895,Sensitive,3
+JAK3,3718,c.2021T>C,Ruxolitinib,DB08877,Sensitive,3
+JAK3,3718,c.467T>C,Tofacitinib,DB08895,Sensitive,3
+JAK3,3718,c.1533G>C,Tofacitinib,DB08895,Sensitive,3
+JAK3,3718,c.2570T>C,NIBR3049,.,Sensitive,3
+JAK3,3718,c.2570T>C,Tofacitinib,DB08895,Sensitive,3
+JAK3,3718,c.548A>G,Tofacitinib,DB08895,Sensitive,3
+JAK3,3718,c.260T>C,JANEX-1,.,Sensitive,3
+JAK3,3718,c.515G>A,Tofacitinib,DB08895,Sensitive,3
+JAK3,3718,c.2164G>A,Tofacitinib,DB08895,Sensitive,3
+KCNJ5,3762,c.503T>G,Amiloride,DB00594,Sensitive,3
+KCNJ5,3762,c.503T>G,Verapamil,DB00661,Sensitive,3
+KDR,3791,c.3193G>A,Sunitinib,DB01268,Sensitive,3
+KDR,3791,c.3193G>A,Sorafenib,DB00398,Sensitive,3
+KDR,3791,c.2150A>T,Sorafenib,DB00398,Sensitive,3
+KDR,3791,c.2150A>T,Sunitinib,DB01268,Sensitive,3
+KDR,3791,c.2881C>T,Regorafenib,DB08896,Sensitive,2
+KDR,3791,c.3193G>A,VEGFR inhibitors,.,Sensitive,3
+KDR,3791,c.3095G>A,Cabozantinib,DB08875,Sensitive,3
+KDR,3791,c.3095G>A,Lenvatinib,DB09078,Sensitive,3
+KDR,3791,c.1416A>T,unspecified VEGFR2 antibody,.,Sensitive,3
+KIT,3815,c.2447A>T,Dasatinib,DB01254,Sensitive,2
+KIT,3815,c.2446G>T,Dasatinib,DB01254,Sensitive,3
+KIT,3815,c.2446_2447delGAinsTT,Dasatinib,DB01254,Sensitive,3
+KIT,3815,c.2466T>G,Dasatinib,DB01254,Sensitive,3
+KIT,3815,c.2458G>T,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.1657T>A,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.2458G>T,Nilotinib,DB04868,Sensitive,2
+KIT,3815,c.2485G>C,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1961T>C,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.2009C>T,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.2460T>G,Sorafenib,DB00398,Sensitive,2
+KIT,3815,c.2089C>T,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1657T>A,Sunitinib,DB01268,Sensitive,2
+KIT,3815,c.1727T>C,Dasatinib,DB01254,Sensitive,3
+KIT,3815,c.1648_1774,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.1727T>C,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1727T>C,Nilotinib,DB04868,Sensitive,3
+KIT,3815,c.1961T>C,Sunitinib,DB01268,Sensitive,2
+KIT,3815,c.1679_1681delTTG,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.2586G>C,Selumetinib,DB11689,Sensitive,2
+KIT,3815,c.1347_1540,Sunitinib,DB01268,Sensitive,2
+KIT,3815,c.1648_1774,Sunitinib,DB01268,Sensitive,2
+KIT,3815,c.1621A>C,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.2447A>T,Midostaurin,DB06595,Sensitive,2
+KIT,3815,c.1249_1257delinsTAT,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.1451_1462del12,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.1735_1737delGAT,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.2458G>T,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1924A>G,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.1676T>A,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.1676T>A,Dasatinib,DB01254,Sensitive,3
+KIT,3815,c.1676T>A,PD-180970,.,Sensitive,3
+KIT,3815,c.1676T>A,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1676T>A,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1676T>A,Tandutinib,DB05465,Sensitive,3
+KIT,3815,c.1678_1728del51,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.1669_1674delTGGAAG,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1669_1674delTGGAAG,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1672_1677delAAGGTT,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.1651_1662del12,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1679T>A,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1679T>A,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1679T>A,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.1924A>G,Dasatinib,DB01254,Sensitive,2
+KIT,3815,c.1676T>A,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1676T>A,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.2458G>T,Regorafenib,DB08896,Sensitive,2
+KIT,3815,c.1674delinsTCCT,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1674delinsTCCT,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1674delinsTCCT,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1674delinsTCCT,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.1648_1774,Regorafenib,DB08896,Sensitive,2
+KIT,3815,c.1705_1728del24,Sunitinib,DB01268,Sensitive,2
+KIT,3815,c.1883G>A,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1883G>A,Dasatinib,DB01254,Sensitive,3
+KIT,3815,c.2466T>A,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1679T>G,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.1679T>G,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1679T>G,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1924A>G,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1924A>G,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.2362_2484,Ponatinib,DB08901,Sensitive,2
+KIT,3815,c.2485_2580,Ponatinib,DB08901,Sensitive,2
+KIT,3815,c.1648_1776,Imatinib,DB00619,Sensitive,1
+KIT,3815,c.1879_1992,Imatinib,DB00619,Sensitive,1
+KIT,3815,c.1729_1734delCCTTAT,Sorafenib,DB00398,Sensitive,2
+KIT,3815,c.1246_1266,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1345_1542,Imatinib,DB00619,Sensitive,1
+KIT,3815,c.1345_1542,Sunitinib,DB01268,Sensitive,1
+KIT,3815,c.1345_1542,Regorafenib,DB08896,Sensitive,1
+KIT,3815,c.1648_1776,Sunitinib,DB01268,Sensitive,1
+KIT,3815,c.1648_1776,Regorafenib,DB08896,Sensitive,1
+KIT,3815,c.1990_2142,Imatinib,DB00619,Sensitive,1
+KIT,3815,c.1990_2142,Sunitinib,DB01268,Sensitive,1
+KIT,3815,c.1990_2142,Regorafenib,DB08896,Sensitive,1
+KIT,3815,c.2362_2484,Imatinib,DB00619,Sensitive,1
+KIT,3815,c.2362_2484,Sunitinib,DB01268,Sensitive,1
+KIT,3815,c.2362_2484,Regorafenib,DB08896,Sensitive,1
+KIT,3815,c.1879_1992,Sunitinib,DB01268,Sensitive,1
+KIT,3815,c.1879_1992,Regorafenib,DB08896,Sensitive,1
+KIT,3815,c.1733A>G,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1730_1738delCTTATGATC,Sorafenib,DB00398,Sensitive,2
+KIT,3815,c.1654_1677del24,Motesanib,DB05575,Sensitive,3
+KIT,3815,c.1679T>G,Avapritinib,DB15233,Sensitive,3
+KIT,3815,c.1679T>G,Nilotinib,DB04868,Sensitive,3
+KIT,3815,c.1679T>G,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1679T>G,Midostaurin,DB06595,Sensitive,3
+KIT,3815,c.1679T>G,Ripretinib,DB14840,Sensitive,3
+KIT,3815,c.1673_1693del21,Cabozantinib,DB08875,Sensitive,3
+KIT,3815,c.1673_1693del21,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1679_1681delTTG,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1679_1681delTTG,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1672_1674delinsAACCCT,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.1672_1674delinsAACCCT,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1672_1674delinsAACCCT,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1672_1674delinsAACCCT,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1676T>G,Axitinib,DB06626,Sensitive,3
+KIT,3815,c.1727T>C,Axitinib,DB06626,Sensitive,3
+KIT,3815,c.1727T>C,Bevacizumab + Sorafenib,DB00112 + DB00398,Sensitive,2
+KIT,3815,c.1727T>C,SEL201,.,Sensitive,3
+KIT,3815,c.2009C>T,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.2009C>T,Axitinib,DB06626,Sensitive,3
+KIT,3815,c.1669_1674delTGGAAG,Nilotinib,DB04868,Sensitive,3
+KIT,3815,c.1669_1674delTGGAAG,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1669_1674delTGGAAG,Dasatinib,DB01254,Sensitive,3
+KIT,3815,c.1669_1674delTGGAAG,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.1669_1674delTGGAAG,PD-0325901,DB07101,Sensitive,3
+KIT,3815,c.1669T>G,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1676T>C,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.1676T>C,Nilotinib,DB04868,Sensitive,2
+KIT,3815,c.1676T>C,Axitinib,DB06626,Sensitive,3
+KIT,3815,c.1427G>T,Midostaurin,DB06595,Sensitive,3
+KIT,3815,c.1427G>T,Nilotinib,DB04868,Sensitive,3
+KIT,3815,c.1678_1728del51,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1678_1728del51,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1652_1666del15,Sorafenib,DB00398,Sensitive,3
+KIT,3815,c.1679T>A,Nilotinib,DB04868,Sensitive,2
+KIT,3815,c.1679T>A,Sorafenib,DB00398,Sensitive,3
+KIT,3815,c.1679T>A,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1679T>A,Avapritinib,DB15233,Sensitive,3
+KIT,3815,c.1679T>A,Motesanib,DB05575,Sensitive,3
+KIT,3815,c.1679T>A,Dasatinib,DB01254,Sensitive,3
+KIT,3815,c.1249_1257delinsATC,Flumatinib,DB11904,Sensitive,3
+KIT,3815,c.1249_1257delinsATC,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.2458G>T,Dasatinib,DB01254,Sensitive,3
+KIT,3815,c.2458G>T,Sorafenib,DB00398,Sensitive,2
+KIT,3815,c.2458G>T,SEL201,.,Sensitive,3
+KIT,3815,c.1669T>A,Nilotinib,DB04868,Sensitive,2
+KIT,3815,c.2446G>C,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.2446G>C,Flumatinib,DB11904,Sensitive,3
+KIT,3815,c.2446G>C,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.2447A>T,Gilteritinib,DB12141,Sensitive,3
+KIT,3815,c.2447A>T,Crenolanib,DB11832,Sensitive,3
+KIT,3815,c.2447A>T,Ripretinib,DB14840,Sensitive,3
+KIT,3815,c.2447A>T,Cytarabine + Dasatinib,DB00987 + DB01254,Sensitive,2
+KIT,3815,c.2447A>T,Avapritinib,DB15233,Sensitive,3
+KIT,3815,c.2447A>T,Midostaurin,DB06595,Sensitive,3
+KIT,3815,c.2447A>T,BPR1J373,.,Sensitive,3
+KIT,3815,c.2447A>T,FF-10101,.,Sensitive,3
+KIT,3815,c.1327T>A,Imatinib,DB00619,Sensitive,2
+KIT,3815,c.1679_1735del57,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1679_1735del57,Axitinib,DB06626,Sensitive,3
+KIT,3815,c.1679_1735del57,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1679_1735del57,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1679_1735del57,Infigratinib + Imatinib,DB11886 + DB00619,Sensitive,3
+KIT,3815,c.2459A>T,Avapritinib,DB15233,Sensitive,2
+KIT,3815,c.2467T>G,Motesanib,DB05575,Sensitive,3
+KIT,3815,c.1961T>C,Axitinib,DB06626,Sensitive,3
+KIT,3815,c.1961T>C,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1924A>G,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.1924A>G,Axitinib,DB06626,Sensitive,3
+KIT,3815,c.1924A>G,Infigratinib + Imatinib,DB11886 + DB00619,Sensitive,3
+KIT,3815,c.1924A>G,Nilotinib,DB04868,Sensitive,2
+KIT,3815,c.2460T>G,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1651_1671delinsCTT,Ponatinib,DB08901,Sensitive,2
+KIT,3815,c.1504_1509,Flumatinib,DB11904,Sensitive,3
+KIT,3815,c.1504_1509,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.1504_1509,Cabozantinib,DB08875,Sensitive,3
+KIT,3815,c.1504_1509,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1504_1509,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.2465A>T,Dasatinib,DB01254,Sensitive,3
+KIT,3815,c.1651_1665delinsACACTT,Sorafenib,DB00398,Sensitive,3
+KIT,3815,c.2485G>C,Dasatinib,DB01254,Sensitive,3
+KIT,3815,c.2485G>C,Nilotinib,DB04868,Sensitive,3
+KIT,3815,c.2485G>C,Axitinib,DB06626,Sensitive,3
+KIT,3815,c.1679_1681delTTG,G007-LK + Imatinib,. + DB00619,Sensitive,3
+KIT,3815,c.1670_1675delGGAAGG,Avapritinib,DB15233,Sensitive,3
+KIT,3815,c.1676T>A,Nilotinib,DB04868,Sensitive,2
+KIT,3815,c.1676T>A,Axitinib,DB06626,Sensitive,3
+KIT,3815,c.1676T>A,Flumatinib,DB11904,Sensitive,3
+KIT,3815,c.2466T>G,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.2466T>G,Avapritinib,DB15233,Sensitive,3
+KIT,3815,c.2466T>G,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.2466T>G,Flumatinib,DB11904,Sensitive,3
+KIT,3815,c.2466T>G,BPR1J373,.,Sensitive,3
+KIT,3815,c.2466T>G,Ripretinib,DB14840,Sensitive,3
+KIT,3815,c.2466T>G,Midostaurin,DB06595,Sensitive,3
+KIT,3815,c.2466T>G,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.2446G>T,Avapritinib,DB15233,Sensitive,3
+KIT,3815,c.2446G>T,Ripretinib,DB14840,Sensitive,3
+KIT,3815,c.2446G>T,Midostaurin,DB06595,Sensitive,3
+KIT,3815,c.1514A>T,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1514A>T,Sorafenib,DB00398,Sensitive,3
+KIT,3815,c.1676_1681delTTGTTG,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1676_1681delTTGTTG,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.1676_1681delTTGTTG,Flumatinib,DB11904,Sensitive,3
+KIT,3815,c.1650_1673del24,Ponatinib,DB08901,Sensitive,3
+KIT,3815,c.1650_1673del24,Imatinib,DB00619,Sensitive,3
+KIT,3815,c.1650_1673del24,Regorafenib,DB08896,Sensitive,3
+KIT,3815,c.1650_1673del24,Sunitinib,DB01268,Sensitive,3
+KIT,3815,c.2009C>T,Regorafenib,DB08896,Sensitive,1
+KIT,3815,c.2009C>T,Sunitinib,DB01268,Sensitive,1
+KIT,3815,c.1961T>C,Regorafenib,DB08896,Sensitive,1
+KIT,3815,c.2448C>T,Imatinib,DB00619,Sensitive,1
+KIT,3815,c.1961T>C,Imatinib,DB00619,Sensitive,1
+KIT,3815,c.2448C>T,Sunitinib,DB01268,Sensitive,1
+KIT,3815,c.2448C>T,Sorafenib,DB00398,Sensitive,1
+KIT,3815,c.2009C>T,Sorafenib,DB00398,Sensitive,1
+KIT,3815,c.1961T>C,Sunitinib,DB01268,Sensitive,1
+KIT,3815,c.1961T>C,Sorafenib,DB00398,Sensitive,1
+KIT,3815,c.2448C>T,Avapritinib,DB15233,Sensitive,2
+KRAS,3845,c.35G>A,Dactolisib + Selumetinib,DB11651 + DB11689,Sensitive,3
+KRAS,3845,c.437C>T,Abemaciclib,DB12001,Sensitive,2
+KRAS,3845,c.35G>T,Palbociclib,DB09073,Sensitive,3
+KRAS,3845,c.35G>A,MK-2206,.,Sensitive,2
+KRAS,3845,c.34G>T,Docetaxel + Selumetinib,DB01248 + DB11689,Sensitive,2
+KRAS,3845,c.35G>T,Docetaxel + Selumetinib,DB01248 + DB11689,Sensitive,2
+KRAS,3845,c.34G>T,EGFR inhibitor + ARS-853,.,Sensitive,3
+KRAS,3845,c.1-11_111,Irinotecan + Selumetinib,DB00762 + DB11689,Sensitive,2
+KRAS,3845,c.35G>A,Therapeutic Tumor Infiltrating Lymphocytes,.,Sensitive,2
+KRAS,3845,c.35G>T,Selumetinib + Dactolisib,DB11689 + DB11651,Sensitive,3
+KRAS,3845,c.38G>A,Dactolisib + Selumetinib,DB11651 + DB11689,Sensitive,3
+KRAS,3845,c.436G>A,Dactolisib + Selumetinib,DB11651 + DB11689,Sensitive,3
+KRAS,3845,c.437C>T,Selumetinib + Dactolisib,DB11689 + DB11651,Sensitive,3
+KRAS,3845,c.34G>T,Selumetinib + Dactolisib,DB11689 + DB11651,Sensitive,3
+KRAS,3845,c.35G>A,Selumetinib + Dactolisib,DB11689 + DB11651,Sensitive,3
+KRAS,3845,c.34_36,MEK inhibitors,.,Sensitive,3
+MAP2K1,5604,c.170A>C,Panitumumab + Trametinib,DB01269 + DB08911,Sensitive,2
+MAP2K1,5604,c.167A>C,Trametinib,DB08911,Sensitive,3
+MAP2K1,5604,c.166_180del15,Selumetinib,DB11689,Sensitive,2
+MAP2K1,5604,c.171G>T,Selumetinib,DB11689,Sensitive,3
+MAP2K1,5604,c.370C>T,BRAF inhibitors,.,Sensitive,2
+MAP2K1,5604,c.332T>G,BRAF inhibitors,.,Sensitive,2
+MAP2K1,5604,c.166_180del15,MEK inhibitors,.,Sensitive,2
+MAP2K1,5604,c.314_322delCCGCAATCC,Cobimetinib,DB05239,Sensitive,2
+MAP2K1,5604,c.361T>A,PLX4720,DB06999,Sensitive,3
+MAP2K1,5604,c.361T>A,Cetuximab + Trametinib,DB00002 + DB08911,Sensitive,3
+MAP2K1,5604,c.361T>A,Selumetinib,DB11689,Sensitive,3
+MAP2K1,5604,c.170A>C,Cetuximab + Trametinib,DB00002 + DB08911,Sensitive,3
+MAP2K1,5604,c.167A>C,Selumetinib,DB11689,Sensitive,3
+MAP2K1,5604,c.167A>C,PLX4720,DB06999,Sensitive,3
+MAP2K1,5604,c.167A>C,Refametinib,DB06309,Sensitive,3
+MAP2K1,5604,c.167A>C,Cobimetinib,DB05239,Sensitive,2
+MAP2K1,5604,c.167A>C,PD-0325901,DB07101,Sensitive,3
+MAP2K1,5604,c.171G>C,Panitumumab + Trametinib,DB01269 + DB08911,Sensitive,3
+MAP2K1,5604,c.171G>C,Selumetinib,DB11689,Sensitive,3
+MAP2K1,5604,c.171G>C,PLX4720,DB06999,Sensitive,3
+MAP2K1,5604,c.171G>C,Cetuximab + Trametinib,DB00002 + DB08911,Sensitive,3
+MAP2K1,5604,c.171G>C,Trametinib,DB08911,Sensitive,2
+MAP2K1,5604,c.332T>G,Selumetinib,DB11689,Sensitive,3
+MAP2K1,5604,c.332T>G,PLX4720,DB06999,Sensitive,3
+MAP2K1,5604,c.371C>T,Cobimetinib,DB05239,Sensitive,2
+MAP2K1,5604,c.632T>A,PLX4720,DB06999,Sensitive,3
+MAP2K1,5604,c.371C>A,Cobimetinib,DB05239,Sensitive,2
+MAP2K1,5604,c.385T>C,PLX4720,DB06999,Sensitive,3
+MAP2K1,5604,c.385T>C,Selumetinib,DB11689,Sensitive,3
+MAP2K1,5604,c.385T>C,RO4927350,.,Sensitive,3
+MAP2K1,5604,c.158T>C,CI-1040,DB12429,Sensitive,3
+MAP2K1,5604,c.157T>C,Trametinib,DB08911,Sensitive,3
+MAP2K1,5604,c.157T>C,PLX4720,DB06999,Sensitive,3
+MAP2K1,5604,c.157T>C,Cetuximab + Trametinib,DB00002 + DB08911,Sensitive,3
+MAP2K1,5604,c.157T>C,Selumetinib,DB11689,Sensitive,3
+MAPK1,5594,c.964G>A,Erlotinib,DB00530,Sensitive,2
+MET,4233,c.3335A>T,Crizotinib,DB08865,Sensitive,3
+MET,4233,c.3328G>A,Crizotinib,DB08865,Sensitive,3
+MET,4233,c.3335A>G,Crizotinib,DB08865,Sensitive,3
+MET,4233,c.3803T>C,Crizotinib,DB08865,Sensitive,3
+MET,4233,c.2962C>T,Crizotinib,DB08865,Sensitive,3
+MET,4233,c.3029C>T,Crizotinib,DB08865,Sensitive,3
+MET,4233,c.3683A>T,Cabozantinib,DB08875,Sensitive,2
+MET,4233,c.3010C>G,Crizotinib,DB08865,Sensitive,2
+MET,4233,c.3750G>C,Crizotinib,DB08865,Sensitive,3
+MET,4233,c.3335A>T,MET inhibitors,.,Sensitive,3
+MET,4233,c.3803T>C,MET inhibitors,.,Sensitive,2
+MET,4233,c.3281A>G,MET inhibitors,.,Sensitive,2
+MET,4233,c.3394_3990,Crizotinib,DB08865,Sensitive,2
+MET,4233,c.1124A>G,Bevacizumab + Sorafenib,DB00112 + DB00398,Sensitive,2
+MET,4233,c.3028G>T,Capmatinib,DB11791,Sensitive,3
+MET,4233,c.3028G>T,Merestinib,DB12381,Sensitive,3
+MET,4233,c.3028G>T,Savolitinib,DB12048,Sensitive,3
+MET,4233,c.3028G>T,Crizotinib,DB08865,Sensitive,3
+MET,4233,c.3028G>T,Glesatinib,DB06302,Sensitive,3
+MET,4233,c.3028G>T,Tepotinib,DB15133,Sensitive,3
+MET,4233,c.3028G>T,Cabozantinib,DB08875,Sensitive,3
+MET,4233,c.3683A>T,Cabozantinib,DB08875,Sensitive,3
+MET,4233,c.3683A>T,Glesatinib,DB06302,Sensitive,3
+MET,4233,c.3683A>T,Merestinib,DB12381,Sensitive,3
+MET,4233,c.3616G>C,SU11274,.,Sensitive,3
+MET,4233,c.3598T>A,Crizotinib,DB08865,Sensitive,2
+MET,4233,c.3682G>A,Cabozantinib,DB08875,Sensitive,3
+MET,4233,c.3682G>A,Altiratinib,.,Sensitive,3
+MET,4233,c.3682G>A,BMS-777607,DB12064,Sensitive,3
+MET,4233,c.3682G>A,Merestinib,DB12381,Sensitive,3
+MET,4233,c.3749T>C,Altiratinib,.,Sensitive,3
+MET,4233,c.3008A>T,Glesatinib,DB06302,Sensitive,3
+MET,4233,c.3008A>T,Crizotinib,DB08865,Sensitive,3
+MET,4233,c.3008A>T,Cabozantinib,DB08875,Sensitive,3
+MET,4233,c.3008A>T,Tepotinib,DB15133,Sensitive,3
+MET,4233,c.3008A>T,Capmatinib,DB11791,Sensitive,3
+MET,4233,c.3008A>T,Savolitinib,DB12048,Sensitive,3
+MET,4233,c.3008A>T,Merestinib,DB12381,Sensitive,3
+MET,4233,c.3328G>A,SU11274,.,Sensitive,3
+MET,4233,c.3803T>C,K252a,.,Sensitive,3
+MET,4233,c.3803T>C,SU11274,.,Sensitive,3
+MET,4233,c.3335A>T,SU11274,.,Sensitive,3
+MET,4233,c.3712G>A,SU11274,.,Sensitive,3
+MET,4233,c.3688T>G,Altiratinib,.,Sensitive,3
+MET,4233,c.3682G>C,Altiratinib,.,Sensitive,3
+MET,4233,c.3682G>C,Crizotinib,DB08865,Sensitive,2
+MET,4233,c.3334C>T,SU11274,.,Sensitive,3
+MET,4233,c.3688T>C,BMS-777607,DB12064,Sensitive,3
+MET,4233,c.3688T>C,Altiratinib,.,Sensitive,3
+MET,4233,c.3688T>C,Cabozantinib,DB08875,Sensitive,3
+MET,4233,c.3689A>G,Glesatinib,DB06302,Sensitive,3
+MET,4233,c.3689A>G,Merestinib,DB12381,Sensitive,3
+MET,4233,c.3689A>G,Altiratinib,.,Sensitive,3
+MET,4233,c.3446T>C,Crizotinib,DB08865,Sensitive,2
+MET,4233,c.504G>C,SU11274,.,Sensitive,3
+MET,4233,c.3028G>C,Crizotinib,DB08865,Sensitive,1
+MET,4233,c.3028G>A,Crizotinib,DB08865,Sensitive,1
+MET,4233,c.3028G>T,Crizotinib,DB08865,Sensitive,1
+MET,4233,c.3008A>G,Crizotinib,DB08865,Sensitive,1
+MET,4233,c.3008A>T,Crizotinib,DB08865,Sensitive,1
+MET,4233,c.3007T>A,Crizotinib,DB08865,Sensitive,1
+MET,4233,c.3028G>C,Cabozantinib,DB08875,Sensitive,2
+MET,4233,c.3028G>C,Capmatinib,DB11791,Sensitive,2
+MET,4233,c.3028G>A,Cabozantinib,DB08875,Sensitive,2
+MET,4233,c.3028G>A,Capmatinib,DB11791,Sensitive,2
+MET,4233,c.3028G>T,Cabozantinib,DB08875,Sensitive,2
+MET,4233,c.3028G>T,Capmatinib,DB11791,Sensitive,2
+MET,4233,c.3008A>G,Cabozantinib,DB08875,Sensitive,2
+MET,4233,c.3008A>G,Capmatinib,DB11791,Sensitive,2
+MET,4233,c.3008A>T,Cabozantinib,DB08875,Sensitive,2
+MET,4233,c.3008A>T,Capmatinib,DB11791,Sensitive,2
+MET,4233,c.3007T>A,Cabozantinib,DB08875,Sensitive,2
+MET,4233,c.3007T>A,Capmatinib,DB11791,Sensitive,2
+MGMT,4255,c.66C>T,Temozolomide,DB00853,Sensitive,2
+MPL,4352,c.1544_1545delGGinsTT,JAK inhibitors,.,Sensitive,3
+MPL,4352,c.1544G>T,Everolimus,DB01590,Sensitive,2
+MPL,4352,c.1544G>T,BMS-911543,DB12591,Sensitive,3
+MPL,4352,c.1544G>T,BEZ235 + Ruxolitinib,. + DB08877,Sensitive,3
+MPL,4352,c.1544G>T,Ruxolitinib + TGX-221,DB08877 + .,Sensitive,3
+MPL,4352,c.1544G>T,CHZ868,.,Sensitive,3
+MPL,4352,c.1544G>T,NS-018,DB12784,Sensitive,3
+MPL,4352,c.1544G>T,MK2206,.,Sensitive,3
+MPL,4352,c.1544G>T,Pictilisib + Ruxolitinib,DB11663 + DB8877,Sensitive,3
+MPL,4352,c.1543_1544delTGinsAA,Everolimus,DB01590,Sensitive,2
+MTHFR,4524,c.665C>T,Fluorouracil,DB00544,Sensitive,2
+MTOR,2475,c.6040G>A,Everolimus,DB01590,Sensitive,2
+MTOR,2475,c.7255G>A,Everolimus,DB01590,Sensitive,2
+MTOR,2475,c.4261A>G,Everolimus,DB01590,Sensitive,2
+MTOR,2475,c.5917A>T,Everolimus,DB01590,Sensitive,2
+MTOR,2475,c.5312A>G,Everolimus,DB01590,Sensitive,2
+MTOR,2475,c.6667C>A,Everolimus,DB01590,Sensitive,2
+MTOR,2475,c.4379T>C,Sirolimus,DB00877,Sensitive,3
+MTOR,2475,c.6644C>A,Sirolimus,DB00877,Sensitive,3
+MTOR,2475,c.7514G>C,Sirolimus,DB00877,Sensitive,3
+MTOR,2475,c.5902C>T,LY-294002,DB02656,Sensitive,3
+MTOR,2475,c.5902C>T,Capivasertib,DB12218,Sensitive,3
+MTOR,2475,c.6637C>T,LY-294002 + Capivasertib,DB02656 + DB12218,Sensitive,3
+MTOR,2475,c.4448G>A,Sirolimus,DB00877,Sensitive,3
+MTOR,2475,c.5395G>A,Sirolimus,DB00877,Sensitive,3
+MTOR,2475,c.6040_7255,Pazopanib + Everolimus,DB06589 + DB01590,Sensitive,2
+MTOR,2475,c.4379T>C,Temsirolimus,DB06287,Sensitive,2
+MTOR,2475,c.6625C>G,Temsirolimus,DB06287,Sensitive,2
+MTOR,2475,c.7280T>A,Temsirolimus,DB06287,Sensitive,2
+MYD88,4615,c.794T>C,Ibrutinib,DB09053,Sensitive,1
+MYD88,4615,c.794T>C,IMG-2005-5,.,Sensitive,3
+MYD88,4615,c.794T>C,IRAK-1 or IRAK-4 inhibitors,.,Sensitive,3
+MYD88,4615,c.794T>C,Ibrutinib,DB09053,Sensitive,2
+MYD88,4615,c.794T>C,Vorinostat,DB02546,Sensitive,3
+NF1,4763,c.4931A>C,Everolimus,DB01590,Sensitive,2
+NF2,4771,c.476_477insCG,Temsirolimus,DB06287,Sensitive,2
+NOTCH1,4851,c.4655C>G,MRK-003,.,Sensitive,3
+NOTCH1,4851,c.5047C>T,MRK-003,.,Sensitive,3
+NOTCH1,4851,c.1433G>T,WNT-974,DB12561,Sensitive,3
+NOTCH1,4851,c.5039T>G,MRK-003,.,Sensitive,3
+NOTCH1,4851,c.4795G>A,MRK-003,.,Sensitive,3
+NOTCH1,4851,c.5026G>A,MRK-003,.,Sensitive,3
+NOTCH1,4851,c.5119G>A,MRK-003,.,Sensitive,3
+NOTCH1,4851,c.4655C>T,MRK-003,.,Sensitive,3
+NOTCH1,4851,c.4724T>C,MRK-003,.,Sensitive,3
+NOTCH1,4851,c.4699G>A,MRK-003,.,Sensitive,3
+NOTCH1,4851,c.4709C>G,MRK-003,.,Sensitive,3
+NPM1,4869,c.847_882+3,Daunorubicin,DB00694,Sensitive,2
+NPM1,4869,c.847_882+3,Valproic acid,DB00313,Sensitive,2
+NPM1,4869,c.847_882+3,Tretinoin + NSC348884,DB00755 + .,Sensitive,3
+NPM1,4869,c.847_882+3,Anti-CD33 + Anti-CD123,.,Sensitive,2
+NPM1,4869,c.847_882+3,Anti-CD33,.,Sensitive,2
+NPM1,4869,c.863_864,NSC348884,.,Sensitive,3
+NPM1,4869,c.863_864,Induction Therapy,.,Sensitive,2
+NQO1,1728,c.559C>T,Amrubicin,DB06263,Sensitive,3
+NRAS,4893,c.38G>A,Tanespimycin,DB05134,Sensitive,2
+NRAS,4893,c.182A>T,Temozolomide,DB00853,Sensitive,2
+NRAS,4893,c.182A>G,Temozolomide,DB00853,Sensitive,2
+NRAS,4893,c.181C>A,Everolimus + Binimetinib,DB01590 + DB11967,Sensitive,3
+NRAS,4893,c.182A>T,Binimetinib,DB11967,Sensitive,2
+NRAS,4893,c.182A>G,Binimetinib,DB11967,Sensitive,2
+NRAS,4893,c.182A>T,Selumetinib,DB11689,Sensitive,2
+NRAS,4893,c.182A>G,Selumetinib,DB11689,Sensitive,2
+NRAS,4893,c.181C>A,Selumetinib,DB11689,Sensitive,3
+NRAS,4893,c.181C>A,Selumetinib + Dactolisib,DB11689 + DB11651,Sensitive,3
+NRAS,4893,c.181C>A,Trametinib,DB08911,Sensitive,3
+NRAS,4893,c.34G>T,ERK inhibitors,.,Sensitive,3
+NRAS,4893,c.35G>A,N-Arachidonoyl Dopamine,.,Sensitive,3
+NRAS,4893,c.35G>A,Alpelisib + Binimetinib,DB12015 + DB11967,Sensitive,3
+NRAS,4893,c.35G>A,Binimetinib,DB11967,Sensitive,3
+NRAS,4893,c.35G>T,Cetuximab + Trametinib,DB00002 + DB08911,Sensitive,3
+NRAS,4893,c.38G>T,Compound 3144,.,Sensitive,3
+NRAS,4893,c.183A>T,Alpelisib + Binimetinib,DB12015 + DB11967,Sensitive,3
+NRAS,4893,c.182A>G,MK2206,.,Sensitive,3
+NRAS,4893,c.181C>A,RAF709,.,Sensitive,3
+NRAS,4893,c.181C>A,Binimetinib,DB11967,Sensitive,2
+NRAS,4893,c.181C>A,Pimasertib + Regorafenib,DB14904 + Regorafenib,Sensitive,3
+NRAS,4893,c.181C>A,Everolimus + Pimasertib,DB01590 + DB14904,Sensitive,3
+NRAS,4893,c.181C>A,Pimasertib,DB14904,Sensitive,3
+NRAS,4893,c.181C>A,Pimasertib + Sorafenib,DB14904 + DB00398,Sensitive,3
+NRAS,4893,c.181C>A,LY3009120,.,Sensitive,3
+NRAS,4893,c.38G>A,Selumetinib,DB11689,Sensitive,3
+NRAS,4893,c.38G>A,Compound 3144,.,Sensitive,3
+NRAS,4893,c.38G>A,LY3009120,.,Sensitive,3
+NRAS,4893,c.182A>T,RAF709,.,Sensitive,3
+NRAS,4893,c.182A>T,CCT196969,.,Sensitive,3
+NRAS,4893,c.182A>T,CCT241161,.,Sensitive,3
+PDGFRA,5156,c.2525A>T,Crenolanib,DB11832,Sensitive,2
+PDGFRA,5156,c.1973T>C,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.1729C>T,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.2522G>A,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.2533C>T,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.2558G>A,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.2525A>T,Dasatinib,DB01254,Sensitive,3
+PDGFRA,5156,c.1729C>T,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.2522G>A,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.2533C>T,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.2558G>A,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.2524_2525delGAinsAT,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.2524G>T,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.2529_2531delCAT,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.2524_2529delinsGTAATG,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.1682T>C,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.2529_2531delCAT,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.2021C>T,Ponatinib,DB08901,Sensitive,3
+PDGFRA,5156,c.1682T>A,Imatinib,DB00619,Sensitive,2
+PDGFRA,5156,c.2242A>G,Imatinib,DB00619,Sensitive,1
+PDGFRA,5156,c.2242A>G,Sunitinib,DB01268,Sensitive,1
+PDGFRA,5156,c.2242A>G,Regorafenib,DB08896,Sensitive,1
+PDGFRA,5156,c.1654_1788,Imatinib,DB00619,Sensitive,1
+PDGFRA,5156,c.1654_1788,Sunitinib,DB01268,Sensitive,1
+PDGFRA,5156,c.1654_1788,Regorafenib,DB08896,Sensitive,1
+PDGFRA,5156,c.1891_2004,Imatinib,DB00619,Sensitive,1
+PDGFRA,5156,c.1891_2004,Sunitinib,DB01268,Sensitive,1
+PDGFRA,5156,c.1891_2004,Regorafenib,DB08896,Sensitive,1
+PDGFRA,5156,c.2440_2562,Imatinib,DB00619,Sensitive,1
+PDGFRA,5156,c.2440_2562,Sunitinib,DB01268,Sensitive,1
+PDGFRA,5156,c.2440_2562,Regorafenib,DB08896,Sensitive,1
+PDGFRA,5156,c.1950C>A,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.2242A>G,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.661C>T,Imatinib,DB00619,Sensitive,2
+PDGFRA,5156,c.2533_2544delinsCCT,Imatinib,DB00619,Sensitive,2
+PDGFRA,5156,c.2533_2544delinsCCT,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.1683_1684insGAGAGG,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.2525A>T,Ripretinib,DB14840,Sensitive,3
+PDGFRA,5156,c.2525A>T,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.2525A>T,Omipalisib,DB12703,Sensitive,3
+PDGFRA,5156,c.2525A>T,Avapritinib,DB15233,Sensitive,2
+PDGFRA,5156,c.2525A>T,Midostaurin,DB06595,Sensitive,3
+PDGFRA,5156,c.2525A>T,Regorafenib,DB08896,Sensitive,2
+PDGFRA,5156,c.2525A>T,Avapritinib,DB15233,Sensitive,3
+PDGFRA,5156,c.863A>G,Trametinib,DB08911,Sensitive,3
+PDGFRA,5156,c.863A>G,Omipalisib,DB12703,Sensitive,3
+PDGFRA,5156,c.1682T>A,Sunitinib,DB01268,Sensitive,3
+PDGFRA,5156,c.1682T>A,Avapritinib,DB15233,Sensitive,3
+PDGFRA,5156,c.1682T>A,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.1682T>A,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.1682T>A,Omipalisib,DB12703,Sensitive,3
+PDGFRA,5156,c.1682T>A,Nilotinib,DB04868,Sensitive,3
+PDGFRA,5156,c.2524G>T,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.1973T>C,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.2544C>G,Imatinib,DB00619,Sensitive,2
+PDGFRA,5156,c.1698_1712del15,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.2546A>C,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.1977C>G,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.1977C>G,Crenolanib,DB11832,Sensitive,3
+PDGFRA,5156,c.2536G>T,Imatinib,DB00619,Sensitive,3
+PDGFRA,5156,c.2537A>T,Sorafenib,DB00398,Sensitive,2
+PIK3CA,5290,c.1624G>A,CH-5132799,DB13051,Sensitive,3
+PIK3CA,5290,c.1624G>A,Sirolimus,DB00877,Sensitive,3
+PIK3CA,5290,c.3140A>G,CH-5132799,DB13051,Sensitive,3
+PIK3CA,5290,c.1633G>A,MK-2206,.,Sensitive,3
+PIK3CA,5290,c.1633G>A,Pictilisib,DB11663,Sensitive,3
+PIK3CA,5290,c.1412C>T,Idelalisib,DB09054,Sensitive,2
+PIK3CA,5290,c.3140A>G,Dactolisib,DB11651,Sensitive,3
+PIK3CA,5290,c.3140A>G,Cetuximab + Dactolisib,DB00002 + DB11651,Sensitive,3
+PIK3CA,5290,c.3140A>G,Alpelisib,DB12015,Sensitive,3
+PIK3CA,5290,c.3140A>G,Taselisib,DB12108,Sensitive,3
+PIK3CA,5290,c.3140A>G,AZD5363 + Trastuzumab,DB12218 + DB00072,Sensitive,3
+PIK3CA,5290,c.3140A>G,AZD5363 + Lapatinib,DB12218 + DB01259,Sensitive,3
+PIK3CA,5290,c.1624G>A,Apitolisib,DB12180,Sensitive,2
+PIK3CA,5290,c.1633G>A,Apitolisib,DB12180,Sensitive,2
+PIK3CA,5290,c.3140A>G,Everolimus + Fulvestrant,DB01590 + DB00947,Sensitive,2
+PIK3CA,5290,c.3140A>G,Perifosine,DB06641,Sensitive,3
+PIK3CA,5290,c.3140A>G,Temsirolimus,DB06287,Sensitive,3
+PIK3CA,5290,c.1624G>A,Perifosine,DB06641,Sensitive,3
+PIK3CA,5290,c.1624G>A,Temsirolimus,DB06287,Sensitive,3
+PIK3CA,5290,c.1633G>A,Trastuzumab emtansine,DB05773,Sensitive,2
+PIK3CA,5290,c.1633G>A,PI103,.,Sensitive,3
+PIK3CA,5290,c.3140A>G,Trastuzumab emtansine,DB05773,Sensitive,3
+PIK3CA,5290,c.3140A>G,PI103,.,Sensitive,3
+PIK3CA,5290,c.1624G>A,Fulvestrant + Alpelisib,DB00947 + DB12015,Sensitive,1
+PIK3CA,5290,c.1625A>T,Cetuximab,DB00002,Sensitive,2
+PIK3CA,5290,c.1348_1374del27,Alpelisib,DB12015,Sensitive,3
+PIK3CA,5290,c.263G>A,Apitolisib,DB12180,Sensitive,2
+PIK3CA,5290,c.263G>A,Cetuximab + Floxuridine + Fluorouracil + Irinotecan,DB00002 + DB00322 + DB00544 + DB00762,Sensitive,2
+PIK3CA,5290,c.1624G>A,Trametinib,DB08911,Sensitive,3
+PIK3CA,5290,c.1624G>A,VS-5584,DB12986,Sensitive,3
+PIK3CA,5290,c.1624G>A,Alpelisib + Fulvestrant,DB12015 + DB00947,Sensitive,1
+PIK3CA,5290,c.1624G>A,Gemcitabine + LY2780301,DB00441 + .,Sensitive,2
+PIK3CA,5290,c.1624G>A,Cetuximab + Irinotecan,DB00002 + DB00762,Sensitive,2
+PIK3CA,5290,c.1624G>A,PD-0325901 + Pictilisib,DB07101 + DB11663,Sensitive,3
+PIK3CA,5290,c.1624G>A,Dactolisib,DB11651,Sensitive,3
+PIK3CA,5290,c.1624G>A,MK2206 + Temsirolimus,. + DB06287,Sensitive,3
+PIK3CA,5290,c.1624G>A,Alpelisib,DB12015,Sensitive,3
+PIK3CA,5290,c.1624G>A,MK2206,.,Sensitive,3
+PIK3CA,5290,c.1624G>A,Lapatinib,DB01259,Sensitive,3
+PIK3CA,5290,c.1624G>A,Capivasertib,DB12218,Sensitive,3
+PIK3CA,5290,c.1624G>A,Miransertib,DB14982,Sensitive,3
+PIK3CA,5290,c.1624G>A,Neratinib,DB11828,Sensitive,3
+PIK3CA,5290,c.3145G>C,Neratinib,DB11828,Sensitive,3
+PIK3CA,5290,c.3145G>C,MK2206,.,Sensitive,3
+PIK3CA,5290,c.3145G>C,Alpelisib,DB12015,Sensitive,3
+PIK3CA,5290,c.3145G>C,Dactolisib,DB11651,Sensitive,3
+PIK3CA,5290,c.3145G>C,Lapatinib,DB01259,Sensitive,3
+PIK3CA,5290,c.3145G>C,Trametinib,DB08911,Sensitive,3
+PIK3CA,5290,c.1634A>G,Alpelisib + Fulvestrant,DB12015 + DB00947,Sensitive,1
+PIK3CA,5290,c.3127A>G,Sirolimus,DB00877,Sensitive,3
+PIK3CA,5290,c.1634A>C,Alpelisib + Fulvestrant,DB12015 + DB00947,Sensitive,1
+PIK3CA,5290,c.1616C>G,BAY1125976,.,Sensitive,3
+PIK3CA,5290,c.1616C>G,CYH33,.,Sensitive,3
+PIK3CA,5290,c.1035T>G,MK2206,.,Sensitive,3
+PIK3CA,5290,c.1035T>G,Dactolisib,DB11651,Sensitive,3
+PIK3CA,5290,c.1035T>G,Lapatinib,DB01259,Sensitive,3
+PIK3CA,5290,c.1035T>G,Trametinib,DB08911,Sensitive,3
+PIK3CA,5290,c.1035T>G,Neratinib,DB11828,Sensitive,3
+PIK3CA,5290,c.1035T>G,Alpelisib,DB12015,Sensitive,3
+PIK3CA,5290,c.1636C>A,Lapatinib,DB01259,Sensitive,3
+PIK3CA,5290,c.1636C>A,Dactolisib,DB11651,Sensitive,3
+PIK3CA,5290,c.1636C>A,Trametinib,DB08911,Sensitive,3
+PIK3CA,5290,c.1636C>A,MK2206,.,Sensitive,3
+PIK3CA,5290,c.1636C>A,Alpelisib,DB12015,Sensitive,3
+PIK3CA,5290,c.1636C>A,Neratinib,DB11828,Sensitive,3
+PIK3CA,5290,c.3140A>T,Trametinib,DB08911,Sensitive,3
+PIK3CA,5290,c.3140A>T,Alpelisib,DB12015,Sensitive,3
+PIK3CA,5290,c.3140A>T,MK2206,.,Sensitive,3
+PIK3CA,5290,c.3140A>T,Lapatinib,DB01259,Sensitive,3
+PIK3CA,5290,c.3140A>T,Alpelisib + Fulvestrant,DB12015 + DB00947,Sensitive,1
+PIK3CA,5290,c.3140A>T,Dactolisib,DB11651,Sensitive,3
+PIK3CA,5290,c.3140A>T,Neratinib,DB11828,Sensitive,3
+PIK3CA,5290,c.3139_3141,Temsirolimus,DB06287,Sensitive,2
+PIK3CA,5290,c.3139_3141,Taselisib,DB12108,Sensitive,2
+PIK3CA,5290,c.1258T>C,Alpelisib + Fulvestrant,DB12015 + DB00947,Sensitive,1
+PIK3CA,5290,c.1258T>C,DS-7423,.,Sensitive,3
+PIK3CA,5290,c.1258T>C,Sirolimus,DB00877,Sensitive,3
+PIK3CA,5290,c.1173A>G,Sirolimus,DB00877,Sensitive,2
+PIK3CA,5290,c.1636C>G,Alpelisib + Fulvestrant,DB12015 + DB00947,Sensitive,1
+PIK3CA,5290,c.3139C>T,YM-024,.,Sensitive,3
+PIK3CA,5290,c.3139C>T,CH-5132799,DB13051,Sensitive,3
+PIK3CA,5290,c.3139C>T,Alpelisib + Fulvestrant,DB12015 + DB00947,Sensitive,1
+PIK3CA,5290,c.353G>A,LY-3023414,DB12167,Sensitive,3
+PIK3CA,5290,c.333G>C,Miransertib,DB14982,Sensitive,3
+PIK3CA,5290,c.333G>C,DHM25,.,Sensitive,3
+PIK3CA,5290,c.333G>C,AZD8835,.,Sensitive,3
+PIK3CA,5290,c.333G>C,BAY1125976,.,Sensitive,3
+PIK3CA,5290,c.333G>C,ARQ 751,.,Sensitive,3
+PIK3CA,5290,c.3140A>G,Capivasertib,DB12218,Sensitive,3
+PIK3CA,5290,c.3140A>G,MK2206 + Temsirolimus,. + DB06287,Sensitive,3
+PIK3CA,5290,c.3140A>G,SHR-A1307,.,Sensitive,3
+PIK3CA,5290,c.3140A>G,Everolimus,DB01590,Sensitive,2
+PIK3CA,5290,c.3140A>G,Trametinib,DB08911,Sensitive,3
+PIK3CA,5290,c.3140A>G,CYH33,.,Sensitive,3
+PIK3CA,5290,c.3140A>G,Miransertib,DB14982,Sensitive,3
+PIK3CA,5290,c.3140A>G,CH-5132799,DB13051,Sensitive,2
+PIK3CA,5290,c.3140A>G,MK2206,.,Sensitive,3
+PIK3CA,5290,c.3140A>G,A66,.,Sensitive,3
+PIK3CA,5290,c.3140A>G,Rigosertib,DB12146,Sensitive,3
+PIK3CA,5290,c.3140A>G,Taselisib,DB12108,Sensitive,2
+PIK3CA,5290,c.3140A>G,ARQ 751,.,Sensitive,3
+PIK3CA,5290,c.3140A>G,Gedatolisib,DB11896,Sensitive,3
+PIK3CA,5290,c.3140A>G,PF-04691502,DB11974,Sensitive,3
+PIK3CA,5290,c.3140A>G,Alpelisib + Fulvestrant,DB12015 + DB00947,Sensitive,1
+PIK3CA,5290,c.3140A>G,Metformin,DB00331,Sensitive,3
+PIK3CA,5290,c.3140A>G,Neratinib,DB11828,Sensitive,3
+PIK3CA,5290,c.3140A>G,Radiotherapy + Taselisib,. + DB12108,Sensitive,3
+PIK3CA,5290,c.3140A>G,Buparlisib,DB11666,Sensitive,3
+PIK3CA,5290,c.3140A>G,BAY1125976,.,Sensitive,3
+PIK3CA,5290,c.3140A>G,Sirolimus + Trametinib,DB00877 + DB08911,Sensitive,3
+PIK3CA,5290,c.3140A>G,Lapatinib,DB01259,Sensitive,3
+PIK3CA,5290,c.3140A>G,Sirolimus,DB00877,Sensitive,3
+PIK3CA,5290,c.3140A>G,Cisplatin + Pictilisib,DB00515 + DB11663,Sensitive,3
+PIK3CA,5290,c.3140A>G,Pictilisib,DB11663,Sensitive,3
+PIK3CA,5290,c.3140A>G,Buparlisib + Paclitaxel,DB11666 + DB01229,Sensitive,2
+PIK3CA,5290,c.3140A>G,DHM25,.,Sensitive,3
+PIK3CA,5290,c.3140A>G,M2698,.,Sensitive,3
+PIK3CA,5290,c.1635G>C,Alpelisib + Fulvestrant,DB12015 + DB00947,Sensitive,1
+PIK3CA,5290,c.1637A>G,Alpelisib + Fulvestrant,DB12015 + DB00947,Sensitive,1
+PIK3CA,5290,c.1637A>G,CH-5132799,DB13051,Sensitive,3
+PIK3CA,5290,c.1340_1366del27,Alpelisib + Letrozole,DB12015 + DB01006,Sensitive,2
+PIK3CA,5290,c.1634A>T,DS-7423,.,Sensitive,3
+PIK3CA,5290,c.1633G>A,Dactolisib,DB11651,Sensitive,3
+PIK3CA,5290,c.1633G>A,Lapatinib,DB01259,Sensitive,3
+PIK3CA,5290,c.1633G>A,Alpelisib,DB12015,Sensitive,3
+PIK3CA,5290,c.1633G>A,MK2206,.,Sensitive,3
+PIK3CA,5290,c.1633G>A,Pictilisib + Sorafenib,DB11663 + DB00398,Sensitive,3
+PIK3CA,5290,c.1633G>A,Everolimus,DB01590,Sensitive,3
+PIK3CA,5290,c.1633G>A,Miransertib,DB14982,Sensitive,3
+PIK3CA,5290,c.1633G>A,Trametinib,DB08911,Sensitive,3
+PIK3CA,5290,c.1633G>A,Cisplatin + Pictilisib,DB00515 + DB11663,Sensitive,3
+PIK3CA,5290,c.1633G>A,CYH33,.,Sensitive,3
+PIK3CA,5290,c.1633G>A,LY-3023414,DB12167,Sensitive,3
+PIK3CA,5290,c.1633G>A,Gemcitabine + Pictilisib,DB00441 + DB11663,Sensitive,3
+PIK3CA,5290,c.1633G>A,Carboplatin + Paclitaxel + Temsirolimus,DB00958 + DB01229 + DB06287,Sensitive,2
+PIK3CA,5290,c.1633G>A,CH-5132799,DB13051,Sensitive,3
+PIK3CA,5290,c.1633G>A,Buparlisib,DB11666,Sensitive,3
+PIK3CA,5290,c.1633G>A,PW12,.,Sensitive,3
+PIK3CA,5290,c.1633G>A,Alpelisib + Fulvestrant,DB12015 + DB00947,Sensitive,1
+PIK3CA,5290,c.1633G>A,DHM25,.,Sensitive,3
+PIK3CA,5290,c.1633G>A,LY2780301,.,Sensitive,2
+PIK3CA,5290,c.1633G>A,Sirolimus,DB00877,Sensitive,3
+PIK3CA,5290,c.1633G>A,WYE-125132,.,Sensitive,3
+PIK3CA,5290,c.1633G>A,ARQ 751,.,Sensitive,3
+PIK3CA,5290,c.1633G>A,Rigosertib,DB12146,Sensitive,3
+PIK3CA,5290,c.1633G>A,Voxtalisib,DB12400,Sensitive,3
+PIK3CA,5290,c.1633G>A,Gedatolisib,DB11896,Sensitive,3
+PIK3CA,5290,c.1633G>A,Dactolisib + WEHI-539,DB11651 + .,Sensitive,3
+PIK3CA,5290,c.1633G>A,AZD8835,.,Sensitive,3
+PIK3CA,5290,c.1633G>A,Neratinib,DB11828,Sensitive,3
+PIK3CA,5290,c.1633G>A,BAY1125976,.,Sensitive,3
+PIK3CA,5290,c.1633G>A,Pilaralisib,DB11772,Sensitive,3
+PIK3CA,5290,c.1633G>A,PKI-402,.,Sensitive,3
+PIK3CA,5290,c.1633G>A,Capivasertib,DB12218,Sensitive,3
+PIK3CA,5290,c.1633G>A,Cetuximab + Irinotecan,DB00002 + DB00762,Sensitive,2
+PIK3CA,5290,c.1633G>A,Copanlisib + Paclitaxel,DB12483 + DB01229,Sensitive,3
+PIK3CA,5290,c.1633G>A,LY-294002,DB02656,Sensitive,3
+PIK3R2,5296,c.512C>T,MTOR inhibitors,.,Sensitive,3
+PIK3R2,5296,c.1681A>G,MTOR inhibitors,.,Sensitive,3
+PMS2,5395,c.2118delG,Nivolumab,DB09035,Sensitive,2
+POLD1,5424,c.851G>A,Pembrolizumab,DB09037,Sensitive,2
+POLD1,5424,c.1120G>A,Pembrolizumab,DB09037,Sensitive,2
+PPP1R15A,23645,c.752G>C,Bevacizumab + FOLFIRI Regimen,DB00112 + .,Sensitive,2
+PRKAA2,5563,c.514_516,ACLY SiRNA,.,Sensitive,3
+PTEN,5728,c.697C>T,MTOR inhibitors,.,Sensitive,3
+PTEN,5728,c.950_953,MK-2206 + PD184352,. + DB12429,Sensitive,3
+PTEN,5728,c.388C>T,Perifosine,DB06641,Sensitive,3
+PTEN,5728,c.388C>T,Temsirolimus,DB06287,Sensitive,3
+PTEN,5728,c.389G>A,Carboplatin + Paclitaxel + Temsirolimus,DB00958 + DB01229 + DB06287,Sensitive,2
+PTEN,5728,c.377C>G,AZD-6482,DB14980,Sensitive,3
+PTEN,5728,c.377C>G,Alpelisib,DB12015,Sensitive,3
+PTEN,5728,c.823_824delGTinsTA,DHM25,.,Sensitive,3
+PTEN,5728,c.323T>G,BAY1125976,.,Sensitive,3
+PTEN,5728,c.323T>G,DHM25,.,Sensitive,3
+PTEN,5728,c.388C>T,MK2206,.,Sensitive,3
+PTPN11,5781,c.205G>A,SHP099,.,Sensitive,3
+PTPN11,5781,c.226G>A,Cryptotanshinone,DB15579,Sensitive,3
+PTPN11,5781,c.226G>A,U0126,.,Sensitive,3
+PTPN11,5781,c.226G>A,PD98059,.,Sensitive,3
+PTPN11,5781,c.226G>A,II-B08,.,Sensitive,3
+PTPRD,5789,c.757G>A,Cixutumumab,DB12250,Sensitive,2
+PTPRD,5789,c.757G>A,Teprotumumab,DB06343,Sensitive,2
+RAD50,10111,c.3709C>T,AZD7762 + Irinotecan,DB12242 + DB00762,Sensitive,2
+RAD50,10111,c.3709C>T,Irinotecan + CHK1 or CHK2 inhibitors,DB00762 + .,Sensitive,2
+RET,5979,c.1902C>G,Cabozantinib,DB08875,Sensitive,3
+RET,5979,c.2753T>C,Cabozantinib,DB08875,Sensitive,3
+RET,5979,c.1902C>G,Sunitinib,DB01268,Sensitive,3
+RET,5979,c.2753T>C,Sunitinib,DB01268,Sensitive,3
+RET,5979,c.2753T>C,AZD1480,DB12588,Sensitive,3
+RET,5979,c.2753T>C,Sorafenib,DB00398,Sensitive,2
+RET,5979,c.1902C>G,Vandetanib,DB05294,Sensitive,1
+RET,5979,c.2753T>C,Vandetanib,DB05294,Sensitive,1
+RET,5979,c.1901G>T,Sorafenib,DB00398,Sensitive,2
+RET,5979,c.1858T>C,Everolimus,DB01590,Sensitive,2
+RET,5979,c.2671T>G,Sorafenib,DB00398,Sensitive,3
+RET,5979,c.2671T>G,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.2671T>G,Vandetanib,DB05294,Sensitive,3
+RET,5979,c.2071G>A,Dovitinib,DB05928,Sensitive,2
+RET,5979,c.2417A>G,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.1901G>A,ALW-II-41-27,.,Sensitive,3
+RET,5979,c.1901G>A,HG-6-63-01,.,Sensitive,3
+RET,5979,c.1901G>A,Sorafenib,DB00398,Sensitive,2
+RET,5979,c.1901G>A,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.1901G>A,XMD15-44,.,Sensitive,3
+RET,5979,c.2370G>T,Vandetanib,DB05294,Sensitive,3
+RET,5979,c.2370G>T,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.2753T>C,Selpercatinib,DB15685,Sensitive,3
+RET,5979,c.2753T>C,Sorafenib,DB00398,Sensitive,3
+RET,5979,c.2753T>C,HG-6-63-01,.,Sensitive,3
+RET,5979,c.2753T>C,Vandetanib,DB05294,Sensitive,3
+RET,5979,c.2753T>C,Pz-1,.,Sensitive,3
+RET,5979,c.2753T>C,XMD15-44,.,Sensitive,3
+RET,5979,c.2753T>C,Pralsetinib,DB15822,Sensitive,2
+RET,5979,c.2753T>C,Cabozantinib,DB08875,Sensitive,2
+RET,5979,c.2753T>C,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.2753T>C,ALW-II-41-27,.,Sensitive,3
+RET,5979,c.2753T>C,Everolimus,DB01590,Sensitive,2
+RET,5979,c.2372A>T,Vandetanib,DB05294,Sensitive,3
+RET,5979,c.2372A>T,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.2650G>A,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.2647_2648delGCinsTT,Vandetanib,DB05294,Sensitive,3
+RET,5979,c.2647_2648delGCinsTT,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.1902C>G,Pralsetinib,DB15822,Sensitive,3
+RET,5979,c.1902C>G,Selpercatinib,DB15685,Sensitive,3
+RET,5979,c.1902C>G,Regorafenib,DB08896,Sensitive,3
+RET,5979,c.1902C>G,Agerafenib,DB15068,Sensitive,3
+RET,5979,c.1902C>G,Sorafenib,DB00398,Sensitive,3
+RET,5979,c.1902C>G,AZD1480,DB12588,Sensitive,3
+RET,5979,c.1902C>G,Lenvatinib,DB09078,Sensitive,3
+RET,5979,c.1902C>G,ALW-II-41-27,.,Sensitive,3
+RET,5979,c.1902C>G,XMD15-44,.,Sensitive,3
+RET,5979,c.1902C>G,HG-6-63-01,.,Sensitive,3
+RET,5979,c.1902C>G,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.2304G>C,Vandetanib,DB05294,Sensitive,3
+RET,5979,c.2304G>C,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.2410G>C,Pz-1,.,Sensitive,3
+RET,5979,c.2410G>C,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.1900T>C,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.1900T>C,Sorafenib,DB00398,Sensitive,2
+RET,5979,c.1900T>C,Sorafenib,DB00398,Sensitive,3
+RET,5979,c.1900T>C,Vandetanib,DB05294,Sensitive,3
+RET,5979,c.1900T>C,Pz-1,.,Sensitive,3
+RET,5979,c.2410G>A,Sorafenib,DB00398,Sensitive,3
+RET,5979,c.2410G>A,Pz-1,.,Sensitive,3
+RET,5979,c.2410G>A,Ponatinib,DB08901,Sensitive,3
+RET,5979,c.1852T>C,Sorafenib,DB00398,Sensitive,2
+RET,5979,c.2693A>T,Ponatinib,DB08901,Sensitive,3
+ROS1,6098,c.6094G>A,Cabozantinib,DB08875,Sensitive,3
+ROS1,6098,c.5957C>A,Lorlatinib,DB12130,Sensitive,2
+ROS1,6098,c.5957C>T,Lorlatinib,DB12130,Sensitive,2
+ROS1,6098,c.6094G>A,Foretinib,DB12307,Sensitive,3
+ROS1,6098,c.6094G>A,Lorlatinib,DB12130,Sensitive,3
+ROS1,6098,c.6076C>A,Lorlatinib,DB12130,Sensitive,3
+ROS1,6098,c.6076C>A,Foretinib,DB12307,Sensitive,3
+ROS1,6098,c.6302G>C,Foretinib,DB12307,Sensitive,3
+SF3B1,23451,c.2098A>G,Spliceostatin A,.,Sensitive,3
+SF3B1,23451,c.1998G>T,Spliceostatin A,.,Sensitive,3
+SF3B1,23451,c.2098A>G,Spliceosome inhibitors,.,Sensitive,3
+SF3B1,23451,c.1998G>C,Spliceosome inhibitors,.,Sensitive,3
+SF3B1,23451,c.1998G>C,Spliceostatin A,.,Sensitive,3
+SF3B1,23451,c.2098A>G,E7107,DB12508,Sensitive,3
+SMO,6608,c.1921C>G,Vismodegib,DB08828,Sensitive,2
+SMO,6608,c.1417G>C,Patidegib,DB12655,Sensitive,3
+SMO,6608,c.1376C>T,JQ1,.,Sensitive,3
+SMO,6608,c.722C>T,JQ1,.,Sensitive,3
+SMO,6608,c.1222A>G,JQ1,.,Sensitive,3
+SMO,6608,c.1417G>C,TAK-441,.,Sensitive,3
+SMO,6608,c.961G>A,JQ1,.,Sensitive,3
+SMO,6608,c.1160G>A,Arsenic trioxide + Posaconazole,DB01169 + DB01263,Sensitive,3
+SMO,6608,c.1160G>A,Posaconazole,DB01263,Sensitive,3
+SMO,6608,c.1198_1199delCGinsGC,MRT-92,.,Sensitive,3
+SMO,6608,c.843G>T,JQ1,.,Sensitive,3
+SMO,6608,c.1406G>A,JQ1,.,Sensitive,3
+SMO,6608,c.1552G>A,Arsenic trioxide + Posaconazole,DB01169 + DB01263,Sensitive,3
+SMO,6608,c.1552G>A,Posaconazole,DB01263,Sensitive,3
+SMO,6608,c.1604G>T,Sonidegib,DB09143,Sensitive,2
+SMO,6608,c.1604G>T,Arsenic trioxide,DB01169,Sensitive,3
+SMO,6608,c.655A>G,Arsenic trioxide + Posaconazole,DB01169 + DB01263,Sensitive,3
+SMO,6608,c.655A>G,Posaconazole,DB01263,Sensitive,3
+SMO,6608,c.1418A>G,Posaconazole,DB01263,Sensitive,3
+SMO,6608,c.1418A>G,Arsenic trioxide + Posaconazole,DB01169 + DB01263,Sensitive,3
+SMO,6608,c.1150G>A,Posaconazole,DB01263,Sensitive,3
+SMO,6608,c.1150G>A,Arsenic trioxide + Posaconazole,DB01169 + DB01263,Sensitive,3
+STAG2,10735,c.1958C>A,Olaparib,DB09074,Sensitive,3
+STAG2,10735,c.1958C>A,Camptothecin,DB04690,Sensitive,3
+STK11,6794,c.582C>G,Everolimus,DB01590,Sensitive,2
+STK11,6794,c.582C>A,Everolimus,DB01590,Sensitive,2
+STK11,6794,c.892T>C,Everolimus + Radiotherapy,DB01590 + .,Sensitive,2
+STK11,6794,c.995G>A,Trametinib,DB08911,Sensitive,3
+STK11,6794,c.109C>T,Trametinib,DB08911,Sensitive,3
+STK11,6794,c.1060T>C,Everolimus + Exemestane,DB01590 + DB00990,Sensitive,2
+STK11,6794,c.595G>T,Trametinib,DB08911,Sensitive,3
+TP53,7157,c.524G>A,Doxorubicin,DB00997,Sensitive,3
+TP53,7157,c.659A>G,Mitomycin + Cisplatin + Etoposide,DB00305 + DB00515 + DB00773,Sensitive,2
+TP53,7157,c.524G>A,EAP Protocol,.,Sensitive,2
+TP53,7157,c.845G>T,EAP Protocol,.,Sensitive,2
+TP53,7157,c.638G>C,EAP Protocol,.,Sensitive,2
+TP53,7157,c.743G>A,HSP90 inhibitors,.,Sensitive,3
+TP53,7157,c.524G>A,HSP90 inhibitors,.,Sensitive,3
+TP53,7157,c.747G>C,CP-31398,.,Sensitive,3
+TP53,7157,c.517G>A,APR-246,DB11684,Sensitive,2
+TP53,7157,c.742C>T,APR-246 + Cisplatin,DB11684 + DB00515,Sensitive,3
+TP53,7157,c.215C>G,Cisplatin + Irinotecan,DB00515 + DB00762,Sensitive,2
+TP53,7157,c.215C>G,Daunoxome,DB00694,Sensitive,2
+TP53,7157,c.215C>G,Cyclophosphamide + Doxorubicin + Fluorouracil,DB00531 + DB00997 + DB00544,Sensitive,2
+TP53,7157,c.215C>G,Epirubicin,DB00445,Sensitive,2
+TP53,7157,c.215C>G,Doxorubicin + Ifosfamide,DB00997 + DB01181,Sensitive,2
+TP53,7157,c.215C>G,Doxorubicin,DB00997,Sensitive,2
+TP53,7157,c.487T>C,APR-246 + Cisplatin,DB11684 + DB00515,Sensitive,3
+TP53,7157,c.404G>A,APR-246 + Cisplatin,DB11684 + DB00515,Sensitive,3
+TP53,7157,c.743G>A,Tanespimycin,DB05134,Sensitive,3
+TP53,7157,c.743G>A,ReACp53,.,Sensitive,3
+TP53,7157,c.743G>A,APR-246 + Cisplatin,DB11684 + DB00515,Sensitive,3
+TP53,7157,c.743G>A,Napabucasin,DB12155,Sensitive,3
+TP53,7157,c.743G>A,Ganetespib,DB12047,Sensitive,3
+TP53,7157,c.524G>A,NSC59984,.,Sensitive,3
+TP53,7157,c.524G>A,ReACp53,.,Sensitive,3
+TP53,7157,c.524G>A,NSC319726,.,Sensitive,3
+TP53,7157,c.524G>A,Ganetespib,DB12047,Sensitive,3
+TP53,7157,c.524G>A,Alvespimycin + Vorinostat,DB12442 + DB02546,Sensitive,3
+TP53,7157,c.839G>A,APR-246 + Cisplatin,DB11684 + DB00515,Sensitive,3
+TP53,7157,c.839G>A,Ganetespib,DB12047,Sensitive,3
+TP53,7157,c.839G>A,YW3-56,.,Sensitive,3
+TP53,7157,c.488A>G,APR-246 + Cisplatin,DB11684 + DB00515,Sensitive,3
+TP53,7157,c.979_980delTAinsCT,ReACp53,.,Sensitive,3
+TP53,7157,c.701A>G,ReACp53,.,Sensitive,3
+TP53,7157,c.775G>T,Vemurafenib,DB08881,Sensitive,3
+TP53,7157,c.775G>T,Selumetinib,DB11689,Sensitive,3
+TP53,7157,c.775G>T,LY3009120,.,Sensitive,3
+TP53,7157,c.489C>A,MK-1775 + Carboplatin,DB11740 + DB00958,Sensitive,2
+TP53,7157,c.730G>A,Ibrutinib + Rituximab,DB09053 + DB00073,Sensitive,2
+TP53,7157,c.659A>G,CP-31398,.,Sensitive,3
+TP53,7157,c.818G>A,APR-246 + Cisplatin,DB11684 + DB00515,Sensitive,3
+TP53,7157,c.452C>A,APR-246 + Cisplatin,DB11684 + DB00515,Sensitive,3
+TP53,7157,c.524G>T,NSC59984,.,Sensitive,3
+TP53,7157,c.524G>T,NSC319726,.,Sensitive,3
+TP53,7157,c.472C>G,Gedatolisib,DB11896,Sensitive,3
+TP53,7157,c.818G>T,APR-246,DB11684,Sensitive,3
+TP53,7157,c.332T>A,APR-246 + Cisplatin,DB11684 + DB00515,Sensitive,3
+TP53,7157,c.713G>T,APR-246 + Cisplatin,DB11684 + DB00515,Sensitive,3
+TP53,7157,c.580C>T,Tanespimycin,DB05134,Sensitive,3
+TP53,7157,c.580C>T,Tanespimycin + Vorinostat,DB05134 + DB02546,Sensitive,3
+TP53,7157,c.580C>T,Ganetespib,DB12047,Sensitive,3
+TP53,7157,c.580C>T,Vorinostat,DB02546,Sensitive,3
+TP53,7157,c.722C>T,APR-246,DB11684,Sensitive,3
+TP53,7157,c.722C>T,Ganetespib,DB12047,Sensitive,3
+TP53,7157,c.833C>G,APR-246 + Cisplatin,DB11684 + DB00515,Sensitive,3
+TPMT,7172,c.238G>C,Cisplatin,DB00515,Sensitive,1
+TPMT,7172,c.719A>G,Cisplatin,DB00515,Sensitive,1
+TPMT,7172,c.460G>A,Cisplatin,DB00515,Sensitive,1
+TPMT,7172,c.500C>G,Cisplatin,DB00515,Sensitive,1
+TPMT,7172,c.238G>C,Mercaptopurine,DB01033,Sensitive,1
+TPMT,7172,c.719A>G,Mercaptopurine,DB01033,Sensitive,1
+TPMT,7172,c.460G>A,Mercaptopurine,DB01033,Sensitive,1
+TPMT,7172,c.500C>G,Mercaptopurine,DB01033,Sensitive,1
+TPMT,7172,c.238G>C,Tioguanine,DB00352,Sensitive,1
+TPMT,7172,c.719A>G,Tioguanine,DB00352,Sensitive,1
+TPMT,7172,c.460G>A,Tioguanine,DB00352,Sensitive,1
+TPMT,7172,c.500C>G,Tioguanine,DB00352,Sensitive,1
+TSC2,7249,c.3532C>T,Everolimus,DB01590,Sensitive,2
+TSC2,7249,c.196G>A,Temsirolimus,DB06287,Sensitive,2
+UGT1A1,54658,c.211G>A,Irinotecan,DB00762,Sensitive,1
+UGT1A1,54658,c.686C>A,Irinotecan,DB00762,Sensitive,1
+UGT1A1,54658,c.211G>A,Nilotinib,DB04868,Sensitive,1
+UGT1A1,54658,c.686C>A,Nilotinib,DB04868,Sensitive,1
+VHL,7428,c.598C>T,Ruxolitinib,DB08877,Sensitive,2
+WEE1,7465,c.1141+1133A>G,Gemcitabine + PLATINUM,DB00441 + DB12257,Sensitive,2
+XRCC1,7515,c.580C>T,Gemcitabine,DB00441,Sensitive,2
+XRCC1,7515,c.580C>T,Vinorelbine,DB00361,Sensitive,2
+XRCC1,7515,c.580C>T,Docetaxel,DB01248,Sensitive,2
+XRCC1,7515,c.1196A>G,Cisplatin,DB00515,Sensitive,2
+XRCC1,7515,c.1196A>G,Carboplatin,DB00958,Sensitive,2

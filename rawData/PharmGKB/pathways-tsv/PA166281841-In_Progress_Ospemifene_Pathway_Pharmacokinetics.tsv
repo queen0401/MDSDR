@@ -1,0 +1,4 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+ospemifene	ospemifene carboxylic acid	Biochemical Reaction			hepatocyte	23729558		ospemifene		Biochemical reaction from ospemifene to ospemifene carboxylic acid.
+ospemifene	4-hydroxyospemifene	Biochemical Reaction	CYP2B6, CYP2C19, CYP2C9, CYP3A4	Gene	hepatocyte	23729558		ospemifene		Biochemical reaction from ospemifene to 4-hydroxyospemifene. This interaction can be catalyzed by CYP2B6, CYP2C9, CYP2C19 or CYP3A4.
+ospemifene	4'-hydroxyospemifene	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	23729558		ospemifene		Biochemical reaction from ospemifene to 4'-hydroxyospemifene. This interaction can be catalyzed by CYP3A5 or CYP3A4.
