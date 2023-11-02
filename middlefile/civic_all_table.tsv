@@ -1,0 +1,2382 @@
+	data source	chemical name	disease name	gene symbol	variant	label
+0	civic	Daunorubicin	Acute Myeloid Leukemia	DNMT3A	R882	Resistance
+1	civic	Selumetinib	Melanoma	MAP2K1	P124S	Resistance
+2	civic	Selumetinib	Melanoma	MAP2K1	Q56P	Resistance
+3	civic	Vemurafenib	Melanoma	NRAS	Q61	Resistance
+4	civic	Imatinib	Gastrointestinal Stromal Tumor	PDGFRA	D842V	Resistance
+5	civic	Imatinib	Gastrointestinal Stromal Tumor	PDGFRA	D842V	Resistance
+6	civic	Sorafenib	Lung Non-small Cell Carcinoma	ARAF	S214C	Sensitivity/Response
+7	civic	Idarubicin	Acute Myeloid Leukemia	DNMT3A	R882	Sensitivity/Response
+8	civic	Peginterferon Alfa-2b	Polycythemia Vera	JAK2	V617F	Sensitivity/Response
+9	civic	Fedratinib	Polycythemia Vera	JAK2	V617F	Sensitivity/Response
+10	civic	Tanespimycin	Melanoma	NRAS	G13D	Sensitivity/Response
+11	civic	Temozolomide	Melanoma	NRAS	Q61L	Sensitivity/Response
+12	civic	Temozolomide	Melanoma	NRAS	Q61R	Sensitivity/Response
+13	civic	Crizotinib	Inflammatory Myofibroblastic Tumor	ALK	F1174L	Resistance
+14	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	F1174L	Resistance
+15	civic	Sorafenib,Imatinib,Nilotinib	Melanoma	KIT	L576P	Resistance
+16	civic	Erlotinib,Gefitinib	Lung Non-small Cell Carcinoma	KRAS	G12/G13	Resistance
+17	civic	Chemotherapy,Cetuximab	Colorectal Cancer	NRAS	Q61	Resistance
+18	civic	Alectinib	Neuroblastoma	ALK	F1174L	Sensitivity/Response
+19	civic	Crizotinib	Neuroblastoma	ALK	F1174L	Sensitivity/Response
+20	civic	TAE684	Neuroblastoma	ALK	R1275Q	Sensitivity/Response
+21	civic	Sorafenib	Lung Non-small Cell Carcinoma	ARAF	S214C	Sensitivity/Response
+22	civic	Trametinib	Lung Non-small Cell Carcinoma	ARAF	S214C	Sensitivity/Response
+23	civic	Dasatinib	Melanoma	KIT	L576P	Sensitivity/Response
+24	civic	Crenolanib	Gastrointestinal Stromal Tumor	PDGFRA	D842I	Sensitivity/Response
+25	civic	Crenolanib	Gastrointestinal Stromal Tumor	PDGFRA	D842V	Sensitivity/Response
+26	civic	Crenolanib	Gastrointestinal Stromal Tumor	PDGFRA	D842Y	Sensitivity/Response
+27	civic	Crenolanib	Gastrointestinal Stromal Tumor	PDGFRA	I843DEL	Sensitivity/Response
+28	civic	Crenolanib	Gastrointestinal Stromal Tumor	PDGFRA	D842_I843delinsVM	Sensitivity/Response
+29	civic	TAE684	Neuroblastoma	ALK	R1275Q	Resistance
+30	civic	Imatinib	Melanoma	KIT	Exon 11 Mutation	Sensitivity/Response
+31	civic	Motesanib	Thyroid Gland Medullary Carcinoma	RET	C634W	Resistance
+32	civic	Motesanib	Thyroid Gland Medullary Carcinoma	RET	M918T	Resistance
+33	civic	JAK2 Inhibitor AZD1480	Thyroid Gland Medullary Carcinoma	RET	M918T	Sensitivity/Response
+34	civic	Regorafenib	Colorectal Cancer	PIK3CA	E542K	Resistance
+35	civic	Trametinib,Mirdametinib	Melanoma	BRAF	V600E	Resistance
+36	civic	Regorafenib	Colorectal Cancer	KRAS	Exon 2 Mutation	Sensitivity/Response
+37	civic	Panitumumab	Colorectal Cancer	BRAF	V600	Resistance
+38	civic	Panitumumab,Sorafenib	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+39	civic	Vemurafenib	Melanoma	BRAF	V600E	Resistance
+40	civic	Dabrafenib	Lung Non-small Cell Carcinoma	BRAF	V600E	Resistance
+41	civic	Dabrafenib,Trametinib	Melanoma	BRAF	V600	Sensitivity/Response
+42	civic	Dabrafenib	Melanoma	BRAF	V600D	Sensitivity/Response
+43	civic	Dabrafenib,Trametinib	Melanoma	BRAF	V600E	Sensitivity/Response
+44	civic	PLX4720,Pictilisib Bismesylate	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+45	civic	Nutlin-3,PLX4720	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+46	civic	Bevacizumab,Vemurafenib,Capecitabine	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+47	civic	Vemurafenib	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+48	civic	Tretinoin	Acute Myeloid Leukemia	CEBPA	Mutation	Sensitivity/Response
+49	civic	Chemotherapy,Cetuximab	Colorectal Cancer	PIK3CA	Exon 10 Mutation	Resistance
+50	civic	Cetuximab	Colorectal Cancer	NRAS	Q61	Resistance
+51	civic	Crizotinib	Neuroblastoma	ALK	F1174L	Resistance
+52	civic	Cetuximab	Colorectal Cancer	BRAF	V600E	Resistance
+53	civic	Tretinoin	Acute Myeloid Leukemia	FLT3	ITD	Resistance
+54	civic	Daunorubicin	Acute Myeloid Leukemia	FLT3	ITD	Resistance
+55	civic	SU5614	Acute Myeloid Leukemia	FLT3	ITD	Resistance
+56	civic	Chemotherapy,Cetuximab	Colorectal Cancer	KRAS	G12/G13	Resistance
+57	civic	Cetuximab	Colorectal Cancer	KRAS	G12/G13	Resistance
+58	civic	Cetuximab	Colorectal Cancer	KRAS	G12V	Resistance
+59	civic	Tretinoin	Acute Myeloid Leukemia	NPM1	EXON 12 MUTATION	Sensitivity/Response
+60	civic	Chemotherapy,Cetuximab	Colorectal Cancer	PIK3CA	Exon 21 Mutation	Resistance
+61	civic	Daunorubicin,Cytarabine	Acute Myeloid Leukemia	WT1	Exon 7 Mutation	Resistance
+62	civic	TAE684	Neuroblastoma	ALK	F1174L	Sensitivity/Response
+63	civic	Crizotinib	Neuroblastoma	ALK	R1275Q	Sensitivity/Response
+64	civic	PD173074	Bladder Carcinoma	FGFR3	FGFR3::BAIAP2L1	Sensitivity/Response
+65	civic	Cetuximab	Colorectal Cancer	KRAS	G13D	Sensitivity/Response
+66	civic	Tretinoin	Acute Myeloid Leukemia	NPM1	EXON 12 MUTATION	Sensitivity/Response
+67	civic	Daunorubicin	Acute Myeloid Leukemia	NPM1	EXON 12 MUTATION	Sensitivity/Response
+68	civic	Valproic Acid	Acute Myeloid Leukemia	NPM1	EXON 12 MUTATION	Sensitivity/Response
+69	civic	Tretinoin,NSC348884	Acute Myeloid Leukemia	NPM1	EXON 12 MUTATION	Sensitivity/Response
+70	civic	Anti-CD123,Anti-CD33	Acute Myeloid Leukemia	NPM1	EXON 12 MUTATION	Sensitivity/Response
+71	civic	Anti-CD33	Acute Myeloid Leukemia	NPM1	EXON 12 MUTATION	Sensitivity/Response
+72	civic	NSC348884	Acute Myeloid Leukemia	NPM1	W288FS	Sensitivity/Response
+73	civic	Daunorubicin,Cytarabine,Etoposide	Acute Myeloid Leukemia	NPM1	W288FS	Sensitivity/Response
+74	civic	Sirolimus	Lung Non-small Cell Carcinoma	TSC1	Frameshift Truncation	Sensitivity/Response
+75	civic	Everolimus	Bladder Carcinoma	TSC1	Loss-of-function	Sensitivity/Response
+76	civic	Olaparib	Ovarian Cancer	BRCA1	Loss-of-function	Sensitivity/Response
+77	civic	Olaparib	Ovarian Cancer	BRCA2	Loss-of-function	Sensitivity/Response
+78	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+79	civic	Akt Inhibitor MK2206	Breast Cancer	AKT1	E17K	Sensitivity/Response
+80	civic	Imatinib	Acute Myeloid Leukemia	ABL1	BCR::ABL	Resistance
+81	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Resistance
+82	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Resistance
+83	civic	Dacomitinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Resistance
+84	civic	Lapatinib	Breast Cancer	ERBB2	L755S	Resistance
+85	civic	Hormone Therapy	Breast Cancer	ESR1	L536Q	Resistance
+86	civic	Hormone Therapy	Breast Cancer	ESR1	D538G	Resistance
+87	civic	Hormone Therapy	Breast Cancer	ESR1	Y537C	Resistance
+88	civic	Hormone Therapy	Breast Cancer	ESR1	Y537N	Resistance
+89	civic	Hormone Therapy	Breast Cancer	ESR1	Y537S	Resistance
+90	civic	Sorafenib	Acute Myeloid Leukemia	FLT3	TKD MUTATION	Resistance
+91	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	V654A	Resistance
+92	civic	Cetuximab	Colorectal Cancer	KRAS	Exon 2 Mutation	Resistance
+93	civic	Erlotinib,Gefitinib	Lung Adenocarcinoma	KRAS	G12A	Resistance
+94	civic	Cetuximab,Panitumumab	Colorectal Cancer	PIK3CA	H1047R	Resistance
+95	civic	Imatinib	Acute Myeloid Leukemia	ABL1	BCR::ABL	Sensitivity/Response
+96	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL	Sensitivity/Response
+97	civic	Dasatinib,Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL	Sensitivity/Response
+98	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	EML4::ALK	Sensitivity/Response
+99	civic	Palbociclib	T-cell Lymphoblastic Leukemia/lymphoma	CCND3	Loss	Sensitivity/Response
+100	civic	Alpelisib	Estrogen-receptor Positive Breast Cancer	CDK4	EXPRESSION	Sensitivity/Response
+101	civic	Dasatinib	Lung Non-small Cell Carcinoma	DDR2	G253C	Sensitivity/Response
+102	civic	Dasatinib	Lung Non-small Cell Carcinoma	DDR2	G505S	Sensitivity/Response
+103	civic	Dasatinib	Lung Non-small Cell Carcinoma	DDR2	G774V	Sensitivity/Response
+104	civic	Dasatinib	Lung Non-small Cell Carcinoma	DDR2	I638F	Sensitivity/Response
+105	civic	Dasatinib	Lung Non-small Cell Carcinoma	DDR2	L239R	Sensitivity/Response
+106	civic	Dasatinib	Lung Non-small Cell Carcinoma	DDR2	L63V	Sensitivity/Response
+107	civic	Dasatinib,Erlotinib	Lung Non-small Cell Carcinoma	DDR2	S768R	Sensitivity/Response
+108	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+109	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	G719S	Sensitivity/Response
+110	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+111	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+112	civic	Pemetrexed,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+113	civic	Staurosporine	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+114	civic	Neratinib,Lapatinib	Breast Cancer	ERBB2	D769H	Sensitivity/Response
+115	civic	Neratinib	Breast Cancer	ERBB2	D769Y	Sensitivity/Response
+116	civic	Neratinib	Breast Cancer	ERBB2	L755_T759del	Sensitivity/Response
+117	civic	Neratinib	Breast Cancer	ERBB2	G309A	Sensitivity/Response
+118	civic	Neratinib	Breast Cancer	ERBB2	L755S	Sensitivity/Response
+119	civic	Neratinib	Breast Cancer	ERBB2	L755W	Sensitivity/Response
+120	civic	Neratinib	Breast Cancer	ERBB2	P780INS	Sensitivity/Response
+121	civic	Lapatinib,Neratinib	Breast Cancer	ERBB2	R678Q	Sensitivity/Response
+122	civic	Neratinib	Breast Cancer	ERBB2	R896C	Sensitivity/Response
+123	civic	Neratinib	Breast Cancer	ERBB2	V777L	Sensitivity/Response
+124	civic	Neratinib	Breast Cancer	ERBB2	V842I	Sensitivity/Response
+125	civic	Tamoxifen,Fulvestrant	Breast Cancer	ESR1	L536Q	Sensitivity/Response
+126	civic	Fulvestrant,Tamoxifen	Breast Cancer	ESR1	D538G	Sensitivity/Response
+127	civic	Tamoxifen,Fulvestrant	Breast Cancer	ESR1	Y537C	Sensitivity/Response
+128	civic	Fulvestrant,Tamoxifen	Breast Cancer	ESR1	Y537N	Sensitivity/Response
+129	civic	Tamoxifen,Fulvestrant	Breast Cancer	ESR1	Y537S	Sensitivity/Response
+130	civic	Ponatinib	Cholangiocarcinoma	FGFR2	FGFR2::MGEA5	Sensitivity/Response
+131	civic	Ponatinib,Pazopanib	Cholangiocarcinoma	FGFR2	FGFR2::TACC3	Sensitivity/Response
+132	civic	Lestaurtinib	Acute Myeloid Leukemia	FLT3	ITD	Sensitivity/Response
+133	civic	Sorafenib	Acute Myeloid Leukemia	FLT3	ITD	Sensitivity/Response
+134	civic	Tyrphostin AG 1296	Acute Myeloid Leukemia	FLT3	ITD	Sensitivity/Response
+135	civic	Bortezomib,Fasudil	Lung Adenocarcinoma	GATA2	EXPRESSION	Sensitivity/Response
+136	civic	Imatinib	Malignant Anus Melanoma	KIT	Internal Duplication	Sensitivity/Response
+137	civic	Nilotinib,Imatinib,Dasatinib	Lung Non-small Cell Carcinoma	KIT	L576P	Sensitivity/Response
+138	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	V654A	Sensitivity/Response
+139	civic	Selumetinib,Dactolisib	Lung Non-small Cell Carcinoma	KRAS	G12D	Sensitivity/Response
+140	civic	Cetuximab	Colorectal Cancer	KRAS	G13D	Sensitivity/Response
+141	civic	Temozolomide	Glioblastoma	MGMT	Promoter Methylation	Sensitivity/Response
+142	civic	Carmustine	Glioblastoma	MGMT	Promoter Methylation	Sensitivity/Response
+143	civic	O6-Benzylguanine	Glioblastoma	MGMT	Promoter Methylation	Sensitivity/Response
+144	civic	PI3K-alpha Inhibitor MEN1611	Breast Cancer	PIK3CA	E542K	Sensitivity/Response
+145	civic	Sirolimus	Breast Cancer	PIK3CA	E542K	Sensitivity/Response
+146	civic	PI3K-alpha Inhibitor MEN1611	Breast Cancer	PIK3CA	H1047R	Sensitivity/Response
+147	civic	Tretinoin	Acute Promyelocytic Leukemia	PML	PML::RARA	Sensitivity/Response
+148	civic	MTOR Inhibitor	Breast Cancer	PTEN	R233*	Sensitivity/Response
+149	civic	Doxorubicin	Breast Cancer	TP53	R175H	Sensitivity/Response
+150	civic	Everolimus	Invasive Bladder Transitional Cell Carcinoma	TSC1	Frameshift Truncation	Sensitivity/Response
+151	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL	Sensitivity/Response
+152	civic	Panitumumab,Cetuximab	Colorectal Cancer	PIK3CA	E545K	Resistance
+153	civic	Cetuximab,Panitumumab	Colorectal Cancer	PIK3CA	H1047R	Resistance
+154	civic	Doxorubicin	Breast Cancer	TP53	R249	Sensitivity/Response
+155	civic	Imatinib,GW-2580	Acute Lymphoblastic Leukemia	CSF1R	MEF2D::CSF1R	Sensitivity/Response
+156	civic	Cytarabine	Acute Myeloid Leukemia	RUNX1	Mutation	Resistance
+157	civic	Linsitinib	Prostate Cancer	IGF2	Overexpression	Sensitivity/Response
+158	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+159	civic	Cabazitaxel,Linsitinib,Docetaxel	Prostate Cancer	IGF2	Overexpression	Sensitivity/Response
+160	civic	Ibrutinib	Chronic Lymphocytic Leukemia	BTK	C481S	Resistance
+161	civic	Vemurafenib	Melanoma	AKT1	Q79K	Resistance
+162	civic	JW55	Colon Carcinoma	APC	Mutation	Sensitivity/Response
+163	civic	G007-LK	Colorectal Cancer	APC	Mutation	Sensitivity/Response
+164	civic	Enzalutamide,Apalutamide	Prostate Cancer	AR	F877L	Resistance
+165	civic	Bicalutamide	Prostate Carcinoma	AR	W742	Resistance
+166	civic	Temozolomide	Glioblastoma	ATM	Mutation	Sensitivity/Response
+167	civic	Temozolomide	Melanoma	ATM	Mutation	Sensitivity/Response
+168	civic	NU7441,KU-0060648	Cancer	ATM	Underexpression	Sensitivity/Response
+169	civic	Olaparib	Hematologic Cancer	ATM	Mutation	Sensitivity/Response
+170	civic	Cisplatin,Alisertib	Esophagus Adenocarcinoma	AURKA	Amplification	Sensitivity/Response
+171	civic	Paclitaxel	Cervical Adenocarcinoma	AURKA	Overexpression	Resistance
+172	civic	Imatinib	Thymic Carcinoma	KIT	V560DEL	Sensitivity/Response
+173	civic	Tamoxifen	Breast Cancer	PGR	Expression	Sensitivity/Response
+174	civic	Exemestane,Tamoxifen	Breast Cancer	PGR	Expression	Sensitivity/Response
+175	civic	Cetuximab	Colorectal Cancer	PTEN	Loss	Resistance
+176	civic	Temsirolimus	Prostate Cancer	PTEN	Loss	Sensitivity/Response
+177	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+178	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+179	civic	Gemcitabine,Trametinib	Pancreatic Adenocarcinoma	KRAS	G12/G13	Resistance
+180	civic	Olaparib	Ovarian Serous Carcinoma	CDK12	Loss-of-function	Sensitivity/Response
+181	civic	Mercaptopurine,Thioguanine	T-cell Acute Lymphoblastic Leukemia	NT5C2	R367Q	Resistance
+182	civic	Thioguanine,Mercaptopurine	T-cell Acute Lymphoblastic Leukemia	NT5C2	K359Q	Resistance
+183	civic	Mercaptopurine,Thioguanine	T-cell Acute Lymphoblastic Leukemia	NT5C2	D407A	Resistance
+184	civic	Arabinosylguanine,Nelarabine	T-cell Acute Lymphoblastic Leukemia	NT5C2	R367Q	Resistance
+185	civic	Nelarabine,Arabinosylguanine	T-cell Acute Lymphoblastic Leukemia	NT5C2	D407A	Resistance
+186	civic	Arabinosylguanine,Nelarabine	T-cell Acute Lymphoblastic Leukemia	NT5C2	K359Q	Resistance
+187	civic	Multikinase Inhibitor AEE788,Gefitinib	Lung Cancer	EGFR	T790M	Resistance
+188	civic	Everolimus	Bladder Carcinoma	PTEN	Loss	Resistance
+189	civic	Trastuzumab	Breast Cancer	PTEN	Loss	Resistance
+190	civic	Rociletinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+191	civic	Olaparib	Prostate Cancer	ATM	S2289*	Sensitivity/Response
+192	civic	Olaparib	Prostate Cancer	ATM	N2875H	Sensitivity/Response
+193	civic	Cisplatin,Carboplatin	Peritoneal Mesothelioma	NF2	Y177fs	Resistance
+194	civic	Olaparib	Prostate Cancer	BRCA2	Loss-of-function	Sensitivity/Response
+195	civic	Imatinib	Gastrointestinal Stromal Tumor	PDGFRA	D842V	Resistance
+196	civic	Imatinib	Gastrointestinal Stromal Tumor	PDGFRA	V561A	Sensitivity/Response
+197	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	Exon 11 Mutation	Sensitivity/Response
+198	civic	Docetaxel,Vinorelbine,Gemcitabine	Lung Non-small Cell Carcinoma	XRCC1	R194W	Sensitivity/Response
+199	civic	Carboplatin,Paclitaxel,Cisplatin	Ovarian Carcinoma	GSTP1	Deletion	Sensitivity/Response
+200	civic	Cisplatin	Colon Cancer	BIRC7	Amplification	Resistance
+201	civic	Cisplatin	Epithelial Ovarian Cancer	EGFR	Exon 4 Deletion	Resistance
+202	civic	Carboplatin,Paclitaxel	Epithelial Ovarian Cancer	KRAS	RS61764370	Resistance
+203	civic	Fluorouracil	Stomach Cancer	MTHFR	A222V	Sensitivity/Response
+204	civic	FOLFOX Regimen	Colorectal Cancer	GSTP1	I105V	Sensitivity/Response
+205	civic	Carboplatin,Cisplatin	Cervical Cancer	XRCC1	Q399R	Sensitivity/Response
+206	civic	Paclitaxel	Ovarian Cancer	ABCB1	S893T	Sensitivity/Response
+207	civic	Cisplatin,Carboplatin	Lung Non-small Cell Carcinoma	ABCB1	I1145I	Sensitivity/Response
+208	civic	Cisplatin	Osteosarcoma	ERCC2	K751Q	Resistance
+209	civic	Carboplatin,Paclitaxel	Lung Non-small Cell Carcinoma	ERCC2	K751Q	Sensitivity/Response
+210	civic	Irinotecan,Fluorouracil	Colorectal Cancer	TYMS	5' TANDEM REPEAT	Resistance
+211	civic	Doxorubicin	Ovarian Cancer	LRP1B	EXON 12-22 DELETION	Resistance
+212	civic	PD173074	Lung Squamous Cell Carcinoma	FGFR1	Amplification	Sensitivity/Response
+213	civic	Ponatinib	Lung Cancer	FGFR1	Expression	Sensitivity/Response
+214	civic	PD173074	Lung Non-small Cell Carcinoma	FGFR1	Amplification	Sensitivity/Response
+215	civic	Crizotinib	Lung Non-small Cell Carcinoma	ROS1	Rearrangement	Sensitivity/Response
+216	civic	Onartuzumab	Gastric Adenocarcinoma	MET	Amplification	Sensitivity/Response
+217	civic	Platinum Compound,Cetuximab,Fluorouracil	Head And Neck Squamous Cell Carcinoma	EGFR	Amplification	Sensitivity/Response
+218	civic	Cetuximab	Head And Neck Squamous Cell Carcinoma	EGFR	Overexpression	Sensitivity/Response
+219	civic	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	Lung Non-small Cell Carcinoma	EGFR	Overexpression	Sensitivity/Response
+220	civic	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	Head And Neck Squamous Cell Carcinoma	CDKN2A	p16 Expression	Resistance
+221	civic	Panitumumab	Head And Neck Squamous Cell Carcinoma	CDKN2A	p16 Expression	Resistance
+222	civic	Cetuximab	Head And Neck Squamous Cell Carcinoma	CDKN2A	p16 Expression	Resistance
+223	civic	Vandetanib	Lung Adenocarcinoma	RET	KIF5B::RET	Sensitivity/Response
+224	civic	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	Colorectal Cancer	HRAS	G13D	Resistance
+225	civic	MTOR Kinase Inhibitor AZD8055,Mirdametinib,Everolimus,Binimetinib,Selumetinib	Cancer	HRAS	Mutation	Sensitivity/Response
+226	civic	Nivolumab,Pembrolizumab	Melanoma	CD274	Expression	Sensitivity/Response
+227	civic	Everolimus,Pazopanib	Bladder Carcinoma	MTOR	Mutation	Sensitivity/Response
+228	civic	Trastuzumab	Breast Cancer	AKT2	EXPRESSION	Sensitivity/Response
+229	civic	Uprosertib	Melanoma	AKT1	E17K	Sensitivity/Response
+230	civic	Uprosertib	Melanoma	PTEN	Loss	Sensitivity/Response
+231	civic	Capivasertib	Breast Cancer	AKT1	E17K	Sensitivity/Response
+232	civic	Pictilisib,Akt Inhibitor MK2206	Breast Cancer	PIK3CA	E545K	Sensitivity/Response
+233	civic	PI3Kbeta Inhibitor AZD8186	Breast Cancer	PTEN	Loss	Sensitivity/Response
+234	civic	PI3K/BET Inhibitor LY294002,Capivasertib	Melanoma	MTOR	H1968Y	Sensitivity/Response
+235	civic	Paclitaxel,Carboplatin,Buparlisib	Cancer	PTEN	Loss	Sensitivity/Response
+236	civic	Temsirolimus	Breast Cancer	NF2	K159fs	Sensitivity/Response
+237	civic	Alpelisib	Breast Cancer	PTEN	Loss	Resistance
+238	civic	Cetuximab	Colorectal Cancer	EGFR	S492R	Resistance
+239	civic	Panitumumab,Cetuximab	Colorectal Cancer	FBXW7	Mutation	Resistance
+240	civic	Cetuximab,Panitumumab	Colorectal Cancer	SMAD4	Mutation	Resistance
+241	civic	Cetuximab	Head And Neck Squamous Cell Carcinoma	SMAD4	Underexpression	Resistance
+242	civic	PI3K/BET Inhibitor LY294002,Capivasertib	Melanoma	MTOR	P2213S	Sensitivity/Response
+243	civic	Sorafenib	Melanoma	BRAF	AGK::BRAF	Sensitivity/Response
+244	civic	Vemurafenib	Melanoma	BRAF	AGK::BRAF	Resistance
+245	civic	Vemurafenib	Melanoma	BRAF	PAPSS1::BRAF	Resistance
+246	civic	Trametinib	Melanoma	BRAF	PAPSS1::BRAF	Sensitivity/Response
+247	civic	Trametinib	Melanoma	BRAF	TRIM24::BRAF	Sensitivity/Response
+248	civic	Vemurafenib	Melanoma	BRAF	L597R	Sensitivity/Response
+249	civic	Cetuximab	Colorectal Cancer	ERBB3	Overexpression	Resistance
+250	civic	Cetuximab	Colorectal Cancer	NT5E	Overexpression	Sensitivity/Response
+251	civic	GSK321	Acute Myeloid Leukemia	IDH1	R132C	Sensitivity/Response
+252	civic	Gefitinib	Lung Non-small Cell Carcinoma	MET	Amplification	Resistance
+253	civic	Paclitaxel	Breast Cancer	MYD88	Overexpression	Resistance
+254	civic	Crizotinib	Lung Non-small Cell Carcinoma	MET	Amplification	Sensitivity/Response
+255	civic	Crizotinib	Cancer	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+256	civic	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	Lung Non-small Cell Carcinoma	EGFR	Overexpression	Sensitivity/Response
+257	civic	Imatinib	Gastrointestinal Stromal Tumor	PDGFRA	D842V	Resistance
+258	civic	Idelalisib	Merkel Cell Carcinoma	PIK3CA	P471L	Sensitivity/Response
+259	civic	Vandetanib	Breast Cancer	RET	Overexpression	Sensitivity/Response
+260	civic	Pictilisib,Selumetinib	Lung Adenocarcinoma	RIT1	Mutation	Sensitivity/Response
+261	civic	Pembrolizumab,Nivolumab	Lung Non-small Cell Carcinoma	CD274	Expression	Sensitivity/Response
+262	civic	FACT Complex-targeting Curaxin CBL0137	Neuroblastoma	MYCN	Amplification	Sensitivity/Response
+263	civic	Vismodegib	Medulloblastoma	SMO	D473H	Resistance
+264	civic	Vismodegib	Basal Cell Carcinoma	SMO	Mutation	Resistance
+265	civic	Arsenic Trioxide,PSI	Basal Cell Carcinoma	SMO	Mutation	Sensitivity/Response
+266	civic	Sonidegib	Medulloblastoma	PTCH1	Mutation	Sensitivity/Response
+267	civic	Vismodegib	Medulloblastoma	PTCH1	LOH	Sensitivity/Response
+268	civic	SB202190	Prostate Cancer	STK11	Underexpression	Sensitivity/Response
+269	civic	Paclitaxel	Ovarian Cancer	SYK	OVEREXPRESSION	Resistance
+270	civic	Panitumumab	Head And Neck Squamous Cell Carcinoma	CDKN2A	p16 Expression	Sensitivity/Response
+271	civic	Vismodegib	Basal Cell Carcinoma	SMO	D473H	Resistance
+272	civic	Pictilisib	Epithelial Ovarian Cancer	PIK3CA	Amplification	Sensitivity/Response
+273	civic	Pictilisib	Melanoma	BRAF	V600E	Sensitivity/Response
+274	civic	Cetuximab	Oropharynx Cancer	CDKN2A	p16 Expression	Resistance
+275	civic	AKTi-1/2	Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+276	civic	Neratinib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+277	civic	Rociletinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+278	civic	Lapatinib	Melanoma	ERBB4	Mutation	Sensitivity/Response
+279	civic	Cabozantinib	Colorectal Cancer	PIK3CA	Mutation	Sensitivity/Response
+280	civic	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	Glioblastoma	EGFR	VIII	Sensitivity/Response
+281	civic	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	Glioblastoma	PTEN	Expression	Sensitivity/Response
+282	civic	Dacomitinib	Glioblastoma	PTEN	Expression	Sensitivity/Response
+283	civic	Lapatinib	Head And Neck Squamous Cell Carcinoma	NRG1	Expression	Sensitivity/Response
+284	civic	Cetuximab	Colorectal Cancer	NRG1	Expression	Resistance
+285	civic	Seribantumab	Ovarian Cancer	NRG1	Expression	Sensitivity/Response
+286	civic	Gemcitabine,Paclitaxel,Cisplatin,Carboplatin	Lung Non-small Cell Carcinoma	NRG1	Expression	Sensitivity/Response
+287	civic	Crizotinib	Lung Non-small Cell Carcinoma	AREG	Expression	Resistance
+288	civic	Crizotinib	Lung Non-small Cell Carcinoma	AREG	Expression	Resistance
+289	civic	Nimotuzumab	Esophagus Squamous Cell Carcinoma	EGFR	Overexpression	Sensitivity/Response
+290	civic	Cetuximab	Colorectal Cancer	EGFR	G724S	Sensitivity/Response
+291	civic	Cetuximab	Colorectal Cancer	EGFR	G719S	Sensitivity/Response
+292	civic	Cetuximab	Colorectal Cancer	AREG	Expression	Sensitivity/Response
+293	civic	Cetuximab	Colorectal Cancer	EREG	EXPRESSION	Sensitivity/Response
+294	civic	Erlotinib	Head And Neck Squamous Cell Carcinoma	MAPK1	E322K	Sensitivity/Response
+295	civic	WZ4002	Lung Non-small Cell Carcinoma	MAPK1	Amplification	Resistance
+296	civic	Abemaciclib	Lung Non-small Cell Carcinoma	KRAS	A146V	Sensitivity/Response
+297	civic	Palbociclib	Lung Non-small Cell Carcinoma	KRAS	G12V	Sensitivity/Response
+298	civic	Foretinib	Papillary Renal Cell Carcinoma	MET	Mutation	Sensitivity/Response
+299	civic	Crizotinib	Lung Adenocarcinoma	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+300	civic	Infigratinib	Head And Neck Squamous Cell Carcinoma	FGFR1	Expression	Sensitivity/Response
+301	civic	Infigratinib	Gastric Adenocarcinoma	FGFR1	Expression	Sensitivity/Response
+302	civic	PD173074,Dovitinib	Bladder Carcinoma	FGFR1	Expression	Sensitivity/Response
+303	civic	Tyrosine Kinase Inhibitor SU5402,PD173074,Dovitinib	Bladder Carcinoma	FGFR3	Overexpression	Sensitivity/Response
+304	civic	Olaparib	Cancer	CBLC	EXPRESSION	Resistance
+305	civic	Cetuximab	Colorectal Cancer	KRAS	G13D	Resistance
+306	civic	JSI-124	Head And Neck Carcinoma	PTPRD	Mutation	Sensitivity/Response
+307	civic	Docetaxel	Prostate Cancer	DEFA1	EXPRESSION	Sensitivity/Response
+308	civic	Cisplatin	Bladder Carcinoma	ERCC1	Expression	Sensitivity/Response
+309	civic	NOTCH1 Antibody (PF-06293622)	Colorectal Cancer	NOTCH1	Amplification	Sensitivity/Response
+310	civic	Patritumab	Lung Non-small Cell Carcinoma	NRG1	Expression	Sensitivity/Response
+311	civic	Platinum Compound,Gemcitabine	Lung Non-small Cell Carcinoma	WEE1	RS3910384	Sensitivity/Response
+312	civic	Lonafarnib	Ovarian Cancer	FNTB	RS11623866	Resistance
+313	civic	Panitumumab,Cetuximab	Colorectal Cancer	BRAF	V600E	Resistance
+314	civic	Stattic,JSI-124	Head And Neck Squamous Cell Carcinoma	PTPRT	Promoter Hypermethylation	Sensitivity/Response
+315	civic	Irinotecan,Levoleucovorin,Fluorouracil,Bevacizumab	Colorectal Cancer	VEGFA	Decreased Peri-therapeutic Expression	Sensitivity/Response
+316	civic	Decitabine	Ovarian Cancer	DNMT1	EXPRESSION	Sensitivity/Response
+317	civic	Decitabine	Ovarian Cancer	KRAS	Mutation	Sensitivity/Response
+318	civic	Paclitaxel	Lung Cancer	PDCD4	EXPRESSION	Sensitivity/Response
+319	civic	Temozolomide	Glioblastoma	MGMT	RS16906252	Sensitivity/Response
+320	civic	Tamoxifen,Aminoglutethimide	Breast Cancer	TFF3	EXPRESSION	Sensitivity/Response
+321	civic	Irinotecan,Levoleucovorin,Oxaliplatin,Fluorouracil	Colorectal Cancer	DKK1	NUCLEAR EXPRESSION	Resistance
+322	civic	RG7356	Cancer	CD44	CD44s Expression	Sensitivity/Response
+323	civic	Cetuximab	Head And Neck Squamous Cell Carcinoma	EGF	EXPRESSION	Resistance
+324	civic	Cisplatin,Pemetrexed	Malignant Pleural Mesothelioma	MDM2	EXPRESSION	Resistance
+325	civic	Sunitinib,Sorafenib	Renal Cell Carcinoma	HMOX1	EXPRESSION	Resistance
+326	civic	Conatumumab	Ewing Sarcoma Of Bone	CASP8	Overexpression	Sensitivity/Response
+327	civic	Pemetrexed	Lung Non-small Cell Carcinoma	TYMS	Overexpression	Resistance
+328	civic	Gefitinib	Lung Non-small Cell Carcinoma	PBK	OVEREXPRESSION	Resistance
+329	civic	Crizotinib	Lung Adenocarcinoma	MET	Amplification	Sensitivity/Response
+330	civic	Vinorelbine,Cisplatin	Lung Non-small Cell Carcinoma	SMARCA4	Underexpression	Sensitivity/Response
+331	civic	Olaparib	Prostate Cancer	BRCA1	Loss-of-function	Sensitivity/Response
+332	civic	Docetaxel,Cetuximab	Head And Neck Squamous Cell Carcinoma	AREG	Expression	Resistance
+333	civic	Cetuximab,Docetaxel	Head And Neck Squamous Cell Carcinoma	EGFR	VIII	Resistance
+334	civic	Cetuximab,Docetaxel	Head And Neck Squamous Cell Carcinoma	EGFR	Overexpression	Sensitivity/Response
+335	civic	Chemotherapy	Gastric Adenocarcinoma	TP53	Mutation	Sensitivity/Response
+336	civic	Doxorubicin	Breast Cancer	TP53	Mutation	Sensitivity/Response
+337	civic	Fluorouracil	Colorectal Cancer	CDKN1A	EXPRESSION	Resistance
+338	civic	Fluorouracil	Colorectal Cancer	ALCAM	EXPRESSION	Resistance
+339	civic	Panitumumab,Cetuximab	Colorectal Cancer	EGFR	Amplification	Sensitivity/Response
+340	civic	Paclitaxel	Endometrial Carcinoma	STMN1	EXPRESSION	Resistance
+341	civic	Tamoxifen	Estrogen-receptor Positive Breast Cancer	CCND1	Overexpression	Resistance
+342	civic	Tamoxifen	Breast Cancer	RSF1	Amplification	Resistance
+343	civic	Tamoxifen	Breast Cancer	CCND1	Amplification	Resistance
+344	civic	Dactolisib	Breast Cancer	AR	OVEREXPRESSION	Sensitivity/Response
+345	civic	Lapatinib	Breast Cancer	CDKN1B	CYTOPLASMIC MISLOCALIZATION	Resistance
+346	civic	Anti-ErbB3 Monoclonal Antibody AV-203	Cancer	NRG1	Expression	Sensitivity/Response
+347	civic	Anti-ErbB3 Monoclonal Antibody AV-203	Cancer	ERBB3	EXPRESSION	Sensitivity/Response
+348	civic	Abiraterone,Enzalutamide	Prostate Cancer	AR	V7 EXPRESSION	Resistance
+349	civic	Lapatinib,Trastuzumab	Gastric Adenocarcinoma	PTEN	Loss	Resistance
+350	civic	9F7-F11,Pertuzumab	Pancreatic Ductal Adenocarcinoma	ERBB3	EXPRESSION	Sensitivity/Response
+351	civic	Ganetespib	Colorectal Cancer	UGT1A	EXPRESSION	Resistance
+352	civic	Trastuzumab	Breast Cancer	ERBB4	NUCLEAR TRANSLOCATION	Resistance
+353	civic	Trastuzumab	Breast Cancer	ERBB4	EXPRESSION	Resistance
+354	civic	Lapatinib	Breast Cancer	ERBB4	EXPRESSION	Resistance
+355	civic	7-Ethyl-10-Hydroxycamptothecin	Colorectal Cancer	SLFN11	EXPRESSION	Sensitivity/Response
+356	civic	Cisplatin	Lung Non-small Cell Carcinoma	AURKA	Overexpression	Resistance
+357	civic	Cisplatin	Head And Neck Squamous Cell Carcinoma	KRAS	RS61764370	Resistance
+358	civic	Vemurafenib,Dabrafenib	Melanoma	RAC1	P29S	Resistance
+359	civic	Platinum Compound,Taxane Compound	Lung Non-small Cell Carcinoma	BIRC5	NUCLEAR EXPRESSION	Sensitivity/Response
+360	civic	Cetuximab,Oxaliplatin,Capecitabine	Colorectal Cancer	TP53	Wildtype	Sensitivity/Response
+361	civic	Talazoparib	Endometrial Cancer	MRE11	Loss	Sensitivity/Response
+362	civic	Olaparib	Gastric Adenocarcinoma	ATM	Underexpression	Sensitivity/Response
+363	civic	Afatinib	Lung Adenocarcinoma	EGFR	L858R	Sensitivity/Response
+364	civic	Afatinib	Lung Adenocarcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+365	civic	Afatinib	Lung Non-small Cell Carcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+366	civic	Afatinib	Lung Adenocarcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+367	civic	Afatinib	Lung Adenocarcinoma	EGFR	L858R	Sensitivity/Response
+368	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+369	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+370	civic	Afatinib	Uterine Corpus Endometrial Carcinoma	ERBB2	Amplification	Sensitivity/Response
+371	civic	Trastuzumab,Lapatinib,Afatinib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+372	civic	Irinotecan	Colorectal Cancer	TOP1	Amplification	Sensitivity/Response
+373	civic	Fluorouracil,Cisplatin	Head And Neck Squamous Cell Carcinoma	CDKN1B	EXPRESSION	Sensitivity/Response
+374	civic	Crizotinib	Lung Squamous Cell Carcinoma	MET	Amplification	Sensitivity/Response
+375	civic	Tamoxifen	Breast Cancer	AGR2	EXPRESSION	Resistance
+376	civic	Temsirolimus,Ridaforolimus	Endometrial Cancer	PIK3CA	Mutation	Sensitivity/Response
+377	civic	Temsirolimus,Ridaforolimus	Endometrial Cancer	PTEN	Loss	Resistance
+378	civic	Temsirolimus,Ridaforolimus	Endometrial Cancer	KRAS	Mutation	Sensitivity/Response
+379	civic	Cetuximab,Oxaliplatin,Capecitabine	Colorectal Cancer	ERBB2	Amplification	Resistance
+380	civic	Infigratinib	Colorectal Cancer	FGFR1	Expression	Sensitivity/Response
+381	civic	GNE-617	Cancer	NAPRT	Promoter Hypermethylation	Sensitivity/Response
+382	civic	Bevacizumab,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Exon 18 Overexpression	Sensitivity/Response
+383	civic	Gemcitabine,Cytarabine,Doxorubicin	Mantle Cell Lymphoma	ZEB1	Expression	Resistance
+384	civic	Doxorubicin,Salinomycin	Mantle Cell Lymphoma	ZEB1	Expression	Sensitivity/Response
+385	civic	Fulvestrant	Breast Cancer	TIMP1	Overexpression	Resistance
+386	civic	Cetuximab	Colorectal Cancer	PTP4A3	OVEREXPRESSION	Sensitivity/Response
+387	civic	Pemetrexed	Lung Adenocarcinoma	TYMS	Amplification	Resistance
+388	civic	Gefitinib	Lung Non-small Cell Carcinoma	IGF1R	EXPRESSION	Resistance
+389	civic	Bevacizumab	Colorectal Cancer	EPHB4	EXPRESSION	Resistance
+390	civic	Chemotherapy	Esophageal Carcinoma	TP53	Wildtype	Sensitivity/Response
+391	civic	Pemetrexed	Lung Non-small Cell Carcinoma	TYMS	Underexpression	Sensitivity/Response
+392	civic	Pemetrexed	Prostate Cancer	TYMS	Underexpression	Sensitivity/Response
+393	civic	Doxorubicin	Breast Cancer	TOP2A	EXPRESSION	Sensitivity/Response
+394	civic	Topotecan,Carboplatin,Cyclophosphamide	Ovarian Cancer	TOP1	EXPRESSION	Sensitivity/Response
+395	civic	Cetuximab	Colorectal Cancer	EGFR	Amplification	Sensitivity/Response
+396	civic	Irinotecan	Colorectal Cancer	TOP1	EXPRESSION	Sensitivity/Response
+397	civic	ACLY SiRNA	Cancer	PRKAA2	T172 PHOSPHORYLATION	Sensitivity/Response
+398	civic	Fluorouracil	Colorectal Cancer	HSPA5	EXPRESSION	Sensitivity/Response
+399	civic	Anti-EGFR Monoclonal Antibody	Colorectal Cancer	PIK3CA	Mutation	Resistance
+400	civic	Erlotinib	Pancreatic Carcinoma	KRAS	Exon 2 Mutation	Resistance
+401	civic	Everolimus	Gastric Adenocarcinoma	EIF4EBP1	PHOSPHORYLATION	Sensitivity/Response
+402	civic	Imatinib,Pictilisib	Gastrointestinal Stromal Tumor	KIT	Mutation	Sensitivity/Response
+403	civic	Paclitaxel	Cancer	TUBB3	EXPRESSION	Resistance
+404	civic	Taxane Compound	Breast Cancer	TUBB3	EXPRESSION	Sensitivity/Response
+405	civic	Pemetrexed	Lung Non-small Cell Carcinoma	TYMS	Overexpression	Resistance
+406	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Y1092 PHOSPHORYLATION	Sensitivity/Response
+407	civic	IGF1R Monoclonal Antibody	Sarcoma	IGF1R	NUCLEAR EXPRESSION	Sensitivity/Response
+408	civic	Bicalutamide	Prostate Cancer	CFLAR	EXPRESSION	Resistance
+409	civic	Sorafenib	Hepatocellular Carcinoma	PROM1	EXPRESSION	Resistance
+410	civic	Paclitaxel	Breast Cancer	TIMP1	Overexpression	Resistance
+411	civic	Epirubicin	Breast Cancer	FOXP3	EXPRESSION	Sensitivity/Response
+412	civic	Raltitrexed	Gastric Adenocarcinoma	TYMS	Overexpression	Resistance
+413	civic	Everolimus	Gastric Adenocarcinoma	RPS6	PHOSPHORYLATION	Sensitivity/Response
+414	civic	Enzastaurin	Lung Non-small Cell Carcinoma	JAK1	OVEREXPRESSION	Sensitivity/Response
+415	civic	WYE354,Dactolisib,MTOR Kinase Inhibitor PP242	Colorectal Cancer	EIF4EBP1	PHOSPHORYLATION	Resistance
+416	civic	Vinorelbine	Malignant Mesothelioma	BRCA1	Expression	Sensitivity/Response
+417	civic	Trametinib	Cancer	DUSP6	EXPRESSION	Sensitivity/Response
+418	civic	Trametinib	Cancer	KRAS	Mutation	Sensitivity/Response
+419	civic	Trametinib	Cancer	BRAF	Mutation	Sensitivity/Response
+420	civic	Akt Inhibitor MK2206	Pancreatic Carcinoma	KRAS	G12D	Sensitivity/Response
+421	civic	Akt Inhibitor MK2206	Pancreatic Carcinoma	PTEN	Loss	Sensitivity/Response
+422	civic	Gemcitabine	Pancreatic Ductal Adenocarcinoma	HSPB1	EXPRESSION	Sensitivity/Response
+423	civic	Amrubicin	Lung Cancer	NQO1	EXPRESSION	Resistance
+424	civic	Amrubicin	Lung Cancer	NQO1	P187S	Sensitivity/Response
+425	civic	Platinum Compound,Taxane Compound	Ovarian Cancer	BRCA1	Underexpression	Sensitivity/Response
+426	civic	Immunomodulatory Oligonucleotide,Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	Colorectal Cancer	KRAS	Mutation	Sensitivity/Response
+427	civic	Paclitaxel	Lung Non-small Cell Carcinoma	ABCB1	Overexpression	Resistance
+428	civic	Pemetrexed	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+429	civic	Cisplatin	Gastric Adenocarcinoma	DNMT1	EXPRESSION	Resistance
+430	civic	Dasatinib,Cetuximab	Colorectal Cancer	KRAS	Mutation	Sensitivity/Response
+431	civic	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	Lung Non-small Cell Carcinoma	EGFR	Amplification	Sensitivity/Response
+432	civic	Docetaxel	Gastric Adenocarcinoma	CXCR4	EXPRESSION	Resistance
+433	civic	Gemcitabine	Bile Duct Adenocarcinoma	MAGEH1	EXPRESSION	Resistance
+434	civic	Paclitaxel,Monomethyl Auristatin E	Breast Cancer	ABCC3	Amplification	Resistance
+435	civic	Paclitaxel	Lung Non-small Cell Carcinoma	ABCC10	Overexpression	Resistance
+436	civic	Asparaginase	Ovarian Cancer	ASNS	Amplification	Resistance
+437	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Overexpression	Sensitivity/Response
+438	civic	Trastuzumab	Breast Cancer	PTEN	Expression	Sensitivity/Response
+439	civic	Oxaliplatin	Colon Cancer	POU5F1	EXPRESSION	Resistance
+440	civic	Afatinib	Lung Adenocarcinoma	ERBB2	Kinase Domain Mutation	Sensitivity/Response
+441	civic	Sirolimus,Afatinib	Lung Non-small Cell Carcinoma	ERBB2	Y772_A775DUP	Sensitivity/Response
+442	civic	Afatinib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+443	civic	Afatinib	Pancreatic Adenocarcinoma	ERBB2	Amplification	Sensitivity/Response
+444	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+445	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	C797S	Resistance
+446	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+447	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+448	civic	Osimertinib,Rociletinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+449	civic	Afatinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+450	civic	Afatinib	Lung Non-small Cell Carcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+451	civic	Rindopepimut	Glioblastoma	EGFR	VIII	Sensitivity/Response
+452	civic	Lapatinib	Breast Cancer	ERBB2	SERUM LEVELS	Sensitivity/Response
+453	civic	Erlotinib,Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Amplification	Sensitivity/Response
+454	civic	Larotrectinib	Colorectal Cancer	NTRK1	Fusion	Sensitivity/Response
+455	civic	AGI-5198	Oligodendroglioma	IDH1	R132H	Sensitivity/Response
+456	civic	Afatinib	Lung Adenocarcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+457	civic	Afatinib	Lung Adenocarcinoma	EGFR	L858R	Sensitivity/Response
+458	civic	Afatinib	Lung Adenocarcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+459	civic	Atezolizumab,Pembrolizumab,Nivolumab	Skin Melanoma	HLA-DRA	EXPRESSION	Sensitivity/Response
+460	civic	Ibrutinib	Lymphoplasmacytic Lymphoma	MYD88	L265P	Sensitivity/Response
+461	civic	B-Raf/VEGFR-2 Inhibitor RAF265,Selumetinib	Colorectal Cancer	KRAS	Mutation	Sensitivity/Response
+462	civic	Selumetinib,B-Raf/VEGFR-2 Inhibitor RAF265	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+463	civic	Trametinib	Pancreatic Adenocarcinoma	KRAS	G12/G13	Sensitivity/Response
+464	civic	Afatinib,Trametinib	Colorectal Cancer	KRAS	Mutation	Sensitivity/Response
+465	civic	Trametinib,Afatinib	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+466	civic	Cetuximab	Colorectal Cancer	KRAS	Exon 2 Mutation	Resistance
+467	civic	MEK Inhibitor RO4987655	Melanoma	BRAF	V600E	Resistance
+468	civic	MEK Inhibitor RO4987655	Melanoma	BRAF	WILD TYPE	Resistance
+469	civic	MEK Inhibitor RO4987655	Melanoma	NRAS	Mutation	Resistance
+470	civic	MEK Inhibitor RO4987655	Lung Non-small Cell Carcinoma	KRAS	Mutation	Resistance
+471	civic	MEK Inhibitor RO4987655	Colorectal Cancer	KRAS	Mutation	Sensitivity/Response
+472	civic	Selumetinib,Docetaxel	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+473	civic	Refametinib	Melanoma	BRAF	V600	Resistance
+474	civic	Refametinib	Colorectal Cancer	KRAS	Mutation	Sensitivity/Response
+475	civic	Binimetinib,Everolimus	Neuroblastoma	NRAS	Q61K	Sensitivity/Response
+476	civic	PI3Kbeta Inhibitor AZD8186,SCH772984	Pancreatic Adenocarcinoma	KRAS	Mutation	Sensitivity/Response
+477	civic	Teprotumumab,Selumetinib	Colorectal Cancer	KRAS	Mutation	Sensitivity/Response
+478	civic	Dactolisib,Selumetinib	Melanoma	BRAF	V600E	Sensitivity/Response
+479	civic	Trastuzumab,Lapatinib	Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+480	civic	Trastuzumab,Lapatinib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+481	civic	Trastuzumab,Lapatinib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+482	civic	Trastuzumab,Lapatinib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+483	civic	Afatinib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+484	civic	Afatinib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+485	civic	Afatinib,Trastuzumab	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+486	civic	Olaparib	Prostate Cancer	MRE11	Frameshift	Sensitivity/Response
+487	civic	Nimotuzumab	Brain Glioma	EGFR	VIII	Sensitivity/Response
+488	civic	Crizotinib,Larotrectinib,Lestaurtinib	Lung Adenocarcinoma	NTRK1	Fusion	Sensitivity/Response
+489	civic	Panitumumab	Colorectal Cancer	AREG	Expression	Sensitivity/Response
+490	civic	Panitumumab	Colorectal Cancer	EREG	EXPRESSION	Sensitivity/Response
+491	civic	Trastuzumab	Gastric Adenocarcinoma	ERBB2	Amplification	Sensitivity/Response
+492	civic	Lapatinib	Gastric Adenocarcinoma	ERBB2	Amplification	Sensitivity/Response
+493	civic	Imatinib	Endometrial Cancer	KIT	EXPRESSION	Sensitivity/Response
+494	civic	Imatinib	Endometrial Cancer	KIT	EXPRESSION	Sensitivity/Response
+495	civic	Crizotinib	Lung Non-small Cell Carcinoma	ROS1	Rearrangement	Sensitivity/Response
+496	civic	Temsirolimus	Renal Carcinoma	VHL	Loss	Sensitivity/Response
+497	civic	Quizartinib,Ponatinib	Acute Myeloid Leukemia	FLT3	D835	Resistance
+498	civic	SU5614	Acute Myeloid Leukemia	FLT3	D835	Resistance
+499	civic	Sorafenib,Quizartinib	Acute Myeloid Leukemia	FLT3	D835	Resistance
+500	civic	Sorafenib	Acute Myeloid Leukemia	FLT3	D835	Resistance
+501	civic	Sorafenib	Acute Myeloid Leukemia	FLT3	ITD	Sensitivity/Response
+502	civic	Trastuzumab	Lung Non-small Cell Carcinoma	ERBB2	Amplification	Sensitivity/Response
+503	civic	Trastuzumab	Lung Non-small Cell Carcinoma	ERBB2	Amplification	Sensitivity/Response
+504	civic	Trastuzumab	Lung Adenocarcinoma	ERBB2	Kinase Domain Mutation	Sensitivity/Response
+505	civic	Irinotecan,Trastuzumab	Lung Small Cell Carcinoma	ERBB2	Amplification	Sensitivity/Response
+506	civic	Afatinib	Lung Adenocarcinoma	ERBB2	Y772_A775DUP	Sensitivity/Response
+507	civic	Afatinib	Lung Carcinoma	ERBB2	Y772_A775DUP	Sensitivity/Response
+508	civic	Dacomitinib	Lung Adenocarcinoma	ERBB2	P780INS	Sensitivity/Response
+509	civic	Trastuzumab Emtansine	Lung Non-small Cell Carcinoma	ERBB2	Amplification	Sensitivity/Response
+510	civic	Futuximab/Modotuximab Mixture	Colorectal Cancer	EGFR	G465R	Sensitivity/Response
+511	civic	Panitumumab,Cetuximab	Colorectal Cancer	EGFR	G465R	Resistance
+512	civic	Cisplatin,Paclitaxel	Lung Non-small Cell Carcinoma	ETS2	RS461155	Sensitivity/Response
+513	civic	Pertuzumab,Trastuzumab,Docetaxel	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+514	civic	Panitumumab	Colorectal Cancer	EGFR	S492R	Sensitivity/Response
+515	civic	Panitumumab,Futuximab/Modotuximab Mixture	Colorectal Cancer	EGFR	S492R	Sensitivity/Response
+516	civic	Cetuximab	Colorectal Cancer	EGFR	S492R	Resistance
+517	civic	Cetuximab,Futuximab/Modotuximab Mixture,Panitumumab	Colorectal Cancer	EGFR	R451C	Sensitivity/Response
+518	civic	Futuximab/Modotuximab Mixture,Panitumumab	Colorectal Cancer	EGFR	K467T	Sensitivity/Response
+519	civic	Cetuximab	Colorectal Cancer	EGFR	K467T	Resistance
+520	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	FCGR3A	F212V	Sensitivity/Response
+521	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	FCGR2A	H167R	Sensitivity/Response
+522	civic	Cetuximab,Sirolimus	Skin Squamous Cell Carcinoma	EGFR	P753S	Sensitivity/Response
+523	civic	Arsenic Trioxide,Tretinoin	Acute Promyelocytic Leukemia	PML	PML::RARA	Sensitivity/Response
+524	civic	Tretinoin	Acute Promyelocytic Leukemia	PML	B2 DOMAIN MUTATION	Resistance
+525	civic	Tretinoin	Acute Promyelocytic Leukemia	PML	PML::RARA A216V	Resistance
+526	civic	Tretinoin	Acute Promyelocytic Leukemia	PML	PML::RARA L218P	Resistance
+527	civic	Trastuzumab	Endometrial Serous Adenocarcinoma	ERBB2	Amplification	Sensitivity/Response
+528	civic	Trastuzumab	Endometrial Cancer	ERBB2	Amplification	Sensitivity/Response
+529	civic	Patidegib	Medulloblastoma	SMO	D473H	Sensitivity/Response
+530	civic	Crizotinib	Lung Adenocarcinoma	ROS1	CD74::ROS1 G2032R	Resistance
+531	civic	Cabozantinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 G2032R	Sensitivity/Response
+532	civic	OICR-9429	Acute Myeloid Leukemia	CEBPA	N-TERMINAL FRAME SHIFT	Sensitivity/Response
+533	civic	Midostaurin	Myeloproliferative Neoplasm	FGFR1	ZNF198::FGFR1	Sensitivity/Response
+534	civic	Afimoxifene	Breast Cancer	FGFR1	Amplification	Resistance
+535	civic	Sorafenib,Sunitinib	Angiosarcoma	KDR	A1065T	Sensitivity/Response
+536	civic	Sunitinib,Sorafenib	Angiosarcoma	KDR	D717V	Sensitivity/Response
+537	civic	Everolimus	Thyroid Gland Carcinoma	TSC2	Q1178*	Sensitivity/Response
+538	civic	Everolimus	Thyroid Gland Carcinoma	MTOR	F2108L	Resistance
+539	civic	Tretinoin,Anthracycline Antineoplastic Antibiotic	Acute Promyelocytic Leukemia	FLT3	ITD	Resistance
+540	civic	Neratinib,Trastuzumab	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+541	civic	Tretinoin	Head And Neck Squamous Cell Carcinoma	ALDH1A2	Underexpression	Sensitivity/Response
+542	civic	Gemcitabine	Pancreatic Ductal Adenocarcinoma	CIP2A	Underexpression	Sensitivity/Response
+543	civic	Erlotinib	Lung Acinar Adenocarcinoma	ALK	EML4::ALK	Resistance
+544	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+545	civic	Trastuzumab Emtansine	Lung Adenocarcinoma	ERBB2	Y772_A775DUP	Sensitivity/Response
+546	civic	Erlotinib,Gefitinib	Glioblastoma	EGFR	VIII	Sensitivity/Response
+547	civic	Erlotinib,Gefitinib	Glioblastoma	PTEN	Expression	Sensitivity/Response
+548	civic	Panitumumab	Colon Mucinous Adenocarcinoma	KRAS	Q22*	Resistance
+549	civic	Capecitabine,Lapatinib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+550	civic	Trastuzumab,Capecitabine	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+551	civic	Selumetinib,Trametinib,Mirdametinib	Uveal Melanoma	DDX43	Overexpression	Resistance
+552	civic	Selumetinib	Acute Myeloid Leukemia	KIT	RS3733542	Sensitivity/Response
+553	civic	Selumetinib	Acute Myeloid Leukemia	FLT3	ITD	Resistance
+554	civic	Selumetinib,AZ909	Melanoma	TBK1	Overexpression	Sensitivity/Response
+555	civic	Chemotherapy,Bevacizumab	Colorectal Cancer	KRAS	Mutation	Resistance
+556	civic	MEK Inhibitor GDC-0623,G-573	Cancer	KRAS	Mutation	Sensitivity/Response
+557	civic	Cobimetinib	Cancer	BRAF	V600E	Sensitivity/Response
+558	civic	Docetaxel,Selumetinib	Lung Non-small Cell Carcinoma	KRAS	G12C	Sensitivity/Response
+559	civic	Selumetinib,Docetaxel	Lung Non-small Cell Carcinoma	KRAS	G12V	Sensitivity/Response
+560	civic	Docetaxel,Selumetinib	Lung Non-small Cell Carcinoma	STK11	Loss	Resistance
+561	civic	Selumetinib,Docetaxel	Lung Non-small Cell Carcinoma	TP53	Mutation	Sensitivity/Response
+562	civic	Docetaxel	Lung Non-small Cell Carcinoma	TP53	Loss	Resistance
+563	civic	Adjuvant Chemotherapy	Lung Non-small Cell Carcinoma	TP53	Deleterious Mutation	Sensitivity/Response
+564	civic	Adjuvant Chemotherapy	Lung Non-small Cell Carcinoma	TP53	Wildtype	Sensitivity/Response
+565	civic	PD1 Inhibitor	Lung Non-small Cell Carcinoma	HAVCR2	Overexpression	Resistance
+566	civic	PD1 Inhibitor,Anti-TIM-3 Monoclonal Antibody	Lung Non-small Cell Carcinoma	HAVCR2	Overexpression	Sensitivity/Response
+567	civic	Afatinib,Selumetinib	Cancer	ERBB3	Overexpression	Sensitivity/Response
+568	civic	Gefitinib,HER2 Inhibitor CP-724,714,Selumetinib	Cancer	ERBB3	Overexpression	Resistance
+569	civic	Afatinib	Head And Neck Squamous Cell Carcinoma	CDKN2A	p16 Expression	Resistance
+570	civic	Bevacizumab	Inflammatory Breast Carcinoma	MMP2	SERUM LEVELS	Sensitivity/Response
+571	civic	Bevacizumab	Inflammatory Breast Carcinoma	MMP9	SERUM LEVELS	Resistance
+572	civic	Bevacizumab	Brain Glioma	MMP2	SERUM LEVELS	Sensitivity/Response
+573	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+574	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+575	civic	Cisplatin,Fluorouracil	Gastric Adenocarcinoma	HSPH1	NUCLEAR EXPRESSION	Sensitivity/Response
+576	civic	Fluorouracil,Oxaliplatin	Colorectal Cancer	HSPH1	T17 DELETION	Sensitivity/Response
+577	civic	Angiogenesis Inhibitor	Cancer	ECSCR	EXPRESSION	Sensitivity/Response
+578	civic	Angiogenesis Inhibitor	Cancer	ROBO4	EXPRESSION	Sensitivity/Response
+579	civic	Atezolizumab,Avelumab,Pembrolizumab,Nivolumab	Lung Non-small Cell Carcinoma	CD274	Expression	Sensitivity/Response
+580	civic	Pazopanib	Sarcoma	TP53	Deleterious Mutation	Sensitivity/Response
+581	civic	Gefitinib	Lung Adenocarcinoma	PIK3CA	E545K	Resistance
+582	civic	Atezolizumab	Lung Non-small Cell Carcinoma	CD274	Expression	Sensitivity/Response
+583	civic	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor,ARS-853	Cancer	KRAS	G12C	Sensitivity/Response
+584	civic	Trastuzumab,Neratinib,Lapatinib	Colon Cancer	ERBB2	V842I	Sensitivity/Response
+585	civic	Ceritinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+586	civic	Neratinib,Lapatinib,Trastuzumab	Colon Cancer	ERBB2	L755S	Sensitivity/Response
+587	civic	Trastuzumab,Neratinib,Lapatinib	Colon Cancer	ERBB2	V777L	Sensitivity/Response
+588	civic	Lapatinib,Trastuzumab,Neratinib	Colon Cancer	ERBB2	L866M	Sensitivity/Response
+589	civic	Lapatinib,Trastuzumab,Neratinib	Colon Cancer	ERBB2	S310F/Y	Sensitivity/Response
+590	civic	Cetuximab	Colorectal Cancer	KRAS	G13D	Resistance
+591	civic	Cetuximab	Colorectal Cancer	KRAS	G13D	Resistance
+592	civic	Ixazomib	Colorectal Cancer	KRAS	Mutation	Resistance
+593	civic	AZD5438	Cancer	KRAS	Mutation	Sensitivity/Response
+594	civic	Crizotinib	Lung Adenocarcinoma	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+595	civic	Capmatinib	Lung Adenocarcinoma	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+596	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+597	civic	WHI-P154	Lung Non-small Cell Carcinoma	ALK	EML4::ALK	Sensitivity/Response
+598	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	EML4::ALK e20-e20	Sensitivity/Response
+599	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	EML4::ALK e2-e20	Sensitivity/Response
+600	civic	Regorafenib	Colorectal Adenocarcinoma	KDR	R961W	Sensitivity/Response
+601	civic	2,4-pyrimidinediamine	Lung Non-small Cell Carcinoma	ALK	EML4::ALK e6-e20	Sensitivity/Response
+602	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	EML4::ALK e6-e20	Sensitivity/Response
+603	civic	TAE684	Lung Non-small Cell Carcinoma	ALK	EML4::ALK e6-e20	Sensitivity/Response
+604	civic	TAE684	Lung Non-small Cell Carcinoma	ALK	EML4::ALK e6-e20	Sensitivity/Response
+605	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	EML4::ALK e20-e20	Sensitivity/Response
+606	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	EML4::ALK e6-e20	Sensitivity/Response
+607	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+608	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+609	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+610	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+611	civic	Retaspimycin Hydrochloride	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+612	civic	Retaspimycin Hydrochloride,Crizotinib	Lung Non-small Cell Carcinoma	ALK	EML4::ALK	Sensitivity/Response
+613	civic	Crizotinib,Alvespimycin	Lung Non-small Cell Carcinoma	ALK	EML4::ALK e20-e20	Sensitivity/Response
+614	civic	Alvespimycin	Lung Non-small Cell Carcinoma	ALK	EML4::ALK e6-e20	Sensitivity/Response
+615	civic	Crizotinib,Alvespimycin	Lung Non-small Cell Carcinoma	ALK	EML4::ALK	Sensitivity/Response
+616	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	EML4::ALK	Sensitivity/Response
+617	civic	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	Colorectal Cancer	KRAS	Exon 2 Mutation	Resistance
+618	civic	Cisplatin	Cancer	TP53	P47S	Resistance
+619	civic	JQ1	Uveal Melanoma	GNAQ	Mutation	Sensitivity/Response
+620	civic	JQ1	Uveal Melanoma	GNA11	Mutation	Sensitivity/Response
+621	civic	Selumetinib	Uveal Melanoma	GNA11	Q209	Sensitivity/Response
+622	civic	Selumetinib	Uveal Melanoma	GNAQ	Q209	Sensitivity/Response
+623	civic	Nivolumab	Glioblastoma	PMS2	K706FS*19	Sensitivity/Response
+624	civic	Gefitinib,Erlotinib	Colorectal Cancer	KRAS	G12C	Resistance
+625	civic	Salirasib	Lung Adenocarcinoma	KRAS	Mutation	Sensitivity/Response
+626	civic	Gemcitabine,Erlotinib	Pancreatic Cancer	KRAS	Exon 2 Mutation	Resistance
+627	civic	Trametinib	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+628	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	Exon 9 Mutation	Sensitivity/Response
+629	civic	Imatinib	Melanoma	KIT	Mutation	Sensitivity/Response
+630	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	Exon 9 Mutation	Sensitivity/Response
+631	civic	Sunitinib	Melanoma	KIT	Exon 11 Mutation	Sensitivity/Response
+632	civic	Docetaxel,Trametinib	Skin Melanoma	NRAS	Mutation	Sensitivity/Response
+633	civic	Binimetinib	Skin Melanoma	NRAS	Q61	Sensitivity/Response
+634	civic	Trametinib	Melanoma	NRAS	Mutation	Sensitivity/Response
+635	civic	Trametinib	Uveal Melanoma	GNA11	Mutation	Sensitivity/Response
+636	civic	Trametinib	Uveal Melanoma	GNAQ	Mutation	Sensitivity/Response
+637	civic	Trametinib,Metformin	Cancer	NRAS	Mutation	Sensitivity/Response
+638	civic	Everolimus	Prostate Cancer	PTEN	Deletion	Sensitivity/Response
+639	civic	Everolimus	Endometrial Carcinoma	PTEN	Mutation	Sensitivity/Response
+640	civic	Refametinib	Uveal Melanoma	GNAQ	Q209	Sensitivity/Response
+641	civic	Trichostatin A,Vorinostat,Panobinostat,Valproic Acid	Uveal Melanoma	BAP1	Mutation	Sensitivity/Response
+642	civic	MC1568,Vorinostat,Mocetinostat	Malignant Mesothelioma	BAP1	Mutation	Sensitivity/Response
+643	civic	Ponatinib	Endometrial Cancer	FGFR2	Mutation	Sensitivity/Response
+644	civic	Ceritinib	Lung Non-small Cell Carcinoma	ALK	Mutation	Sensitivity/Response
+645	civic	Crizotinib	Anaplastic Large Cell Lymphoma	ALK	NPM::ALK	Sensitivity/Response
+646	civic	Crizotinib	Anaplastic Large Cell Lymphoma	ALK	Fusion	Sensitivity/Response
+647	civic	Crizotinib	Anaplastic Large Cell Lymphoma	ALK	NPM::ALK	Sensitivity/Response
+648	civic	Crizotinib	Inflammatory Myofibroblastic Tumor	ALK	Fusion	Sensitivity/Response
+649	civic	Crizotinib	Inflammatory Myofibroblastic Tumor	ALK	RANBP2::ALK	Sensitivity/Response
+650	civic	Crizotinib	Cancer	ALK	EML4::ALK e6-e20	Sensitivity/Response
+651	civic	Ponatinib	Ewing Sarcoma Of Bone	FGFR1	N546K	Sensitivity/Response
+652	civic	Ponatinib	Ewing Sarcoma Of Bone	FGFR1	Amplification	Sensitivity/Response
+653	civic	Ceritinib	Lung Adenocarcinoma	ROS1	Rearrangement	Sensitivity/Response
+654	civic	Cabozantinib,Foretinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 G2032R	Sensitivity/Response
+655	civic	Brigatinib,AZD3463,Ceritinib,Crizotinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 G2032R	Resistance
+656	civic	Lorlatinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 G2032R	Sensitivity/Response
+657	civic	Crizotinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 L2026M	Resistance
+658	civic	Lorlatinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 L2026M	Sensitivity/Response
+659	civic	Crizotinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 G2032R	Resistance
+660	civic	Foretinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 G2032R	Sensitivity/Response
+661	civic	Crizotinib,Foretinib,ALK Inhibitor TAE684	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 L2155S	Resistance
+662	civic	Crizotinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 L2026M	Resistance
+663	civic	Foretinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 L2026M	Sensitivity/Response
+664	civic	Crizotinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 G2101A	Resistance
+665	civic	Foretinib	Lung Non-small Cell Carcinoma	ROS1	CD74::ROS1 G2101A	Sensitivity/Response
+666	civic	TAE684	Diffuse Large B-cell Lymphoma	ALK	CLTC::ALK	Sensitivity/Response
+667	civic	Crizotinib	Diffuse Large B-cell Lymphoma	ALK	Fusion	Sensitivity/Response
+668	civic	Crizotinib	Diffuse Large B-cell Lymphoma	ALK	CLTC::ALK	Sensitivity/Response
+669	civic	Pan-RAF Inhibitor LY3009120	Cancer	BRAF	DEL 485-490	Sensitivity/Response
+670	civic	Crizotinib	Neuroblastoma	ALK	R1275Q	Sensitivity/Response
+671	civic	Crizotinib	Neuroblastoma	ALK	R1275Q	Sensitivity/Response
+672	civic	Crizotinib	Neuroblastoma	ALK	F1174L	Sensitivity/Response
+673	civic	Alectinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+674	civic	Alectinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+675	civic	Alectinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+676	civic	Imatinib	Chronic Myeloid Leukemia	BCL2L11	Deletion Polymorphism	Resistance
+677	civic	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	Lung Non-small Cell Carcinoma	BCL2L11	Deletion Polymorphism	Resistance
+678	civic	Alectinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+679	civic	Alectinib	Lung Non-small Cell Carcinoma	ALK	I1171	Resistance
+680	civic	Ceritinib	Lung Non-small Cell Carcinoma	ALK	I1171	Sensitivity/Response
+681	civic	TAE684	Lung Non-small Cell Carcinoma	ALK	I1171	Sensitivity/Response
+682	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	I1171	Resistance
+683	civic	Niacinamide	Pancreatic Cancer	SIRT1	Overexpression	Resistance
+684	civic	Midostaurin	Acute Myeloid Leukemia	FLT3	TKD MUTATION	Sensitivity/Response
+685	civic	Everolimus	Her2-receptor Positive Breast Cancer	PIK3CA	Mutation	Sensitivity/Response
+686	civic	Everolimus	Her2-receptor Positive Breast Cancer	PTEN	Loss	Sensitivity/Response
+687	civic	Crizotinib	Colorectal Adenocarcinoma	ROS1	Rearrangement	Sensitivity/Response
+688	civic	Mitomycin	Pancreatic Cancer	PALB2	Biallelic Inactivation	Sensitivity/Response
+689	civic	Mitomycin,Melphalan,Chlorambucil,Cisplatin,Gemcitabine	Pancreatic Cancer	FANCC	Loss-of-function	Sensitivity/Response
+690	civic	Mitomycin	Pancreatic Cancer	BRCA2	Loss-of-function	Sensitivity/Response
+691	civic	Imatinib	Gastrointestinal Stromal Tumor	PDGFRA	I843DEL	Sensitivity/Response
+692	civic	Imatinib	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	PDGFRB	EBF1::PDGFRB	Sensitivity/Response
+693	civic	Oxaliplatin	Stomach Carcinoma	MLH1	METHYLATION	Resistance
+694	civic	Sunitinib	Renal Cell Carcinoma	FLT3	T227M	Adverse Response
+695	civic	Sirolimus	Endometrial Adenocarcinoma	MTOR	S2215Y	Sensitivity/Response
+696	civic	Sirolimus	T-cell Acute Lymphoblastic Leukemia	MTOR	C1483Y	Sensitivity/Response
+697	civic	Sirolimus	Clear Cell Renal Cell Carcinoma	MTOR	E1799K	Sensitivity/Response
+698	civic	PD173074	Endometrial Cancer	FGFR2	N550K	Sensitivity/Response
+699	civic	Gemcitabine,Mitomycin,Doxorubicin,Fluorouracil	Pancreatic Adenocarcinoma	RB1	Overexpression	Resistance
+700	civic	Bevacizumab,FOLFIRI Regimen	Colorectal Cancer	PPP1R15A	RS557806	Sensitivity/Response
+701	civic	Selumetinib,Irinotecan	Colorectal Cancer	KRAS	Exon 2 Mutation	Sensitivity/Response
+702	civic	AZD3463	Neuroblastoma	ALK	F1174L	Sensitivity/Response
+703	civic	Lorlatinib	Neuroblastoma	ALK	F1174L	Sensitivity/Response
+704	civic	Lorlatinib	Neuroblastoma	ALK	F1245C	Sensitivity/Response
+705	civic	Lorlatinib	Neuroblastoma	ALK	R1275Q	Sensitivity/Response
+706	civic	Lorlatinib	Lung Non-small Cell Carcinoma	ALK	EML4::ALK	Sensitivity/Response
+707	civic	Crizotinib	Neuroblastoma	ALK	F1245C	Resistance
+708	civic	Crizotinib	Colorectal Adenocarcinoma	ALK	Fusion	Sensitivity/Response
+709	civic	Crizotinib	Breast Cancer	ALK	Fusion	Sensitivity/Response
+710	civic	Brigatinib	Neuroblastoma	ALK	Exon 4-11 Deletion	Sensitivity/Response
+711	civic	Ceritinib	Lung Non-small Cell Carcinoma	ALK	EML4::ALK e6-e20	Sensitivity/Response
+712	civic	Ceritinib	Lung Non-small Cell Carcinoma	ALK	I1171	Sensitivity/Response
+713	civic	Crizotinib	Cancer	ALK	NPM::ALK	Sensitivity/Response
+714	civic	Pictilisib,Tanespimycin	Cancer	PIK3CA	Mutation	Sensitivity/Response
+715	civic	Pictilisib,Tanespimycin	Head And Neck Cancer	PTEN	Mutation	Sensitivity/Response
+716	civic	Dactolisib	Head And Neck Cancer	PIK3CA	Mutation	Sensitivity/Response
+717	civic	Dactolisib	Head And Neck Cancer	PIK3CA	H1047R	Sensitivity/Response
+718	civic	Dactolisib	Head And Neck Cancer	PIK3CA	H1047R	Sensitivity/Response
+719	civic	Dactolisib,Cetuximab	Head And Neck Cancer	PIK3CA	H1047R	Sensitivity/Response
+720	civic	Tanespimycin,Pictilisib,Trametinib	Head And Neck Cancer	PIK3CA	Mutation	Sensitivity/Response
+721	civic	Sorafenib	Thyroid Gland Medullary Carcinoma	RET	M918T	Sensitivity/Response
+722	civic	Palbociclib	Liposarcoma	CDK4	Amplification	Sensitivity/Response
+723	civic	Alectinib	Lung Non-small Cell Carcinoma	ALK	I1171	Resistance
+724	civic	Ceritinib	Lung Non-small Cell Carcinoma	ALK	I1171	Sensitivity/Response
+725	civic	Olaparib	Cancer	BRCA1	Mutation	Sensitivity/Response
+726	civic	Olaparib	Cancer	BRCA2	Mutation	Sensitivity/Response
+727	civic	Alvocidib	Skin Melanoma	CDKN2A	Loss	Sensitivity/Response
+728	civic	Palbociclib	Renal Cell Carcinoma	CDKN2A	Loss	Sensitivity/Response
+729	civic	Palbociclib	Renal Cell Carcinoma	CDKN2B	Loss	Sensitivity/Response
+730	civic	Palbociclib	Skin Melanoma	CDKN2A	Loss	Sensitivity/Response
+731	civic	Palbociclib	Skin Melanoma	CDK4	R24C	Sensitivity/Response
+732	civic	Palbociclib	Ovarian Cancer	CDKN2A	Loss	Sensitivity/Response
+733	civic	Pictilisib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+734	civic	A66	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+735	civic	Tgx 221	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+736	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PTEN	Loss	Resistance
+737	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PIK3CA	Mutation	Resistance
+738	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PTEN	Loss	Resistance
+739	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PTEN	Loss	Resistance
+740	civic	Gefitinib,Erlotinib	Lung Adenocarcinoma	EGFR	T790M	Resistance
+741	civic	Gefitinib,Erlotinib	Lung Adenocarcinoma	MET	Amplification	Resistance
+742	civic	Erlotinib,Gefitinib	Lung Adenocarcinoma	ERBB2	Amplification	Resistance
+743	civic	Erlotinib	Lung Adenocarcinoma	EGFR	S768I	Sensitivity/Response
+744	civic	Gefitinib	Lung Adenocarcinoma	EGFR	S768I	Sensitivity/Response
+745	civic	Osimertinib	Lung Adenocarcinoma	EGFR	C797S	Resistance
+746	civic	Osimertinib	Lung Adenocarcinoma	EGFR	T790M	Sensitivity/Response
+747	civic	Vemurafenib	Melanoma	BRAF	V600E	Sensitivity/Response
+748	civic	Vemurafenib	Melanoma	BRAF	V600K	Sensitivity/Response
+749	civic	Vemurafenib	Melanoma	BRAF	V600K	Sensitivity/Response
+750	civic	Alpelisib	Head And Neck Cancer	PIK3CA	H1047R	Sensitivity/Response
+751	civic	Alpelisib	Cancer	PIK3CA	Mutation	Sensitivity/Response
+752	civic	Alpelisib	Stomach Carcinoma	PIK3CA	Amplification	Sensitivity/Response
+753	civic	Cetuximab,Panitumumab	Colorectal Cancer	BRAF	Mutation	Sensitivity/Response
+754	civic	Vemurafenib	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+755	civic	Dabrafenib	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+756	civic	Dabrafenib	Melanoma	BRAF	V600	Sensitivity/Response
+757	civic	Gefitinib,Cetuximab,Vemurafenib	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+758	civic	Vemurafenib	Skin Melanoma	BRAF	V600E	Sensitivity/Response
+759	civic	Vemurafenib	Skin Melanoma	BRAF	V600E	Sensitivity/Response
+760	civic	Dabrafenib,Trametinib	Skin Melanoma	BRAF	V600	Sensitivity/Response
+761	civic	Vemurafenib,Panitumumab	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+762	civic	Vemurafenib	Thyroid Gland Papillary Carcinoma	BRAF	V600E	Sensitivity/Response
+763	civic	Trametinib,Dabrafenib	Colorectal Cancer	BRAF	V600	Sensitivity/Response
+764	civic	Vemurafenib	Skin Melanoma	BRAF	TRIM24::BRAF	Resistance
+765	civic	Spliceostatin A	Breast Cancer	SF3B1	K700E	Sensitivity/Response
+766	civic	Spliceostatin A	Breast Cancer	SF3B1	K666N	Sensitivity/Response
+767	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+768	civic	Cobimetinib,Vemurafenib	Melanoma	BRAF	V600E	Sensitivity/Response
+769	civic	Cobimetinib,Vemurafenib	Melanoma	BRAF	V600	Sensitivity/Response
+770	civic	Imatinib	Chronic Leukemia	KIT	M541L	Sensitivity/Response
+771	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	Exon 9 Mutation	Sensitivity/Response
+772	civic	Dactolisib,GDC-0879	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+773	civic	Trametinib,Omipalisib	Melanoma	NRAS	Mutation	Sensitivity/Response
+774	civic	Dabrafenib,Trametinib,Vemurafenib	Gastrointestinal Neuroendocrine Tumor	BRAF	V600E	Sensitivity/Response
+775	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+776	civic	Docetaxel,Trastuzumab,Pertuzumab	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+777	civic	Trastuzumab,Lapatinib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+778	civic	Onatasertib,Sapanisertib	Lung Adenocarcinoma	RICTOR	Amplification	Sensitivity/Response
+779	civic	Imatinib	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	PDGFRA	FIP1L1::PDGFRA	Sensitivity/Response
+780	civic	Crizotinib	Bronchiolo-alveolar Adenocarcinoma	ROS1	Rearrangement	Sensitivity/Response
+781	civic	Crizotinib	Inflammatory Myofibroblastic Tumor	ROS1	TFG::ROS1	Sensitivity/Response
+782	civic	Imatinib	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	PDGFRA	FIP1L1::PDGFRA	Sensitivity/Response
+783	civic	Imatinib	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	PDGFRA	FIP1L1::PDGFRA T674I	Resistance
+784	civic	Dactolisib	Lung Adenocarcinoma	PIK3CA	H1047R	Sensitivity/Response
+785	civic	Trastuzumab,Pilaralisib	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+786	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	BIRC5	Overexpression	Resistance
+787	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PIK3CA	E545K	Resistance
+788	civic	Sorafenib,Mitogen-Activated Protein Kinase Kinase Inhibitor	Skin Melanoma	BRAF	D594A	Sensitivity/Response
+789	civic	PI3K/BET Inhibitor LY294002,Trastuzumab	Her2-receptor Positive Breast Cancer	PTEN	Loss	Sensitivity/Response
+790	civic	Trametinib,Sorafenib	Skin Melanoma	BRAF	D594V	Sensitivity/Response
+791	civic	Sorafenib,Mitogen-Activated Protein Kinase Kinase Inhibitor	Skin Melanoma	BRAF	K483M	Sensitivity/Response
+792	civic	Trametinib,Vemurafenib	Skin Melanoma	BRAF	L597R	Sensitivity/Response
+793	civic	Vemurafenib,Trametinib	Skin Melanoma	BRAF	L597S	Sensitivity/Response
+794	civic	MEK Inhibitor TAK-733	Skin Melanoma	BRAF	L597S	Sensitivity/Response
+795	civic	Trametinib,Vemurafenib	Skin Melanoma	BRAF	L597Q	Sensitivity/Response
+796	civic	Trametinib,Vemurafenib	Skin Melanoma	BRAF	K601E	Sensitivity/Response
+797	civic	Trametinib	Skin Melanoma	BRAF	L597V	Sensitivity/Response
+798	civic	Taselisib	Head And Neck Squamous Cell Carcinoma	PIK3CA	Amplification	Sensitivity/Response
+799	civic	Taselisib	Head And Neck Squamous Cell Carcinoma	PIK3CA	H1047R	Sensitivity/Response
+800	civic	Imatinib	Mucosal Melanoma	KIT	Amplification	Resistance
+801	civic	Taselisib	Head And Neck Squamous Cell Carcinoma	PTEN	Mutation	Resistance
+802	civic	Vemurafenib	Skin Melanoma	NF1	Mutation	Resistance
+803	civic	Mirdametinib,Sirolimus	Skin Melanoma	NF1	Mutation	Sensitivity/Response
+804	civic	Vemurafenib	Skin Melanoma	NF1	Mutation	Resistance
+805	civic	VTX-11e,AZ628	Skin Melanoma	NF1	Mutation	Sensitivity/Response
+806	civic	Binimetinib	Skin Melanoma	NRAS	Mutation	Sensitivity/Response
+807	civic	Selumetinib	Skin Melanoma	NRAS	Q61	Sensitivity/Response
+808	civic	Vemurafenib	Skin Melanoma	NRAS	Q61K	Resistance
+809	civic	Selumetinib	Skin Melanoma	NRAS	Q61K	Sensitivity/Response
+810	civic	Amuvatinib	Skin Melanoma	NRAS	Mutation	Sensitivity/Response
+811	civic	Vismodegib,Sonidegib	Basal Cell Carcinoma	SMO	Mutation	Resistance
+812	civic	Alemtuzumab	Chronic Lymphocytic Leukemia	TP53	Mutation	Sensitivity/Response
+813	civic	Peginterferon Alfa-2a	Essential Thrombocythemia	CALR	EXON 9 FRAMESHIFT	Sensitivity/Response
+814	civic	Radiation Therapy,Taselisib	Head And Neck Squamous Cell Carcinoma	PIK3CA	Mutation	Sensitivity/Response
+815	civic	Ipatasertib	Cancer	PTEN	Mutation	Sensitivity/Response
+816	civic	Cisplatin	Ovarian Cancer	PTEN	Loss	Resistance
+817	civic	Chemotherapy	Stomach Carcinoma	PTEN	Loss	Resistance
+818	civic	GSK126	Skin Melanoma	EZH2	Y646	Sensitivity/Response
+819	civic	Carboplatin,Paclitaxel,Sorafenib	Skin Melanoma	CCND1	Amplification	Sensitivity/Response
+820	civic	Carboplatin,Sorafenib,Paclitaxel	Skin Melanoma	RAF1	Amplification	Sensitivity/Response
+821	civic	Carboplatin,Docetaxel,Sorafenib	Skin Melanoma	KRAS	Amplification	Sensitivity/Response
+822	civic	Imatinib	Myeloproliferative Neoplasm	PDGFRB	Fusion	Sensitivity/Response
+823	civic	Trastuzumab	Gastric Adenocarcinoma	ERBB2	Amplification	Sensitivity/Response
+824	civic	Docetaxel,Capivasertib	Stomach Cancer	PTEN	Loss	Sensitivity/Response
+825	civic	Capivasertib	Stomach Cancer	PIK3CA	Mutation	Sensitivity/Response
+826	civic	Capivasertib	Cancer	PTEN	Loss	Sensitivity/Response
+827	civic	Capivasertib	Cancer	PIK3CA	Mutation	Sensitivity/Response
+828	civic	Capivasertib	Her2-receptor Positive Breast Cancer	PIK3CA	Mutation	Sensitivity/Response
+829	civic	Trastuzumab,Capivasertib	Her2-receptor Positive Breast Cancer	PIK3CA	H1047R	Sensitivity/Response
+830	civic	Capivasertib,Lapatinib	Her2-receptor Positive Breast Cancer	PIK3CA	H1047R	Sensitivity/Response
+831	civic	Binimetinib	Melanoma	NRAS	Mutation	Sensitivity/Response
+832	civic	Nivolumab	Cancer	CD274	Expression	Sensitivity/Response
+833	civic	Sunitinib	Papillary Adenocarcinoma	RET	Overexpression	Sensitivity/Response
+834	civic	Tretinoin	Acute Promyelocytic Leukemia	PML	PML::RARA	Sensitivity/Response
+835	civic	Ipilimumab	Sezary's Disease	CTLA4	CTLA4::CD28	Sensitivity/Response
+836	civic	Cyproterone Acetate,Flutamide,Bicalutamide,Nilutamide	Prostate Cancer	AR	Mutation	Resistance
+837	civic	Alpelisib,Enzalutamide,PI3Kbeta Inhibitor AZD8186	Prostate Cancer	PTEN	Mutation	Sensitivity/Response
+838	civic	Porcupine Inhibitor WNT974	Head And Neck Squamous Cell Carcinoma	NOTCH1	Loss-of-function	Sensitivity/Response
+839	civic	Fulvestrant	Estrogen-receptor Positive Breast Cancer	CDK6	Overexpression	Resistance
+840	civic	Fulvestrant,Palbociclib	Estrogen-receptor Positive Breast Cancer	CDK6	Overexpression	Sensitivity/Response
+841	civic	Sunitinib	B-cell Adult Acute Lymphocytic Leukemia	FLT3	Overexpression	Sensitivity/Response
+842	civic	Platinum Compound	Ovarian Carcinoma	BRCA1	Mutation	Sensitivity/Response
+843	civic	Platinum Compound	Ovarian Carcinoma	BRCA2	Mutation	Sensitivity/Response
+844	civic	Platinum Compound	Ovarian Carcinoma	BRCA1	Mutation	Sensitivity/Response
+845	civic	Platinum Compound	Ovarian Carcinoma	BRCA2	Mutation	Sensitivity/Response
+846	civic	Vemurafenib	Skin Melanoma	GNAQ	Q209P	Resistance
+847	civic	MEK Inhibitor CI-1040,Akt Inhibitor MK2206	Skin Melanoma	PTEN	V317FS	Sensitivity/Response
+848	civic	Palbociclib	Breast Cancer	RB1	Loss-of-function	Resistance
+849	civic	Palbociclib	Mantle Cell Lymphoma	CCND1	Overexpression	Sensitivity/Response
+850	civic	PLX4720	Skin Melanoma	GNAQ	Q209P	Resistance
+851	civic	Palbociclib,Letrozole	Breast Cancer	ESR1	Overexpression	Sensitivity/Response
+852	civic	Sirolimus	Breast Cancer	MTOR	F2108L	Resistance
+853	civic	MTOR Kinase Inhibitor AZD8055	Breast Cancer	MTOR	M2327I	Resistance
+854	civic	RapaLink-1,Sirolimus	Breast Cancer	MTOR	M2327I	Resistance
+855	civic	Sirolimus	Breast Cancer	MTOR	A2034V	Resistance
+856	civic	RapaLink-1,MTOR Kinase Inhibitor AZD8055	Breast Cancer	MTOR	A2034V	Resistance
+857	civic	Apitolisib	Head And Neck Squamous Cell Carcinoma	PIK3CA	E542K	Sensitivity/Response
+858	civic	Apitolisib	Cancer	PIK3CA	E545K	Sensitivity/Response
+859	civic	Cetuximab,Panitumumab	Colorectal Cancer	BRAF	D594G	Resistance
+860	civic	Sorafenib	Acute Myeloid Leukemia	FLT3	ITD	Sensitivity/Response
+861	civic	Sorafenib	Acute Myeloid Leukemia	FLT3	D835H	Resistance
+862	civic	Sorafenib	Acute Myeloid Leukemia	FLT3	D835H/Y	Resistance
+863	civic	Palbociclib	Renal Cell Carcinoma	CCND1	Amplification	Sensitivity/Response
+864	civic	Palbociclib,Trastuzumab	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+865	civic	Palbociclib	Breast Cancer	CCND1	Amplification	Sensitivity/Response
+866	civic	Palbociclib	Mantle Cell Lymphoma	CCND1	Overexpression	Sensitivity/Response
+867	civic	Crizotinib	Glioblastoma	MET	Amplification	Sensitivity/Response
+868	civic	Crizotinib	Lung Non-small Cell Carcinoma	MET	Amplification	Sensitivity/Response
+869	civic	Pembrolizumab	Skin Melanoma	JAK1	Q503*	Resistance
+870	civic	Pembrolizumab	Skin Melanoma	JAK2	c.1641+1dup	Resistance
+871	civic	Pembrolizumab	Skin Melanoma	B2M	S14FS	Resistance
+872	civic	Trametinib	Skin Melanoma	BRAF	PPFIBP2::BRAF	Sensitivity/Response
+873	civic	Trametinib	Skin Melanoma	BRAF	KIAA1549::BRAF	Sensitivity/Response
+874	civic	Cetuximab	Colorectal Cancer	EGFR	Expression	Sensitivity/Response
+875	civic	Vemurafenib	Lung Non-small Cell Carcinoma	BRAF	V600	Sensitivity/Response
+876	civic	Vemurafenib	Langerhans-cell Histiocytosis	BRAF	V600	Sensitivity/Response
+877	civic	Vemurafenib	Colorectal Cancer	BRAF	V600	Resistance
+878	civic	Crizotinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+879	civic	Pembrolizumab	Merkel Cell Carcinoma	CD274	Expression	Sensitivity/Response
+880	civic	Vemurafenib	Hairy Cell Leukemia	BRAF	V600E	Sensitivity/Response
+881	civic	Vemurafenib	Hairy Cell Leukemia	KRAS	G12D	Resistance
+882	civic	Vemurafenib	Skin Melanoma	MET	Overexpression	Resistance
+883	civic	Crizotinib	Uveal Melanoma	MET	Overexpression	Sensitivity/Response
+884	civic	Vemurafenib	Skin Melanoma	MET	Overexpression	Resistance
+885	civic	Decitabine	Acute Myeloid Leukemia	DNMT3A	Mutation	Sensitivity/Response
+886	civic	Crizotinib,Vemurafenib	Colorectal Cancer	MET	Amplification	Sensitivity/Response
+887	civic	Panitumumab,Vemurafenib	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+888	civic	Vemurafenib	Thyroid Gland Papillary Carcinoma	BRAF	V600E	Sensitivity/Response
+889	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+890	civic	Palbociclib	Glioblastoma	RB1	Loss-of-function	Resistance
+891	civic	Vorinostat	Sarcoma	RAD23B	EXPRESSION	Sensitivity/Response
+892	civic	Vemurafenib,Cetuximab	Colorectal Cancer	BRAF	V600	Sensitivity/Response
+893	civic	Palbociclib	Ovarian Cancer	CCND1	Amplification	Sensitivity/Response
+894	civic	Phosphatidylinositide 3-Kinase Inhibitor,Ribociclib	Breast Cancer	PIK3CA	Mutation	Sensitivity/Response
+895	civic	Nintedanib	Lung Non-small Cell Carcinoma	RET	CCDC6::RET	Sensitivity/Response
+896	civic	Vemurafenib	Melanoma	MAP2K1	C121S	Resistance
+897	civic	Pazopanib	Transitional Cell Carcinoma	FGFR3	S249C	Sensitivity/Response
+898	civic	Dovitinib	Breast Cancer	FGFR1	Amplification	Sensitivity/Response
+899	civic	Dovitinib	Breast Cancer	FGFR2	Amplification	Sensitivity/Response
+900	civic	Dovitinib	Breast Cancer	FGF3	Amplification	Sensitivity/Response
+901	civic	Palbociclib,Phosphatidylinositide 3-Kinase Inhibitor	Breast Cancer	PIK3CA	Mutation	Sensitivity/Response
+902	civic	Ruxolitinib	Chuvash Polycythemia	VHL	R200W (c.598C>T)	Sensitivity/Response
+903	civic	Alpelisib	Breast Cancer	RB1	PHOSPHORYLATION	Resistance
+904	civic	MTOR Kinase Inhibitor PP242,Everolimus	Breast Cancer	PIK3CA	Mutation	Sensitivity/Response
+905	civic	MTOR Kinase Inhibitor PP242,Everolimus	Breast Cancer	PTEN	Loss	Sensitivity/Response
+906	civic	MTOR Kinase Inhibitor PP242	Breast Cancer	PIK3R1	Mutation	Sensitivity/Response
+907	civic	MTOR Kinase Inhibitor PP242	Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+908	civic	Temsirolimus	Endometrial Cancer	PTEN	Loss	Sensitivity/Response
+909	civic	Ipilimumab,Nivolumab	Melanoma	CD274	Expression	Sensitivity/Response
+910	civic	Pictilisib	Endometrial Cancer	PIK3CA	Mutation	Sensitivity/Response
+911	civic	Everolimus	Pancreatic Cancer	STK11	D194E	Sensitivity/Response
+912	civic	Sirolimus	Peutz-Jeghers Syndrome	STK11	Loss	Sensitivity/Response
+913	civic	Sirolimus	Peutz-Jeghers Syndrome	STK11	Loss	Sensitivity/Response
+914	civic	Everolimus,Sirolimus	Lung Non-small Cell Carcinoma	STK11	Loss	Sensitivity/Response
+915	civic	Vandetanib,Everolimus	Lung Adenocarcinoma	AKT2	Amplification	Sensitivity/Response
+916	civic	Vandetanib,Everolimus	Lung Adenocarcinoma	RET	KIF5B::RET	Sensitivity/Response
+917	civic	Fulvestrant,Everolimus	Her2-receptor Positive Breast Cancer	PIK3CA	H1047R	Sensitivity/Response
+918	civic	Fulvestrant,Everolimus	Her2-receptor Positive Breast Cancer	PTEN	Expression	Resistance
+919	civic	Temsirolimus,Perifosine	Thyroid Gland Cancer	PIK3CA	H1047R	Sensitivity/Response
+920	civic	Temsirolimus,Perifosine	Thyroid Gland Cancer	PIK3CA	E542K	Sensitivity/Response
+921	civic	Perifosine,Temsirolimus	Thyroid Gland Cancer	PTEN	R130*	Sensitivity/Response
+922	civic	Everolimus	Renal Cell Carcinoma	FBXW7	Loss-of-function	Sensitivity/Response
+923	civic	Palbociclib	Estrogen-receptor Positive Breast Cancer	CCNE1	Amplification	Resistance
+924	civic	Palbociclib	Estrogen-receptor Positive Breast Cancer	RB1	M695FS*26	Resistance
+925	civic	MTOR Inhibitor	Cancer	FBXW7	Mutation	Sensitivity/Response
+926	civic	Sirolimus	Cancer	FBXW7	Loss-of-function	Sensitivity/Response
+927	civic	Irbesartan	Colorectal Adenocarcinoma	JUN	Overexpression	Sensitivity/Response
+928	civic	Irbesartan	Colon Adenocarcinoma	FOS	Overexpression	Sensitivity/Response
+929	civic	IRAK-1/4 Inhibitor,IMG-2005-5	Lymphoplasmacytic Lymphoma	MYD88	L265P	Sensitivity/Response
+930	civic	Refametinib,Sorafenib	Hepatocellular Carcinoma	KRAS	Mutation	Sensitivity/Response
+931	civic	Fluorouracil	Colorectal Cancer	SMAD4	Deletion	Resistance
+932	civic	PCV Regimen,Temozolomide	Malignant Astrocytoma	ATRX	Underexpression	Sensitivity/Response
+933	civic	Platinum Compound	Ovarian Serous Carcinoma	AURKA	Overexpression	Resistance
+934	civic	Crizotinib	Lung Adenocarcinoma	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+935	civic	Crizotinib	Lung Non-small Cell Carcinoma	MET	D1228N	Resistance
+936	civic	Radiation Therapy,Cisplatin,Fluorouracil	Esophagus Squamous Cell Carcinoma	AURKA	EXPRESSION	Sensitivity/Response
+937	civic	Docetaxel	Prostate Cancer	GAS6	EXPRESSION	Resistance
+938	civic	Vemurafenib	Melanoma	STAG2	Underexpression	Resistance
+939	civic	Vemurafenib	Melanoma	STAG3	Underexpression	Resistance
+940	civic	Selumetinib	Ovarian Serous Carcinoma	MAP2K1	Q56_V60del	Sensitivity/Response
+941	civic	Mitogen-Activated Protein Kinase Kinase Inhibitor	Ovarian Serous Carcinoma	BRAF	BRAF::CUL1	Sensitivity/Response
+942	civic	Trametinib	Melanoma	BRAF	ZKSCAN1::BRAF	Sensitivity/Response
+943	civic	Sorafenib,Bevacizumab,Temsirolimus	Spindle Cell Sarcoma	BRAF	KIAA1549::BRAF	Sensitivity/Response
+944	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+945	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+946	civic	Erlotinib,Gefitinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Resistance
+947	civic	Vemurafenib	Melanoma	BRAF	L505H	Resistance
+948	civic	Vemurafenib	Melanoma	BRAF	L505H	Resistance
+949	civic	Erlotinib,Gefitinib	Lung Adenocarcinoma	PIK3CA	E545K	Resistance
+950	civic	Pazopanib	Renal Cell Carcinoma	VHL	Mutation	Sensitivity/Response
+951	civic	Pazopanib	Renal Cell Carcinoma	EPAS1	Overexpression	Sensitivity/Response
+952	civic	Pazopanib	Renal Cell Carcinoma	HIF1A	EXPRESSION	Sensitivity/Response
+953	civic	Cediranib,Olaparib	Ovarian Cancer	BRCA1	Mutation	Sensitivity/Response
+954	civic	Olaparib,Cediranib	Ovarian Cancer	BRCA2	Mutation	Sensitivity/Response
+955	civic	Carboplatin,Cisplatin	Triple-receptor Negative Breast Cancer	BRCA1	Mutation	Sensitivity/Response
+956	civic	Cisplatin,Carboplatin	Triple-receptor Negative Breast Cancer	BRCA2	Mutation	Sensitivity/Response
+957	civic	Cetuximab	Colorectal Cancer	ERBB2	Amplification	Resistance
+958	civic	Cetuximab	Colorectal Cancer	ERBB2	Amplification	Resistance
+959	civic	Cetuximab,Panitumumab	Colorectal Cancer	ERBB2	Amplification	Resistance
+960	civic	Lapatinib,Trastuzumab	Colorectal Cancer	ERBB2	Amplification	Sensitivity/Response
+961	civic	Crizotinib	Lung Adenocarcinoma	ROS1	Rearrangement	Sensitivity/Response
+962	civic	Crizotinib	Lung Adenocarcinoma	ALK	Fusion	Sensitivity/Response
+963	civic	Crizotinib	Lung Adenocarcinoma	MET	Amplification	Sensitivity/Response
+964	civic	Trastuzumab	Scrotum Paget's Disease	ERBB2	Amplification	Sensitivity/Response
+965	civic	Platinum Compound	Bladder Carcinoma	ERBB2	Mutation	Sensitivity/Response
+966	civic	Vemurafenib	Multiple Myeloma	BRAF	V600E	Sensitivity/Response
+967	civic	Vemurafenib	Multiple Myeloma	BRAF	V600E	Sensitivity/Response
+968	civic	Cetuximab	Colorectal Cancer	KRAS	Mutation	Resistance
+969	civic	Cetuximab	Colorectal Cancer	NRAS	Mutation	Resistance
+970	civic	Cetuximab	Colorectal Cancer	BRAF	Mutation	Resistance
+971	civic	Cetuximab	Colorectal Cancer	PIK3CA	Mutation	Resistance
+972	civic	JQ1,I-BET151	Multiple Myeloma	MYCL	EXPRESSION	Sensitivity/Response
+973	civic	MET Tyrosine Kinase Inhibitor SGX523	Glioblastoma	HGF	EXPRESSION	Sensitivity/Response
+974	civic	Panitumumab	Colorectal Cancer	EGFR	Expression	Sensitivity/Response
+975	civic	Cetuximab	Colorectal Cancer	EGFR	Expression	Sensitivity/Response
+976	civic	Vemurafenib	Melanoma	SOX10	Loss	Resistance
+977	civic	Quizartinib	Acute Myeloid Leukemia	FGF2	EXPRESSION	Resistance
+978	civic	Crizotinib	Lung Non-small Cell Carcinoma	MET	Amplification	Sensitivity/Response
+979	civic	Crizotinib	Cancer	MET	Amplification	Sensitivity/Response
+980	civic	Crizotinib	Cancer	KRAS	G12V	Resistance
+981	civic	Erlotinib	Cholangiocarcinoma	ERRFI1	E384*	Sensitivity/Response
+982	civic	Midostaurin	Systemic Mastocytosis	KIT	D816V	Sensitivity/Response
+983	civic	Aromatase Inhibitor	Estrogen-receptor Positive Breast Cancer	ESR1	S463P	Resistance
+984	civic	Afatinib	Lung Non-small Cell Carcinoma	EGFR	Mutation	Sensitivity/Response
+985	civic	Alpelisib	Breast Cancer	SGK1	Overexpression	Resistance
+986	civic	Alpelisib	Breast Cancer	SGK1	Overexpression	Resistance
+987	civic	SGK1-Inh,Alpelisib	Breast Cancer	SGK1	Overexpression	Sensitivity/Response
+988	civic	Pembrolizumab	Lung Non-small Cell Carcinoma	CD274	Expression	Sensitivity/Response
+989	civic	CDK Inhibitor SNS-032	Ovarian Cancer	CCNE1	Overexpression	Sensitivity/Response
+990	civic	Dinaciclib,Akt Inhibitor MK2206	Ovarian Serous Cystadenocarcinoma	CCNE1	Amplification	Sensitivity/Response
+991	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	G719S	Sensitivity/Response
+992	civic	Trametinib,Dabrafenib	Lung Non-small Cell Carcinoma	BRAF	G596C	Sensitivity/Response
+993	civic	Tazemetostat	Synovial Sarcoma	SMARCB1	Underexpression	Sensitivity/Response
+994	civic	Tazemetostat	Rhabdoid Cancer	SMARCB1	Deletion	Sensitivity/Response
+995	civic	Selumetinib	Thyroid Gland Carcinoma	NF2	Loss	Sensitivity/Response
+996	civic	JQ1 Compound	Malignant Peripheral Nerve Sheath Tumor	NF1	Loss	Sensitivity/Response
+997	civic	Afatinib	Transitional Cell Carcinoma	ERBB3	V104M	Sensitivity/Response
+998	civic	Afatinib	Transitional Cell Carcinoma	ERBB3	R103G	Sensitivity/Response
+999	civic	Afatinib	Transitional Cell Carcinoma	ERBB3	G284R	Sensitivity/Response
+1000	civic	Vemurafenib	Melanoma	BRAF	V600E	Sensitivity/Response
+1001	civic	Trametinib	Melanoma	BRAF	V600	Sensitivity/Response
+1002	civic	Fluorouracil	Rectum Cancer	MTHFR	A222V	Sensitivity/Response
+1003	civic	Erlotinib,Gefitinib	Lung Non-small Cell Carcinoma	EGFR	D761Y	Resistance
+1004	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+1005	civic	Letrozole,Palbociclib	Her2-receptor Negative Breast Cancer	CDKN2A	Loss	Sensitivity/Response
+1006	civic	Lenalidomide,Pomalidomide	Multiple Myeloma	CRBN	Mutation	Resistance
+1007	civic	Ponatinib	Estrogen-receptor Positive Breast Cancer	FGFR1	Amplification	Sensitivity/Response
+1008	civic	Ibrutinib	Chronic Lymphocytic Leukemia	BTK	C481S	Resistance
+1009	civic	Sunitinib	Lung Non-small Cell Carcinoma	PDGFRA	Amplification	Sensitivity/Response
+1010	civic	Olaparib	Ovarian Cancer	BRCA1	Mutation	Sensitivity/Response
+1011	civic	Olaparib	Ovarian Cancer	BRCA2	Mutation	Sensitivity/Response
+1012	civic	Imatinib	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	PDGFRA	FIP1L1::PDGFRA	Sensitivity/Response
+1013	civic	Olaparib	Triple-receptor Negative Breast Cancer	BRCA1	Mutation	Resistance
+1014	civic	Olaparib	Triple-receptor Negative Breast Cancer	BRCA2	Mutation	Sensitivity/Response
+1015	civic	Ponatinib	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	PDGFRA	FIP1L1::PDGFRA	Sensitivity/Response
+1016	civic	Ponatinib	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	PDGFRA	FIP1L1::PDGFRA T674I	Sensitivity/Response
+1017	civic	Erlotinib	Lung Adenocarcinoma	EGFR	G719	Sensitivity/Response
+1018	civic	JQ1	NUT Midline Carcinoma	BRD4	BRD4::NUTM1	Sensitivity/Response
+1019	civic	Erlotinib	Lung Adenocarcinoma	EGFR	S720	Resistance
+1020	civic	Erlotinib	Lung Adenocarcinoma	EGFR	K757R	Sensitivity/Response
+1021	civic	Erlotinib	Lung Adenocarcinoma	EGFR	E746G	Sensitivity/Response
+1022	civic	Belinostat	Cancer	UGT1A1	UGT1A1*28	Adverse Response
+1023	civic	Belinostat	Cancer	UGT1A1	UGT1A1*60	Adverse Response
+1024	civic	Erlotinib	Lung Adenocarcinoma	EGFR	V769_D770insASV	Sensitivity/Response
+1025	civic	Fluorouracil,Capecitabine,Tegafur	Cancer	DPYD	DPYD*2A HOMOZYGOSITY	Adverse Response
+1026	civic	Tegafur,Fluorouracil,Capecitabine	Cancer	DPYD	DPYD*13 HOMOZYGOSITY	Adverse Response
+1027	civic	Capecitabine,Tegafur,Fluorouracil	Cancer	DPYD	RS67376798 HOMOZYGOSITY	Adverse Response
+1028	civic	Afatinib	Lung Adenocarcinoma	EGFR	Exon 20 Insertion	Resistance
+1029	civic	Imatinib	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	PDGFRA	TNKS2::PDGFRA	Sensitivity/Response
+1030	civic	Methotrexate	Cancer	SLCO1B1	RS4149056	Adverse Response
+1031	civic	Methotrexate	Cancer	SLCO1B1	N130D	Adverse Response
+1032	civic	Methotrexate	Cancer	TYMS	RS34743033	Adverse Response
+1033	civic	Afatinib,Pertuzumab	Lung Non-small Cell Carcinoma	ERBB3	V855A	Sensitivity/Response
+1034	civic	Infigratinib,PD173074	Cholangiocarcinoma	FGFR2	FGFR2::BICC1	Sensitivity/Response
+1035	civic	PD173074,Infigratinib	Cholangiocarcinoma	FGFR2	FGFR2::AHCYL1	Sensitivity/Response
+1036	civic	Teprotumumab,Cixutumumab	Ewing Sarcoma Of Bone	PTPRD	V253I	Sensitivity/Response
+1037	civic	Gemcitabine	Pancreatic Cancer	RRM1	Overexpression	Resistance
+1038	civic	Gemcitabine	Pancreatic Cancer	RRM2	OVEREXPRESSION	Resistance
+1039	civic	Pembrolizumab	Glioblastoma	POLE	Mutation	Sensitivity/Response
+1040	civic	Pembrolizumab	Endometrial Cancer	POLE	Mutation	Sensitivity/Response
+1041	civic	Afatinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Resistance
+1042	civic	Cabozantinib	Lung Non-small Cell Carcinoma	MET	D1228V	Sensitivity/Response
+1043	civic	Savolitinib	Lung Non-small Cell Carcinoma	MET	D1228V	Resistance
+1044	civic	Chemotherapy	Lung Small Cell Carcinoma	RB1	Mutation	Sensitivity/Response
+1045	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+1046	civic	Entrectinib	Lung Non-small Cell Carcinoma	NTRK1	SQSTM1::NTRK1	Sensitivity/Response
+1047	civic	Entrectinib	Mammary Analogue Secretory Carcinoma	NTRK3	ETV6::NTRK3	Sensitivity/Response
+1048	civic	Crizotinib	Mammary Analogue Secretory Carcinoma	NTRK3	ETV6::NTRK3	Sensitivity/Response
+1049	civic	Entrectinib	Mammary Analogue Secretory Carcinoma	NTRK3	ETV6::NTRK3 G623R	Resistance
+1050	civic	Anti-PD-1 Monoclonal Antibody MEDI0680,Durvalumab	Transitional Cell Carcinoma	MSH2	Loss	Sensitivity/Response
+1051	civic	Anti-PD-1 Monoclonal Antibody MEDI0680,Durvalumab	Transitional Cell Carcinoma	MSH6	LOSS	Sensitivity/Response
+1052	civic	Palbociclib,Linsitinib	Ewing Sarcoma	CDKN2A	Loss	Sensitivity/Response
+1053	civic	Palbociclib,Linsitinib	Ewing Sarcoma	CDKN2B	Loss	Sensitivity/Response
+1054	civic	Palbociclib	Dermatofibrosarcoma Protuberans	CDKN2A	Loss	Sensitivity/Response
+1055	civic	Afatinib	Lung Adenocarcinoma	ERBB2	Y772_A775DUP	Sensitivity/Response
+1056	civic	Afatinib	Lung Adenocarcinoma	ERBB2	G776L	Sensitivity/Response
+1057	civic	Afatinib	Lung Adenocarcinoma	ERBB2	G778_P780DUP	Sensitivity/Response
+1058	civic	Dacomitinib	Lung Non-small Cell Carcinoma	ERBB2	Amplification	Sensitivity/Response
+1059	civic	Dacomitinib	Lung Non-small Cell Carcinoma	ERBB2	G778_P780DUP	Sensitivity/Response
+1060	civic	Dacomitinib	Lung Non-small Cell Carcinoma	ERBB2	Y772_A775DUP	Sensitivity/Response
+1061	civic	Dacomitinib	Lung Non-small Cell Carcinoma	ERBB2	M774DELINSWLV	Sensitivity/Response
+1062	civic	Vatalanib,Sunitinib	Angiosarcoma	PTPRB	Loss-of-function	Sensitivity/Response
+1063	civic	Rucaparib	Ovarian Cancer	BRCA1	Mutation	Sensitivity/Response
+1064	civic	Therapeutic Tumor Infiltrating Lymphocytes	Colorectal Cancer	KRAS	G12D	Sensitivity/Response
+1065	civic	Therapeutic Tumor Infiltrating Lymphocytes	Colorectal Cancer	HLA-C	COPY-NEUTRAL LOSS OF HETEROZYGOSITY	Resistance
+1066	civic	Ruxolitinib	Hepatocellular Carcinoma	JAK1	S703I	Sensitivity/Response
+1067	civic	Vemurafenib,Irinotecan,Cetuximab	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+1068	civic	Irinotecan,Vemurafenib,Cetuximab	Colorectal Cancer	ARAF	S490T	Resistance
+1069	civic	Vemurafenib,Irinotecan,Cetuximab	Colorectal Cancer	GNAS	R201C	Resistance
+1070	civic	Olaparib	Mantle Cell Lymphoma	ATM	Mutation	Sensitivity/Response
+1071	civic	Infigratinib	Lung Squamous Cell Carcinoma	FGFR1	Amplification	Sensitivity/Response
+1072	civic	Infigratinib	Breast Cancer	FGFR1	Amplification	Resistance
+1073	civic	Infigratinib	Bladder Carcinoma	FGFR3	Mutation	Sensitivity/Response
+1074	civic	Infigratinib	Bladder Carcinoma	FGFR1	Amplification	Sensitivity/Response
+1075	civic	Infigratinib	Cholangiocarcinoma	FGFR2	Mutation	Sensitivity/Response
+1076	civic	Infigratinib	Cholangiocarcinoma	FGFR2	Fusion	Sensitivity/Response
+1077	civic	Erdafitinib	Transitional Cell Carcinoma	FGFR2	FGFR2::BICC1	Sensitivity/Response
+1078	civic	Erdafitinib	Cancer	FGFR2	Fusion	Sensitivity/Response
+1079	civic	Erdafitinib	Cancer	FGFR3	FGFR3::TACC3	Sensitivity/Response
+1080	civic	Erdafitinib	Endometrial Cancer	FGFR2	FGFR2::BICC1	Sensitivity/Response
+1081	civic	Akt Inhibitor MK2206	Breast Cancer	AKT3	Overexpression	Resistance
+1082	civic	Pan-AKT Kinase Inhibitor GSK690693	Triple-receptor Negative Breast Cancer	AKT3	Overexpression	Sensitivity/Response
+1083	civic	Quarfloxin,Pidnarulex	Breast Cancer	BRCA1	Loss-of-function	Sensitivity/Response
+1084	civic	Pidnarulex,Quarfloxin	Breast Cancer	BRCA2	Loss-of-function	Sensitivity/Response
+1085	civic	Crizotinib	Skin Melanoma	ALK	Alternative Transcript (ATI)	Sensitivity/Response
+1086	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Mutation	Sensitivity/Response
+1087	civic	Mirdametinib,Sotrastaurin Acetate	Uveal Melanoma	GNA11	Mutation	Sensitivity/Response
+1088	civic	Sotrastaurin Acetate,Mirdametinib	Uveal Melanoma	GNAQ	Mutation	Sensitivity/Response
+1089	civic	Selumetinib	Plexiform Neurofibroma	NF1	Mutation	Sensitivity/Response
+1090	civic	Olaparib	Prostate Cancer	ATM	Mutation	Sensitivity/Response
+1091	civic	Olaparib	Prostate Cancer	PALB2	Biallelic Inactivation	Sensitivity/Response
+1092	civic	Anti-EGFR Monoclonal Antibody	Colorectal Cancer	MET	Amplification	Resistance
+1093	civic	Crenolanib,Imatinib	Melanoma	PDGFRA	P577S	Sensitivity/Response
+1094	civic	Imatinib,Crenolanib	Melanoma	PDGFRA	R841K	Sensitivity/Response
+1095	civic	Imatinib,Crenolanib	Melanoma	PDGFRA	H845Y	Sensitivity/Response
+1096	civic	Imatinib,Crenolanib	Melanoma	PDGFRA	G853D	Sensitivity/Response
+1097	civic	Cetuximab,Crizotinib	Colorectal Cancer	MET	Amplification	Sensitivity/Response
+1098	civic	Pyrimidine Antagonist	Breast Cancer	MTAP	Underexpression	Sensitivity/Response
+1099	civic	Cetuximab	Ovarian Cancer	VPS37A	Underexpression	Resistance
+1100	civic	Lapatinib	Chordoma	EGFR	Expression	Sensitivity/Response
+1101	civic	Ibrutinib	Chronic Lymphocytic Leukemia	BTK	T316A	Resistance
+1102	civic	Lapatinib	Cancer	ERBB2	T862A	Sensitivity/Response
+1103	civic	Lapatinib	Cancer	ERBB2	V773A	Sensitivity/Response
+1104	civic	Lapatinib	Cancer	ERBB2	N857S	Sensitivity/Response
+1105	civic	Lapatinib	Cancer	ERBB2	H878Y	Sensitivity/Response
+1106	civic	FGFR Inhibitor AZD4547	Stomach Carcinoma	FGFR2	Amplification	Sensitivity/Response
+1107	civic	FGFR Inhibitor AZD4547	Breast Cancer	FGFR1	Amplification	Sensitivity/Response
+1108	civic	Lapatinib	Head And Neck Squamous Cell Carcinoma	ERBB2	Overexpression	Sensitivity/Response
+1109	civic	Cetuximab	Colorectal Cancer	ERBB2	Amplification	Resistance
+1110	civic	Erlotinib,Gefitinib	Lung Non-small Cell Carcinoma	GNAS	c.393T>C	Resistance
+1111	civic	Cetuximab	Colorectal Cancer	PIK3CA	C420R	Resistance
+1112	civic	Selumetinib,Dactolisib	Colorectal Cancer	KRAS	G12V	Sensitivity/Response
+1113	civic	Irinotecan,Cetuximab	Colorectal Cancer	NRAS	G12D	Resistance
+1114	civic	Panitumumab	Colorectal Cancer	KRAS	G12/G13	Resistance
+1115	civic	Gefitinib	Lung Cancer	KRAS	G12A	Resistance
+1116	civic	Melphalan	Multiple Myeloma	KRAS	G12A	Resistance
+1117	civic	Melphalan	Multiple Myeloma	KRAS	G12A	Resistance
+1118	civic	Melphalan	Multiple Myeloma	KRAS	G12A	Resistance
+1119	civic	Melphalan	Multiple Myeloma	KRAS	G12A	Resistance
+1120	civic	Bevacizumab,Sunitinib	High Grade Glioma	IDH1	R132	Sensitivity/Response
+1121	civic	Pictilisib	Her2-receptor Positive Breast Cancer	PIK3CA	E542K	Sensitivity/Response
+1122	civic	Pictilisib	Breast Cancer	PIK3CA	E542K	Sensitivity/Response
+1123	civic	Pictilisib	Breast Cancer	PIK3CA	E545K	Sensitivity/Response
+1124	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PTEN	Loss	Resistance
+1125	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	PIK3CA	E545K	Resistance
+1126	civic	Cetuximab,Panitumumab	Colorectal Cancer	PIK3CA	E545K	Resistance
+1127	civic	Aspirin	Colorectal Cancer	PIK3CA	Wildtype	Sensitivity/Response
+1128	civic	PI103	Lung Non-small Cell Carcinoma	PIK3CA	E545K	Sensitivity/Response
+1129	civic	Pictilisib	Breast Cancer	KRAS	G13D	Resistance
+1130	civic	Trastuzumab	Breast Cancer	PTEN	Loss	Resistance
+1131	civic	Pictilisib	Her2-receptor Positive Breast Cancer	PTEN	Loss	Sensitivity/Response
+1132	civic	Erlotinib,Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Mutation	Sensitivity/Response
+1133	civic	PI-103	Her2-receptor Positive Breast Cancer	PIK3CA	E542K	Sensitivity/Response
+1134	civic	Pictilisib	Her2-receptor Positive Breast Cancer	PIK3CA	E545K	Sensitivity/Response
+1135	civic	Pictilisib	Breast Cancer	ERBB2	Amplification	Sensitivity/Response
+1136	civic	Pictilisib	Breast Cancer	PTEN	Loss	Sensitivity/Response
+1137	civic	Pictilisib	Her2-receptor Positive Breast Cancer	PIK3CA	C420R	Sensitivity/Response
+1138	civic	Pictilisib	Her2-receptor Positive Breast Cancer	PIK3CA	K111N	Sensitivity/Response
+1139	civic	Trastuzumab	Breast Cancer	PIK3CA	Mutation	Resistance
+1140	civic	Pictilisib	Breast Cancer	PIK3CA	H1047L	Sensitivity/Response
+1141	civic	Pictilisib	Her2-receptor Positive Breast Cancer	PIK3CA	H1047R	Sensitivity/Response
+1142	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PIK3CA	Mutation	Resistance
+1143	civic	Pictilisib	Breast Cancer	PIK3CA	H1047R	Sensitivity/Response
+1144	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	PIK3CA	H1047R	Resistance
+1145	civic	Cetuximab,Panitumumab	Colorectal Cancer	BRAF	V600E	Resistance
+1146	civic	Oxaliplatin	Colorectal Cancer	BRAF	V600E	Resistance
+1147	civic	Irinotecan	Colorectal Cancer	BRAF	V600E	Resistance
+1148	civic	Capecitabine,Bevacizumab,Oxaliplatin	Colorectal Cancer	BRAF	V600E	Resistance
+1149	civic	Trametinib	Melanoma	BRAF	V600E	Sensitivity/Response
+1150	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Mutation	Sensitivity/Response
+1151	civic	Afatinib	Lung Non-small Cell Carcinoma	EGFR	Mutation	Sensitivity/Response
+1152	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Ex19 del L858R	Sensitivity/Response
+1153	civic	Osimertinib	Lung Adenocarcinoma	EGFR	T790M	Sensitivity/Response
+1154	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Resistance
+1155	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Resistance
+1156	civic	Lapatinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Resistance
+1157	civic	Dacomitinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+1158	civic	Neratinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+1159	civic	Afatinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+1160	civic	Afatinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+1161	civic	Canertinib	Lung Non-small Cell Carcinoma	EGFR	T790M	Sensitivity/Response
+1162	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1163	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1164	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1165	civic	Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1166	civic	Panitumumab	Colorectal Cancer	KRAS	G13D	Resistance
+1167	civic	Irinotecan,Cetuximab	Colorectal Cancer	NRAS	Q61L	Resistance
+1168	civic	Selumetinib,Dactolisib	Colorectal Cancer	KRAS	G13D	Sensitivity/Response
+1169	civic	Cetuximab	Colorectal Cancer	NRAS	Q61R	Resistance
+1170	civic	Chemotherapy,Cetuximab	Colorectal Cancer	BRAF	Mutation	Resistance
+1171	civic	Chemotherapy,Cetuximab	Colorectal Cancer	NRAS	Q61K	Resistance
+1172	civic	Dactolisib,Selumetinib	Colorectal Cancer	NRAS	Q61K	Sensitivity/Response
+1173	civic	Panitumumab	Colorectal Cancer	KRAS	G12D	Resistance
+1174	civic	Cetuximab,Irinotecan	Colorectal Cancer	PIK3CA	Q546K	Resistance
+1175	civic	Cetuximab,Irinotecan	Colorectal Cancer	BRAF	D594G	Resistance
+1176	civic	Irinotecan,Cetuximab	Colorectal Cancer	NRAS	G13R	Resistance
+1177	civic	Selumetinib,Dactolisib	Colorectal Cancer	KRAS	A146T	Sensitivity/Response
+1178	civic	Cetuximab	Colorectal Cancer	KRAS	G12D	Resistance
+1179	civic	Selumetinib,Dactolisib	Colorectal Cancer	KRAS	A146V	Sensitivity/Response
+1180	civic	Cetuximab,Chemotherapy	Colorectal Cancer	NRAS	Mutation	Resistance
+1181	civic	Selumetinib,Dactolisib	Colorectal Cancer	KRAS	G12C	Sensitivity/Response
+1182	civic	Cetuximab,Irinotecan	Colorectal Cancer	PIK3CA	E545Q	Resistance
+1183	civic	Cetuximab	Colorectal Cancer	PIK3CA	E545K	Resistance
+1184	civic	Dactolisib,Selumetinib	Colorectal Cancer	KRAS	G12D	Sensitivity/Response
+1185	civic	Cetuximab	Colorectal Cancer	KRAS	G12V	Resistance
+1186	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	T2666A	Resistance
+1187	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	Mutation	Resistance
+1188	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	R3008C	Resistance
+1189	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	c.902-1G>T	Resistance
+1190	civic	Irinotecan,Cetuximab	Colorectal Cancer	KRAS	A146P	Resistance
+1191	civic	Panitumumab	Colorectal Cancer	KRAS	G12V	Resistance
+1192	civic	Panitumumab	Colorectal Cancer	KRAS	G12D	Resistance
+1193	civic	Gefitinib	Lung Cancer	KRAS	G12D	Resistance
+1194	civic	Erlotinib	Lung Non-small Cell Carcinoma	KRAS	Mutation	Resistance
+1195	civic	Melphalan	Multiple Myeloma	KRAS	G12D	Resistance
+1196	civic	Melphalan	Multiple Myeloma	KRAS	G12D	Resistance
+1197	civic	Melphalan	Multiple Myeloma	KRAS	G12D	Resistance
+1198	civic	Melphalan	Multiple Myeloma	KRAS	G12D	Resistance
+1199	civic	Panitumumab	Colorectal Cancer	KRAS	G12C	Resistance
+1200	civic	Gefitinib	Lung Cancer	KRAS	G12C	Resistance
+1201	civic	Melphalan	Multiple Myeloma	KRAS	G12C	Resistance
+1202	civic	Melphalan	Multiple Myeloma	KRAS	G12C	Resistance
+1203	civic	Melphalan	Multiple Myeloma	KRAS	G12C	Resistance
+1204	civic	Melphalan	Multiple Myeloma	KRAS	G12C	Resistance
+1205	civic	Panitumumab	Colorectal Cancer	KRAS	G12R	Resistance
+1206	civic	Gefitinib	Lung Cancer	KRAS	G12V	Resistance
+1207	civic	Panitumumab	Colorectal Cancer	KRAS	G12S	Resistance
+1208	civic	Gefitinib	Lung Cancer	KRAS	G12S	Resistance
+1209	civic	Melphalan	Multiple Myeloma	KRAS	G12S	Resistance
+1210	civic	Melphalan	Multiple Myeloma	KRAS	G12S	Resistance
+1211	civic	Melphalan	Multiple Myeloma	KRAS	G12S	Resistance
+1212	civic	Melphalan	Multiple Myeloma	KRAS	G12S	Resistance
+1213	civic	Cisplatin,Carboplatin	Ovarian Cancer	TP53	R273L	Resistance
+1214	civic	Mitomycin,Cisplatin,Etoposide	Stomach Carcinoma	TP53	R273C	Sensitivity/Response
+1215	civic	Mitomycin,Cisplatin,Etoposide	Stomach Carcinoma	TP53	Y220C	Sensitivity/Response
+1216	civic	EAP Protocol	Stomach Carcinoma	TP53	R175H	Sensitivity/Response
+1217	civic	Temozolomide	Brain Glioma	IDH1	R132C	Sensitivity/Response
+1218	civic	AGI-5198	High Grade Glioma	IDH1	R132C	Sensitivity/Response
+1219	civic	Ivosidenib	Acute Myeloid Leukemia	IDH1	R132C	Sensitivity/Response
+1220	civic	BPTES	Acute Myeloid Leukemia	IDH1	R132C	Sensitivity/Response
+1221	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	PIK3CA	C420R	Resistance
+1222	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	PIK3CA	Mutation	Resistance
+1223	civic	Erlotinib,Gefitinib	Lung Non-small Cell Carcinoma	KRAS	Mutation	Resistance
+1224	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	T417_D419delinsY	Sensitivity/Response
+1225	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	F506_F508DUP	Sensitivity/Response
+1226	civic	Imatinib	Cancer	KIT	N822H	Resistance
+1227	civic	Imatinib	Cancer	KIT	N822K	Sensitivity/Response
+1228	civic	Imatinib	Cancer	KIT	D816V	Resistance
+1229	civic	Imatinib	Cancer	PDGFRA	V561D	Resistance
+1230	civic	Imatinib	Cancer	PDGFRA	D842_H845DELDIMH	Resistance
+1231	civic	Imatinib	Cancer	PDGFRA	D842V	Resistance
+1232	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	K484_G487DEL	Sensitivity/Response
+1233	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	Exon 9 Mutation	Sensitivity/Response
+1234	civic	Imatinib	Cancer	KIT	V560G	Resistance
+1235	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	Exon 11 Mutation	Sensitivity/Response
+1236	civic	Imatinib	Cancer	KIT	K642E	Resistance
+1237	civic	Imatinib	Gastrointestinal Stromal Tumor	PDGFRA	V561D	Sensitivity/Response
+1238	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	Exon 13 Mutation	Sensitivity/Response
+1239	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	Exon 9 Mutation	Reduced Sensitivity
+1240	civic	Imatinib	Gastrointestinal Stromal Tumor	PDGFRA	D842V	Resistance
+1241	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	EXPRESSION	Sensitivity/Response
+1242	civic	Imatinib	Cancer	KIT	W557_K558del	Resistance
+1243	civic	Imatinib	Cancer	KIT	Y503_F504insAY	Resistance
+1244	civic	Imatinib	Gastrointestinal Stromal Tumor	PDGFRA	Exon 18 Mutation	Sensitivity/Response
+1245	civic	Imatinib	Gastrointestinal Stromal Tumor	PDGFRA	Mutation	Sensitivity/Response
+1246	civic	Dabrafenib	Melanoma	BRAF	V600K	Sensitivity/Response
+1247	civic	Trametinib	Melanoma	BRAF	V600K	Sensitivity/Response
+1248	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	G719A	Sensitivity/Response
+1249	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Wildtype	Resistance
+1250	civic	Erlotinib	Bronchiolo-alveolar Adenocarcinoma	EGFR	E746_A750del	Sensitivity/Response
+1251	civic	Gefitinib	Lung Adenocarcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+1252	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Mutation	Sensitivity/Response
+1253	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1254	civic	Gefitinib	Lung Adenocarcinoma	EGFR	L858R	Sensitivity/Response
+1255	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	E746_A750del	Sensitivity/Response
+1256	civic	Lapatinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1257	civic	Dacomitinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1258	civic	Neratinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1259	civic	Afatinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1260	civic	Canertinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1261	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1262	civic	Gefitinib	Lung Adenocarcinoma	EGFR	L858R	Sensitivity/Response
+1263	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V	Resistance
+1264	civic	Imatinib	Cancer	ABL1	BCR::ABL M244V	Sensitivity/Response
+1265	civic	Nilotinib,Dasatinib	Cancer	ABL1	BCR::ABL M244V	Resistance
+1266	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248V	Resistance
+1267	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248V	Resistance
+1268	civic	Imatinib Mesylate,Nilotinib,Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248V	Resistance
+1269	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Q252H	Sensitivity/Response
+1270	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Q252H	Resistance
+1271	civic	Nilotinib,Dasatinib	Cancer	ABL1	BCR::ABL Q252H	Resistance
+1272	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Y253F	Resistance
+1273	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E255V	Resistance
+1274	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Y253F	Resistance
+1275	civic	Bafetinib,Dasatinib,Nilotinib	Cancer	ABL1	BCR::ABL Y253F	Resistance
+1276	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E355G	Resistance
+1277	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL S417Y	Resistance
+1278	civic	Bafetinib,Dasatinib	Chronic Myeloid Leukemia	ABCB1	Overexpression	Resistance
+1279	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396R	Resistance
+1280	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396R	Resistance
+1281	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396R	Resistance
+1282	civic	Cisplatin,Carboplatin	Ovarian Cancer	TP53	Y234C	Resistance
+1283	civic	Cisplatin,Carboplatin	Ovarian Cancer	TP53	ALTERATION	Resistance
+1284	civic	Tamoxifen	Breast Cancer	TP53	DNA Binding Domain Mutation	Resistance
+1285	civic	Tamoxifen	Breast Cancer	TP53	Mutation	Resistance
+1286	civic	Etoposide,Mitomycin,Cisplatin	Stomach Cancer	TP53	Overexpression	Sensitivity/Response
+1287	civic	EAP Protocol	Stomach Carcinoma	TP53	R282L	Sensitivity/Response
+1288	civic	EAP Protocol	Stomach Carcinoma	TP53	R213P	Sensitivity/Response
+1289	civic	Etoposide,Doxorubicin,Cisplatin	Stomach Carcinoma	TP53	Mutation	Sensitivity/Response
+1290	civic	Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F486S	Sensitivity/Response
+1291	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	c.7089+1del	Resistance
+1292	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	c.7515+1_2del	Resistance
+1293	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	K293*	Resistance
+1294	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	F1025L	Resistance
+1295	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	D1930V	Resistance
+1296	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	E2187*	Resistance
+1297	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	L2427P	Resistance
+1298	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	F2732V	Resistance
+1299	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	K468FS	Resistance
+1300	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	D1682H	Resistance
+1301	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	A2062V	Resistance
+1302	civic	Doxorubicin	Chronic Lymphocytic Leukemia	ATM	C2488Y	Resistance
+1303	civic	Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E255V	Resistance
+1304	civic	Nilotinib,Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL E255V	Resistance
+1305	civic	Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E292V	Resistance
+1306	civic	Nilotinib,Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359C	Resistance
+1307	civic	Imatinib Mesylate,Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L384M	Resistance
+1308	civic	Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL V299L	Sensitivity/Response
+1309	civic	Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L387F	Resistance
+1310	civic	Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL G398R	Sensitivity/Response
+1311	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	PIK3CA	K111N	Resistance
+1312	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	PIK3CA	I391M	Resistance
+1313	civic	Rucaparib	Ovarian Cancer	BRCA2	Mutation	Sensitivity/Response
+1314	civic	Rucaparib	Ovarian Cancer	BRCA1	Q1467*	Sensitivity/Response
+1315	civic	Rucaparib	Ovarian Cancer	BRCA2	M1R	Sensitivity/Response
+1316	civic	Rucaparib	Ovarian Cancer	BRCA2	M1I	Sensitivity/Response
+1317	civic	Rucaparib	Ovarian Cancer	BRCA2	V159M	Sensitivity/Response
+1318	civic	Rucaparib	Ovarian Cancer	BRCA2	V211L	Sensitivity/Response
+1319	civic	Rucaparib	Ovarian Cancer	BRCA2	V211I	Sensitivity/Response
+1320	civic	Rucaparib	Ovarian Cancer	BRCA2	R2336P	Sensitivity/Response
+1321	civic	Imatinib	Melanoma	KIT	D820Y	Resistance
+1322	civic	Sunitinib	Melanoma	KIT	D820Y	Sensitivity/Response
+1323	civic	Imatinib	Mucosal Melanoma	KIT	K642E	Sensitivity/Response
+1324	civic	Fluorouracil,Cisplatin	Esophageal Cancer	GNAS	c.393T>C	Resistance
+1325	civic	Temozolomide	Glioblastoma	MGMT	Underexpression	Sensitivity/Response
+1326	civic	Temozolomide	High Grade Glioma	MGMT	Underexpression	Sensitivity/Response
+1327	civic	Temozolomide	Oligodendroglioma	MGMT	Underexpression	Sensitivity/Response
+1328	civic	Temozolomide	Glioblastoma	MGMT	Underexpression	Sensitivity/Response
+1329	civic	Temozolomide	Neuroendocrine Tumor	MGMT	Underexpression	Sensitivity/Response
+1330	civic	Gemcitabine,Cisplatin	Lung Non-small Cell Carcinoma	RRM1	Underexpression	Sensitivity/Response
+1331	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	S768I	Sensitivity/Response
+1332	civic	Trametinib,Selumetinib	Lung Non-small Cell Carcinoma	NRAS	Q61K	Sensitivity/Response
+1333	civic	FGF/VEGF Receptor Tyrosine Kinase Inhibitor, PD173074,Infigratinib,FGFR Inhibitor AZD4547	Sarcoma	FGFR1	Expression	Sensitivity/Response
+1334	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	N822K	Resistance
+1335	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	Y823D	Resistance
+1336	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	C809G	Resistance
+1337	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	D820A	Resistance
+1338	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	D820G	Resistance
+1339	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	D816H	Resistance
+1340	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	T670I	Resistance
+1341	civic	Pembrolizumab,Nivolumab,Atezolizumab	Cancer	DNMT3A	Mutation	Resistance
+1342	civic	Dabrafenib,Panitumumab	Colorectal Cancer	BRAF	Amplification	Resistance
+1343	civic	Binimetinib,Ribociclib	Skin Melanoma	NRAS	Mutation	Sensitivity/Response
+1344	civic	Olaparib	Brain Glioma	IDH1	Mutation	Sensitivity/Response
+1345	civic	Crizotinib	Lung Adenocarcinoma	ROS1	G2032R	Resistance
+1346	civic	Selumetinib	Lung Adenocarcinoma	MAP2K1	K57N	Sensitivity/Response
+1347	civic	Binimetinib	Skin Melanoma	NRAS	Mutation	Sensitivity/Response
+1348	civic	Gefitinib	Lung Cancer	EGFR	Mutation	Sensitivity/Response
+1349	civic	Letetresgene Autoleucel	Multiple Myeloma	CTAG1B	Overexpression	Sensitivity/Response
+1350	civic	Letetresgene Autoleucel	Multiple Myeloma	CTAG2	Overexpression	Sensitivity/Response
+1351	civic	Cetuximab	Colorectal Cancer	KRAS	A146T	Resistance
+1352	civic	Entrectinib	Cancer	NTRK1	Fusion	Sensitivity/Response
+1353	civic	Entrectinib	Cancer	NTRK3	Fusion	Sensitivity/Response
+1354	civic	Entrectinib	Lung Non-small Cell Carcinoma	NTRK1	SQSTM1::NTRK1	Sensitivity/Response
+1355	civic	Entrectinib	Cancer	ROS1	Rearrangement	Sensitivity/Response
+1356	civic	Entrectinib	Cancer	ALK	Fusion	Sensitivity/Response
+1357	civic	Larotrectinib	Cancer	NTRK1	Fusion	Sensitivity/Response
+1358	civic	Larotrectinib	Sarcoma	NTRK1	LMNA::NTRK1	Sensitivity/Response
+1359	civic	Entrectinib	Cancer	NTRK1	Amplification	Sensitivity/Response
+1360	civic	Entrectinib	Cancer	NTRK3	Amplification	Sensitivity/Response
+1361	civic	Entrectinib	Colorectal Adenocarcinoma	NTRK1	LMNA::NTRK1	Sensitivity/Response
+1362	civic	Entrectinib	Colorectal Adenocarcinoma	NTRK1	LMNA::NTRK1 G595R and G667C	Resistance
+1363	civic	Rebemadlin	Cancer	TP53	Wildtype	Sensitivity/Response
+1364	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	Wildtype	Sensitivity/Response
+1365	civic	RG7112	Leukemia	TP53	Wildtype	Sensitivity/Response
+1366	civic	RG7112	Leukemia	TP53	Deleterious Mutation	Resistance
+1367	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	Deleterious Mutation	Resistance
+1368	civic	Rebemadlin	Cancer	TP53	Deleterious Mutation	Resistance
+1369	civic	Dasatinib	Ovarian Clear Cell Carcinoma	ARID1A	Loss	Sensitivity/Response
+1370	civic	GSK126	Ovarian Clear Cell Carcinoma	ARID1A	Loss	Sensitivity/Response
+1371	civic	Cisplatin,Pictilisib	Cervix Carcinoma	PIK3CA	E545K	Sensitivity/Response
+1372	civic	Cisplatin	Cervical Cancer	PIK3CA	E545K	Resistance
+1373	civic	Entrectinib	Neuroblastoma	ALK	F1245V	Sensitivity/Response
+1374	civic	Anti-CTLA-4 Monoclonal Antibody,Anti-PD-L1 Monoclonal Antibody	Melanoma	CTNNB1	Activating Mutation	Resistance
+1375	civic	UNC1062	Melanoma	MERTK	OVEREXPRESSION	Sensitivity/Response
+1376	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1377	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+1378	civic	Afatinib	Lung Non-small Cell Carcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+1379	civic	Afatinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1380	civic	Docetaxel,Selumetinib	Lung Non-small Cell Carcinoma	KRAS	Mutation	Resistance
+1381	civic	Radiation Therapy	Head And Neck Squamous Cell Carcinoma	CD274	Expression	Resistance
+1382	civic	Cisplatin,Olaparib,Prexasertib	Lung Small Cell Carcinoma	MYC	Overexpression	Sensitivity/Response
+1383	civic	Lapatinib	Cancer	ERBB2	L755S	Resistance
+1384	civic	Lapatinib	Cancer	ERBB2	L755P	Resistance
+1385	civic	Lapatinib	Cancer	ERBB2	T798M	Resistance
+1386	civic	Tandutinib	Acute Myeloid Leukemia	FLT3	D835V	Resistance
+1387	civic	Sunitinib	Acute Myeloid Leukemia	FLT3	D835V	Sensitivity/Response
+1388	civic	Sunitinib,Cytarabine	Acute Myeloid Leukemia	FLT3	D835V	Sensitivity/Response
+1389	civic	Daunorubicin,Sunitinib	Acute Myeloid Leukemia	FLT3	D835V	Sensitivity/Response
+1390	civic	Quizartinib	Acute Myeloid Leukemia	FLT3	D835V	Sensitivity/Response
+1391	civic	Carboplatin,Cisplatin	Ovarian Cancer	TP53	Overexpression	Resistance
+1392	civic	Osimertinib,Rociletinib	Lung Non-small Cell Carcinoma	EGFR	Amplification	Resistance
+1393	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Mutation	Sensitivity/Response
+1394	civic	Dabrafenib,Trametinib	Lung Non-small Cell Carcinoma	BRAF	V600E	Sensitivity/Response
+1395	civic	Dovitinib	Lung Non-small Cell Carcinoma	FGFR1	Amplification	Sensitivity/Response
+1396	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	V559D	Sensitivity/Response
+1397	civic	Sunitinib,Dasatinib,Tandutinib,PD-180970,Imatinib	Cancer	KIT	V559D	Sensitivity/Response
+1398	civic	Tyrphostin AG 1296,AS602868	Acute Myeloid Leukemia	FLT3	D835V	Sensitivity/Response
+1399	civic	Trametinib,Selumetinib	Uveal Melanoma	MET	Overexpression	Resistance
+1400	civic	Capivasertib	Cancer	AKT1	E17K	Sensitivity/Response
+1401	civic	Capivasertib	Cancer	PIK3CA	Mutation	Sensitivity/Response
+1402	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	R248Q	Resistance
+1403	civic	Radioactive Iodine	Thyroid Gland Follicular Carcinoma	GNAS	R201H	Sensitivity/Response
+1404	civic	Cabozantinib	Uveal Melanoma	GNA11	Mutation	Sensitivity/Response
+1405	civic	Irinotecan,Cetuximab	Colorectal Cancer	NRAS	Q61H	Resistance
+1406	civic	Cetuximab	Colorectal Cancer	NRAS	G12D	Resistance
+1407	civic	Cetuximab,Chemotherapy	Colorectal Cancer	KRAS	Mutation	Resistance
+1408	civic	Regorafenib	Colorectal Cancer	KRAS	G12A	Resistance
+1409	civic	Erlotinib,Teprotumumab	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+1410	civic	Vemurafenib	Melanoma	PIK3CA	E545K	Resistance
+1411	civic	Vemurafenib	Melanoma	PIK3CA	E545G	Resistance
+1412	civic	Chemotherapy,Cetuximab	Colorectal Cancer	PIK3CA	Mutation	Resistance
+1413	civic	Vemurafenib	Colorectal Cancer	PIK3CA	H1047R	Resistance
+1414	civic	FOLFOX-4 Regimen,Cetuximab	Colorectal Cancer	BRAF	V600E	Resistance
+1415	civic	Vemurafenib	Melanoma	BRAF	V600E	Sensitivity/Response
+1416	civic	Vemurafenib	Melanoma	BRAF	V600E	Sensitivity/Response
+1417	civic	Vemurafenib	Melanoma	BRAF	V600E	Sensitivity/Response
+1418	civic	Trametinib,Dabrafenib	Skin Melanoma	BRAF	V600E	Sensitivity/Response
+1419	civic	Vemurafenib	Childhood Pilocytic Astrocytoma	BRAF	V600E	Sensitivity/Response
+1420	civic	Vemurafenib	Ovarian Serous Carcinoma	BRAF	V600E	Sensitivity/Response
+1421	civic	Erlotinib	Lung Adenocarcinoma	EGFR	Ex19 del L858R	Sensitivity/Response
+1422	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Mutation	Sensitivity/Response
+1423	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	L861Q	Sensitivity/Response
+1424	civic	Multikinase Inhibitor AEE788,Erlotinib,Gefitinib	Cancer	EGFR	T790M	Resistance
+1425	civic	Multikinase Inhibitor AEE788,Erlotinib,Gefitinib	Cancer	EGFR	L858R	Sensitivity/Response
+1426	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1427	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1428	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Reduced Sensitivity
+1429	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1430	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1431	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1432	civic	Panitumumab	Colorectal Cancer	KRAS	G12V	Resistance
+1433	civic	Panitumumab	Colorectal Cancer	BRAF	V600E	Resistance
+1434	civic	Irinotecan,Cetuximab	Colorectal Cancer	PIK3CA	R88Q	Resistance
+1435	civic	Irinotecan,Cetuximab	Colorectal Cancer	PIK3CA	H1047R	Resistance
+1436	civic	Panitumumab	Colorectal Cancer	NRAS	G13R	Resistance
+1437	civic	Chemotherapy,Cetuximab	Colorectal Cancer	NRAS	G12C	Resistance
+1438	civic	Cetuximab	Colorectal Cancer	PIK3CA	G1049R	Resistance
+1439	civic	Vemurafenib	Skin Squamous Cell Carcinoma	HRAS	G13D	Resistance
+1440	civic	Cetuximab	Colorectal Cancer	HRAS	G13D	Resistance
+1441	civic	Cetuximab,FOLFOX-4 Regimen	Colorectal Cancer	KRAS	A146T	Resistance
+1442	civic	Chemotherapy,Cetuximab	Colorectal Cancer	KRAS	Q61H	Resistance
+1443	civic	Cetuximab	Colorectal Cancer	KRAS	Q61H	Resistance
+1444	civic	Erlotinib	Lung Cancer	EGFR	Mutation	Sensitivity/Response
+1445	civic	Cetuximab,Chemotherapy	Colorectal Cancer	KRAS	Q61L	Resistance
+1446	civic	Cetuximab,Irinotecan	Colorectal Cancer	KRAS	Q61R	Resistance
+1447	civic	Cetuximab,Chemotherapy	Colorectal Cancer	KRAS	Q61K	Resistance
+1448	civic	Cetuximab	Colorectal Cancer	KRAS	G13D	Resistance
+1449	civic	Cetuximab	Colorectal Cancer	KRAS	G13D	Resistance
+1450	civic	Cetuximab	Colorectal Cancer	KRAS	G13D	Resistance
+1451	civic	Regorafenib	Colorectal Cancer	KRAS	G13D	Resistance
+1452	civic	Erlotinib	Lung Non-small Cell Carcinoma	KRAS	Mutation	Resistance
+1453	civic	Chemotherapy,Cetuximab	Colorectal Cancer	KRAS	Q61	Resistance
+1454	civic	Regorafenib	Colorectal Cancer	KRAS	G12V	Resistance
+1455	civic	Chemotherapy,Cetuximab	Colorectal Cancer	KRAS	A146	Resistance
+1456	civic	Regorafenib	Colorectal Cancer	KRAS	G12D	Resistance
+1457	civic	Vemurafenib	Melanoma	KRAS	G12D	Resistance
+1458	civic	Cetuximab	Ovarian Cancer	KRAS	G12D	Resistance
+1459	civic	Cetuximab,Chemotherapy	Colorectal Cancer	KRAS	G12C	Resistance
+1460	civic	Regorafenib	Colorectal Cancer	KRAS	G12C	Resistance
+1461	civic	Chemotherapy,Cetuximab	Colorectal Cancer	KRAS	G12R	Resistance
+1462	civic	Cetuximab	Colorectal Cancer	KRAS	G12R	Resistance
+1463	civic	Regorafenib	Colorectal Cancer	KRAS	G12R	Resistance
+1464	civic	Cetuximab	Colorectal Cancer	KRAS	G12S	Resistance
+1465	civic	Regorafenib	Colorectal Cancer	KRAS	G12S	Resistance
+1466	civic	Sunitinib	Acute Myeloid Leukemia	FLT3	D835V	Sensitivity/Response
+1467	civic	Vemurafenib	Melanoma	AKT1	E17K	Resistance
+1468	civic	Cetuximab	Colorectal Cancer	PIK3CA	N345K	Resistance
+1469	civic	Sunitinib	Cancer	PDGFRA	V561D	Resistance
+1470	civic	Sunitinib	Cancer	PDGFRA	D842V	Resistance
+1471	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	V560_L576DEL	Sensitivity/Response
+1472	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	K550_K558del	Resistance
+1473	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	Exon 11 Mutation	Resistance
+1474	civic	Sunitinib	Cancer	KIT	V560D	Resistance
+1475	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	W557_K558del	Resistance
+1476	civic	Ponatinib,Imatinib	Gastrointestinal Stromal Tumor	KIT	W557_K558del	Sensitivity/Response
+1477	civic	Sunitinib,Regorafenib	Gastrointestinal Stromal Tumor	KIT	W557_K558del	Sensitivity/Response
+1478	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	K558_V559del	Resistance
+1479	civic	Sunitinib	Cancer	KIT	A502_Y503insAY	Resistance
+1480	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	Exon 9 Mutation	Reduced Sensitivity
+1481	civic	Regorafenib	Gastrointestinal Stromal Tumor	BRAF	Exon 15 Mutation	Sensitivity/Response
+1482	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	V560D	Resistance
+1483	civic	Ponatinib	Gastrointestinal Stromal Tumor	KIT	P551_E554delPMYE	Sensitivity/Response
+1484	civic	Imatinib,Sunitinib,Regorafenib,Ponatinib	Gastrointestinal Stromal Tumor	KIT	V560D	Sensitivity/Response
+1485	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	L576P	Resistance
+1486	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	Exon 9 Mutation	Reduced Sensitivity
+1487	civic	Imatinib,Dasatinib	Cancer	KIT	L576P	Sensitivity/Response
+1488	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	D579del	Resistance
+1489	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	WILDTYPE	Sensitivity/Response
+1490	civic	Dasatinib	Melanoma	KIT	K642E	Sensitivity/Response
+1491	civic	Ponatinib	Gastrointestinal Stromal Tumor	KIT	N822K	Resistance
+1492	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	N822K	Resistance
+1493	civic	Vemurafenib	Melanoma	BRAF	V600K	Sensitivity/Response
+1494	civic	Dabrafenib,Trametinib	Skin Melanoma	BRAF	V600K	Sensitivity/Response
+1495	civic	Erlotinib	High Grade Glioma	EGFR	R108K	Sensitivity/Response
+1496	civic	Erlotinib	High Grade Glioma	EGFR	T263P	Sensitivity/Response
+1497	civic	Erlotinib	High Grade Glioma	EGFR	A289V	Sensitivity/Response
+1498	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	G719	Sensitivity/Response
+1499	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	G719S	Sensitivity/Response
+1500	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	V742A	Sensitivity/Response
+1501	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	E746_A750del	Sensitivity/Response
+1502	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Mutation	Sensitivity/Response
+1503	civic	Gefitinib	Lung Adenocarcinoma	EGFR	E746_T751>I	Sensitivity/Response
+1504	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	G719D	Sensitivity/Response
+1505	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	L747P	Sensitivity/Response
+1506	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	V774A	Sensitivity/Response
+1507	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	V774M	Sensitivity/Response
+1508	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	K806E	Sensitivity/Response
+1509	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	N826Y	Sensitivity/Response
+1510	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	V834I	Sensitivity/Response
+1511	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	L838P	Sensitivity/Response
+1512	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	N842S	Sensitivity/Response
+1513	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	T847I	Sensitivity/Response
+1514	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	V851I	Sensitivity/Response
+1515	civic	Erlotinib	Cancer	EGFR	L858R	Sensitivity/Response
+1516	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	L747_P753delinsS	Sensitivity/Response
+1517	civic	Erlotinib	Lung Adenocarcinoma	EGFR	S768I	Resistance
+1518	civic	Erlotinib,Gefitinib	Cancer	EGFR	S768I	Sensitivity/Response
+1519	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	D770_N771insSVD	Resistance
+1520	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	H773_V774insH	Resistance
+1521	civic	Erlotinib	Cancer	EGFR	R831H	Sensitivity/Response
+1522	civic	Erlotinib,Gefitinib	Cancer	EGFR	L838V	Resistance
+1523	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1524	civic	Erlotinib	Cancer	EGFR	L858R	Sensitivity/Response
+1525	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1526	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1527	civic	Crizotinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Resistance
+1528	civic	Erlotinib	Lung Adenocarcinoma	EGFR	L858R	Sensitivity/Response
+1529	civic	Erlotinib	Lung Adenocarcinoma	EGFR	L858R	Sensitivity/Response
+1530	civic	Cetuximab	Lung Adenocarcinoma	EGFR	L858R	Sensitivity/Response
+1531	civic	Erlotinib	Lung Small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1532	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1533	civic	Erlotinib	High Grade Glioma	EGFR	L858R	Sensitivity/Response
+1534	civic	Erlotinib,Gefitinib	Lung Non-small Cell Carcinoma	EGFR	L861	Sensitivity/Response
+1535	civic	Erlotinib	High Grade Glioma	EGFR	L861Q	Sensitivity/Response
+1536	civic	Erlotinib	Cancer	EGFR	E868G	Sensitivity/Response
+1537	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V	Resistance
+1538	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V	Resistance
+1539	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V	Resistance
+1540	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V	Resistance
+1541	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V	Resistance
+1542	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248V	Resistance
+1543	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248V	Resistance
+1544	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Q252H	Resistance
+1545	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Q252H	Resistance
+1546	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Y253F	Resistance
+1547	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Y253F	Resistance
+1548	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E355G	Resistance
+1549	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E355G	Resistance
+1550	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E355G	Resistance
+1551	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E355G	Resistance
+1552	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L387M	Resistance
+1553	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L387M	Resistance
+1554	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396R	Resistance
+1555	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396R	Resistance
+1556	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396R	Resistance
+1557	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396R	Resistance
+1558	civic	Cetuximab	Colorectal Cancer	PIK3CA	E542K	Resistance
+1559	civic	Cetuximab	Colorectal Cancer	KRAS	G12A	Resistance
+1560	civic	Cetuximab,Irinotecan	Colorectal Cancer	PIK3CA	H1047L	Resistance
+1561	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L364I	Resistance
+1562	civic	Dasatinib	Acute Lymphoblastic Leukemia	ABL1	BCR::ABL	Sensitivity/Response
+1563	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F486S	Resistance
+1564	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F486S	Resistance
+1565	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E255V	Resistance
+1566	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E255V	Resistance
+1567	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E255V	Reduced Sensitivity
+1568	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E255V	Resistance
+1569	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E255V	Resistance
+1570	civic	Imatinib,Sunitinib,Regorafenib	Gastrointestinal Stromal Tumor	KIT	P551_E554delPMYE	Sensitivity/Response
+1571	civic	Imatinib,Ponatinib,Regorafenib	Gastrointestinal Stromal Tumor	KIT	V559D	Sensitivity/Response
+1572	civic	Cetuximab,Irinotecan	Colorectal Cancer	PIK3CA	S158L	Resistance
+1573	civic	Fluorouracil,Cetuximab,Oxaliplatin	Colorectal Cancer	PIK3CA	E81K	Resistance
+1574	civic	Fluorouracil,Oxaliplatin,Cetuximab	Colorectal Cancer	PIK3CA	R93W	Resistance
+1575	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	R776C	Sensitivity/Response
+1576	civic	Cetuximab,Irinotecan	Colorectal Cancer	BRAF	D594G	Resistance
+1577	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	L298V	Resistance
+1578	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359C	Resistance
+1579	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359C	Resistance
+1580	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359C	Resistance
+1581	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359C	Resistance
+1582	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E453Q	Resistance
+1583	civic	Dasatinib	Ovarian Clear Cell Carcinoma	ARID1A	Q456*	Sensitivity/Response
+1584	civic	Vemurafenib	Melanoma	BRAF	V600D	Sensitivity/Response
+1585	civic	Vemurafenib	Melanoma	BRAF	V600D	Sensitivity/Response
+1586	civic	Erlotinib	Lung Adenocarcinoma	EGFR	H773_V774insNPH	Resistance
+1587	civic	Erlotinib	Lung Adenocarcinoma	EGFR	D770_N771insGL	Resistance
+1588	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	A864T	Sensitivity/Response
+1589	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	N826S	Resistance
+1590	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	A763_Y764insFQEA	Sensitivity/Response
+1591	civic	Vemurafenib	Melanoma	AKT1	Q79K	Resistance
+1592	civic	Erlotinib	High Grade Glioma	EGFR	VIII	Sensitivity/Response
+1593	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	T670I	Resistance
+1594	civic	Vemurafenib	Melanoma	AKT3	E17K	Resistance
+1595	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L384M	Resistance
+1596	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L384M	Resistance
+1597	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359I	Resistance
+1598	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359I	Resistance
+1599	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359I	Resistance
+1600	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359I	Resistance
+1601	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359I	Resistance
+1602	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL M343T	Resistance
+1603	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL V299L	Reduced Sensitivity
+1604	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL V299L	Resistance
+1605	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E279K	Resistance
+1606	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Q300R	Resistance
+1607	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F311L	Resistance
+1608	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL N331S	Resistance
+1609	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L364P	Resistance
+1610	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L387F	Resistance
+1611	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396P	Resistance
+1612	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL D421G	Resistance
+1613	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL G398R	Sensitivity/Response
+1614	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E450V	Resistance
+1615	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E453K	Resistance
+1616	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E453A	Resistance
+1617	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL P480A	Resistance
+1618	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F486S	Resistance
+1619	civic	Sunitinib,Imatinib,Ponatinib,Regorafenib	Gastrointestinal Stromal Tumor	KIT	K550_W557del	Sensitivity/Response
+1620	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	D820Y	Sensitivity/Response
+1621	civic	Ponatinib,Sunitinib,Imatinib,Regorafenib	Gastrointestinal Stromal Tumor	KIT	K558delinsNP	Sensitivity/Response
+1622	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	N822K	Sensitivity/Response
+1623	civic	Sunitinib	Gastrointestinal Stromal Tumor	PDGFRA	D842V	Resistance
+1624	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	Exon 11 Mutation	Sensitivity/Response
+1625	civic	Regorafenib	Gastrointestinal Stromal Tumor	BRAF	Exon 15 Mutation	Resistance
+1626	civic	Olaparib	Endometrioid Ovary Carcinoma	BRCA1	W1815X	Sensitivity/Response
+1627	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	Exon 9 Mutation	Sensitivity/Response
+1628	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	Exon 11 Mutation	Sensitivity/Response
+1629	civic	Regorafenib,Imatinib,Ponatinib	Gastrointestinal Stromal Tumor	KIT	A502_Y503insAY	Sensitivity/Response
+1630	civic	Sunitinib,Imatinib	Gastrointestinal Stromal Tumor	KIT	D816E	Resistance
+1631	civic	Erlotinib	Lung Adenocarcinoma	EGFR	D770_N771insGT	Resistance
+1632	civic	Erlotinib	Lung Adenocarcinoma	EGFR	Exon 20 Insertion	Resistance
+1633	civic	Vismodegib	Basal Cell Carcinoma	SMO	L412F	Resistance
+1634	civic	Vismodegib	Basal Cell Carcinoma	SMO	L412F	Resistance
+1635	civic	Erlotinib	Cancer	EGFR	W731L	Sensitivity/Response
+1636	civic	Erlotinib	Cancer	EGFR	E734Q	Sensitivity/Response
+1637	civic	Erlotinib	Cancer	EGFR	T785A	Sensitivity/Response
+1638	civic	Erlotinib	Cancer	EGFR	C797Y	Sensitivity/Response
+1639	civic	Erlotinib	Cancer	EGFR	Y801H	Sensitivity/Response
+1640	civic	Erlotinib	Lung Adenocarcinoma	EGFR	A767_V769dupASV	Resistance
+1641	civic	Erlotinib	Lung Adenocarcinoma	EGFR	L747_S752delinsQ	Sensitivity/Response
+1642	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	L861R	Sensitivity/Response
+1643	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL D363G	Resistance
+1644	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL V379I	Resistance
+1645	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL V379I	Resistance
+1646	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL	Sensitivity/Response
+1647	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL A397P	Resistance
+1648	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E98G	Resistance
+1649	civic	Vemurafenib	Colorectal Cancer	BRAF	G596R	Sensitivity/Response
+1650	civic	Erlotinib,Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Rare Exon 18-21 Mutation	Sensitivity/Response
+1651	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Ex19 del L858R	Sensitivity/Response
+1652	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Rare Exon 18-21 Mutation	Sensitivity/Response
+1653	civic	Erlotinib	Lung Adenocarcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+1654	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	C475V	Resistance
+1655	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL N336S	Resistance
+1656	civic	Pembrolizumab	Lung Adenocarcinoma	POLD1	C284Y	Sensitivity/Response
+1657	civic	Pembrolizumab	Lung Non-small Cell Carcinoma	POLD1	E374K	Sensitivity/Response
+1658	civic	Vemurafenib	Melanoma	PIK3R2	N561D	Resistance
+1659	civic	Vemurafenib	Melanoma	PIK3CA	D350G	Resistance
+1660	civic	Cetuximab	Colorectal Cancer	NRAS	Q179X	Resistance
+1661	civic	Crizotinib	Lung Adenocarcinoma	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+1662	civic	Dasatinib	Lung Non-small Cell Carcinoma	ABL1	R351W	Sensitivity/Response
+1663	civic	Dasatinib,Imatinib Mesylate	Lung Non-small Cell Carcinoma	ABL1	G340L	Sensitivity/Response
+1664	civic	Dasatinib,Imatinib	Cancer	KIT	S628N	Sensitivity/Response
+1665	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	M766_A767insAI	Resistance
+1666	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Y764_V765insHH	Resistance
+1667	civic	Erlotinib	Lung Adenocarcinoma	EGFR	D770delinsGY	Resistance
+1668	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	P772_H773insYNP	Resistance
+1669	civic	Erlotinib	Lung Adenocarcinoma	EGFR	P772_V774insPHV	Sensitivity/Response
+1670	civic	Palbociclib,Letrozole	Breast Cancer	ESR1	D538G	Sensitivity/Response
+1671	civic	Pembrolizumab	Melanoma	JAK2	Splice Site (c.1641+2T>G)	Resistance
+1672	civic	Dasatinib	Ovarian Clear Cell Carcinoma	ARID1A	P1175FS*5	Sensitivity/Response
+1673	civic	Anti-VEGF Monoclonal Antibody	Renal Cell Carcinoma	VHL	Mutation	Sensitivity/Response
+1674	civic	Enasidenib	Acute Myeloid Leukemia	IDH2	Mutation	Sensitivity/Response
+1675	civic	Brigatinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+1676	civic	Talazoparib	Breast Cancer	BRCA1	Loss-of-function	Sensitivity/Response
+1677	civic	Talazoparib	Breast Cancer	BRCA2	Loss-of-function	Sensitivity/Response
+1678	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	ERBB2	Overexpression	Sensitivity/Response
+1679	civic	Palbociclib	Liposarcoma	CDK4	Amplification	Sensitivity/Response
+1680	civic	Abemaciclib	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+1681	civic	Cabozantinib	Lung Adenocarcinoma	RET	Fusion	Sensitivity/Response
+1682	civic	Vandetanib	Lung Non-small Cell Carcinoma	RET	Fusion	Sensitivity/Response
+1683	civic	Vandetanib	Lung Non-small Cell Carcinoma	RET	Fusion	Sensitivity/Response
+1684	civic	Alectinib	Lung Non-small Cell Carcinoma	RET	Fusion	Sensitivity/Response
+1685	civic	Pembrolizumab,Durvalumab,Nivolumab,Avelumab,Atezolizumab	Lung Non-small Cell Carcinoma	CD274	Expression	Sensitivity/Response
+1686	civic	Crizotinib,Alectinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+1687	civic	Dacomitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+1688	civic	Dacomitinib	Lung Non-small Cell Carcinoma	EGFR	L858R	Sensitivity/Response
+1689	civic	Erdafitinib	Adrenal Carcinoma	FGFR3	Fusion	Sensitivity/Response
+1690	civic	Pemetrexed,Docetaxel,Trametinib	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+1691	civic	Atezolizumab,Nivolumab	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+1692	civic	Immune Checkpoint Inhibitor	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+1693	civic	Selumetinib,Cetuximab	Colorectal Cancer	KRAS	Mutation	Sensitivity/Response
+1694	civic	Trametinib	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+1695	civic	Selumetinib,Erlotinib	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+1696	civic	Palbociclib,Binimetinib	Colorectal Cancer	KRAS	Mutation	Sensitivity/Response
+1697	civic	Palbociclib	Sarcoma	CDK4	EXPRESSION	Sensitivity/Response
+1698	civic	Prexasertib,Cisplatin,Olaparib	Lung Small Cell Carcinoma	CHEK1	Overexpression	Sensitivity/Response
+1699	civic	Talazoparib	Ovarian Cancer	BRCA2	Loss-of-function	Sensitivity/Response
+1700	civic	Talazoparib	Ovarian Cancer	BRCA1	Loss-of-function	Sensitivity/Response
+1701	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Expression	Sensitivity/Response
+1702	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	R248W	Resistance
+1703	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	R175H	Resistance
+1704	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	R273C	Resistance
+1705	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	R273H	Resistance
+1706	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	G245S	Resistance
+1707	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	Y220C	Resistance
+1708	civic	MDM2 Inhibitor AMGMDS3	Glioblastoma	TP53	M237I	Resistance
+1709	civic	MDM2 Inhibitor AMGMDS3	Vulva Squamous Cell Carcinoma	TP53	R158H	Resistance
+1710	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	V157F	Resistance
+1711	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	R249S	Resistance
+1712	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	R280K	Resistance
+1713	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	R280T	Resistance
+1714	civic	MDM2 Inhibitor AMGMDS3	Cancer	TP53	R158L	Resistance
+1715	civic	Trametinib	Skin Melanoma	BRAF	L597Q	Sensitivity/Response
+1716	civic	Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Gain-of-function	Sensitivity/Response
+1717	civic	Trastuzumab,Fluorouracil,Leucovorin	Colorectal Adenocarcinoma	ERBB2	L755S	Sensitivity/Response
+1718	civic	Docetaxel,Erlotinib	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+1719	civic	Docetaxel	Lung Non-small Cell Carcinoma	KRAS	Mutation	Sensitivity/Response
+1720	civic	Cabozantinib	Uveal Melanoma	GNAQ	Mutation	Sensitivity/Response
+1721	civic	Enasidenib	Acute Myeloid Leukemia	IDH2	Mutation	Sensitivity/Response
+1722	civic	Olaparib,Paclitaxel	Stomach Cancer	ATM	Underexpression	Sensitivity/Response
+1723	civic	Midostaurin	Acute Myeloid Leukemia	FLT3	Mutation	Sensitivity/Response
+1724	civic	Everolimus	Renal Cell Carcinoma	VHL	Mutation	Sensitivity/Response
+1725	civic	Neratinib	Breast Cancer	ERBB2	Mutation	Sensitivity/Response
+1726	civic	Sunitinib,Everolimus	Renal Cell Carcinoma	BAP1	Mutation	Resistance
+1727	civic	Cetuximab,Panitumumab	Colorectal Cancer	NRAS	Mutation	Resistance
+1728	civic	Panitumumab,Cetuximab	Colorectal Cancer	KRAS	Mutation	Resistance
+1729	civic	Imatinib Mesylate	Cancer	PDGFRA	D842V	Resistance
+1730	civic	Imatinib Mesylate	Cancer	PDGFRA	V561D	Resistance
+1731	civic	Imatinib Mesylate	Cancer	KIT	V560D	Sensitivity/Response
+1732	civic	JQ-1	Multiple Myeloma	MYC	Overexpression	Sensitivity/Response
+1733	civic	Gemcitabine	Pancreatic Cancer	RRM1	Underexpression	Sensitivity/Response
+1734	civic	Gemcitabine	Pancreatic Cancer	RRM1	Underexpression	Sensitivity/Response
+1735	civic	Gemcitabine	Lung Non-small Cell Carcinoma	RRM1	Underexpression	Sensitivity/Response
+1736	civic	Vinorelbine,Gemcitabine,Paclitaxel	Lung Non-small Cell Carcinoma	RRM1	Underexpression	Sensitivity/Response
+1737	civic	Pembrolizumab	Lung Non-small Cell Carcinoma	CD274	Expression	Sensitivity/Response
+1738	civic	Olaparib	Her2-receptor Negative Breast Cancer	BRCA1	Loss-of-function	Sensitivity/Response
+1739	civic	Olaparib	Her2-receptor Negative Breast Cancer	BRCA2	Loss-of-function	Sensitivity/Response
+1740	civic	Checkpoint Kinase Inhibitor AZD7762,Irinotecan	Ureter Small Cell Carcinoma	RAD50	L1237F	Sensitivity/Response
+1741	civic	Olaparib	Her2-receptor Negative Breast Cancer	BRCA1	Mutation	Sensitivity/Response
+1742	civic	Olaparib	Breast Cancer	BRCA2	Mutation	Sensitivity/Response
+1743	civic	Rilotumumab	Stomach Carcinoma	MET	Overexpression	Sensitivity/Response
+1744	civic	Everolimus	Cancer	PTEN	Loss	Sensitivity/Response
+1745	civic	Afatinib	Cholangiocarcinoma	NRG1	ATP1B1::NRG1	Sensitivity/Response
+1746	civic	Afatinib	Lung Adenocarcinoma	NRG1	SDC4::NRG1	Sensitivity/Response
+1747	civic	Trametinib,Dabrafenib	Cholangiocarcinoma	BRAF	V600E	Sensitivity/Response
+1748	civic	Dabrafenib,Trametinib	Intrahepatic Cholangiocarcinoma	BRAF	V600E	Sensitivity/Response
+1749	civic	Trametinib,Dabrafenib	Intrahepatic Cholangiocarcinoma	BRAF	V600E	Sensitivity/Response
+1750	civic	Vemurafenib	Cholangiocarcinoma	BRAF	V600	Sensitivity/Response
+1751	civic	Irinotecan,Panitumumab,Vemurafenib	Cholangiocarcinoma	BRAF	V600E	Sensitivity/Response
+1752	civic	Infigratinib	Cholangiocarcinoma	FGFR2	Fusion	Sensitivity/Response
+1753	civic	Erlotinib	Lung Adenocarcinoma	EGFR	EGFR::RAD51	Sensitivity/Response
+1754	civic	Infigratinib	Cholangiocarcinoma	FGFR2	Mutation	Sensitivity/Response
+1755	civic	Olaparib	Pancreatic Cancer	BRCA2	Mutation	Sensitivity/Response
+1756	civic	Olaparib	Pancreatic Cancer	BRCA1	Mutation	Sensitivity/Response
+1757	civic	Oxaliplatin,Cisplatin	Pancreatic Cancer	BRCA1	Mutation	Sensitivity/Response
+1758	civic	Platinum Compound	Pancreatic Cancer	BRCA2	Mutation	Sensitivity/Response
+1759	civic	Erlotinib	Cancer	EGFR	L858R	Sensitivity/Response
+1760	civic	Cytoreductive Surgery,Hyperthermic Intraperitoneal Chemotherapy	Peritoneal Mesothelioma	EGFR	Mutation	Sensitivity/Response
+1761	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Amplification	Sensitivity/Response
+1762	civic	Erlotinib,Gefitinib	Lung Non-small Cell Carcinoma	EGFR	Amplification	Sensitivity/Response
+1763	civic	Olaparib,Apitolisib	Malignant Mesothelioma	BAP1	ALTERNATIVE TRANSCRIPT (ATI)	Sensitivity/Response
+1764	civic	Veliparib,Cisplatin,Gemcitabine	Pancreatic Cancer	BRCA1	Mutation	Sensitivity/Response
+1765	civic	Cisplatin,Veliparib,Gemcitabine	Pancreatic Cancer	BRCA2	Mutation	Sensitivity/Response
+1766	civic	Veliparib	Pancreatic Cancer	BRCA1	Mutation	Sensitivity/Response
+1767	civic	Veliparib	Pancreatic Cancer	BRCA2	Mutation	Sensitivity/Response
+1768	civic	Iniparib	Pancreatic Cancer	BRCA2	Mutation	Sensitivity/Response
+1769	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	M766_A767insASV	Sensitivity/Response
+1770	civic	Afatinib,Gefitinib	Lung Non-small Cell Carcinoma	EGFR	D770_N771insNPG	Sensitivity/Response
+1771	civic	Ceritinib	Colon Adenocarcinoma	ALK	STRN::ALK	Sensitivity/Response
+1772	civic	Olaparib	Colorectal Cancer	BARD1	Loss-of-function	Sensitivity/Response
+1773	civic	Crizotinib	Thyroid Gland Anaplastic Carcinoma	ALK	Fusion	Sensitivity/Response
+1774	civic	Trastuzumab,Capecitabine	Pancreatic Cancer	ERBB2	Overexpression	Sensitivity/Response
+1775	civic	Trastuzumab,Gemcitabine	Pancreatic Cancer	ERBB2	Overexpression	Sensitivity/Response
+1776	civic	Carboplatin,Buparlisib,Paclitaxel	Solid Tumor	PTEN	Loss	Sensitivity/Response
+1777	civic	Vemurafenib	Lung Non-small Cell Carcinoma	BRAF	V600E	Sensitivity/Response
+1778	civic	Vemurafenib	Ovarian Cancer	BRAF	V600E	Sensitivity/Response
+1779	civic	Vemurafenib	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+1780	civic	Vemurafenib,Pertuzumab	Thyroid Gland Anaplastic Carcinoma	BRAF	V600E	Sensitivity/Response
+1781	civic	Vemurafenib	Laryngeal Squamous Cell Carcinoma	BRAF	V600E	Sensitivity/Response
+1782	civic	Vemurafenib	Cancer	BRAF	G464V	Sensitivity/Response
+1783	civic	Vemurafenib	Cancer	BRAF	G469A	Sensitivity/Response
+1784	civic	Vemurafenib	Cancer	BRAF	G496A	Sensitivity/Response
+1785	civic	Vemurafenib	Cancer	BRAF	N581S	Sensitivity/Response
+1786	civic	Vemurafenib	Cancer	BRAF	G466V	Sensitivity/Response
+1787	civic	Vemurafenib	Cancer	BRAF	G596R	Sensitivity/Response
+1788	civic	Vemurafenib	Cancer	BRAF	G606E	Sensitivity/Response
+1789	civic	Vemurafenib	Cancer	BRAF	L597Q	Sensitivity/Response
+1790	civic	Vemurafenib	Cancer	BRAF	P731T	Sensitivity/Response
+1791	civic	Vemurafenib	Cancer	BRAF	intron 9 rearrangement	Sensitivity/Response
+1792	civic	Vemurafenib	Cancer	BRAF	intron 10 rearrangement	Sensitivity/Response
+1793	civic	Vemurafenib	Cancer	BRAF	MACF1::BRAF	Sensitivity/Response
+1794	civic	Vemurafenib	Cancer	BRAF	WASFL::BRAF	Sensitivity/Response
+1795	civic	Vemurafenib	Pancreatic Cancer	BRAF	CUX1::BRAF	Sensitivity/Response
+1796	civic	Vismodegib	Cancer	PTCH1	Mutation	Sensitivity/Response
+1797	civic	Vismodegib	Cancer	SMO	Mutation	Sensitivity/Response
+1798	civic	Trastuzumab,Pertuzumab	Lung Non-small Cell Carcinoma	ERBB2	Mutation	Sensitivity/Response
+1799	civic	Pertuzumab,Trastuzumab	Colorectal Cancer	ERBB2	Amplification	Sensitivity/Response
+1800	civic	Pertuzumab,Trastuzumab	Bladder Carcinoma	ERBB2	Amplification	Sensitivity/Response
+1801	civic	Trastuzumab,Pertuzumab	Biliary Tract Cancer	ERBB2	Amplification	Sensitivity/Response
+1802	civic	Trastuzumab,Pertuzumab	Salivary Gland Carcinoma	ERBB2	Amplification	Sensitivity/Response
+1803	civic	Trastuzumab,Pertuzumab	Pancreatic Cancer	ERBB2	Amplification	Sensitivity/Response
+1804	civic	Pertuzumab,Trastuzumab	Uterine Cancer	ERBB2	Amplification	Sensitivity/Response
+1805	civic	Ivosidenib	Pancreatic Ductal Adenocarcinoma	IDH1	R132H	Sensitivity/Response
+1806	civic	Pegargiminase,Chloroquine	Sarcoma	ASS1	Loss	Sensitivity/Response
+1807	civic	Taxol,Cisplatin,Carboplatin	Ovarian Cancer	ASS1	Loss	Resistance
+1808	civic	Trametinib	Lung Non-small Cell Carcinoma	RASA1	Loss-of-function	Sensitivity/Response
+1809	civic	GF109203X,Go6983	Breast Cancer	TLK2	Amplification	Sensitivity/Response
+1810	civic	Sorafenib	Skin Melanoma	BRAF	D594G	Sensitivity/Response
+1811	civic	U0126	Skin Melanoma	BRAF	D594G	Resistance
+1812	civic	Sorafenib	Skin Melanoma	BRAF	G469E	Sensitivity/Response
+1813	civic	U0126	Skin Melanoma	BRAF	G469E	Resistance
+1814	civic	Erlotinib	Pancreatic Adenocarcinoma	EGFR	L747_P753delinsS	Sensitivity/Response
+1815	civic	Osimertinib	Pancreatic Adenocarcinoma	EGFR	T790M	Sensitivity/Response
+1816	civic	JQ1,Panobinostat	Neuroblastoma	MYCN	Amplification	Sensitivity/Response
+1817	civic	Crizotinib	Vagina Sarcoma	ALK	Fusion	Sensitivity/Response
+1818	civic	Crizotinib	Epithelioid Inflammatory Myofibroblastic Sarcoma	ALK	Fusion	Sensitivity/Response
+1819	civic	Vemurafenib,Cobimetinib	Melanoma	BRAF	V600	Sensitivity/Response
+1820	civic	Vemurafenib	Thyroid Gland Anaplastic Carcinoma	BRAF	V600E	Sensitivity/Response
+1821	civic	Cetuximab,Encorafenib	Colorectal Cancer	BRAF	V600	Sensitivity/Response
+1822	civic	Encorafenib,Cetuximab,Alpelisib	Colorectal Cancer	BRAF	V600	Sensitivity/Response
+1823	civic	Meloxicam	Desmoid Tumor	CTNNB1	S45F	Sensitivity/Response
+1824	civic	Afatinib	Mucinous Adenocarcinoma	NRG1	Fusion	Sensitivity/Response
+1825	civic	Larotrectinib	Sarcoma	NTRK2	STRN::NTRK2	Sensitivity/Response
+1826	civic	Larotrectinib	Congenital Fibrosarcoma	NTRK3	ETV6::NTRK3	Sensitivity/Response
+1827	civic	Larotrectinib	Sarcoma	NTRK1	LMNA::NTRK1	Sensitivity/Response
+1828	civic	Larotrectinib	Sarcoma	NTRK1	TPM3::NTRK1	Sensitivity/Response
+1829	civic	Larotrectinib	Sarcoma	NTRK1	PDE4DIP::NTRK1	Sensitivity/Response
+1830	civic	Larotrectinib	Congenital Fibrosarcoma	NTRK1	SQSTM1::NTRK1	Sensitivity/Response
+1831	civic	Panitumumab,Trametinib,Dabrafenib	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+1832	civic	Trametinib,Panitumumab	Colorectal Adenocarcinoma	BRAF	V600E	Sensitivity/Response
+1833	civic	Trastuzumab,Paclitaxel	Salivary Gland Cancer	ERBB2	Overexpression	Sensitivity/Response
+1834	civic	Trastuzumab,Capecitabine,Zoledronic Acid	Salivary Gland Cancer	ERBB2	Overexpression	Sensitivity/Response
+1835	civic	Osimertinib	Breast Cancer	ERBB2	T798I	Sensitivity/Response
+1836	civic	Dabrafenib,Trametinib	Melanoma	BRAF	V600E	Sensitivity/Response
+1837	civic	Dabrafenib,Trametinib	Melanoma	BRAF	V600K	Sensitivity/Response
+1838	civic	Trametinib,Dabrafenib	Melanoma	BRAF	V600	Sensitivity/Response
+1839	civic	Gefitinib,Erlotinib	Lung Non-small Cell Carcinoma	EGFR	G719A	Sensitivity/Response
+1840	civic	Erlotinib,Gefitinib	Lung Non-small Cell Carcinoma	EGFR	R705K	Sensitivity/Response
+1841	civic	Gefitinib	Lung Adenocarcinoma	EGFR	L858R	Sensitivity/Response
+1842	civic	Gefitinib	Lung Adenocarcinoma	EGFR	Exon 19 Deletion	Sensitivity/Response
+1843	civic	Gefitinib	Lung Adenocarcinoma	EGFR	Rare Mutation	Sensitivity/Response
+1844	civic	Tamoxifen	Estrogen-receptor Positive Breast Cancer	PIK3CA	Mutation	Sensitivity/Response
+1845	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL T315A	Resistance
+1846	civic	Fluorouracil,Cyclophosphamide,Epirubicin,Doxorubicin,Paclitaxel	Breast Cancer	PIK3CA	Mutation	Resistance
+1847	civic	Lapatinib,Trastuzumab	Her2-receptor Positive Breast Cancer	PIK3CA	H1047R	Resistance
+1848	civic	Dactolisib	Her2-receptor Positive Breast Cancer	PIK3CA	H1047R	Resistance
+1849	civic	Imatinib Mesylate,Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248R	Resistance
+1850	civic	Lapatinib,Trastuzumab	Her2-receptor Positive Breast Cancer	PIK3CA	E545K	Resistance
+1851	civic	Dactolisib	Her2-receptor Positive Breast Cancer	PIK3CA	E545K	Resistance
+1852	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL V299L	Resistance
+1853	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F317I	Resistance
+1854	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F317S	Resistance
+1855	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Q252H	Resistance
+1856	civic	Imatinib Mesylate,Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359C	Resistance
+1857	civic	Imatinib Mesylate,Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248V	Resistance
+1858	civic	Imatinib Mesylate,Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F311L	Resistance
+1859	civic	Imatinib Mesylate,Nilotinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359C	Resistance
+1860	civic	Nilotinib,Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396P	Resistance
+1861	civic	Dasatinib,Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL V299L	Resistance
+1862	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V	Resistance
+1863	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248R	Resistance
+1864	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL Q252H	Resistance
+1865	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL V299L	Resistance
+1866	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F317C	Resistance
+1867	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F317I	Resistance
+1868	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL E355G	Resistance
+1869	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1870	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL V379I	Resistance
+1871	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396R	Resistance
+1872	civic	Vemurafenib	Melanoma	AKT1	Overexpression	Resistance
+1873	civic	Dabrafenib	Melanoma	AKT1	Q79K	Resistance
+1874	civic	Vemurafenib	Melanoma	AKT3	Overexpression	Resistance
+1875	civic	Dabrafenib,Vemurafenib	Melanoma	NRAS	Mutation	Resistance
+1876	civic	Vemurafenib,Dabrafenib	Melanoma	KRAS	Mutation	Resistance
+1877	civic	Vemurafenib	Melanoma	PIK3R2	Overexpression	Resistance
+1878	civic	Vemurafenib	Melanoma	PREX2	R172I	Resistance
+1879	civic	Vemurafenib	Melanoma	PTEN	Loss	Resistance
+1880	civic	Afatinib	Pancreatic Adenocarcinoma	NRG1	Fusion	Sensitivity/Response
+1881	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Q252H	Resistance
+1882	civic	Vemurafenib	Melanoma	PIK3CA	Amplification	Resistance
+1883	civic	Oxaliplatin	Colorectal Cancer	KRAS	G12/G13	Resistance
+1884	civic	Irinotecan	Colorectal Cancer	KRAS	G12/G13	Resistance
+1885	civic	Bevacizumab	Colorectal Cancer	KRAS	G12/G13	Resistance
+1886	civic	Cetuximab	Colorectal Cancer	KRAS	G12/G13	Resistance
+1887	civic	Oxaliplatin	Colorectal Cancer	PIK3CA	Mutation	Resistance
+1888	civic	Irinotecan	Colorectal Cancer	PIK3CA	Mutation	Resistance
+1889	civic	Bevacizumab	Colorectal Cancer	PIK3CA	Mutation	Resistance
+1890	civic	Cetuximab	Colorectal Cancer	PIK3CA	Mutation	Resistance
+1891	civic	Oxaliplatin	Colorectal Cancer	BRAF	Mutation	Resistance
+1892	civic	Irinotecan	Colorectal Cancer	BRAF	Mutation	Resistance
+1893	civic	Bevacizumab	Colorectal Cancer	BRAF	Mutation	Resistance
+1894	civic	Cetuximab	Colorectal Cancer	BRAF	Mutation	Resistance
+1895	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248V	Resistance
+1896	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E459K	Resistance
+1897	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	TKD MUTATION	Resistance
+1898	civic	Cetuximab,Panitumumab	Colorectal Cancer	KRAS	G13V	Resistance
+1899	civic	Panitumumab,Cetuximab	Colorectal Cancer	KRAS	G12S	Resistance
+1900	civic	Cetuximab,Panitumumab	Colorectal Cancer	PTEN	Loss	Resistance
+1901	civic	Cetuximab,Panitumumab	Colorectal Cancer	KRAS	G12D	Resistance
+1902	civic	Vemurafenib	Melanoma	KRAS	Amplification	Resistance
+1903	civic	Cetuximab,Panitumumab	Colorectal Cancer	KRAS	G12A	Resistance
+1904	civic	Panitumumab,Cetuximab	Colorectal Cancer	KRAS	G13D	Resistance
+1905	civic	Panitumumab,Cetuximab	Colorectal Cancer	KRAS	G13D	Resistance
+1906	civic	Cetuximab,Panitumumab	Colorectal Cancer	KRAS	G12V	Resistance
+1907	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	TKD MUTATION	Resistance
+1908	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	P-Loop Mutation	Resistance
+1909	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	Non-P-Loop Mutation	Resistance
+1910	civic	Rucaparib	Ovarian Cancer	BRCA1	Mutation	Sensitivity/Response
+1911	civic	Nilotinib	Chronic Myeloid Leukemia	ABL1	TKD MUTATION	Resistance
+1912	civic	Rucaparib	Ovarian Cancer	BRCA2	Mutation	Sensitivity/Response
+1913	civic	Cetuximab,Panitumumab	Colorectal Cancer	PIK3CA	Mutation	Resistance
+1914	civic	Panitumumab,Cetuximab	Colorectal Cancer	KRAS	G12/G13	Resistance
+1915	civic	Aspirin	Colorectal Cancer	PIK3CA	Mutation	Sensitivity/Response
+1916	civic	Imatinib	Lung Non-small Cell Carcinoma	ABL1	R351W	Sensitivity/Response
+1917	civic	Regorafenib	Gastrointestinal Stromal Tumor	KIT	Exon 11 Mutation	Sensitivity/Response
+1918	civic	Ruxolitinib	Chronic Neutrophilic Leukemia	CSF3R	T618I	Sensitivity/Response
+1919	civic	Ruxolitinib	Chronic Neutrophilic Leukemia	CSF3R	T618I	Sensitivity/Response
+1920	civic	Larotrectinib	Melanoma	NTRK1	TRIM63::NTRK1	Sensitivity/Response
+1921	civic	Larotrectinib	Melanoma	NTRK1	DDR2::NTRK1	Sensitivity/Response
+1922	civic	Larotrectinib	Melanoma	NTRK1	GON4L::NTRK1	Sensitivity/Response
+1923	civic	Larotrectinib	Acute Myeloid Leukemia	NTRK2	ETV6::NTRK2	Sensitivity/Response
+1924	civic	Dabrafenib,Vemurafenib	Melanoma	BRAF	intron 10 rearrangement	Resistance
+1925	civic	Vemurafenib,Dabrafenib	Melanoma	BRAF	intron 9 rearrangement	Resistance
+1926	civic	Irinotecan	Colorectal Cancer	BRAF	D594K	Resistance
+1927	civic	Oxaliplatin	Colorectal Cancer	BRAF	D594K	Resistance
+1928	civic	PD173074,AZ12908010,FGFR Inhibitor AZD4547	Myeloid Neoplasm	FGFR3	V555M	Resistance
+1929	civic	Infigratinib	Transitional Cell Carcinoma	FGFR3	FGFR3::TACC3	Sensitivity/Response
+1930	civic	Dasatinib	Intrahepatic Cholangiocarcinoma	IDH1	R132	Sensitivity/Response
+1931	civic	Atezolizumab,Pembrolizumab,Nivolumab	Lung Adenocarcinoma	STK11	Mutation	Resistance
+1932	civic	Larotrectinib	Congenital Fibrosarcoma	NTRK3	ETV6::NTRK3	Sensitivity/Response
+1933	civic	Larotrectinib	Breast Secretory Carcinoma	NTRK3	ETV6::NTRK3	Sensitivity/Response
+1934	civic	Aromatase Inhibitor	Breast Cancer	KMT2C	Loss	Resistance
+1935	civic	Larotrectinib	Solid Tumor	NTRK1	Fusion	Sensitivity/Response
+1936	civic	Larotrectinib	Solid Tumor	NTRK3	Fusion	Sensitivity/Response
+1937	civic	Larotrectinib	Sarcoma	NTRK1	Fusion	Sensitivity/Response
+1938	civic	Larotrectinib	B-lymphoblastic Leukemia/lymphoma	NTRK3	ETV6::NTRK3	Sensitivity/Response
+1939	civic	Trametinib,Dabrafenib	Melanoma	BRAF	V600	Sensitivity/Response
+1940	civic	Trametinib,Dabrafenib	Melanoma	BRAF	V600E	Sensitivity/Response
+1941	civic	Trametinib,Dabrafenib	Melanoma	BRAF	V600E	Sensitivity/Response
+1942	civic	Dabrafenib,Trametinib	Melanoma	BRAF	V600K	Sensitivity/Response
+1943	civic	Vemurafenib,Cobimetinib	Melanoma	BRAF	V600	Sensitivity/Response
+1944	civic	Dasatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	ETV6::ABL1	Sensitivity/Response
+1945	civic	Nilotinib,Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1946	civic	Nilotinib,Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL E255V	Resistance
+1947	civic	Dabrafenib,Trametinib	Thyroid Gland Anaplastic Carcinoma	BRAF	V600E	Sensitivity/Response
+1948	civic	Imatinib	Childhood B-cell Acute Lymphoblastic Leukemia	PDGFRB	EBF1::PDGFRB	Sensitivity/Response
+1949	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	C475V	Resistance
+1950	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL N336S	Resistance
+1951	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL E453A	Resistance
+1952	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL L387F	Resistance
+1953	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL V299L	Resistance
+1954	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL Q300R	Resistance
+1955	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359I	Resistance
+1956	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359C	Resistance
+1957	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL E255V	Resistance
+1958	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL F486S	Resistance
+1959	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396R	Resistance
+1960	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V	Resistance
+1961	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1962	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	TKD MUTATION	Resistance
+1963	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	P-Loop Mutation	Resistance
+1964	civic	Bosutinib	Chronic Myeloid Leukemia	ABL1	Non-P-Loop Mutation	Resistance
+1965	civic	Ruxolitinib	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	JAK2	GOLGA5::JAK2	Sensitivity/Response
+1966	civic	BET Inhibitor	Alveolar Rhabdomyosarcoma	FOXO1	PAX3::FOXO1	Sensitivity/Response
+1967	civic	Olaparib	Malignant Peripheral Nerve Sheath Tumor	PARP1	OVEREXPRESSION	Sensitivity/Response
+1968	civic	Birabresib	NUT Midline Carcinoma	BRD4	BRD4::NUTM1	Sensitivity/Response
+1969	civic	Imatinib	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	PDGFRA	FIP1L1::PDGFRA T674I	Resistance
+1970	civic	Ruxolitinib	Childhood B-cell Acute Lymphoblastic Leukemia	JAK2	F694L	Sensitivity/Response
+1971	civic	Erlotinib	Lung Non-small Cell Carcinoma	EGFR	Mutation	Sensitivity/Response
+1972	civic	Imatinib	Childhood B-cell Acute Lymphoblastic Leukemia	PDGFRB	EBF1::PDGFRB	Sensitivity/Response
+1973	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248V	Resistance
+1974	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E459K	Resistance
+1975	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL V379I	Resistance
+1976	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL A397P	Resistance
+1977	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359C	Resistance
+1978	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL E355G	Resistance
+1979	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V	Resistance
+1980	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+1981	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248V	Resistance
+1982	civic	Imatinib Mesylate	Chronic Myeloid Leukemia	ABL1	BCR::ABL E459K	Resistance
+1983	civic	Selpercatinib	Lung Non-small Cell Carcinoma	RET	Fusion	Sensitivity/Response
+1984	civic	Selpercatinib	Thyroid Gland Medullary Carcinoma	RET	V804M	Sensitivity/Response
+1985	civic	Selpercatinib	Thyroid Gland Papillary Carcinoma	RET	Fusion	Sensitivity/Response
+1986	civic	Cetuximab,Panitumumab	Colorectal Cancer	EGFR	V441F	Resistance
+1987	civic	Imatinib,Dasatinib	Childhood B-cell Acute Lymphoblastic Leukemia	PDGFRB	EBF1::PDGFRB	Sensitivity/Response
+1988	civic	Palbociclib,Abemaciclib	Lung Non-small Cell Carcinoma	SMARCA4	Loss	Sensitivity/Response
+1989	civic	Celecoxib,Sulindac,Aspirin	Head And Neck Squamous Cell Carcinoma	PIK3CA	Mutation	Sensitivity/Response
+1990	civic	Ibuprofen,Aspirin,Sulindac	Head And Neck Squamous Cell Carcinoma	PIK3CA	Amplification	Sensitivity/Response
+1991	civic	Trametinib,Everolimus	Childhood Low-grade Glioma	BRAF	KIAA1549::BRAF	Sensitivity/Response
+1992	civic	Vincristine,Dexamethasone,Dasatinib	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	ABL1	NUP214::ABL1	Sensitivity/Response
+1993	civic	Dasatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	SNX2::ABL1	Resistance
+1994	civic	Pazopanib	Breast Cancer	FGFR1	Amplification	Sensitivity/Response
+1995	civic	Imatinib	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	ABL1	RCSD1::ABL1	Sensitivity/Response
+1996	civic	Dasatinib	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	ABL1	RCSD1::ABL1	Sensitivity/Response
+1997	civic	Dasatinib	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	ABL2	Fusion	Sensitivity/Response
+1998	civic	Imatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	SNX2::ABL1	Reduced Sensitivity
+1999	civic	Ruxolitinib	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	JAK2	SSBP2::JAK2	Sensitivity/Response
+2000	civic	Encorafenib,Binimetinib,Cetuximab	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+2001	civic	Trametinib,Dabrafenib	Biliary Tract Cancer	BRAF	V600E	Sensitivity/Response
+2002	civic	Tepotinib	Lung Non-small Cell Carcinoma	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+2003	civic	Olaparib	Ovarian Cancer	BRCA1	Mutation	Sensitivity/Response
+2004	civic	Olaparib	Ovarian Cancer	BRCA1	Mutation	Sensitivity/Response
+2005	civic	Olaparib	Ovarian Cancer	BRCA2	Mutation	Sensitivity/Response
+2006	civic	Ivosidenib	Acute Myeloid Leukemia	IDH1	Mutation	Sensitivity/Response
+2007	civic	Crizotinib	Lung Non-small Cell Carcinoma	ROS1	Fusion	Sensitivity/Response
+2008	civic	Gilteritinib	Acute Myeloid Leukemia	FLT3	Mutation	Sensitivity/Response
+2009	civic	Alectinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+2010	civic	Ceritinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+2011	civic	Lorlatinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+2012	civic	Encorafenib,Binimetinib	Melanoma	BRAF	V600	Sensitivity/Response
+2013	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	V555_V559DEL	Resistance
+2014	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	K550_K559DEL	Resistance
+2015	civic	Dasatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	FOXP1::ABL1	Sensitivity/Response
+2016	civic	Palbociclib	Pancreatic Cancer	CDKN2A	Mutation	Sensitivity/Response
+2017	civic	Palbociclib	Cholangiocarcinoma	CDKN2A	Mutation	Sensitivity/Response
+2018	civic	Pertuzumab,Trastuzumab	Colorectal Cancer	ERBB2	Amplification	Sensitivity/Response
+2019	civic	Sorafenib,Temsirolimus,Bevacizumab	Spindle Cell Sarcoma	BRAF	KIAA1549::BRAF	Sensitivity/Response
+2020	civic	Fulvestrant,Alpelisib	Breast Cancer	PIK3CA	Mutation	Sensitivity/Response
+2021	civic	Icotinib	Lung Adenocarcinoma	EGFR	EGFR::RAD51	Sensitivity/Response
+2022	civic	Alpelisib,Fulvestrant	Breast Cancer	PIK3CA	E542K	Sensitivity/Response
+2023	civic	Fulvestrant,Alpelisib	Breast Cancer	PIK3CA	H1047X	Sensitivity/Response
+2024	civic	Derazantinib	Intrahepatic Cholangiocarcinoma	FGFR2	Fusion	Sensitivity/Response
+2025	civic	Cetuximab,Irinotecan,Vemurafenib	Colorectal Cancer	BRAF	V600	Sensitivity/Response
+2026	civic	Crizotinib	Anaplastic Large Cell Lymphoma	ALK	Fusion	Sensitivity/Response
+2027	civic	Crizotinib	Inflammatory Myofibroblastic Tumor	ALK	Fusion	Sensitivity/Response
+2028	civic	Fludarabine,Daunorubicin,Cytarabine,Methotrexate,Imatinib	B-lymphoblastic Leukemia/lymphoma	IKZF1	Deletion	Sensitivity/Response
+2029	civic	Ponatinib	Acute Myeloid Leukemia	FLT3	ITD	Sensitivity/Response
+2030	civic	Sorafenib,Sunitinib	Acute Myeloid Leukemia	KIT	N822K	Sensitivity/Response
+2031	civic	Sorafenib,Sunitinib	Acute Myeloid Leukemia	FGFR1	Fusion	Sensitivity/Response
+2032	civic	Sorafenib,Sunitinib	Acute Myeloid Leukemia	PDGFRA	FIP1L1::PDGFRA	Sensitivity/Response
+2033	civic	Ponatinib	Acute Myeloid Leukemia	KIT	N822K	Sensitivity/Response
+2034	civic	Ponatinib	Acute Myeloid Leukemia	FGFR1	FGFR1OP2::FGFR1	Sensitivity/Response
+2035	civic	Sorafenib,Sunitinib	Leukemia	FLT3	ITD	Sensitivity/Response
+2036	civic	Olaparib	Pancreatic Adenocarcinoma	BRCA1	Loss-of-function	Sensitivity/Response
+2037	civic	Olaparib	Pancreatic Adenocarcinoma	BRCA2	Loss-of-function	Sensitivity/Response
+2038	civic	Sunitinib	Gastrointestinal Stromal Tumor	KIT	A502_Y503insAY	Sensitivity/Response
+2039	civic	Ponatinib,Imatinib	Gastrointestinal Stromal Tumor	KIT	V560_L576DEL	Sensitivity/Response
+2040	civic	Regorafenib,Ponatinib,Imatinib	Gastrointestinal Stromal Tumor	KIT	V560G	Sensitivity/Response
+2041	civic	Sunitinib,Ponatinib	Gastrointestinal Stromal Tumor	KIT	K642E	Sensitivity/Response
+2042	civic	Ponatinib	Gastrointestinal Stromal Tumor	KIT	D816E	Resistance
+2043	civic	Vemurafenib,Sorafenib	Childhood Pilocytic Astrocytoma	BRAF	KIAA1549::BRAF	Resistance
+2044	civic	Ponatinib	Gastrointestinal Stromal Tumor	KIT	A829P	Resistance
+2045	civic	Imatinib,Sunitinib	Gastrointestinal Stromal Tumor	KIT	N822K	Resistance
+2046	civic	Sunitinib,Imatinib	Gastrointestinal Stromal Tumor	KIT	A829P	Resistance
+2047	civic	Imatinib	Gastrointestinal Stromal Tumor	KIT	T670I	Resistance
+2048	civic	Sunitinib,Ponatinib	Gastrointestinal Stromal Tumor	KIT	T670I	Resistance
+2049	civic	Larotrectinib	Congenital Fibrosarcoma	NTRK3	ETV6::NTRK3	Sensitivity/Response
+2050	civic	Larotrectinib	Spindle Cell Sarcoma	NTRK1	TPM3::NTRK1	Sensitivity/Response
+2051	civic	Larotrectinib	Sarcoma	NTRK1	PDE4DIP::NTRK1	Sensitivity/Response
+2052	civic	Entrectinib	Mucosal Melanoma	ALK	Alternative Transcript (ATI)	Sensitivity/Response
+2053	civic	Erdafitinib	Transitional Cell Carcinoma	FGFR3	Mutation	Sensitivity/Response
+2054	civic	Doxorubicin,Methotrexate	Osteosarcoma	TP53	R273H	Resistance
+2055	civic	Palbociclib	Lung Non-small Cell Carcinoma	CDKN2A	Loss	Resistance
+2056	civic	Sapanisertib	Lung Squamous Cell Carcinoma	NFE2L2	Mutation	Sensitivity/Response
+2057	civic	Ivosidenib	Cholangiocarcinoma	IDH1	Mutation	Sensitivity/Response
+2058	civic	Vistusertib	Lung Small Cell Carcinoma	RICTOR	Amplification	Sensitivity/Response
+2059	civic	Imatinib	Melanoma	KIT	S628N	Sensitivity/Response
+2060	civic	Dasatinib,Imatinib	Cancer	KIT	D816V	Resistance
+2061	civic	Alpelisib,Fulvestrant	Breast Cancer	PIK3CA	E545	Sensitivity/Response
+2062	civic	Agerafenib	Colorectal Cancer	RET	CCDC6::RET	Sensitivity/Response
+2063	civic	Entrectinib	Colorectal Cancer	ALK	CAD::ALK	Sensitivity/Response
+2064	civic	Lorlatinib	Glioblastoma	ROS1	GOPC::ROS1	Sensitivity/Response
+2065	civic	Selumetinib	Childhood Low-grade Glioma	NF1	Mutation	Sensitivity/Response
+2066	civic	Lucitanib	Breast Cancer	FGFR1	Amplification	Sensitivity/Response
+2067	civic	Afatinib	Pancreatic Ductal Adenocarcinoma	NRG1	ATP1B1::NRG1	Sensitivity/Response
+2068	civic	Afatinib	Pancreatic Ductal Adenocarcinoma	NRG1	APP::NRG1	Sensitivity/Response
+2069	civic	Larotrectinib	Solid Tumor	NTRK3	ETV6::NTRK3	Sensitivity/Response
+2070	civic	Crizotinib	Head And Neck Cancer	MET	R1004G	Sensitivity/Response
+2071	civic	Irinotecan,Panitumumab	Colorectal Cancer	BRAF	G466V	Sensitivity/Response
+2072	civic	Vemurafenib	Colorectal Cancer	BRAF	G466V	Sensitivity/Response
+2073	civic	Vemurafenib	Solid Tumor	BRAF	G466V	Sensitivity/Response
+2074	civic	Vemurafenib	Cancer	BRAF	D594G	Sensitivity/Response
+2075	civic	Cisplatin,Gemcitabine	Urinary Bladder Cancer	FGFR3	Mutation	Sensitivity/Response
+2076	civic	Vemurafenib	Langerhans Cell Sarcoma	BRAF	V600E	Sensitivity/Response
+2077	civic	Anti-PD1 Monoclonal Antibody	Lung Non-small Cell Carcinoma	EGFR	Exon 19 Deletion	Resistance
+2078	civic	Anti-PD-L1 Monoclonal Antibody	Lung Non-small Cell Carcinoma	EGFR	Exon 19 Deletion	Resistance
+2079	civic	Akt/ERK Inhibitor ONC201	Glioma	H3-3A	K28M	Sensitivity/Response
+2080	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	Exon 20 Insertion	Sensitivity/Response
+2081	civic	Binimetinib,Cetuximab,Encorafenib	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+2082	civic	BRAF Inhibitor	Melanoma	BRAF	V600D	Sensitivity/Response
+2083	civic	BRAF Inhibitor,Mitogen-Activated Protein Kinase Kinase Inhibitor	Melanoma	BRAF	V600D	Sensitivity/Response
+2084	civic	BRAF Inhibitor,Mitogen-Activated Protein Kinase Kinase Inhibitor	Melanoma	BRAF	V600_K601>E	Sensitivity/Response
+2085	civic	Mitogen-Activated Protein Kinase Kinase Inhibitor,BRAF Inhibitor	Melanoma	BRAF	G469	Sensitivity/Response
+2086	civic	BRAF Inhibitor,Mitogen-Activated Protein Kinase Kinase Inhibitor	Melanoma	BRAF	A598V	Sensitivity/Response
+2087	civic	Fisogatinib	Hepatocellular Carcinoma	FGF19	Overexpression	Sensitivity/Response
+2088	civic	Trastuzumab,Pertuzumab	Cholangiocarcinoma	ERBB2	Amplification	Sensitivity/Response
+2089	civic	Crizotinib	Lung Non-small Cell Carcinoma	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+2090	civic	Crizotinib	Lung Non-small Cell Carcinoma	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+2091	civic	Trastuzumab Deruxtecan	Stomach Cancer	ERBB2	Amplification	Sensitivity/Response
+2092	civic	Dasatinib,Imatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	SNX2::ABL1	Resistance
+2093	civic	Dabrafenib,Trametinib	Melanoma	BRAF	Amplification	Resistance
+2094	civic	Cabozantinib	Thyroid Gland Medullary Carcinoma	RET	M918T	Sensitivity/Response
+2095	civic	Temozolomide,Olaparib	Glioblastoma	BRCA2	K3326*	Sensitivity/Response
+2096	civic	Gilteritinib	Acute Myeloid Leukemia	FLT3	Mutation	Sensitivity/Response
+2097	civic	Trametinib	Pancreatic Cancer	BRAF	N486_P490del	Sensitivity/Response
+2098	civic	Trametinib	Cancer	BRAF	D594G	Sensitivity/Response
+2099	civic	Trametinib	Transitional Cell Carcinoma	BRAF	NRF1::BRAF	Sensitivity/Response
+2100	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL T315V	Sensitivity/Response
+2101	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL V299L	Sensitivity/Response
+2102	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL T315A	Sensitivity/Response
+2103	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396P	Resistance
+2104	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V	Resistance
+2105	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E279K	Sensitivity/Response
+2106	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E292L	Resistance
+2107	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F317R	Resistance
+2108	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248R and F359I	Resistance
+2109	civic	Axitinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L248R	Resistance
+2110	civic	Ponatinib,Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E255K V299L	Sensitivity/Response
+2111	civic	Imatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	RCSD1::ABL1	Sensitivity/Response
+2112	civic	Leucovorin,Fluorouracil	Head And Neck Squamous Cell Carcinoma	DPYD	EXON 11-19 DELETION	Sensitivity/Response
+2113	civic	Crizotinib	Lung Non-small Cell Carcinoma	MET	MET::ATXN7L1	Sensitivity/Response
+2114	civic	Crizotinib	Histiocytic And Dendritic Cell Cancer	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+2115	civic	Capmatinib	Cancer	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+2116	civic	Ribociclib,Dexamethasone	Childhood B-cell Acute Lymphoblastic Leukemia	CDK4	EXPRESSION	Sensitivity/Response
+2117	civic	Palbociclib	Glioblastoma Proneural Subtype	CDK6	Overexpression	Sensitivity/Response
+2118	civic	Ribociclib,Dexamethasone	Childhood B-cell Acute Lymphoblastic Leukemia	CDK6	EXPRESSION	Sensitivity/Response
+2119	civic	Afatinib	Colorectal Cancer	ERBB2	Amplification	Sensitivity/Response
+2120	civic	Pazopanib	Adenosquamous Lung Carcinoma	FGFR1	Amplification	Sensitivity/Response
+2121	civic	Thioguanine,Mercaptopurine	Childhood Acute Lymphocytic Leukemia	NT5C2	R367Q	Resistance
+2122	civic	Thioguanine,Mercaptopurine	Childhood Acute Lymphocytic Leukemia	NT5C2	R238W	Resistance
+2123	civic	Mercaptopurine,Thioguanine	Childhood Acute Lymphocytic Leukemia	NT5C2	S445F	Resistance
+2124	civic	Doxorubicin,Cytarabine,Prednisolone,Gemcitabine	Childhood Acute Lymphocytic Leukemia	NT5C2	R367Q	Resistance
+2125	civic	Prednisolone,Doxorubicin,Cytarabine,Gemcitabine	Childhood Acute Lymphocytic Leukemia	NT5C2	R238W	Resistance
+2126	civic	Prednisolone,Cytarabine,Doxorubicin,Gemcitabine	Childhood Acute Lymphocytic Leukemia	NT5C2	S445F	Resistance
+2127	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL D363G	Resistance
+2128	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E98G	Resistance
+2129	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL H396R	Resistance
+2130	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V	Resistance
+2131	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL L364I	Resistance
+2132	civic	Pazopanib	Head And Neck Squamous Cell Carcinoma	FGFR2	P253R	Sensitivity/Response
+2133	civic	Nilotinib,Dasatinib,Bafetinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL	Sensitivity/Response
+2134	civic	Nilotinib,Bafetinib	Cancer	ABL1	BCR::ABL T315A	Resistance
+2135	civic	Imatinib,Dasatinib	Cancer	ABL1	BCR::ABL T315A	Resistance
+2136	civic	Nilotinib,Bafetinib	Cancer	ABL1	BCR::ABL H396P	Resistance
+2137	civic	Imatinib	Cancer	ABL1	BCR::ABL H396P	Resistance
+2138	civic	Imatinib	Cancer	ABL1	BCR::ABL Y253F	Resistance
+2139	civic	Imatinib,Bafetinib	Cancer	ABL1	BCR::ABL Q252H	Resistance
+2140	civic	Bafetinib,Imatinib	Cancer	ABL1	BCR::ABL M244V	Resistance
+2141	civic	Ruxolitinib	Sarcoma	JAK1	OVEREXPRESSION	Sensitivity/Response
+2142	civic	Trametinib	Solid Tumor	BRAF	Non-V600	Sensitivity/Response
+2143	civic	Mercaptopurine,Thioguanine	Childhood Acute Lymphocytic Leukemia	NT5C2	R367Q	Resistance
+2144	civic	Dasatinib,Bafetinib	Chronic Myeloid Leukemia	LYN	OVEREXPRESSION	Resistance
+2145	civic	Nilotinib	Chronic Myeloid Leukemia	LYN	OVEREXPRESSION	Resistance
+2146	civic	Mercaptopurine,Thioguanine	B-lymphoblastic Leukemia/lymphoma	PRPS1	T303S	Resistance
+2147	civic	Mercaptopurine,Thioguanine	B-lymphoblastic Leukemia/lymphoma	PRPS1	L191F	Resistance
+2148	civic	Mercaptopurine,Thioguanine	B-lymphoblastic Leukemia/lymphoma	PRPS1	D183E	Resistance
+2149	civic	Thioguanine,Mercaptopurine	B-lymphoblastic Leukemia/lymphoma	PRPS1	K176N	Resistance
+2150	civic	Thioguanine,Mercaptopurine	B-lymphoblastic Leukemia/lymphoma	PRPS1	N144S	Resistance
+2151	civic	Thioguanine,Mercaptopurine	B-lymphoblastic Leukemia/lymphoma	PRPS1	S103I	Resistance
+2152	civic	Thioguanine,Mercaptopurine	B-lymphoblastic Leukemia/lymphoma	PRPS1	S103N	Resistance
+2153	civic	Thioguanine,Mercaptopurine	B-lymphoblastic Leukemia/lymphoma	PRPS1	S103T	Resistance
+2154	civic	Thioguanine,Mercaptopurine	B-lymphoblastic Leukemia/lymphoma	PRPS1	A190T	Resistance
+2155	civic	Cytarabine	B-lymphoblastic Leukemia/lymphoma	PRPS1	N144S	Sensitivity/Response
+2156	civic	Cytarabine	B-lymphoblastic Leukemia/lymphoma	PRPS1	L191F	Sensitivity/Response
+2157	civic	Mercaptopurine,Lometrexol	B-lymphoblastic Leukemia/lymphoma	PRPS1	A190T	Sensitivity/Response
+2158	civic	Thioguanine,Mercaptopurine	B-lymphoblastic Leukemia/lymphoma	PRPS1	D139G	Resistance
+2159	civic	Thioguanine,Mercaptopurine	B-lymphoblastic Leukemia/lymphoma	PRPS1	C77S	Resistance
+2160	civic	Mercaptopurine,Thioguanine	B-lymphoblastic Leukemia/lymphoma	PRPS1	I72V	Resistance
+2161	civic	Mercaptopurine,Thioguanine	B-lymphoblastic Leukemia/lymphoma	PRPS1	V53A	Resistance
+2162	civic	Mercaptopurine,Thioguanine	B-lymphoblastic Leukemia/lymphoma	PRPS1	A87T	Resistance
+2163	civic	Thioguanine,Mercaptopurine	B-lymphoblastic Leukemia/lymphoma	PRPS1	M115T	Resistance
+2164	civic	Methotrexate,Asparaginase,Daunorubicin	B-lymphoblastic Leukemia/lymphoma	PRPS1	L191F	Resistance
+2165	civic	Daunorubicin,Methotrexate,Asparaginase,Cytarabine	B-lymphoblastic Leukemia/lymphoma	PRPS1	S103T	Resistance
+2166	civic	Asparaginase,Methotrexate,Cytarabine,Daunorubicin	B-lymphoblastic Leukemia/lymphoma	PRPS1	S103N	Resistance
+2167	civic	Asparaginase,Cytarabine,Methotrexate,Daunorubicin	B-lymphoblastic Leukemia/lymphoma	PRPS1	K176N	Resistance
+2168	civic	Methotrexate,Asparaginase,Daunorubicin,Cytarabine	B-lymphoblastic Leukemia/lymphoma	PRPS1	D183E	Resistance
+2169	civic	Methotrexate,Daunorubicin,Cytarabine,Asparaginase	B-lymphoblastic Leukemia/lymphoma	PRPS1	A190T	Resistance
+2170	civic	Asparaginase,Cytarabine,Methotrexate,Daunorubicin	B-lymphoblastic Leukemia/lymphoma	PRPS1	T303S	Resistance
+2171	civic	Daunorubicin,Methotrexate,Asparaginase	B-lymphoblastic Leukemia/lymphoma	PRPS1	N144S	Resistance
+2172	civic	Crizotinib	Lung Non-small Cell Carcinoma	ROS1	Rearrangement	Sensitivity/Response
+2173	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E450Q	Resistance
+2174	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL M244V and L364I	Resistance
+2175	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL N146S	Resistance
+2176	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL V298I	Resistance
+2177	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL S438C	Resistance
+2178	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL M388L	Resistance
+2179	civic	Bazedoxifene	Rhabdomyosarcoma	IL6	Overexpression	Resistance
+2180	civic	Sunitinib	Rhabdomyosarcoma	PDGFRA	Overexpression	Sensitivity/Response
+2181	civic	Imatinib	B-cell Acute Lymphoblastic Leukemia	PDGFRA	BCR::PDGFRA	Sensitivity/Response
+2182	civic	Sunitinib	Dermatofibrosarcoma Protuberans	PDGFB	COL1A1::PDGFB	Sensitivity/Response
+2183	civic	Sunitinib	Dermatofibrosarcoma Protuberans	PDGFRB	Overexpression	Sensitivity/Response
+2184	civic	Larotrectinib	B-lymphoblastic Leukemia/lymphoma	NTRK3	ETV6::NTRK3	Sensitivity/Response
+2185	civic	Entrectinib	Acute Myeloid Leukemia	NTRK3	ETV6::NTRK3	Sensitivity/Response
+2186	civic	Dasatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F359V	Resistance
+2187	civic	PI-103	Breast Cancer	PIK3CA	E542K	Resistance
+2188	civic	PI-103	Breast Cancer	PIK3CA	E545K	Resistance
+2189	civic	PI-103	Breast Cancer	PIK3CA	H1047L	Sensitivity/Response
+2190	civic	PI-103	Her2-receptor Positive Breast Cancer	PIK3CA	K111N	Sensitivity/Response
+2191	civic	PI-103	Her2-receptor Positive Breast Cancer	PTEN	Loss	Sensitivity/Response
+2192	civic	PI3Ka/Di	Her2-receptor Positive Breast Cancer	PIK3CA	E542K	Sensitivity/Response
+2193	civic	PI3Ka/Di	Breast Cancer	PIK3CA	E542K	Sensitivity/Response
+2194	civic	PI3Ka/Di	Her2-receptor Positive Breast Cancer	PIK3CA	E545K	Sensitivity/Response
+2195	civic	PI3Ka/Di	Breast Cancer	PIK3CA	E545K	Sensitivity/Response
+2196	civic	PI3Ka/Di	Breast Cancer	PIK3CA	H1047L	Sensitivity/Response
+2197	civic	PI3Ka/Di	Her2-receptor Positive Breast Cancer	PIK3CA	K111N	Sensitivity/Response
+2198	civic	PI3Ka/Di	Her2-receptor Positive Breast Cancer	PTEN	Loss	Resistance
+2199	civic	Cetuximab	Colorectal Cancer	PIK3CA	V955I	Resistance
+2200	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E355G	Resistance
+2201	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL F486S	Resistance
+2202	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL E459K	Resistance
+2203	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	Double Ph	Resistance
+2204	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	P-Loop Mutation	Resistance
+2205	civic	Gilteritinib	Cancer	FLT3	D835Y	Sensitivity/Response
+2206	civic	Gilteritinib	Acute Myeloid Leukemia	FLT3	D835Y	Sensitivity/Response
+2207	civic	Cisplatin,Radiation Ionizing Radiotherapy	Cervical Cancer	PIK3CA	E545K	Resistance
+2208	civic	Arsenic Trioxide	Acute Promyelocytic Leukemia	PML	PML::RARA A216V	Resistance
+2209	civic	Lapatinib,Trastuzumab,Dactolisib	Her2-receptor Positive Breast Cancer	PIK3CA	K111N	Resistance
+2210	civic	Venetoclax	Chronic Lymphocytic Leukemia/small Lymphocytic Lymphoma	BCL2	G101V	Resistance
+2211	civic	Imatinib,Chemotherapy	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	PDGFRB	EBF1::PDGFRB	Sensitivity/Response
+2212	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PIK3CA	Amplification	Resistance
+2213	civic	Dactolisib,Lapatinib	Her2-receptor Positive Breast Cancer	PIK3CA	Amplification	Sensitivity/Response
+2214	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PTEN	Loss	Resistance
+2215	civic	Lapatinib	Her2-receptor Positive Breast Cancer	PTEN	Loss	Resistance
+2216	civic	Dactolisib	Her2-receptor Positive Breast Cancer	PTEN	Loss	Resistance
+2217	civic	Dactolisib,Lapatinib	Her2-receptor Positive Breast Cancer	PTEN	Loss	Resistance
+2218	civic	Trastuzumab,Dactolisib	Her2-receptor Positive Breast Cancer	PTEN	Loss	Resistance
+2219	civic	R3Mab	Cancer	FGFR3	R248C	Resistance
+2220	civic	FLT3/ABL/Aurora Kinase Inhibitor KW-2449	Acute Myeloid Leukemia	FLT3	Y842C	Resistance
+2221	civic	Sorafenib	Acute Myeloid Leukemia	FLT3	Y842C	Resistance
+2222	civic	Sunitinib	Acute Myeloid Leukemia	FLT3	Y842C	Resistance
+2223	civic	Lestaurtinib	Acute Myeloid Leukemia	FLT3	Y842C	Sensitivity/Response
+2224	civic	Midostaurin	Acute Myeloid Leukemia	FLT3	Y842C	Sensitivity/Response
+2225	civic	Lestaurtinib	Acute Myeloid Leukemia	FLT3	F691L	Resistance
+2226	civic	Midostaurin	Acute Myeloid Leukemia	FLT3	F691L	Resistance
+2227	civic	Gilteritinib	Acute Myeloid Leukemia	FLT3	D835I	Sensitivity/Response
+2228	civic	Vemurafenib,Akt Inhibitor MK2206	Colorectal Cancer	PIK3CA	H1047R	Sensitivity/Response
+2229	civic	Vemurafenib	Colorectal Cancer	KRAS	Exon 2 Mutation	Sensitivity/Response
+2230	civic	Venetoclax	Follicular Lymphoma	BCL2	F104I	Resistance
+2231	civic	Venetoclax	Follicular Lymphoma	BCL2	F104I	Resistance
+2232	civic	Olaparib	Prostate Carcinoma	PALB2	Mutation	Sensitivity/Response
+2233	civic	Olaparib	Prostate Carcinoma	ATM	Mutation	Sensitivity/Response
+2234	civic	Irinotecan,Vemurafenib,Cetuximab	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+2235	civic	Erlotinib,Vemurafenib	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+2236	civic	Imatinib	Chronic Myeloid Leukemia	ABL1	BCR::ABL Y253F	Resistance
+2237	civic	Gilteritinib	Acute Myeloid Leukemia	FLT3	D835H	Sensitivity/Response
+2238	civic	Gilteritinib	Acute Myeloid Leukemia	FLT3	D835V	Sensitivity/Response
+2239	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	PIK3CA	Mutation	Resistance
+2240	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PIK3CA	E545K	Resistance
+2241	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PIK3CA	H1047R	Resistance
+2242	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PIK3CA	C420R	Resistance
+2243	civic	Cisplatin	Transitional Cell Carcinoma	FGFR3	S249C	Resistance
+2244	civic	Quizartinib	Acute Myeloid Leukemia	FLT3	Y842C	Resistance
+2245	civic	Alectinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+2246	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PIK3CA	K111N	Resistance
+2247	civic	Trastuzumab	Her2-receptor Positive Breast Cancer	PIK3CA	I391M	Resistance
+2248	civic	Lapatinib,Capecitabine	Her2-receptor Positive Breast Cancer	PIK3CA	Mutation	Resistance
+2249	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	PTEN	Loss	Resistance
+2250	civic	Trastuzumab Emtansine	Her2-receptor Positive Breast Cancer	ERBB3	Overexpression	Resistance
+2251	civic	Binimetinib	Ovary Serous Adenocarcinoma	KRAS	Mutation	Sensitivity/Response
+2252	civic	Regorafenib	Colorectal Cancer	KRAS	Wildtype	Resistance
+2253	civic	Venetoclax	Chronic Lymphocytic Leukemia	BCL2	G101V	Resistance
+2254	civic	Olaparib	Prostate Cancer	BRCA2	Mutation	Sensitivity/Response
+2255	civic	Capmatinib	Lung Non-small Cell Carcinoma	MET	Exon 14 Skipping Mutation	Sensitivity/Response
+2256	civic	Selpercatinib	Lung Non-small Cell Carcinoma	RET	Fusion	Sensitivity/Response
+2257	civic	Selpercatinib	Thyroid Gland Medullary Carcinoma	RET	Mutation	Sensitivity/Response
+2258	civic	Selpercatinib	Thyroid Gland Cancer	RET	Fusion	Sensitivity/Response
+2259	civic	Venetoclax	Acute Myeloid Leukemia	IDH1	Mutation	Sensitivity/Response
+2260	civic	Venetoclax	Acute Myeloid Leukemia	IDH2	Mutation	Sensitivity/Response
+2261	civic	Larotrectinib	Congenital Fibrosarcoma	NTRK1	SQSTM1::NTRK1	Sensitivity/Response
+2262	civic	Crizotinib	Congenital Fibrosarcoma	NTRK1	LMNA::NTRK1	Sensitivity/Response
+2263	civic	Entrectinib	Colorectal Cancer	NTRK1	LMNA::NTRK1	Sensitivity/Response
+2264	civic	Etoposide,Larotrectinib,Methotrexate	B-lymphoblastic Leukemia/lymphoma	NTRK3	ETV6::NTRK3	Sensitivity/Response
+2265	civic	Gilteritinib	Acute Myeloid Leukemia	FLT3	ITD	Sensitivity/Response
+2266	civic	Gilteritinib	Acute Myeloid Leukemia	FLT3	ITD	Sensitivity/Response
+2267	civic	Larotrectinib	B-lymphoblastic Leukemia/lymphoma	NTRK3	ETV6::NTRK3	Sensitivity/Response
+2268	civic	Trametinib	Ovary Serous Adenocarcinoma	NRAS	Q61K	Sensitivity/Response
+2269	civic	Selumetinib	Childhood Pilocytic Astrocytoma	BRAF	KIAA1549::BRAF	Sensitivity/Response
+2270	civic	Trametinib	Childhood Pilocytic Astrocytoma	BRAF	KIAA1549::BRAF	Sensitivity/Response
+2271	civic	Vemurafenib	Thyroid Gland Papillary Carcinoma	BRAF	V600E	Sensitivity/Response
+2272	civic	Dasatinib	Cancer	ABL1	BCR::ABL H396P	Sensitivity/Response
+2273	civic	Ponatinib,Imatinib,Nilotinib,Dasatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	NUP214::ABL1	Sensitivity/Response
+2274	civic	Imatinib,Dasatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	SFPQ::ABL1	Sensitivity/Response
+2275	civic	Dasatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	RCSD1::ABL1	Sensitivity/Response
+2276	civic	Dasatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	RCSD1::ABL1	Sensitivity/Response
+2277	civic	Dasatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	RCSD1::ABL1	Reduced Sensitivity
+2278	civic	Dasatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	RCSD1::ABL1	Sensitivity/Response
+2279	civic	Tyrosine Kinase Inhibitor	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	ABL1	RCSD1::ABL1	Sensitivity/Response
+2280	civic	Imatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	ETV6::ABL1	Sensitivity/Response
+2281	civic	Dasatinib	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	ABL1	RANBP2::ABL1	Sensitivity/Response
+2282	civic	Ponatinib	B-lymphoblastic Leukemia/lymphoma	ABL1	RCSD1::ABL1	Sensitivity/Response
+2283	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	A767_V769dupASV	Sensitivity/Response
+2284	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	N771_P772insL	Sensitivity/Response
+2285	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	D770_N771insG	Sensitivity/Response
+2286	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	S768_D770dup	Sensitivity/Response
+2287	civic	Osimertinib	Lung Non-small Cell Carcinoma	EGFR	A763_Y764insFQEA	Sensitivity/Response
+2288	civic	Alectinib	Malignant Pleural Mesothelioma	ALK	EML4::ALK	Sensitivity/Response
+2289	civic	Fluorouracil,Cisplatin	Cancer	ATRX	Deletion	Sensitivity/Response
+2290	civic	Axitinib,Dovitinib,Lenvatinib,Cabozantinib	Colorectal Cancer	KDR	R1032Q	Sensitivity/Response
+2291	civic	Imatinib	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	CSF1R	MEF2D::CSF1R	Sensitivity/Response
+2292	civic	Tazemetostat	Diffuse Large B-cell Lymphoma	EZH2	Y646H	Sensitivity/Response
+2293	civic	Ceritinib	Neuroblastoma	ALK	I1171T	Sensitivity/Response
+2294	civic	Sotorasib	Lung Non-small Cell Carcinoma	KRAS	G12C	Sensitivity/Response
+2295	civic	Larotrectinib	Gastrointestinal Stromal Tumor	NTRK3	F617L	Resistance
+2296	civic	Tipifarnib	Bladder Urothelial Carcinoma	HRAS	Mutation	Sensitivity/Response
+2297	civic	Tipifarnib	Head And Neck Squamous Cell Carcinoma	HRAS	Mutation	Sensitivity/Response
+2298	civic	Lapatinib	Cancer	ERBB2	V777L	Sensitivity/Response
+2299	civic	Tazemetostat	Follicular Lymphoma	EZH2	Activating Mutation	Sensitivity/Response
+2300	civic	Lapatinib	Childhood Ependymoma	ERBB2	Amplification	Sensitivity/Response
+2301	civic	Encorafenib,Cetuximab	Colorectal Cancer	BRAF	V600E	Sensitivity/Response
+2302	civic	Ibrutinib	Diffuse Large B-cell Lymphoma Activated B-cell Type	PIM1	L2V	Resistance
+2303	civic	Ibrutinib	Diffuse Large B-cell Lymphoma Activated B-cell Type	PIM1	P81S	Resistance
+2304	civic	Ibrutinib	Diffuse Large B-cell Lymphoma Activated B-cell Type	PIM1	S97N	Resistance
+2305	civic	Lorlatinib,Alectinib	Lung Non-small Cell Carcinoma	ABCB1	Overexpression	Resistance
+2306	civic	Cetuximab	Colorectal Cancer	PIK3CA	K944N	Resistance
+2307	civic	Cetuximab	Colorectal Cancer	PIK3CA	F930S	Resistance
+2308	civic	Cetuximab	Colorectal Cancer	PIK3CA	V955G	Resistance
+2309	civic	Cetuximab	Colorectal Cancer	PIK3CA	K966E	Resistance
+2310	civic	Cetuximab	Colorectal Cancer	PIK3CA	L938*	Resistance
+2311	civic	Erlotinib	Cancer	EGFR	G598V	Sensitivity/Response
+2312	civic	Entrectinib	Cancer	NTRK1	TPM3::NTRK1	Sensitivity/Response
+2313	civic	Entrectinib	Cancer	NTRK1	LMNA::NTRK1	Sensitivity/Response
+2314	civic	Entrectinib	Cancer	NTRK1	ETV6::NTRK1	Sensitivity/Response
+2315	civic	Entrectinib	Cancer	NTRK2	VCL::NTRK2	Sensitivity/Response
+2316	civic	Entrectinib	Cancer	NTRK2	AFAP1::NTRK2	Sensitivity/Response
+2317	civic	Entrectinib	Cancer	NTRK2	ETV6::NTRK2	Sensitivity/Response
+2318	civic	Everolimus	Renal Cell Carcinoma	FLCN	c.1285dupC	Sensitivity/Response
+2319	civic	Exemestane,Metformin	Breast Cancer	IGF1R	Overexpression	Sensitivity/Response
+2320	civic	Etoposide,Olaparib	Leukemia	SF3B1	K700E	Sensitivity/Response
+2321	civic	Trastuzumab Deruxtecan	Lung Non-small Cell Carcinoma	ERBB2	Exon 20 Insertion	Sensitivity/Response
+2322	civic	Gemcitabine,Carboplatin	Lung Non-small Cell Carcinoma	ERCC1	Underexpression	Sensitivity/Response
+2323	civic	Gemcitabine,Carboplatin	Lung Non-small Cell Carcinoma	RRM1	Underexpression	Sensitivity/Response
+2324	civic	Olaparib	Cancer	IDH1	R132C	Sensitivity/Response
+2325	civic	Gemcitabine	Pancreatic Adenocarcinoma	SLC29A1	Overexpression	Sensitivity/Response
+2326	civic	Platinum Compound	Ovary Epithelial Cancer	ERCC1	Underexpression	Sensitivity/Response
+2327	civic	Larotrectinib	Solid Tumor	NTRK1	Amplification	Sensitivity/Response
+2328	civic	Sunitinib	Glioblastoma	KIT	EXPRESSION	Sensitivity/Response
+2329	civic	Pasireotide	Neuroendocrine Tumor	SSTR5	expression	Sensitivity/Response
+2330	civic	Pemigatinib	Pilocytic Astrocytoma	FGFR1	N546K	Sensitivity/Response
+2331	civic	Trametinib	Spindle Cell Sarcoma	RAF1	QKI-RAF1	Sensitivity/Response
+2332	civic	Alectinib	Pancreatic Acinar Cell Adenocarcinoma	ALK	KANK4::ALK	Sensitivity/Response
+2333	civic	R3Mab	Cancer	FGFR3	Overexpression	Sensitivity/Response
+2334	civic	R3Mab	Cancer	FGFR3	G370C	Resistance
+2335	civic	R3Mab	Cancer	FGFR3	Y373C	Resistance
+2336	civic	R3Mab	Cancer	FGFR3	K650E	Resistance
+2337	civic	Larotrectinib	Anaplastic Ependymoma	NTRK2	KANK1::NTRK2	Sensitivity/Response
+2338	civic	Larotrectinib	Glioblastoma	NTRK2	KANK1::NTRK2	Sensitivity/Response
+2339	civic	R-CHOP Regimen	Diffuse Large B-cell Lymphoma	MS4A1	Mutation	Resistance
+2340	civic	Larotrectinib	Solid Tumor	NTRK2	Fusion	Sensitivity/Response
+2341	civic	Entrectinib	Thyroid Gland Papillary Carcinoma	NTRK3	EML4::NTRK3	Sensitivity/Response
+2342	civic	Entrectinib	Lung Non-small Cell Carcinoma	NTRK3	EML4::NTRK3	Sensitivity/Response
+2343	civic	Larotrectinib	Congenital Mesoblastic Nephroma	NTRK3	ETV6::NTRK3	Sensitivity/Response
+2344	civic	Ivosidenib	Cholangiocarcinoma	IDH1	R132	Sensitivity/Response
+2345	civic	Erlotinib	Lung Adenocarcinoma	EGFR	EGFR::RAD51	Sensitivity/Response
+2346	civic	Osimertinib	Lung Adenocarcinoma	EGFR	EGFR::RAD51	Sensitivity/Response
+2347	civic	Afatinib	Lung Adenocarcinoma	EGFR	KIF5B::EGFR	Sensitivity/Response
+2348	civic	CTX-712	Myeloid Neoplasm	SRSF2	P95L	Sensitivity/Response
+2349	civic	CTX-712	Myeloid Neoplasm	SRSF2	P95H	Sensitivity/Response
+2350	civic	Entrectinib	Lung Adenocarcinoma	NTRK3	EML4::NTRK3	Sensitivity/Response
+2351	civic	Larotrectinib	High Grade Glioma	NTRK3	EML4::NTRK3	Sensitivity/Response
+2352	civic	Tazemetostat	Follicular Lymphoma	EZH2	Activating Mutation	Sensitivity/Response
+2353	civic	Tazemetostat	Diffuse Large B-cell Lymphoma Germinal Center B-cell Type	EZH2	expression	Sensitivity/Response
+2354	civic	Brigatinib	Lung Non-small Cell Carcinoma	ALK	Fusion	Sensitivity/Response
+2355	civic	Crizotinib	Inflammatory Myofibroblastic Tumor	ALK	Fusion	Sensitivity/Response
+2356	civic	Entrectinib	Lung Non-small Cell Carcinoma	ROS1	FUSIONS	Sensitivity/Response
+2357	civic	Entrectinib	Solid Tumor	NTRK1	Fusion	Sensitivity/Response
+2358	civic	Entrectinib	Solid Tumor	NTRK3	Fusion	Sensitivity/Response
+2359	civic	Rucaparib	Ovarian Cancer	BRCA1	Mutation	Sensitivity/Response
+2360	civic	Rucaparib	Ovarian Cancer	BRCA2	Mutation	Sensitivity/Response
+2361	civic	Rucaparib	Ovarian Cancer	BRCA1	Mutation	Sensitivity/Response
+2362	civic	Rucaparib	Ovarian Cancer	BRCA2	Mutation	Sensitivity/Response
+2363	civic	Imatinib Mesylate	Systemic Mastocytosis	KIT	D816V	Sensitivity/Response
+2364	civic	Olaparib	Her2-receptor Negative Breast Cancer	BRCA1	Loss-of-function	Sensitivity/Response
+2365	civic	Olaparib	Her2-receptor Negative Breast Cancer	BRCA2	Loss-of-function	Sensitivity/Response
+2366	civic	Olaparib	Prostate Carcinoma	BRCA1	Mutation	Sensitivity/Response
+2367	civic	Olaparib	Prostate Carcinoma	CDK12	Mutation	Sensitivity/Response
+2368	civic	Olaparib	Prostate Carcinoma	CHEK2	mutation	Sensitivity/Response
+2369	civic	Olaparib	Prostate Carcinoma	PPP2R2A	Mutation	Sensitivity/Response
+2370	civic	Olaparib	Prostate Carcinoma	RAD54L	Mutation	Sensitivity/Response
+2371	civic	Olaparib	Prostate Carcinoma	BRIP1	Mutation	Sensitivity/Response
+2372	civic	Olaparib	Prostate Carcinoma	BARD1	Mutation	Sensitivity/Response
+2373	civic	Olaparib	Prostate Carcinoma	CHEK1	Mutation	Sensitivity/Response
+2374	civic	Olaparib	Prostate Carcinoma	RAD51B	Mutation	Sensitivity/Response
+2375	civic	Olaparib	Prostate Carcinoma	RAD51D	Mutation	Sensitivity/Response
+2376	civic	Olaparib	Triple-receptor Negative Breast Cancer	BRCA1	Loss-of-function	Sensitivity/Response
+2377	civic	Olaparib	Triple-receptor Negative Breast Cancer	BRCA2	Loss-of-function	Sensitivity/Response
+2378	civic	Crizotinib	Anaplastic Large Cell Lymphoma	ALK	Fusion	Sensitivity/Response
+2379	civic	Entrectinib	Solid Tumor	NTRK2	Fusion	Sensitivity/Response
+2380	civic	Pralsetinib	Lung Non-small Cell Carcinoma	RET	Fusion	Sensitivity/Response

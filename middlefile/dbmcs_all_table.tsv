@@ -1,0 +1,3720 @@
+	data source	chemical name	gene symbol	variant	label
+0	dbmcs	Nilotinib	ABL1	c.944C>T	Resistant
+1	dbmcs	Dasatinib	ABL1	c.944C>T	Resistant
+2	dbmcs	Bosutinib	ABL1	c.944C>T	Resistant
+3	dbmcs	Dasatinib	ABL1	c.895G>C	Resistant
+4	dbmcs	Dasatinib	ABL1	c.943A>G	Resistant
+5	dbmcs	Dasatinib	ABL1	c.949T>C	Resistant
+6	dbmcs	Dasatinib	ABL1	c.949T>G	Resistant
+7	dbmcs	Dasatinib	ABL1	c.949T>A	Resistant
+8	dbmcs	Dasatinib	ABL1	c.950T>G	Resistant
+9	dbmcs	Imatinib	ABL1	c.725T>C	Resistant
+10	dbmcs	Imatinib	ABL1	c.740A>G	Resistant
+11	dbmcs	Imatinib	ABL1	c.742C>G	Resistant
+12	dbmcs	Imatinib	ABL1	c.749G>A	Resistant
+13	dbmcs	Imatinib	ABL1	c.748G>A	Resistant
+14	dbmcs	Imatinib	ABL1	c.755A>G	Resistant
+15	dbmcs	Imatinib	ABL1	c.756G>T	Resistant
+16	dbmcs	Imatinib	ABL1	c.758A>T	Resistant
+17	dbmcs	Imatinib	ABL1	c.757T>C	Resistant
+18	dbmcs	Imatinib	ABL1	c.763G>A	Resistant
+19	dbmcs	Imatinib	ABL1	c.764A>T	Resistant
+20	dbmcs	Imatinib	ABL1	c.709A>G	Resistant
+21	dbmcs	Imatinib	ABL1	c.774G>C	Resistant
+22	dbmcs	Imatinib	ABL1	c.782G>T	Resistant
+23	dbmcs	Imatinib	ABL1	c.817T>A	Resistant
+24	dbmcs	Imatinib	ABL1	c.823G>A	Resistant
+25	dbmcs	Imatinib	ABL1	c.823G>C	Resistant
+26	dbmcs	Imatinib	ABL1	c.827A>G	Resistant
+27	dbmcs	Imatinib	ABL1	c.829A>G	Resistant
+28	dbmcs	Imatinib	ABL1	c.835G>A	Resistant
+29	dbmcs	Imatinib	ABL1	c.839T>C	Resistant
+30	dbmcs	Imatinib	ABL1	c.866T>C	Resistant
+31	dbmcs	Imatinib	ABL1	c.865G>A	Resistant
+32	dbmcs	Imatinib	ABL1	c.875A>T	Resistant
+33	dbmcs	Imatinib	ABL1	c.874G>C	Resistant
+34	dbmcs	Imatinib	ABL1	c.877A>G	Resistant
+35	dbmcs	Imatinib	ABL1	c.892C>G	Resistant
+36	dbmcs	Imatinib	ABL1	c.895G>C	Resistant
+37	dbmcs	Imatinib	ABL1	c.931T>C	Resistant
+38	dbmcs	Imatinib	ABL1	c.931T>A	Resistant
+39	dbmcs	Imatinib	ABL1	c.944C>T	Resistant
+40	dbmcs	Imatinib	ABL1	c.949T>C	Resistant
+41	dbmcs	Imatinib	ABL1	c.949T>G	Resistant
+42	dbmcs	Imatinib	ABL1	c.949T>A	Resistant
+43	dbmcs	Imatinib	ABL1	c.950T>G	Resistant
+44	dbmcs	Imatinib	ABL1	c.959A>G	Resistant
+45	dbmcs	Imatinib	ABL1	c.971T>A	Resistant
+46	dbmcs	Imatinib	ABL1	c.1024T>C	Resistant
+47	dbmcs	Imatinib	ABL1	c.1028T>C	Resistant
+48	dbmcs	Imatinib	ABL1	c.1031C>T	Resistant
+49	dbmcs	Imatinib	ABL1	c.1049C>T	Resistant
+50	dbmcs	Imatinib	ABL1	c.1065G>C	Resistant
+51	dbmcs	Imatinib	ABL1	c.1064A>G	Resistant
+52	dbmcs	Imatinib	ABL1	c.1064A>C	Resistant
+53	dbmcs	Imatinib	ABL1	c.1075T>G	Resistant
+54	dbmcs	Imatinib	ABL1	c.1075T>A	Resistant
+55	dbmcs	Imatinib	ABL1	c.1076T>G	Resistant
+56	dbmcs	Imatinib	ABL1	c.1075T>C	Resistant
+57	dbmcs	Imatinib	ABL1	c.1087G>T	Resistant
+58	dbmcs	Imatinib	ABL1	c.1090C>A	Resistant
+59	dbmcs	Imatinib	ABL1	c.1094C>T	Resistant
+60	dbmcs	Imatinib	ABL1	c.1097C>G	Resistant
+61	dbmcs	Imatinib	ABL1	c.1109T>C	Resistant
+62	dbmcs	Imatinib	ABL1	c.1112T>C	Resistant
+63	dbmcs	Imatinib	ABL1	c.1117G>A	Resistant
+64	dbmcs	Imatinib	ABL1	c.1135G>A	Resistant
+65	dbmcs	Imatinib	ABL1	c.1138G>A	Resistant
+66	dbmcs	Imatinib	ABL1	c.1144T>C	Resistant
+67	dbmcs	Imatinib	ABL1	c.1150C>A	Resistant
+68	dbmcs	Imatinib	ABL1	c.1159T>A	Resistant
+69	dbmcs	Imatinib	ABL1	c.1161G>T	Resistant
+70	dbmcs	Imatinib	ABL1	c.1159T>G	Resistant
+71	dbmcs	Imatinib	ABL1	c.1162A>C	Resistant
+72	dbmcs	Imatinib	ABL1	c.1178A>G	Resistant
+73	dbmcs	Imatinib	ABL1	c.1187A>C	Resistant
+74	dbmcs	Imatinib	ABL1	c.1187A>G	Resistant
+75	dbmcs	Imatinib	ABL1	c.1186_1187delCAinsGC	Resistant
+76	dbmcs	Imatinib	ABL1	c.1189G>C	Resistant
+77	dbmcs	Imatinib	ABL1	c.1250C>T	Resistant
+78	dbmcs	Imatinib	ABL1	c.1250C>A	Resistant
+79	dbmcs	Imatinib	ABL1	c.1253T>G	Resistant
+80	dbmcs	Imatinib	ABL1	c.1252A>G	Resistant
+81	dbmcs	Imatinib	ABL1	c.1297G>A	Resistant
+82	dbmcs	Imatinib	ABL1	c.1313C>G	Resistant
+83	dbmcs	Imatinib	ABL1	c.1348G>A	Resistant
+84	dbmcs	Imatinib	ABL1	c.1349A>G	Resistant
+85	dbmcs	Imatinib	ABL1	c.1349A>C	Resistant
+86	dbmcs	Imatinib	ABL1	c.1349A>T	Resistant
+87	dbmcs	Imatinib	ABL1	c.1357G>A	Resistant
+88	dbmcs	Imatinib	ABL1	c.1358A>G	Resistant
+89	dbmcs	Imatinib	ABL1	c.1358A>C	Resistant
+90	dbmcs	Imatinib	ABL1	c.1358A>T	Resistant
+91	dbmcs	Imatinib	ABL1	c.1375G>A	Resistant
+92	dbmcs	Imatinib	ABL1	c.1376A>G	Resistant
+93	dbmcs	Imatinib	ABL1	c.1376A>C	Resistant
+94	dbmcs	Imatinib	ABL1	c.1376A>T	Resistant
+95	dbmcs	Imatinib	ABL1	c.1416G>C	Resistant
+96	dbmcs	Imatinib	ABL1	c.1439C>T	Resistant
+97	dbmcs	Imatinib	ABL1	c.1457T>C	Resistant
+98	dbmcs	Imatinib	ABL1	c.1520A>G	Resistant
+99	dbmcs	Nilotinib	ABL1	c.763G>A	Resistant
+100	dbmcs	Nilotinib	ABL1	c.764A>T	Resistant
+101	dbmcs	Nilotinib	ABL1	c.757T>C	Resistant
+102	dbmcs	Nilotinib	ABL1	c.1075T>G	Resistant
+103	dbmcs	Nilotinib	ABL1	c.1076T>G	Resistant
+104	dbmcs	Nilotinib	ABL1	c.1075T>A	Resistant
+105	dbmcs	Nilotinib	ABL1	c.742C>G	Resistant
+106	dbmcs	Dasatinib	ABL1	c.742C>G	Resistant
+107	dbmcs	Nilotinib	ABL1	c.749G>A	Resistant
+108	dbmcs	Nilotinib	ABL1	c.875A>T	Resistant
+109	dbmcs	Nilotinib	ABL1	c.1150C>A	Resistant
+110	dbmcs	Nilotinib	ABL1	c.1161G>C	Resistant
+111	dbmcs	Bosutinib	ABL1	c.749G>A	Resistant
+112	dbmcs	Dasatinib	ABL1	c.749G>A	Resistant
+113	dbmcs	Dasatinib	ABL1	c.944C>T	Resistant
+114	dbmcs	Bosutinib	ABL1	c.1052T>C	Resistant
+115	dbmcs	Dasatinib	ABL1	c.1064A>G	Resistant
+116	dbmcs	Bosutinib	ABL1	c.1187A>G	Resistant
+117	dbmcs	Bosutinib	ABL1	c.1457T>C	Resistant
+118	dbmcs	Imatinib Mesylate + Dasatinib	ABL1	c.944C>T	Resistant
+119	dbmcs	Imatinib Mesylate + Dasatinib	ABL1	c.763G>A	Resistant
+120	dbmcs	Imatinib Mesylate + Nilotinib	ABL1	c.944C>T	Resistant
+121	dbmcs	Dasatinib	ABL1	c.743T>G	Resistant
+122	dbmcs	Imatinib	ABL1	c.743T>G	Resistant
+123	dbmcs	Dasatinib	ABL1	c.950T>C	Resistant
+124	dbmcs	Dasatinib	ABL1	c.756G>C	Resistant
+125	dbmcs	Dasatinib + Nilotinib	ABL1	c.944C>T	Resistant
+126	dbmcs	Imatinib Mesylate + Nilotinib	ABL1	c.742C>G	Resistant
+127	dbmcs	Imatinib Mesylate + Nilotinib	ABL1	c.757T>C	Resistant
+128	dbmcs	Imatinib Mesylate + Nilotinib	ABL1	c.931T>C	Resistant
+129	dbmcs	Imatinib Mesylate + Nilotinib	ABL1	c.1076T>G	Resistant
+130	dbmcs	Imatinib Mesylate + Nilotinib	ABL1	c.1187A>C	Resistant
+131	dbmcs	Imatinib Mesylate + Dasatinib	ABL1	c.895G>C	Resistant
+132	dbmcs	Imatinib	ABL1	c.1423_1424delTGinsGT	Resistant
+133	dbmcs	Imatinib	ABL1	c.1007A>G	Resistant
+134	dbmcs	Imatinib	ABL1	c.1161G>C	Resistant
+135	dbmcs	Imatinib	ABL1	c.899A>G	Resistant
+136	dbmcs	Dasatinib	ABL1	c.1375G>A	Resistant
+137	dbmcs	Vemurafenib	AKT1	c.235C>A	Resistant
+138	dbmcs	Vemurafenib	AKT1	c.49G>A	Resistant
+139	dbmcs	Dabrafenib	AKT1	c.235C>A	Resistant
+140	dbmcs	BRAF inhibitors	AKT1	c.235C>A	Resistant
+141	dbmcs	MK2206	AKT1	c.238_239delTGinsGC	Resistant
+142	dbmcs	Vemurafenib	AKT3	c.49G>A	Resistant
+143	dbmcs	Alectinib	ALK	c.3512T>C	Resistant
+144	dbmcs	Ceritinib	ALK	c.3367G>A	Resistant
+145	dbmcs	Crizotinib	ALK	c.3467G>A	Resistant
+146	dbmcs	Crizotinib	ALK	c.3586C>A	Resistant
+147	dbmcs	Crizotinib	ALK	c.3520T>C	Resistant
+148	dbmcs	Crizotinib	ALK	c.3455T>G	Resistant
+149	dbmcs	Crizotinib	ALK	c.3520T>C	Resistant
+150	dbmcs	Crizotinib	ALK	c.3604G>A	Resistant
+151	dbmcs	Crizotinib	ALK	c.3617C>A	Resistant
+152	dbmcs	Crizotinib	ALK	c.3806G>C	Resistant
+153	dbmcs	Crizotinib	ALK	c.3512T>C	Resistant
+154	dbmcs	Crizotinib	ALK	c.3522C>A	Resistant
+155	dbmcs	Crizotinib	ALK	c.3604G>A	Resistant
+156	dbmcs	Crizotinib	ALK	c.3617C>A	Resistant
+157	dbmcs	Crizotinib	ALK	c.3453_3454	Resistant
+158	dbmcs	AUY922	ALK	c.3467G>A	Resistant
+159	dbmcs	Ceritinib	ALK	c.3467G>A	Resistant
+160	dbmcs	Alectinib	ALK	c.3538G>C	Resistant
+161	dbmcs	Crizotinib	ALK	c.3512T>C	Resistant
+162	dbmcs	Crizotinib	ALK	c.3538G>C	Resistant
+163	dbmcs	Crizotinib	ALK	c.3734T>G	Resistant
+164	dbmcs	Crizotinib	ALK	c.3734T>G	Resistant
+165	dbmcs	Ceritinib	ALK	c.3604G>A	Resistant
+166	dbmcs	Alectinib	ALK	c.3453_3454	Resistant
+167	dbmcs	TAE684	ALK	c.3453_3454	Resistant
+168	dbmcs	Alectinib	ALK	c.3604G>A	Resistant
+169	dbmcs	Brigatinib	ALK	c.3604G>A	Resistant
+170	dbmcs	Alectinib	ALK	c.3806G>C	Resistant
+171	dbmcs	Crizotinib	ALK	c.3512T>A	Resistant
+172	dbmcs	Alectinib	ALK	c.3512T>A	Resistant
+173	dbmcs	Alectinib	ALK	c.3512T>G	Resistant
+174	dbmcs	Crizotinib	ALK	c.3512T>G	Resistant
+175	dbmcs	Crizotinib	ALK	c.3383G>C	Resistant
+176	dbmcs	Lorlatinib	ALK	c.3592C>T	Resistant
+177	dbmcs	Alectinib	ALK	c.3604G>A	Resistant
+178	dbmcs	G007-LK	APC	c.2555T>A	Resistant
+179	dbmcs	IWR-1	APC	c.5455_5456insC	Resistant
+180	dbmcs	XAV939	APC	c.2656C>T	Resistant
+181	dbmcs	NVP-TNKS656	APC	c.2656C>T	Resistant
+182	dbmcs	G007-LK	APC	c.2656C>T	Resistant
+183	dbmcs	Abiraterone	AR	c.2105T>A	Resistant
+184	dbmcs	Abiraterone	AR	c.2632A>G	Resistant
+185	dbmcs	Apalutamide	AR	c.2629T>C	Resistant
+186	dbmcs	Enzalutamide	AR	c.2629T>C	Resistant
+187	dbmcs	Flutamide	AR	c.2632A>G	Resistant
+188	dbmcs	Enzalutamide	AR	c.2629T>C	Resistant
+189	dbmcs	Apalutamide	AR	c.2629T>C	Resistant
+190	dbmcs	Bicalutamide	AR	c.2226G>T	Resistant
+191	dbmcs	Bicalutamide	AR	c.2225G>T	Resistant
+192	dbmcs	Vemurafenib + Cetuximab + Irinotecan	ARAF	c.1468T>A	Resistant
+193	dbmcs	Pembrolizumab	B2M	c.42_45	Resistant
+194	dbmcs	Venetoclax	BCL2	c.302G>T	Resistant
+195	dbmcs	Venetoclax	BCL2	c.310T>A	Resistant
+196	dbmcs	Cetuximab	BRAF	c.1799T>A	Resistant
+197	dbmcs	Panitumumab	BRAF	c.1799T>A	Resistant
+198	dbmcs	Panitumumab	BRAF	c.1798_1799	Resistant
+199	dbmcs	Refametinib	BRAF	c.1798_1799	Resistant
+200	dbmcs	Vemurafenib	BRAF	c.1798_1799	Resistant
+201	dbmcs	Vemurafenib	BRAF	c.1514T>A	Resistant
+202	dbmcs	Oxaliplatin	BRAF	c.1799T>A	Resistant
+203	dbmcs	Irinotecan	BRAF	c.1799T>A	Resistant
+204	dbmcs	Bevacizumab	BRAF	c.1799T>A	Resistant
+205	dbmcs	Irinotecan + Cetuximab	BRAF	c.1781A>G	Resistant
+206	dbmcs	U0126	BRAF	c.1781A>G	Resistant
+207	dbmcs	U0126	BRAF	c.1406G>A	Resistant
+208	dbmcs	Irinotecan	BRAF	c.1780_1782delGATinsAAG	Resistant
+209	dbmcs	Oxaliplatin	BRAF	c.1780_1782delGATinsAAG	Resistant
+210	dbmcs	EGFR TKIs	BRAF	c.1799T>A	Resistant
+211	dbmcs	Cetuximab	BRAF	c.1798_1800	Resistant
+212	dbmcs	Panitumumab	BRAF	c.1798_1800	Resistant
+213	dbmcs	EGFR TKIs	BRAF	c.1406G>C	Resistant
+214	dbmcs	Vemurafenib	BRAF	c.1406G>T	Resistant
+215	dbmcs	Vemurafenib	BRAF	c.1802A>C	Resistant
+216	dbmcs	Dabrafenib + Trametinib	BRAF	c.141_1140+2del55905	Resistant
+217	dbmcs	Trametinib	BRAF	c.1510_1518	Resistant
+218	dbmcs	Vemurafenib	BRAF	c.1510_1518	Resistant
+219	dbmcs	Sorafenib	BRAF	c.1510_1518	Resistant
+220	dbmcs	Vemurafenib	BRAF	c.1790T>A	Resistant
+221	dbmcs	GDC0879	BRAF	c.1741A>T	Resistant
+222	dbmcs	Vemurafenib	BRAF	c.1390G>A	Resistant
+223	dbmcs	Dabrafenib	BRAF	c.1540C>G	Resistant
+224	dbmcs	Vemurafenib	BRAF	c.1391G>T	Resistant
+225	dbmcs	Trametinib	BRAF	c.1801A>G	Resistant
+226	dbmcs	Dabrafenib + Trametinib	BRAF	c.1801A>G	Resistant
+227	dbmcs	Vemurafenib	BRAF	c.1789C>G	Resistant
+228	dbmcs	GDC0879	BRAF	c.1454_1455delTGinsAT	Resistant
+229	dbmcs	Dabrafenib	BRAF	c.1457_1471del15	Resistant
+230	dbmcs	Vemurafenib	BRAF	c.1457_1471del15	Resistant
+231	dbmcs	Vemurafenib	BRAF	c.1406G>C	Resistant
+232	dbmcs	Vemurafenib	BRAF	c.1406G>C	Resistant
+233	dbmcs	RMC-4550	BRAF	c.1406G>C	Resistant
+234	dbmcs	Vemurafenib	BRAF	c.1460_1474del15	Resistant
+235	dbmcs	Dabrafenib	BRAF	c.1460_1474del15	Resistant
+236	dbmcs	Dabrafenib	BRAF	c.1397G>A	Resistant
+237	dbmcs	Vemurafenib	BRAF	c.1397G>A	Resistant
+238	dbmcs	PLX7904	BRAF	c.1397G>A	Resistant
+239	dbmcs	Nivolumab	BRAF	c.1799T>A	Resistant
+240	dbmcs	Dabrafenib + Trametinib + SCH772984	BRAF	c.1799T>A	Resistant
+241	dbmcs	Pembrolizumab	BRAF	c.1799T>A	Resistant
+242	dbmcs	PD-0325901	BRAF	c.1799T>A	Resistant
+243	dbmcs	PLX4720	BRAF	c.1799T>A	Resistant
+244	dbmcs	Dasatinib	BRAF	c.1799T>A	Resistant
+245	dbmcs	SHP099	BRAF	c.1799T>A	Resistant
+246	dbmcs	RMC-4550	BRAF	c.1799T>A	Resistant
+247	dbmcs	Vemurafenib	BRAF	c.1803A>C	Resistant
+248	dbmcs	Vemurafenib	BRAF	c.1783T>C	Resistant
+249	dbmcs	Vemurafenib	BRAF	c.1397G>T	Resistant
+250	dbmcs	Vemurafenib	BRAF	c.1786G>C	Resistant
+251	dbmcs	Vemurafenib	BRAF	c.1780G>A	Resistant
+252	dbmcs	Vemurafenib	BRAF	c.1453_1470delinsTAT	Resistant
+253	dbmcs	Vemurafenib	BRAF	c.1391G>A	Resistant
+254	dbmcs	Ibrutinib	BTK	c.1441T>A	Resistant
+255	dbmcs	Ibrutinib	BTK	c.946A>G	Resistant
+256	dbmcs	Ibrutinib	BTK	c.1441_1443	Resistant
+257	dbmcs	Lenalidomide	CRBN	c.298C>T	Resistant
+258	dbmcs	Lenalidomide	CRBN	c.848G>A	Resistant
+259	dbmcs	Pomalidomide	CRBN	c.298C>T	Resistant
+260	dbmcs	Pomalidomide	CRBN	c.848G>A	Resistant
+261	dbmcs	G007-LK	CTNNB1	c.98C>T	Resistant
+262	dbmcs	Cetuximab	EGFR	c.1391C>T	Resistant
+263	dbmcs	Cetuximab	EGFR	c.1393G>A	Resistant
+264	dbmcs	Cetuximab	EGFR	c.1473A>G	Resistant
+265	dbmcs	Cetuximab	EGFR	c.1476C>G	Resistant
+266	dbmcs	Cetuximab	EGFR	c.1351C>T	Resistant
+267	dbmcs	Cetuximab	EGFR	c.1400A>C	Resistant
+268	dbmcs	Gefitinib	EGFR	c.2527G>A	Resistant
+269	dbmcs	Osimertinib	EGFR	c.2389T>A	Resistant
+270	dbmcs	Panitumumab	EGFR	c.1393G>A	Resistant
+271	dbmcs	Afatinib	EGFR	c.2369C>T	Resistant
+272	dbmcs	Erlotinib	EGFR	c.2369C>T	Resistant
+273	dbmcs	Rociletinib	EGFR	c.2392C>A	Resistant
+274	dbmcs	Gefitinib	EGFR	c.2369C>T	Resistant
+275	dbmcs	Gefitinib	EGFR	c.2369C>T	Resistant
+276	dbmcs	AEE-788	EGFR	c.2369C>T	Resistant
+277	dbmcs	Cisplatin	EGFR	c.425_559	Resistant
+278	dbmcs	Cetuximab	EGFR	c.1476C>A	Resistant
+279	dbmcs	Cetuximab	EGFR	c.1393G>A	Resistant
+280	dbmcs	Cetuximab	EGFR	c.1400A>C	Resistant
+281	dbmcs	Erlotinib	EGFR	c.2369C>T	Resistant
+282	dbmcs	Gefitinib	EGFR	c.2281G>T	Resistant
+283	dbmcs	Erlotinib	EGFR	c.2281G>T	Resistant
+284	dbmcs	Erlotinib	EGFR	c.2158_2159delTCinsAT	Resistant
+285	dbmcs	Afatinib	EGFR	c.2289_2320	Resistant
+286	dbmcs	Lapatinib	EGFR	c.2369C>T	Resistant
+287	dbmcs	Erlotinib	EGFR	c.2311_2312insGCGTAGACA	Resistant
+288	dbmcs	Erlotinib	EGFR	c.2319_2320insCAT	Resistant
+289	dbmcs	Erlotinib	EGFR	c.2512C>G	Resistant
+290	dbmcs	Crizotinib	EGFR	c.2573T>G	Resistant
+291	dbmcs	Erlotinib	EGFR	c.2310_2311insGGTACA	Resistant
+292	dbmcs	Erlotinib	EGFR	c.2289_2320	Resistant
+293	dbmcs	Erlotinib	EGFR	c.2299_2307	Resistant
+294	dbmcs	Erlotinib	EGFR	c.2300_2301insAATCGC	Resistant
+295	dbmcs	Erlotinib	EGFR	c.2292_2293insCATCAT	Resistant
+296	dbmcs	Erlotinib	EGFR	c.2310_2311insGGTTAT	Resistant
+297	dbmcs	Erlotinib	EGFR	c.2316_2317insTATAACCCT	Resistant
+298	dbmcs	Erlotinib	EGFR	c.2317_2318insCTCATGTAC	Resistant
+299	dbmcs	Erlotinib	EGFR	c.2158_2160	Resistant
+300	dbmcs	EGFR TKIs	EGFR	c.88_1008	Resistant
+301	dbmcs	Gefitinib	EGFR	c.2240_2257del18	Resistant
+302	dbmcs	Osimertinib	EGFR	c.2374_2376	Resistant
+303	dbmcs	Osimertinib	EGFR	c.2152_2154	Resistant
+304	dbmcs	Cetuximab	EGFR	c.2239_2253delinsCCT	Resistant
+305	dbmcs	Cetuximab	EGFR	c.2236_2237insTACCTGTAGCAATCAAGG	Resistant
+306	dbmcs	Afatinib	EGFR	c.2292_2293insCATCAT	Resistant
+307	dbmcs	Osimertinib	EGFR	c.2292_2293insCATCAT	Resistant
+308	dbmcs	Naquotinib	EGFR	c.2292_2293insCATCAT	Resistant
+309	dbmcs	Dacomitinib	EGFR	c.2292_2293insCATCAT	Resistant
+310	dbmcs	Gefitinib	EGFR	c.2299_2307	Resistant
+311	dbmcs	Gefitinib	EGFR	c.2299_2307	Resistant
+312	dbmcs	Erlotinib	EGFR	c.2299_2307	Resistant
+313	dbmcs	Rociletinib	EGFR	c.2299_2307	Resistant
+314	dbmcs	Dacomitinib	EGFR	c.2299_2307	Resistant
+315	dbmcs	Erlotinib	EGFR	c.2153T>A	Resistant
+316	dbmcs	Osimertinib	EGFR	c.2153T>A	Resistant
+317	dbmcs	Erlotinib	EGFR	c.2302_2310	Resistant
+318	dbmcs	Afatinib	EGFR	c.2302_2310	Resistant
+319	dbmcs	Erlotinib	EGFR	c.2302_2310	Resistant
+320	dbmcs	Dacomitinib	EGFR	c.2302_2310	Resistant
+321	dbmcs	Cetuximab	EGFR	c.2302_2310	Resistant
+322	dbmcs	Gefitinib	EGFR	c.2302_2310	Resistant
+323	dbmcs	Rociletinib	EGFR	c.2302_2310	Resistant
+324	dbmcs	Cetuximab	EGFR	c.2293G>A	Resistant
+325	dbmcs	Erlotinib	EGFR	c.2551G>A	Resistant
+326	dbmcs	Cetuximab	EGFR	c.2551G>A	Resistant
+327	dbmcs	Gefitinib	EGFR	c.2551G>A	Resistant
+328	dbmcs	Osimertinib	EGFR	c.2611G>A	Resistant
+329	dbmcs	Gefitinib	EGFR	c.2611G>A	Resistant
+330	dbmcs	Rociletinib	EGFR	c.2257C>T	Resistant
+331	dbmcs	Erlotinib	EGFR	c.2316_2317insGGTAACCCT	Resistant
+332	dbmcs	OBX1-012	EGFR	c.2316_2317insGGTAACCCT	Resistant
+333	dbmcs	Gefitinib	EGFR	c.2609A>G	Resistant
+334	dbmcs	Rociletinib	EGFR	c.1793G>T	Resistant
+335	dbmcs	Erlotinib	EGFR	c.2096C>T	Resistant
+336	dbmcs	Cetuximab	EGFR	c.2155G>T	Resistant
+337	dbmcs	Cetuximab	EGFR	c.2582T>A	Resistant
+338	dbmcs	Erlotinib	EGFR	c.2582T>A	Resistant
+339	dbmcs	Erlotinib	EGFR	c.2582T>A	Resistant
+340	dbmcs	Rociletinib	EGFR	c.2290_2291insTTCAAGAGGCAT	Resistant
+341	dbmcs	Cetuximab	EGFR	c.2290_2291insTTCAAGAGGCAT	Resistant
+342	dbmcs	Rociletinib	EGFR	c.2593G>A	Resistant
+343	dbmcs	Osimertinib	EGFR	c.2593G>A	Resistant
+344	dbmcs	Rociletinib	EGFR	c.2500G>A	Resistant
+345	dbmcs	Etoposide	EGFR	c.102_869del11834	Resistant
+346	dbmcs	Cetuximab	EGFR	c.102_869del11834	Resistant
+347	dbmcs	Gefitinib	EGFR	c.2302_2307delinsATCCTT	Resistant
+348	dbmcs	Erlotinib	EGFR	c.2239_2240delTTinsCC	Resistant
+349	dbmcs	Gefitinib	EGFR	c.2239_2240delTTinsCC	Resistant
+350	dbmcs	Osimertinib	EGFR	c.2239_2240delTTinsCC	Resistant
+351	dbmcs	Cetuximab	EGFR	c.2232C>G	Resistant
+352	dbmcs	Erlotinib	EGFR	c.2156G>C	Resistant
+353	dbmcs	Osimertinib	EGFR	c.2156G>C	Resistant
+354	dbmcs	Rociletinib	EGFR	c.2156G>C	Resistant
+355	dbmcs	Cetuximab	EGFR	c.2156G>C	Resistant
+356	dbmcs	Gefitinib	EGFR	c.2156G>C	Resistant
+357	dbmcs	Gefitinib	EGFR	c.2497T>G	Resistant
+358	dbmcs	Rociletinib	EGFR	c.2497T>G	Resistant
+359	dbmcs	Rociletinib	EGFR	c.2326C>T	Resistant
+360	dbmcs	Gefitinib	EGFR	c.2104G>A	Resistant
+361	dbmcs	Afatinib	EGFR	c.2618G>A	Resistant
+362	dbmcs	Erlotinib	EGFR	c.2618G>A	Resistant
+363	dbmcs	Gefitinib	EGFR	c.2618G>A	Resistant
+364	dbmcs	Gefitinib	EGFR	c.2310_2311insGTAGACAGCGTAGACAACCCT	Resistant
+365	dbmcs	Gefitinib	EGFR	c.2311_2319	Resistant
+366	dbmcs	Erlotinib	EGFR	c.2311_2319	Resistant
+367	dbmcs	Rociletinib	EGFR	c.2222C>T	Resistant
+368	dbmcs	unspecified PD-L1 antibody	EGFR	c.2573T>G	Resistant
+369	dbmcs	unspecified CTLA4 antibody + unspecified PD-1 antibody	EGFR	c.2573T>G	Resistant
+370	dbmcs	unspecified PD-1 antibody	EGFR	c.2573T>G	Resistant
+371	dbmcs	Cetuximab	EGFR	c.2240_2254del15	Resistant
+372	dbmcs	Cetuximab	EGFR	c.2236_2250delinsATCCCT	Resistant
+373	dbmcs	Afatinib	EGFR	c.2389T>A	Resistant
+374	dbmcs	Rociletinib	EGFR	c.2389T>A	Resistant
+375	dbmcs	Osimertinib	EGFR	c.2389T>A	Resistant
+376	dbmcs	Cetuximab	EGFR	c.2251_2277delinsAAC	Resistant
+377	dbmcs	Gefitinib	EGFR	c.2288C>T	Resistant
+378	dbmcs	JBJ-04-125-02	EGFR	c.2236_2250del15	Resistant
+379	dbmcs	Lapatinib	EGFR	c.2236_2250del15	Resistant
+380	dbmcs	Cetuximab	EGFR	c.3352G>A	Resistant
+381	dbmcs	Rociletinib	EGFR	c.866C>T	Resistant
+382	dbmcs	Cetuximab	EGFR	c.2254_2277del24	Resistant
+383	dbmcs	Rociletinib	EGFR	c.2492G>T	Resistant
+384	dbmcs	Panitumumab	EGFR	c.1391C>T	Resistant
+385	dbmcs	Erlotinib	EGFR	c.2560A>G	Resistant
+386	dbmcs	Rociletinib	EGFR	c.2560A>G	Resistant
+387	dbmcs	Cetuximab	EGFR	c.2560A>G	Resistant
+388	dbmcs	Gefitinib	EGFR	c.2560A>G	Resistant
+389	dbmcs	Gefitinib	EGFR	c.2584C>G	Resistant
+390	dbmcs	Cetuximab	EGFR	c.2239_2259delinsCAA	Resistant
+391	dbmcs	Cetuximab	EGFR	c.2236_2253delinsGTA	Resistant
+392	dbmcs	Cetuximab	EGFR	c.2203G>A	Resistant
+393	dbmcs	Selumetinib	EGFR	c.2369C>T	Resistant
+394	dbmcs	Icotinib	EGFR	c.2369C>T	Resistant
+395	dbmcs	Afatinib	EGFR	c.2369C>T	Resistant
+396	dbmcs	Cetuximab	EGFR	c.2236_2256delinsGTA	Resistant
+397	dbmcs	Erlotinib	EGFR	c.2317C>T	Resistant
+398	dbmcs	Rociletinib	EGFR	c.2317C>T	Resistant
+399	dbmcs	Cetuximab	EGFR	c.2317C>T	Resistant
+400	dbmcs	Cetuximab	EGFR	c.2239_2250del12	Resistant
+401	dbmcs	Afatinib	EGFR	c.2527G>A	Resistant
+402	dbmcs	Erlotinib	EGFR	c.2527G>A	Resistant
+403	dbmcs	Gefitinib	EGFR	c.2527G>A	Resistant
+404	dbmcs	Rociletinib	EGFR	c.2527G>A	Resistant
+405	dbmcs	Rociletinib	EGFR	c.2500G>C	Resistant
+406	dbmcs	Cetuximab	EGFR	c.2500G>C	Resistant
+407	dbmcs	Erlotinib	EGFR	c.2239_2250delinsCCT	Resistant
+408	dbmcs	Cetuximab	EGFR	c.2239_2250delinsCCT	Resistant
+409	dbmcs	Afatinib	EGFR	c.2239_2250delinsCCT	Resistant
+410	dbmcs	Osimertinib	EGFR	c.2239_2250delinsCCT	Resistant
+411	dbmcs	Erlotinib	EGFR	c.2351C>T	Resistant
+412	dbmcs	Rociletinib	EGFR	c.2300C>T	Resistant
+413	dbmcs	Erlotinib	EGFR	c.2587G>A	Resistant
+414	dbmcs	Osimertinib	EGFR	c.2127_2129delAAC	Resistant
+415	dbmcs	Gefitinib	EGFR	c.2127_2129delAAC	Resistant
+416	dbmcs	Erlotinib	EGFR	c.2127_2129delAAC	Resistant
+417	dbmcs	Cetuximab	EGFR	c.2127_2129delAAC	Resistant
+418	dbmcs	Rociletinib	EGFR	c.2127_2129delAAC	Resistant
+419	dbmcs	Cetuximab	EGFR	c.2240T>C	Resistant
+420	dbmcs	Cetuximab	EGFR	c.2512C>G	Resistant
+421	dbmcs	Erlotinib	EGFR	c.2126A>G	Resistant
+422	dbmcs	Gefitinib	EGFR	c.2126A>G	Resistant
+423	dbmcs	Rociletinib	EGFR	c.2126A>G	Resistant
+424	dbmcs	Rociletinib	EGFR	c.2305G>A	Resistant
+425	dbmcs	Gefitinib	EGFR	c.2245G>C	Resistant
+426	dbmcs	Erlotinib	EGFR	c.2245G>C	Resistant
+427	dbmcs	Rociletinib	EGFR	c.2543C>T	Resistant
+428	dbmcs	Erlotinib	EGFR	c.2543C>T	Resistant
+429	dbmcs	Rociletinib	EGFR	c.2159C>T	Resistant
+430	dbmcs	Cetuximab	EGFR	c.2236_2259delinsGTAAGC	Resistant
+431	dbmcs	Erlotinib	EGFR	c.2125G>A	Resistant
+432	dbmcs	Osimertinib	EGFR	c.2125G>A	Resistant
+433	dbmcs	Rociletinib	EGFR	c.2125G>A	Resistant
+434	dbmcs	Gefitinib	EGFR	c.2125G>A	Resistant
+435	dbmcs	Rociletinib	EGFR	c.1476C>G	Resistant
+436	dbmcs	Cetuximab	EGFR	c.2283+1_2283+2insAGGCATTTCAAG	Resistant
+437	dbmcs	Osimertinib	EGFR	c.2107C>A	Resistant
+438	dbmcs	Cetuximab	EGFR	c.2107C>A	Resistant
+439	dbmcs	Erlotinib	EGFR	c.2318A>T	Resistant
+440	dbmcs	EKI-285	EGFR	c.2318A>T	Resistant
+441	dbmcs	Gefitinib	EGFR	c.2318A>T	Resistant
+442	dbmcs	Cetuximab	EGFR	c.2240_2257del18	Resistant
+443	dbmcs	Gefitinib	EGFR	c.2590G>A	Resistant
+444	dbmcs	Rociletinib	EGFR	c.2590G>A	Resistant
+445	dbmcs	Cetuximab	EGFR	c.2575G>A	Resistant
+446	dbmcs	Rociletinib	EGFR	c.2575G>A	Resistant
+447	dbmcs	Erlotinib	EGFR	c.2320G>A	Resistant
+448	dbmcs	Gefitinib	EGFR	c.2320G>A	Resistant
+449	dbmcs	Erlotinib	EGFR	c.2105C>T	Resistant
+450	dbmcs	Rociletinib	EGFR	c.2126A>C	Resistant
+451	dbmcs	Erlotinib	EGFR	c.2126A>C	Resistant
+452	dbmcs	Gefitinib	EGFR	c.2126A>C	Resistant
+453	dbmcs	Cetuximab	EGFR	c.2155G>A	Resistant
+454	dbmcs	Cetuximab	EGFR	c.2582T>G	Resistant
+455	dbmcs	Erlotinib	EGFR	c.2582T>G	Resistant
+456	dbmcs	Osimertinib	EGFR	c.2155_2157	Resistant
+457	dbmcs	Rociletinib	EGFR	c.2612C>G	Resistant
+458	dbmcs	Cetuximab	EGFR	c.2612C>G	Resistant
+459	dbmcs	Cetuximab	EGFR	c.2326C>G	Resistant
+460	dbmcs	Cetuximab	EGFR	c.2404G>A	Resistant
+461	dbmcs	Rociletinib	EGFR	c.2404G>A	Resistant
+462	dbmcs	Erlotinib	EGFR	c.2317_2319	Resistant
+463	dbmcs	Gefitinib	EGFR	c.2317_2319	Resistant
+464	dbmcs	Erlotinib	EGFR	c.2317_2319	Resistant
+465	dbmcs	Afatinib	EGFR	c.2317_2319	Resistant
+466	dbmcs	Gefitinib	EGFR	c.2317_2319	Resistant
+467	dbmcs	Osimertinib	EGFR	c.917C>T	Resistant
+468	dbmcs	Rociletinib	EGFR	c.2108T>C	Resistant
+469	dbmcs	Panitumumab	EGFR	c.1394G>A	Resistant
+470	dbmcs	Cetuximab	EGFR	c.1394G>A	Resistant
+471	dbmcs	Panitumumab	EGFR	c.1473A>G	Resistant
+472	dbmcs	Cetuximab	EGFR	c.2311_2313	Resistant
+473	dbmcs	Gefitinib	EGFR	c.2311_2313	Resistant
+474	dbmcs	Erlotinib	EGFR	c.2311_2313	Resistant
+475	dbmcs	Rociletinib	EGFR	c.2311_2313	Resistant
+476	dbmcs	Cetuximab	EGFR	c.2240_2251del12	Resistant
+477	dbmcs	Erlotinib	EGFR	c.2305G>C	Resistant
+478	dbmcs	Rociletinib	EGFR	c.2305G>C	Resistant
+479	dbmcs	Osimertinib	EGFR	c.2305G>C	Resistant
+480	dbmcs	Gefitinib	EGFR	c.2305G>C	Resistant
+481	dbmcs	Gefitinib	EGFR	c.2317_2322delinsCTTATG	Resistant
+482	dbmcs	Neratinib	EGFR	c.2308_2310delinsGGTTAT	Resistant
+483	dbmcs	Rociletinib	EGFR	c.2327G>A	Resistant
+484	dbmcs	Erlotinib	EGFR	c.2303G>T	Resistant
+485	dbmcs	Cetuximab	EGFR	c.2303G>T	Resistant
+486	dbmcs	Gefitinib	EGFR	c.2303G>T	Resistant
+487	dbmcs	Icotinib	EGFR	c.2303G>T	Resistant
+488	dbmcs	Rociletinib	EGFR	c.2303G>T	Resistant
+489	dbmcs	AEE-788	EGFR	c.2477A>G	Resistant
+490	dbmcs	Gefitinib	EGFR	c.2477A>G	Resistant
+491	dbmcs	Erlotinib	EGFR	c.2477A>G	Resistant
+492	dbmcs	Rociletinib	EGFR	c.2126A>T	Resistant
+493	dbmcs	Osimertinib	EGFR	c.2389T>G	Resistant
+494	dbmcs	Lapatinib	ERBB2	c.2257A>G	Resistant
+495	dbmcs	Neratinib	ERBB2	c.2393C>T	Resistant
+496	dbmcs	Lapatinib	ERBB2	c.2264T>C	Resistant
+497	dbmcs	Cetuximab	ERBB2	c.1988T>C	Resistant
+498	dbmcs	Neratinib	ERBB2	c.2281_2283delACA	Resistant
+499	dbmcs	Cetuximab	ERBB2	c.1976_1977delTTinsAG	Resistant
+500	dbmcs	Gefitinib	ERBB2	c.1976_1977delTTinsAG	Resistant
+501	dbmcs	Pertuzumab	ERBB2	c.1976_1977delTTinsAG	Resistant
+502	dbmcs	Pertuzumab	ERBB2	c.1979G>A	Resistant
+503	dbmcs	Cetuximab	ERBB2	c.1979G>A	Resistant
+504	dbmcs	Panitumumab	ERBB2	c.929C>T	Resistant
+505	dbmcs	Selumetinib	ERBB2	c.929C>T	Resistant
+506	dbmcs	Neratinib	ERBB2	c.929C>T	Resistant
+507	dbmcs	Cetuximab	ERBB2	c.929C>T	Resistant
+508	dbmcs	Neratinib	ERBB2	c.2089G>C	Resistant
+509	dbmcs	Sapitinib	ERBB2	c.2334_2335insCTTCCTAGC	Resistant
+510	dbmcs	Lapatinib	ERBB2	c.2334_2335insCTTCCTAGC	Resistant
+511	dbmcs	Gefitinib	ERBB2	c.2176C>A	Resistant
+512	dbmcs	Neratinib	ERBB2	c.2305G>C	Resistant
+513	dbmcs	Lapatinib	ERBB2	c.2305G>C	Resistant
+514	dbmcs	Sapitinib	ERBB2	c.2305G>C	Resistant
+515	dbmcs	Neratinib	ERBB2	c.2330_2331insAGGTTGTGT	Resistant
+516	dbmcs	Lapatinib	ERBB2	c.2339C>T	Resistant
+517	dbmcs	AZ5104	ERBB2	c.2314_2325	Resistant
+518	dbmcs	Neratinib	ERBB2	c.2314_2325	Resistant
+519	dbmcs	Sapitinib	ERBB2	c.2314_2325	Resistant
+520	dbmcs	Erlotinib	ERBB2	c.2314_2325	Resistant
+521	dbmcs	Lapatinib	ERBB2	c.2314_2325	Resistant
+522	dbmcs	Tucatinib	ERBB2	c.2314_2325	Resistant
+523	dbmcs	Dacomitinib	ERBB2	c.2314_2325	Resistant
+524	dbmcs	Osimertinib	ERBB2	c.2314_2325	Resistant
+525	dbmcs	Afatinib	ERBB2	c.2314_2325	Resistant
+526	dbmcs	Neratinib	ERBB2	c.2521C>G	Resistant
+527	dbmcs	Sapitinib	ERBB2	c.2326_2328delinsGTAGTA	Resistant
+528	dbmcs	Lapatinib	ERBB2	c.2326_2328delinsGTAGTA	Resistant
+529	dbmcs	AEE-788	ERBB2	c.2393_2394delCAinsTG	Resistant
+530	dbmcs	Lapatinib	ERBB2	c.2393_2394delCAinsTG	Resistant
+531	dbmcs	Cetuximab	ERBB2	c.2393_2394delCAinsTG	Resistant
+532	dbmcs	CI-1040	ERBB2	c.2393_2394delCAinsTG	Resistant
+533	dbmcs	Neratinib	ERBB2	c.2329G>C	Resistant
+534	dbmcs	Trastuzumab	ERBB2	c.2329G>C	Resistant
+535	dbmcs	Sapitinib	ERBB2	c.2329G>C	Resistant
+536	dbmcs	Panitumumab	ERBB2	c.2329G>C	Resistant
+537	dbmcs	Cetuximab	ERBB2	c.2329G>C	Resistant
+538	dbmcs	AEE-788	ERBB2	c.2264T>C	Resistant
+539	dbmcs	Sapitinib	ERBB2	c.2264T>C	Resistant
+540	dbmcs	Trastuzumab	ERBB2	c.2257A>G	Resistant
+541	dbmcs	Panitumumab	ERBB2	c.2596C>A	Resistant
+542	dbmcs	Cetuximab	ERBB2	c.2596C>A	Resistant
+543	dbmcs	Sapitinib	ERBB2	c.2332_2340	Resistant
+544	dbmcs	Tucatinib	ERBB2	c.2332_2340	Resistant
+545	dbmcs	Trastuzumab	ERBB2	c.2332_2340	Resistant
+546	dbmcs	Afatinib	ERBB2	c.2332_2340	Resistant
+547	dbmcs	Lapatinib	ERBB2	c.2332_2340	Resistant
+548	dbmcs	Erlotinib	ERBB2	c.2332_2340	Resistant
+549	dbmcs	AZ5104	ERBB2	c.2332_2340	Resistant
+550	dbmcs	Osimertinib	ERBB2	c.2332_2340	Resistant
+551	dbmcs	Sapitinib	ERBB2	c.2326_2328delinsCTTTGT	Resistant
+552	dbmcs	Lapatinib	ERBB2	c.2326_2328delinsCTTTGT	Resistant
+553	dbmcs	Lapatinib	ERBB2	c.2356C>G	Resistant
+554	dbmcs	Sapitinib	ERBB2	c.2356C>G	Resistant
+555	dbmcs	Cetuximab	ERBB2	c.2126A>T	Resistant
+556	dbmcs	Lapatinib	ERBB2	c.2176C>T	Resistant
+557	dbmcs	Lapatinib	ERBB2	c.2584A>G	Resistant
+558	dbmcs	Cetuximab	ERBB2	c.2033G>A	Resistant
+559	dbmcs	Neratinib	ERBB2	c.2033G>A	Resistant
+560	dbmcs	Selumetinib	ERBB2	c.1958C>G	Resistant
+561	dbmcs	Lapatinib	ERBB2	c.2305G>T	Resistant
+562	dbmcs	Neratinib	ERBB2	c.2305G>T	Resistant
+563	dbmcs	Sapitinib	ERBB2	c.2305G>T	Resistant
+564	dbmcs	Lapatinib	ERBB2	c.2606T>G	Resistant
+565	dbmcs	Lapatinib + Trastuzumab	ERBB2	c.2606T>G	Resistant
+566	dbmcs	Lapatinib	ERBB2	c.2606T>G	Resistant
+567	dbmcs	Sapitinib	ERBB2	c.2606T>G	Resistant
+568	dbmcs	Lapatinib	ERBB2	c.2149G>A	Resistant
+569	dbmcs	Neratinib	ERBB2	c.2493G>C	Resistant
+570	dbmcs	Lapatinib	ERBB2	c.2198C>T	Resistant
+571	dbmcs	Sapitinib	ERBB2	c.2305G>A	Resistant
+572	dbmcs	Erlotinib	ERBB2	c.2326_2328delinsGTATGT	Resistant
+573	dbmcs	Tucatinib	ERBB2	c.2326_2328delinsGTATGT	Resistant
+574	dbmcs	Lapatinib	ERBB2	c.2326_2328delinsGTATGT	Resistant
+575	dbmcs	Sapitinib	ERBB2	c.2326_2328delinsGTATGT	Resistant
+576	dbmcs	Gefitinib	ERBB2	c.2326_2328delinsGTATGT	Resistant
+577	dbmcs	Cetuximab	ERBB2	c.2350C>G	Resistant
+578	dbmcs	Lapatinib	ERBB2	c.2347T>C	Resistant
+579	dbmcs	Pertuzumab	ERBB2	c.1978G>C	Resistant
+580	dbmcs	Cetuximab	ERBB2	c.1978G>C	Resistant
+581	dbmcs	Lapatinib	ERBB2	c.2353C>T	Resistant
+582	dbmcs	Panitumumab	ERBB2	c.2263_2264delCTinsAG	Resistant
+583	dbmcs	AEE-788	ERBB2	c.2263_2264delCTinsAG	Resistant
+584	dbmcs	Cetuximab	ERBB2	c.2263_2264delCTinsAG	Resistant
+585	dbmcs	Lapatinib	ERBB2	c.2263_2264delCTinsAG	Resistant
+586	dbmcs	Sapitinib	ERBB2	c.2263_2264delCTinsAG	Resistant
+587	dbmcs	Lapatinib	ERBB2	c.2318T>C	Resistant
+588	dbmcs	Lapatinib	ERBB2	c.2570A>G	Resistant
+589	dbmcs	Lapatinib	ERBB2	c.2156A>G	Resistant
+590	dbmcs	Lapatinib	ERBB2	c.2524G>A	Resistant
+591	dbmcs	Neratinib	ERBB2	c.2524G>A	Resistant
+592	dbmcs	Panitumumab	ERBB2	c.2524G>A	Resistant
+593	dbmcs	Cetuximab	ERBB2	c.2524G>A	Resistant
+594	dbmcs	Sapitinib	ERBB2	c.2524G>A	Resistant
+595	dbmcs	Trastuzumab	ERBB2	c.2524G>A	Resistant
+596	dbmcs	Lapatinib	ERBB2	c.2434G>A	Resistant
+597	dbmcs	Lapatinib	ERBB2	c.2407T>A	Resistant
+598	dbmcs	Lapatinib	ERBB2	c.2317G>A	Resistant
+599	dbmcs	Sapitinib	ERBB2	c.2317G>A	Resistant
+600	dbmcs	Lapatinib	ERBB2	c.2265_2279del15	Resistant
+601	dbmcs	Lapatinib	ERBB2	c.2393C>T	Resistant
+602	dbmcs	Neratinib	ERBB2	c.2333G>C	Resistant
+603	dbmcs	Cetuximab	ERBB2	c.929C>A	Resistant
+604	dbmcs	Neratinib	ERBB2	c.929C>A	Resistant
+605	dbmcs	Neratinib	ERBB2	c.874G>C	Resistant
+606	dbmcs	Lapatinib	ERBB4	c.2425_2426delCAinsGG	Resistant
+607	dbmcs	Cisplatin	ERCC2	c.2251A>C	Resistant
+608	dbmcs	Fulvestrant	ESR1	c.1610A>C	Resistant
+609	dbmcs	Hormone Therapy	ESR1	c.1607_1608delTCinsAA	Resistant
+610	dbmcs	Hormone Therapy	ESR1	c.1613A>G	Resistant
+611	dbmcs	Hormone Therapy	ESR1	c.1610A>G	Resistant
+612	dbmcs	Hormone Therapy	ESR1	c.1609T>A	Resistant
+613	dbmcs	Hormone Therapy	ESR1	c.1610A>C	Resistant
+614	dbmcs	Aromatase inhibitors	ESR1	c.1387T>C	Resistant
+615	dbmcs	anti-estrogens	ESR1	c.1138G>C	Resistant
+616	dbmcs	anti-estrogens	ESR1	c.1606_1608	Resistant
+617	dbmcs	anti-estrogens	ESR1	c.1604C>A	Resistant
+618	dbmcs	Tazemetostat	EZH2	c.331T>G	Resistant
+619	dbmcs	GSK126	EZH2	c.331T>G	Resistant
+620	dbmcs	DZNeP	EZH2	c.1922A>C	Resistant
+621	dbmcs	GSK126	EZH2	c.1922A>C	Resistant
+622	dbmcs	Tazemetostat	EZH2	c.2032_2037delinsAAGAAG	Resistant
+623	dbmcs	MRK-003	FBXW7	c.1393C>T	Resistant
+624	dbmcs	MRK-003	FBXW7	c.1394G>A	Resistant
+625	dbmcs	Regorafenib	FBXW7	c.1513C>T	Resistant
+626	dbmcs	MRK-003	FBXW7	c.1513C>T	Resistant
+627	dbmcs	MRK-003	FBXW7	c.1436G>A	Resistant
+628	dbmcs	MRK-003	FBXW7	c.1514G>T	Resistant
+629	dbmcs	AZD-4547	FGFR1	c.1681G>A	Resistant
+630	dbmcs	Dovitinib	FGFR2	c.1693G>A	Resistant
+631	dbmcs	Dovitinib	FGFR2	c.1608G>C	Resistant
+632	dbmcs	Dovitinib	FGFR2	c.1614G>C	Resistant
+633	dbmcs	Dovitinib	FGFR2	c.1642A>G	Resistant
+634	dbmcs	Dovitinib	FGFR2	c.1650T>G	Resistant
+635	dbmcs	Dovitinib	FGFR2	c.1697A>G	Resistant
+636	dbmcs	Dovitinib	FGFR2	c.1852T>A	Resistant
+637	dbmcs	Dovitinib	FGFR2	c.1978A>G.	Resistant
+638	dbmcs	PD173074	FGFR2	c.1642A>G	Resistant
+639	dbmcs	PD173074	FGFR2	c.1650T>G	Resistant
+640	dbmcs	AZD-4547	FGFR2	c.1650T>G	Resistant
+641	dbmcs	PD173074	FGFR2	c.1852T>A	Resistant
+642	dbmcs	Ponatinib	FGFR2	c.1614G>C	Resistant
+643	dbmcs	PD173074	FGFR2	c.1614G>C	Resistant
+644	dbmcs	Dovitinib	FGFR2	c.1647T>G	Resistant
+645	dbmcs	Nintedanib	FGFR2	c.1647T>G	Resistant
+646	dbmcs	Dovitinib	FGFR2	c.1649A>G	Resistant
+647	dbmcs	PD173074	FGFR2	c.1649A>G	Resistant
+648	dbmcs	PD173074	FGFR2	c.1697A>G	Resistant
+649	dbmcs	DEBIO-1347	FGFR2	c.1690G>A	Resistant
+650	dbmcs	PD173074	FGFR2	c.1693G>A	Resistant
+651	dbmcs	Ponatinib	FGFR2	c.1693G>A	Resistant
+652	dbmcs	PD173074	FGFR2	c.1608G>C	Resistant
+653	dbmcs	Dovitinib	FGFR2	c.755C>G	Resistant
+654	dbmcs	AZD-4547	FGFR2	c.755C>G	Resistant
+655	dbmcs	RO4987655	FGFR2	c.755C>G	Resistant
+656	dbmcs	Selumetinib	FGFR2	c.755C>G	Resistant
+657	dbmcs	PD173074	FGFR2	c.1648A>C	Resistant
+658	dbmcs	Dovitinib	FGFR2	c.1648A>C	Resistant
+659	dbmcs	AZD-4547	FGFR2	c.1690G>T	Resistant
+660	dbmcs	Infigratinib	FGFR2	c.1690G>T	Resistant
+661	dbmcs	DEBIO-1347	FGFR2	c.1690G>C	Resistant
+662	dbmcs	PD173074	FGFR2	c.1978A>G	Resistant
+663	dbmcs	Dovitinib	FGFR2	c.1978A>G	Resistant
+664	dbmcs	Bortezomib	FGFR3	c.1118A>G	Resistant
+665	dbmcs	Cisplatin	FGFR3	c.746C>G	Resistant
+666	dbmcs	FGFR inhibitors	FGFR3	c.1663G>A	Resistant
+667	dbmcs	Cediranib	FGFR3	c.1124A>G	Resistant
+668	dbmcs	Nintedanib	FGFR3	c.1124A>G	Resistant
+669	dbmcs	Infigratinib	FGFR3	c.1822T>G	Resistant
+670	dbmcs	DEBIO-1347	FGFR3	c.1822T>G	Resistant
+671	dbmcs	AZD-4547	FGFR3	c.1822T>G	Resistant
+672	dbmcs	Infigratinib	FGFR3	c.1663G>C	Resistant
+673	dbmcs	Infigratinib	FGFR3	c.1663G>C	Resistant
+674	dbmcs	Infigratinib	FGFR3	c.392C>T	Resistant
+675	dbmcs	LY-2874455	FGFR3	c.1620C>G	Resistant
+676	dbmcs	FIIN-2	FGFR3	c.1620C>G	Resistant
+677	dbmcs	AZD-4547	FGFR3	c.1620C>G	Resistant
+678	dbmcs	Infigratinib	FGFR3	c.1620C>G	Resistant
+679	dbmcs	DEBIO-1347	FGFR3	c.1620C>G	Resistant
+680	dbmcs	Infigratinib	FGFR3	c.1948A>G	Resistant
+681	dbmcs	AZD-4547	FGFR3	c.1948A>G	Resistant
+682	dbmcs	AZD-4547	FGFR3	c.1663G>A	Resistant
+683	dbmcs	DEBIO-1347	FGFR3	c.1663G>A	Resistant
+684	dbmcs	Infigratinib	FGFR3	c.1663G>A	Resistant
+685	dbmcs	Infigratinib	FGFR3	c.1663G>A	Resistant
+686	dbmcs	FIIN-2	FGFR3	c.1663G>A	Resistant
+687	dbmcs	Nintedanib	FGFR3	c.746C>G	Resistant
+688	dbmcs	Tretinoin	FLT3	c.1705_1837	Resistant
+689	dbmcs	Daunorubicin	FLT3	c.1705_1837	Resistant
+690	dbmcs	SU5614	FLT3	c.1705_1837	Resistant
+691	dbmcs	Sorafenib	FLT3	c.2503G>T	Resistant
+692	dbmcs	Ponatinib	FLT3	c.2503G>T	Resistant
+693	dbmcs	Quizartinib	FLT3	c.2503G>T	Resistant
+694	dbmcs	SU5614	FLT3	c.2503G>T	Resistant
+695	dbmcs	All-trans Retinoic Acid + Anthracycline	FLT3	c.1705_1837	Resistant
+696	dbmcs	Selumetinib	FLT3	c.1705_1837	Resistant
+697	dbmcs	Sorafenib	FLT3	c.2503G>C	Resistant
+698	dbmcs	Tandutinib	FLT3	c.2504A>T	Resistant
+699	dbmcs	Quizartinib	FLT3	c.2071T>C	Resistant
+700	dbmcs	Quizartinib	FLT3	c.2503_2504delGAinsTT	Resistant
+701	dbmcs	Quizartinib	FLT3	c.2026_2028	Resistant
+702	dbmcs	Quizartinib	FLT3	c.2524_2526	Resistant
+703	dbmcs	Pexidartinib	FLT3	c.2504A>T	Resistant
+704	dbmcs	Pexidartinib	FLT3	c.2503G>T	Resistant
+705	dbmcs	Sorafenib	FLT3	c.2503G>T	Resistant
+706	dbmcs	Avapritinib	FLT3	c.2503G>T	Resistant
+707	dbmcs	Tretinoin	FLT3	c.2503G>T	Resistant
+708	dbmcs	Midostaurin	FLT3	c.1352C>T	Resistant
+709	dbmcs	Imatinib	FLT3	c.2525A>G	Resistant
+710	dbmcs	Crenolanib	FLT3	c.1285A>G	Resistant
+711	dbmcs	Lonafarnib	FNTB	c.7-17904G>C	Resistant
+712	dbmcs	Vemurafenib	GNAQ	c.626A>C	Resistant
+713	dbmcs	PLX4720	GNAQ	c.626A>C	Resistant
+714	dbmcs	Vemurafenib + Cetuximab + Irinotecan	GNAS	c.601C>T	Resistant
+715	dbmcs	Erlotinib	GNAS	c.393T>C	Resistant
+716	dbmcs	Gefitinib	GNAS	c.393T>C	Resistant
+717	dbmcs	Cisplatin + Fluorouracil	GNAS	c.393T>C	Resistant
+718	dbmcs	EGFR inhibitors	HRAS	c.38G>A	Resistant
+719	dbmcs	Vemurafenib	HRAS	c.38G>A	Resistant
+720	dbmcs	Cetuximab	HRAS	c.38G>A	Resistant
+721	dbmcs	Panitumumab	HRAS	c.35G>T	Resistant
+722	dbmcs	Cetuximab	HRAS	c.35G>T	Resistant
+723	dbmcs	AGI-5198 + Talazoparib	IDH1	c.395G>A	Resistant
+724	dbmcs	AGI-5198 + Metformin	IDH1	c.395G>A	Resistant
+725	dbmcs	AGI-5198 + Radiotherapy	IDH1	c.395G>A	Resistant
+726	dbmcs	AGI-5198 + Olaparib	IDH1	c.394C>T	Resistant
+727	dbmcs	AGI-5198 + Talazoparib	IDH1	c.394C>T	Resistant
+728	dbmcs	Pembrolizumab	JAK1	c.1507C>T	Resistant
+729	dbmcs	Ruxolitinib	JAK2	c.2813G>A	Resistant
+730	dbmcs	AZ960	JAK2	c.2600G>A	Resistant
+731	dbmcs	AUY922	JAK2	c.2600G>A	Resistant
+732	dbmcs	Ruxolitinib	JAK2	c.2600G>A	Resistant
+733	dbmcs	Momelotinib	JAK2	c.2600G>A	Resistant
+734	dbmcs	Fedratinib	JAK2	c.2600G>A	Resistant
+735	dbmcs	Ruxolitinib	JAK2	c.2792A>G	Resistant
+736	dbmcs	AZD1208	JAK2	c.1849G>T	Resistant
+737	dbmcs	SGI-1776	JAK2	c.1849G>T	Resistant
+738	dbmcs	Imatinib	JAK2	c.1849G>T	Resistant
+739	dbmcs	NS-018	JAK3	c.1715C>T	Resistant
+740	dbmcs	NIBR3049	JAK3	c.2021T>C	Resistant
+741	dbmcs	Ruxolitinib	JAK3	c.2570T>C	Resistant
+742	dbmcs	Regorafenib	KDR	c.2518C>T	Resistant
+743	dbmcs	Sorafenib	KDR	c.2518C>T	Resistant
+744	dbmcs	Sorafenib	KIT	c.1727T>C	Resistant
+745	dbmcs	Imatinib	KIT	c.1727T>C	Resistant
+746	dbmcs	Imatinib	KIT	c.1961T>C	Resistant
+747	dbmcs	Imatinib	KIT	c.2447A>T	Resistant
+748	dbmcs	Imatinib	KIT	c.2466T>A	Resistant
+749	dbmcs	Imatinib	KIT	c.2467T>G	Resistant
+750	dbmcs	Imatinib	KIT	c.2425T>G	Resistant
+751	dbmcs	Imatinib	KIT	c.2459A>C	Resistant
+752	dbmcs	Imatinib	KIT	c.2459A>G	Resistant
+753	dbmcs	Imatinib	KIT	c.2446G>C	Resistant
+754	dbmcs	Sunitinib	KIT	c.1648_1674del27	Resistant
+755	dbmcs	Sunitinib	KIT	c.1648_1774	Resistant
+756	dbmcs	Sunitinib	KIT	c.1727T>C	Resistant
+757	dbmcs	Sunitinib	KIT	c.1735_1737delGAT	Resistant
+758	dbmcs	Imatinib	KIT	c.2448C>G	Resistant
+759	dbmcs	Sunitinib	KIT	c.2448C>G	Resistant
+760	dbmcs	Sunitinib	KIT	c.1665_1679del15	Resistant
+761	dbmcs	Sunitinib	KIT	c.2466T>A	Resistant
+762	dbmcs	Imatinib	KIT	c.2485G>C	Resistant
+763	dbmcs	Sunitinib	KIT	c.2485G>C	Resistant
+764	dbmcs	Imatinib	KIT	c.1675G>A	Resistant
+765	dbmcs	Imatinib	KIT	c.2447A>T	Resistant
+766	dbmcs	Imatinib	KIT	c.2466T>G	Resistant
+767	dbmcs	Imatinib	KIT	c.2362_2484	Resistant
+768	dbmcs	Imatinib	KIT	c.2485_2580	Resistant
+769	dbmcs	Imatinib	KIT	c.1895C>T	Resistant
+770	dbmcs	Imatinib	KIT	c.2089C>T	Resistant
+771	dbmcs	Avapritinib	KIT	c.2009C>T	Resistant
+772	dbmcs	Dasatinib	KIT	c.2009C>T	Resistant
+773	dbmcs	Nilotinib	KIT	c.2009C>T	Resistant
+774	dbmcs	Imatinib	KIT	c.1676T>C	Resistant
+775	dbmcs	Imatinib	KIT	c.2458G>A	Resistant
+776	dbmcs	Imatinib	KIT	c.2446_2447delGAinsTT	Resistant
+777	dbmcs	Regorafenib	KIT	c.2446G>C	Resistant
+778	dbmcs	Quizartinib	KIT	c.2447A>T	Resistant
+779	dbmcs	Cabozantinib	KIT	c.2447A>T	Resistant
+780	dbmcs	Sorafenib	KIT	c.2447A>T	Resistant
+781	dbmcs	Flumatinib	KIT	c.2447A>T	Resistant
+782	dbmcs	Sunitinib	KIT	c.2447A>T	Resistant
+783	dbmcs	Regorafenib	KIT	c.2447A>T	Resistant
+784	dbmcs	Nilotinib	KIT	c.2447A>T	Resistant
+785	dbmcs	Ponatinib	KIT	c.2447A>T	Resistant
+786	dbmcs	Ponatinib	KIT	c.1654_1674del21	Resistant
+787	dbmcs	Avapritinib	KIT	c.1961T>C	Resistant
+788	dbmcs	Imatinib	KIT	c.1504_1509	Resistant
+789	dbmcs	Imatinib	KIT	c.2465A>T	Resistant
+790	dbmcs	Imatinib	KIT	c.1651_1662del12	Resistant
+791	dbmcs	Sunitinib	KIT	c.1651_1662del12	Resistant
+792	dbmcs	Regorafenib	KIT	c.1651_1662del12	Resistant
+793	dbmcs	Imatinib	KIT	c.2446G>T	Resistant
+794	dbmcs	Sunitinib	KIT	c.2446G>T	Resistant
+795	dbmcs	Flumatinib	KIT	c.2446G>T	Resistant
+796	dbmcs	Regorafenib	KIT	c.2446G>T	Resistant
+797	dbmcs	Imatinib	KIT	c.1711_1737	Resistant
+798	dbmcs	Flumatinib	KIT	c.1711_1737	Resistant
+799	dbmcs	Sunitinib	KIT	c.1711_1737	Resistant
+800	dbmcs	Cetuximab	KRAS	c.38G>A	Resistant
+801	dbmcs	Gefitinib	KRAS	c.34G>T	Resistant
+802	dbmcs	Gefitinib	KRAS	c.37G>T	Resistant
+803	dbmcs	Gefitinib	KRAS	c.35G>A	Resistant
+804	dbmcs	Gefitinib	KRAS	c.34G>A	Resistant
+805	dbmcs	Erlotinib	KRAS	c.34G>T	Resistant
+806	dbmcs	Erlotinib	KRAS	c.35G>A	Resistant
+807	dbmcs	Erlotinib	KRAS	c.35G>T	Resistant
+808	dbmcs	Cetuximab	KRAS	c.35G>T + c.34G>A	Resistant
+809	dbmcs	Cetuximab	KRAS	c.35G>T	Resistant
+810	dbmcs	Cetuximab	KRAS	c.1-11_111	Resistant
+811	dbmcs	Gefitinib	KRAS	c.35G>C	Resistant
+812	dbmcs	Erlotinib	KRAS	c.35G>C	Resistant
+813	dbmcs	Gemcitabine + Trametinib	KRAS	c.34_39	Resistant
+814	dbmcs	Carboplatin	KRAS	c.564+2508T>G	Resistant
+815	dbmcs	Paclitaxel	KRAS	c.564+2508T>G	Resistant
+816	dbmcs	Cisplatin	KRAS	c.564+2508T>G	Resistant
+817	dbmcs	Panitumumab	KRAS	c.64C>T	Resistant
+818	dbmcs	EGFR inhibitors	KRAS	c.1-11_111	Resistant
+819	dbmcs	Gemcitabine + Erlotinib	KRAS	c.1-11_111	Resistant
+820	dbmcs	Vemurafenib	KRAS	c.35G>A	Resistant
+821	dbmcs	Panitumumab	KRAS	c.35G>C	Resistant
+822	dbmcs	Melphalan	KRAS	c.35G>C	Resistant
+823	dbmcs	Cetuximab	KRAS	c.436G>C	Resistant
+824	dbmcs	Panitumumab	KRAS	c.38G>A	Resistant
+825	dbmcs	Panitumumab	KRAS	c.35G>T	Resistant
+826	dbmcs	Panitumumab	KRAS	c.35G>A	Resistant
+827	dbmcs	Melphalan	KRAS	c.35G>A	Resistant
+828	dbmcs	Panitumumab	KRAS	c.34G>T	Resistant
+829	dbmcs	Melphalan	KRAS	c.34G>T	Resistant
+830	dbmcs	Panitumumab	KRAS	c.34G>C	Resistant
+831	dbmcs	Gefitinib	KRAS	c.35G>T	Resistant
+832	dbmcs	Panitumumab	KRAS	c.34G>A	Resistant
+833	dbmcs	Melphalan	KRAS	c.34G>A	Resistant
+834	dbmcs	Cetuximab	KRAS	c.436G>A	Resistant
+835	dbmcs	Regorafenib	KRAS	c.35G>C	Resistant
+836	dbmcs	Cetuximab + FOLFOX4	KRAS	c.436G>A	Resistant
+837	dbmcs	Cetuximab	KRAS	c.183A>C	Resistant
+838	dbmcs	Regorafenib	KRAS	c.35G>T	Resistant
+839	dbmcs	Regorafenib	KRAS	c.35G>A	Resistant
+840	dbmcs	Vemurafenib	KRAS	c.35G>A	Resistant
+841	dbmcs	Cetuximab	KRAS	c.35G>A	Resistant
+842	dbmcs	Regorafenib	KRAS	c.34G>T	Resistant
+843	dbmcs	Cetuximab	KRAS	c.34G>C	Resistant
+844	dbmcs	Regorafenib	KRAS	c.34G>C	Resistant
+845	dbmcs	Regorafenib	KRAS	c.34G>A	Resistant
+846	dbmcs	Panitumumab	KRAS	c.38G>T	Resistant
+847	dbmcs	Cetuximab	KRAS	c.38G>T	Resistant
+848	dbmcs	Cetuximab	KRAS	c.34G>A	Resistant
+849	dbmcs	Cetuximab	KRAS	c.35G>A	Resistant
+850	dbmcs	Cetuximab	KRAS	c.35G>C	Resistant
+851	dbmcs	Imatinib	KRAS	c.34G>C	Resistant
+852	dbmcs	Vemurafenib	MAP2K1	c.607G>A	Resistant
+853	dbmcs	Vemurafenib	MAP2K1	c.167A>C	Resistant
+854	dbmcs	Vemurafenib	MAP2K1	c.169A>G	Resistant
+855	dbmcs	Selumetinib	MAP2K1	c.370C>T	Resistant
+856	dbmcs	Selumetinib	MAP2K1	c.167A>C	Resistant
+857	dbmcs	Vemurafenib	MAP2K1	c.362G>C	Resistant
+858	dbmcs	MEK inhibitors	MAP2K1	c.296T>C	Resistant
+859	dbmcs	MEK inhibitors	MAP2K1	c.344T>C	Resistant
+860	dbmcs	MEK inhibitors	MAP2K1	c.383G>A	Resistant
+861	dbmcs	MEK inhibitors	MAP2K1	c.385T>C	Resistant
+862	dbmcs	MEK inhibitors	MAP2K1	c.632T>A	Resistant
+863	dbmcs	MEK inhibitors	MAP2K1	c.644T>C	Resistant
+864	dbmcs	MEK inhibitors	MAP2K1	c.308T>A	Resistant
+865	dbmcs	MEK inhibitors	MAP2K1	c.312A>C	Resistant
+866	dbmcs	MEK inhibitors	MAP2K1	c.332T>A	Resistant
+867	dbmcs	MEK inhibitors	MAP2K1	c.356A>C	Resistant
+868	dbmcs	MEK inhibitors	MAP2K1	c.360G>C	Resistant
+869	dbmcs	MEK inhibitors	MAP2K1	c.397T>C	Resistant
+870	dbmcs	PLX4720	MAP2K1	c.167A>C	Resistant
+871	dbmcs	Selumetinib	MAP2K1	c.371C>T	Resistant
+872	dbmcs	MEK inhibitors	MAP2K1	c.199G>A	Resistant
+873	dbmcs	BRAF inhibitors	MAP2K1	c.371C>T	Resistant
+874	dbmcs	MEK inhibitors	MAP2K1	c.371C>T	Resistant
+875	dbmcs	Dabrafenib	MAP2K1	c.371C>A	Resistant
+876	dbmcs	Dabrafenib	MAP2K1	c.370C>T	Resistant
+877	dbmcs	MEK inhibitors	MAP2K1	c.171G>C	Resistant
+878	dbmcs	BRAF inhibitors	MAP2K1	c.361T>A	Resistant
+879	dbmcs	MEK inhibitors	MAP2K1	c.361T>A	Resistant
+880	dbmcs	Selumetinib	MAP2K1	c.344T>C	Resistant
+881	dbmcs	CI-1040	MAP2K1	c.344T>C	Resistant
+882	dbmcs	AZD-8330	MAP2K1	c.361T>A	Resistant
+883	dbmcs	Regorafenib	MAP2K1	c.361T>A	Resistant
+884	dbmcs	Cetuximab	MAP2K1	c.361T>A	Resistant
+885	dbmcs	PD98059	MAP2K1	c.361T>A	Resistant
+886	dbmcs	GDC0879	MAP2K1	c.361T>A	Resistant
+887	dbmcs	Panitumumab	MAP2K1	c.170A>C	Resistant
+888	dbmcs	Cetuximab	MAP2K1	c.170A>C	Resistant
+889	dbmcs	AZD-8330	MAP2K1	c.167A>C	Resistant
+890	dbmcs	PD98059	MAP2K1	c.167A>C	Resistant
+891	dbmcs	GDC0879	MAP2K1	c.167A>C	Resistant
+892	dbmcs	Regorafenib	MAP2K1	c.167A>C	Resistant
+893	dbmcs	CI-1040	MAP2K1	c.343_344delCTinsGC	Resistant
+894	dbmcs	Trametinib	MAP2K1	c.179T>A	Resistant
+895	dbmcs	Dabrafenib	MAP2K1	c.179T>A	Resistant
+896	dbmcs	GDC0879	MAP2K1	c.171G>C	Resistant
+897	dbmcs	PD98059	MAP2K1	c.171G>C	Resistant
+898	dbmcs	AZD-8330	MAP2K1	c.171G>C	Resistant
+899	dbmcs	Cetuximab	MAP2K1	c.171G>C	Resistant
+900	dbmcs	Regorafenib	MAP2K1	c.171G>C	Resistant
+901	dbmcs	Panitumumab	MAP2K1	c.171G>C	Resistant
+902	dbmcs	PD98059	MAP2K1	c.332T>G	Resistant
+903	dbmcs	Regorafenib	MAP2K1	c.332T>G	Resistant
+904	dbmcs	AZD-8330	MAP2K1	c.332T>G	Resistant
+905	dbmcs	GDC0879	MAP2K1	c.332T>G	Resistant
+906	dbmcs	CI-1040	MAP2K1	c.308T>A	Resistant
+907	dbmcs	Selumetinib	MAP2K1	c.308T>A	Resistant
+908	dbmcs	Cobimetinib	MAP2K1	c.632T>A	Resistant
+909	dbmcs	Regorafenib	MAP2K1	c.632T>A	Resistant
+910	dbmcs	Binimetinib	MAP2K1	c.632T>A	Resistant
+911	dbmcs	AZD-8330	MAP2K1	c.632T>A	Resistant
+912	dbmcs	Selumetinib	MAP2K1	c.632T>A	Resistant
+913	dbmcs	PD98059	MAP2K1	c.632T>A	Resistant
+914	dbmcs	GDC0879	MAP2K1	c.632T>A	Resistant
+915	dbmcs	Dabrafenib	MAP2K1	c.169A>G	Resistant
+916	dbmcs	Regorafenib	MAP2K1	c.385T>C	Resistant
+917	dbmcs	PD98059	MAP2K1	c.385T>C	Resistant
+918	dbmcs	GDC0879	MAP2K1	c.385T>C	Resistant
+919	dbmcs	AZD-8330	MAP2K1	c.385T>C	Resistant
+920	dbmcs	Cetuximab	MAP2K1	c.157T>C	Resistant
+921	dbmcs	Regorafenib	MAP2K1	c.157T>C	Resistant
+922	dbmcs	GDC0879	MAP2K1	c.157T>C	Resistant
+923	dbmcs	AZD-8330	MAP2K1	c.157T>C	Resistant
+924	dbmcs	PD98059	MAP2K1	c.157T>C	Resistant
+925	dbmcs	BRAF + MEK inhibitors	MAP2K2	c.179A>C	Resistant
+926	dbmcs	BRAF inhibitors	MAP2K2	c.103G>A	Resistant
+927	dbmcs	BRAF inhibitors	MAP2K2	c.136C>T	Resistant
+928	dbmcs	BRAF inhibitors	MAP2K2	c.376A>G	Resistant
+929	dbmcs	BRAF inhibitors	MAP2K2	c.373T>A	Resistant
+930	dbmcs	MEK inhibitors	MAP2K2	c.103G>A	Resistant
+931	dbmcs	MEK inhibitors	MAP2K2	c.136C>T	Resistant
+932	dbmcs	MEK inhibitors	MAP2K2	c.376A>G	Resistant
+933	dbmcs	MEK inhibitors	MAP2K2	c.373T>A	Resistant
+934	dbmcs	Crizotinib	MET	c.3682G>A	Resistant
+935	dbmcs	Savolitinib	MET	c.3683A>T	Resistant
+936	dbmcs	Crizotinib	MET	c.3689A>G	Resistant
+937	dbmcs	Crizotinib	MET	c.3703T>G	Resistant
+938	dbmcs	MET inhibitors	MET	c.3683A>T	Resistant
+939	dbmcs	SU11274	MET	c.1124A>G	Resistant
+940	dbmcs	Tivantinib	MET	c.3028G>T	Resistant
+941	dbmcs	Capmatinib	MET	c.3683A>T	Resistant
+942	dbmcs	Savolitinib	MET	c.3683A>T	Resistant
+943	dbmcs	Crizotinib	MET	c.3683A>T	Resistant
+944	dbmcs	SU11274	MET	c.3637C>G	Resistant
+945	dbmcs	SU11274	MET	c.3742T>C	Resistant
+946	dbmcs	Savolitinib	MET	c.3682G>A	Resistant
+947	dbmcs	Crizotinib	MET	c.3682G>A	Resistant
+948	dbmcs	Capmatinib	MET	c.3682G>A	Resistant
+949	dbmcs	Tivantinib	MET	c.3008A>T	Resistant
+950	dbmcs	Crizotinib	MET	c.3688T>C	Resistant
+951	dbmcs	Savolitinib	MET	c.3688T>C	Resistant
+952	dbmcs	Capmatinib	MET	c.3688T>C	Resistant
+953	dbmcs	Capmatinib	MET	c.3689A>G	Resistant
+954	dbmcs	Cabozantinib	MET	c.3682G>A	Resistant
+955	dbmcs	Capmatinib	MET	c.3682G>A	Resistant
+956	dbmcs	Crizotinib	MET	c.3688T>C	Resistant
+957	dbmcs	Capmatinib	MET	c.3688T>C	Resistant
+958	dbmcs	Temozolomide	MSH6	c.3656C>T	Resistant
+959	dbmcs	Everolimus	MTOR	c.6322T>C	Resistant
+960	dbmcs	Everolimus	MTOR	c.6324C>A	Resistant
+961	dbmcs	Sirolimus	MTOR	c.6324C>A	Resistant
+962	dbmcs	AZD-8055	MTOR	c.6981G>T	Resistant
+963	dbmcs	Sirolimus	MTOR	c.6101C>T	Resistant
+964	dbmcs	Carboplatin	NF2	c.528_529	Resistant
+965	dbmcs	Cisplatin	NF2	c.528_529	Resistant
+966	dbmcs	Vemurafenib	NRAS	c.182A>T	Resistant
+967	dbmcs	Vemurafenib	NRAS	c.182A>G	Resistant
+968	dbmcs	Vemurafenib	NRAS	c.181C>A	Resistant
+969	dbmcs	Cetuximab	NRAS	c.35G>A	Resistant
+970	dbmcs	Cetuximab	NRAS	c.535C>T	Resistant
+971	dbmcs	Cetuximab	NRAS	c.35G>T	Resistant
+972	dbmcs	Gedatolisib	NRAS	c.181C>A	Resistant
+973	dbmcs	Vemurafenib	NRAS	c.38G>A	Resistant
+974	dbmcs	Selumetinib	NRAS	c.182A>T	Resistant
+975	dbmcs	LY3009120	NRAS	c.182A>T	Resistant
+976	dbmcs	PLX4720	NRAS	c.182A>T	Resistant
+977	dbmcs	Tioguanine	NT5C2	c.1100G>A	Resistant
+978	dbmcs	Mercaptopurine	NT5C2	c.1100G>A	Resistant
+979	dbmcs	Mercaptopurine	NT5C2	c.1075A>C	Resistant
+980	dbmcs	Tioguanine	NT5C2	c.1075A>C	Resistant
+981	dbmcs	Mercaptopurine	NT5C2	c.1220A>C	Resistant
+982	dbmcs	Tioguanine	NT5C2	c.1220A>C	Resistant
+983	dbmcs	Entrectinib	NTRK1	c.1783G>A	Resistant
+984	dbmcs	Entrectinib	NTRK1	c.1999G>T	Resistant
+985	dbmcs	Larotrectinib	NTRK1	c.1783G>A	Resistant
+986	dbmcs	Larotrectinib	NTRK1	c.1999G>T	Resistant
+987	dbmcs	Pan-TRK inhibitors	NTRK1	c.1783G>A	Resistant
+988	dbmcs	Pan-TRK inhibitors	NTRK1	c.1999G>T	Resistant
+989	dbmcs	Larotrectinib	NTRK3	c.1867G>A	Resistant
+990	dbmcs	Entrectinib	NTRK3	c.1867G>A	Resistant
+991	dbmcs	Imatinib	PDGFRA	c.2525A>T	Resistant
+992	dbmcs	Imatinib	PDGFRA	c.2021C>T	Resistant
+993	dbmcs	Sunitinib	PDGFRA	c.2525A>T	Resistant
+994	dbmcs	Imatinib	PDGFRA	c.2525A>T	Resistant
+995	dbmcs	Sunitinib	PDGFRA	c.2525A>T	Resistant
+996	dbmcs	Imatinib	PDGFRA	c.2524_2529delinsATCATG	Resistant
+997	dbmcs	Regorafenib	PDGFRA	c.2525A>T	Resistant
+998	dbmcs	Nilotinib	PDGFRA	c.2525A>T	Resistant
+999	dbmcs	Crenolanib	PDGFRA	c.863A>G	Resistant
+1000	dbmcs	Sunitinib	PDGFRA	c.863A>G	Resistant
+1001	dbmcs	Nilotinib	PDGFRA	c.863A>G	Resistant
+1002	dbmcs	Imatinib	PDGFRA	c.863A>G	Resistant
+1003	dbmcs	Imatinib	PDGFRA	c.2521_2526delinsAAGATC	Resistant
+1004	dbmcs	Imatinib	PDGFRA	c.1976A>G	Resistant
+1005	dbmcs	Imatinib	PDGFRA	c.2537A>T	Resistant
+1006	dbmcs	Cetuximab	PIK3CA	c.2937_3204+346	Resistant
+1007	dbmcs	Cetuximab	PIK3CA	c.1624G>A	Resistant
+1008	dbmcs	Panitumumab	PIK3CA	c.1624G>A	Resistant
+1009	dbmcs	Cetuximab	PIK3CA	c.1633G>A	Resistant
+1010	dbmcs	Panitumumab	PIK3CA	c.1633G>A	Resistant
+1011	dbmcs	Panitumumab	PIK3CA	c.3140A>G	Resistant
+1012	dbmcs	Gefitinib	PIK3CA	c.1633G>A	Resistant
+1013	dbmcs	Trastuzumab	PIK3CA	c.1633G>A	Resistant
+1014	dbmcs	Erlotinib	PIK3CA	c.1633G>A	Resistant
+1015	dbmcs	Afatinib	PIK3CA	c.1633G>A	Resistant
+1016	dbmcs	Trastuzumab	PIK3CA	c.3140A>G	Resistant
+1017	dbmcs	Vemurafenib	PIK3CA	c.1633G>A	Resistant
+1018	dbmcs	Vemurafenib	PIK3CA	c.1634A>G	Resistant
+1019	dbmcs	Vemurafenib	PIK3CA	c.1049A>G	Resistant
+1020	dbmcs	Buparlisib	PIK3CA	c.1357G>A	Resistant
+1021	dbmcs	Cetuximab + Fluorouracil	PIK3CA	c.2864T>G	Resistant
+1022	dbmcs	Cetuximab + Fluorouracil	PIK3CA	c.2863G>A	Resistant
+1023	dbmcs	Cetuximab + Fluorouracil	PIK3CA	c.2832A>C	Resistant
+1024	dbmcs	Cetuximab + Fluorouracil	PIK3CA	c.1624G>A	Resistant
+1025	dbmcs	Buparlisib	PIK3CA	c.1624G>A	Resistant
+1026	dbmcs	Buparlisib	PIK3CA	c.3145G>C	Resistant
+1027	dbmcs	Cetuximab + Fluorouracil	PIK3CA	c.2789T>C	Resistant
+1028	dbmcs	Bevacizumab + Temsirolimus	PIK3CA	c.3139_3141	Resistant
+1029	dbmcs	Bortezomib + Temsirolimus + Topotecan	PIK3CA	c.3139_3141	Resistant
+1030	dbmcs	Buparlisib	PIK3CA	c.1034A>T	Resistant
+1031	dbmcs	Cetuximab + Fluorouracil	PIK3CA	c.2896A>G	Resistant
+1032	dbmcs	Cetuximab	PIK3CA	c.3140A>G	Resistant
+1033	dbmcs	Cetuximab + Fluorouracil	PIK3CA	c.3140A>G	Resistant
+1034	dbmcs	Pictilisib	PIK3CA	c.1645G>T	Resistant
+1035	dbmcs	Cetuximab + Fluorouracil	PIK3CA	c.2855T>C	Resistant
+1036	dbmcs	Buparlisib	PIK3CA	c.115G>A	Resistant
+1037	dbmcs	A66	PIK3CA	c.1633G>A	Resistant
+1038	dbmcs	Cetuximab + Fluorouracil	PIK3CA	c.1633G>A	Resistant
+1039	dbmcs	Buparlisib	PIK3CA	c.1633G>A	Resistant
+1040	dbmcs	PI3K pathway inhibitors	PIK3CB	c.3199G>T	Resistant
+1041	dbmcs	Vemurafenib	PIK3R2	c.1681A>G	Resistant
+1042	dbmcs	Ibrutinib	PLCG2	c.1993C>T	Resistant
+1043	dbmcs	Ibrutinib	PLCG2	c.2535A>T	Resistant
+1044	dbmcs	Tretinoin	PML	c.647C>T	Resistant
+1045	dbmcs	Tretinoin	PML	c.653T>C	Resistant
+1046	dbmcs	Vemurafenib	PREX2	c.515G>T	Resistant
+1047	dbmcs	Pictilisib	PTEN	c.143A>T	Resistant
+1048	dbmcs	Tirbanibulin	PTEN	c.385G>A	Resistant
+1049	dbmcs	Alpelisib	PTEN	c.407G>A	Resistant
+1050	dbmcs	SHP099	PTPN11	c.181G>T	Resistant
+1051	dbmcs	SHP099	PTPN11	c.215C>T	Resistant
+1052	dbmcs	SHP099	PTPN11	c.226G>A	Resistant
+1053	dbmcs	Dabrafenib	RAC1	c.85C>T	Resistant
+1054	dbmcs	Vemurafenib	RAC1	c.85C>T	Resistant
+1055	dbmcs	BRAF inhibitors	RAC1	c.85C>T	Resistant
+1056	dbmcs	BRAF inhibitors	RAF1	c.769T>C	Resistant
+1057	dbmcs	BRAF inhibitors	RAF1	c.783T>G	Resistant
+1058	dbmcs	BRAF inhibitors	RAF1	c.1082G>C	Resistant
+1059	dbmcs	Palbociclib	RB1	c.2083_2084insC	Resistant
+1060	dbmcs	Letrozole + Ribociclib	RB1	c.1447C>T	Resistant
+1061	dbmcs	Ponatinib	RET	c.2363T>A	Resistant
+1062	dbmcs	Motesanib	RET	c.1902C>G	Resistant
+1063	dbmcs	Motesanib	RET	c.2753T>C	Resistant
+1064	dbmcs	Vandetanib	RET	c.2410G>C	Resistant
+1065	dbmcs	Vandetanib	RET	c.2410G>A	Resistant
+1066	dbmcs	Ceritinib	ROS1	c.5957C>A	Resistant
+1067	dbmcs	Ceritinib	ROS1	c.5957C>T	Resistant
+1068	dbmcs	Crizotinib	ROS1	c.6094G>A	Resistant
+1069	dbmcs	Crizotinib	ROS1	c.5957C>A	Resistant
+1070	dbmcs	Crizotinib	ROS1	c.5957C>T	Resistant
+1071	dbmcs	Brigatinib	ROS1	c.6094G>A	Resistant
+1072	dbmcs	Ceritinib	ROS1	c.6094G>A	Resistant
+1073	dbmcs	AZD3463	ROS1	c.6094G>A	Resistant
+1074	dbmcs	Crizotinib	ROS1	c.6076C>A	Resistant
+1075	dbmcs	Crizotinib	ROS1	c.6464T>C	Resistant
+1076	dbmcs	Foretinib	ROS1	c.6464T>C	Resistant
+1077	dbmcs	TAE684	ROS1	c.6464T>C	Resistant
+1078	dbmcs	Crizotinib	ROS1	c.6302G>C	Resistant
+1079	dbmcs	Vismodegib	SMO	c.1417G>C	Resistant
+1080	dbmcs	Vismodegib	SMO	c.1418A>G	Resistant
+1081	dbmcs	Vismodegib	SMO	c.1604G>T	Resistant
+1082	dbmcs	Vismodegib	SMO	c.1234C>T	Resistant
+1083	dbmcs	Vismodegib	SMO	c.843G>T	Resistant
+1084	dbmcs	Vismodegib	SMO	c.1429C>G	Resistant
+1085	dbmcs	Vismodegib	SMO	c.1489G>T	Resistant
+1086	dbmcs	Vismodegib	SMO	c.1417G>T	Resistant
+1087	dbmcs	Taladegib	SMO	c.1376C>T	Resistant
+1088	dbmcs	Sonidegib	SMO	c.1376C>T	Resistant
+1089	dbmcs	Vismodegib	SMO	c.1376C>T	Resistant
+1090	dbmcs	MRT-92	SMO	c.973_975delCTGinsTTT	Resistant
+1091	dbmcs	Vismodegib	SMO	c.1378T>C	Resistant
+1092	dbmcs	Vismodegib	SMO	c.1234C>T	Resistant
+1093	dbmcs	Sonidegib	SMO	c.722C>T	Resistant
+1094	dbmcs	Vismodegib	SMO	c.722C>T	Resistant
+1095	dbmcs	Taladegib	SMO	c.722C>T	Resistant
+1096	dbmcs	Sonidegib	SMO	c.1222A>G	Resistant
+1097	dbmcs	Taladegib	SMO	c.1222A>G	Resistant
+1098	dbmcs	Vismodegib	SMO	c.1222A>G	Resistant
+1099	dbmcs	Vismodegib	SMO	c.692A>G	Resistant
+1100	dbmcs	Sonidegib	SMO	c.1417G>C	Resistant
+1101	dbmcs	MRT-92	SMO	c.1151A>C	Resistant
+1102	dbmcs	Vismodegib	SMO	c.961G>A	Resistant
+1103	dbmcs	Sonidegib	SMO	c.961G>A	Resistant
+1104	dbmcs	Taladegib	SMO	c.961G>A	Resistant
+1105	dbmcs	Vismodegib	SMO	c.961G>A	Resistant
+1106	dbmcs	MRT-92	SMO	c.1180_1181delTAinsGC	Resistant
+1107	dbmcs	MRT-92	SMO	c.985_987delGTGinsTTT	Resistant
+1108	dbmcs	Sonidegib	SMO	c.1160G>A	Resistant
+1109	dbmcs	Vismodegib	SMO	c.1160G>A	Resistant
+1110	dbmcs	Vismodegib	SMO	c.842G>T	Resistant
+1111	dbmcs	MRT-92	SMO	c.1573_1574delATinsGG	Resistant
+1112	dbmcs	Sonidegib	SMO	c.1598G>A	Resistant
+1113	dbmcs	MRT-92	SMO	c.1396_1397delACinsTT	Resistant
+1114	dbmcs	Sonidegib	SMO	c.843G>T	Resistant
+1115	dbmcs	Taladegib	SMO	c.843G>T	Resistant
+1116	dbmcs	Vismodegib	SMO	c.1406G>A	Resistant
+1117	dbmcs	Sonidegib	SMO	c.1406G>A	Resistant
+1118	dbmcs	Taladegib	SMO	c.1406G>A	Resistant
+1119	dbmcs	Vismodegib	SMO	c.1552G>A	Resistant
+1120	dbmcs	Sonidegib	SMO	c.1552G>A	Resistant
+1121	dbmcs	MRT-92	SMO	c.1552G>A	Resistant
+1122	dbmcs	Vismodegib	SMO	c.1604G>T	Resistant
+1123	dbmcs	Posaconazole	SMO	c.1604G>T	Resistant
+1124	dbmcs	Sonidegib	SMO	c.655A>G	Resistant
+1125	dbmcs	Vismodegib	SMO	c.655A>G	Resistant
+1126	dbmcs	Sonidegib	SMO	c.1418A>G	Resistant
+1127	dbmcs	Vismodegib	SMO	c.1418A>G	Resistant
+1128	dbmcs	Sonidegib	SMO	c.1150G>A	Resistant
+1129	dbmcs	Vismodegib	SMO	c.1150G>A	Resistant
+1130	dbmcs	Cisplatin	TP53	c.139C>T	Resistant
+1131	dbmcs	Cisplatin	TP53	c.818G>T	Resistant
+1132	dbmcs	Carboplatin	TP53	c.818G>T	Resistant
+1133	dbmcs	Cisplatin	TP53	c.701A>G	Resistant
+1134	dbmcs	Carboplatin	TP53	c.701A>G	Resistant
+1135	dbmcs	AMGMDS3	TP53	c.743G>A	Resistant
+1136	dbmcs	AMGMDS3	TP53	c.742C>T	Resistant
+1137	dbmcs	AMGMDS3	TP53	c.524G>A	Resistant
+1138	dbmcs	AMGMDS3	TP53	c.817C>T	Resistant
+1139	dbmcs	AMGMDS3	TP53	c.818G>A	Resistant
+1140	dbmcs	AMGMDS3	TP53	c.733G>A	Resistant
+1141	dbmcs	AMGMDS3	TP53	c.659A>G	Resistant
+1142	dbmcs	AMGMDS3	TP53	c.711G>T	Resistant
+1143	dbmcs	AMGMDS3	TP53	c.473G>A	Resistant
+1144	dbmcs	AMGMDS3	TP53	c.469G>T	Resistant
+1145	dbmcs	AMGMDS3	TP53	c.747G>C	Resistant
+1146	dbmcs	AMGMDS3	TP53	c.839G>A	Resistant
+1147	dbmcs	AMGMDS3	TP53	c.839G>C	Resistant
+1148	dbmcs	AMGMDS3	TP53	c.473G>T	Resistant
+1149	dbmcs	Nutlin-3	TP53	c.772G>C	Resistant
+1150	dbmcs	Nutlin-3	TP53	c.529C>A	Resistant
+1151	dbmcs	ALRN-6924	TP53	c.743G>A	Resistant
+1152	dbmcs	DS-7423	TP53	c.524G>A	Resistant
+1153	dbmcs	Seliciclib	TP53	c.524G>A	Resistant
+1154	dbmcs	Seliciclib	TP53	c.476C>T	Resistant
+1155	dbmcs	Seliciclib	TP53	c.643A>G	Resistant
+1156	dbmcs	Seliciclib	TP53	c.701A>G	Resistant
+1157	dbmcs	Seliciclib	TP53	c.659A>G	Resistant
+1158	dbmcs	NSC319726	TP53	c.817_819delCGTinsTGG	Resistant
+1159	dbmcs	Seliciclib	TP53	c.292C>G	Resistant
+1160	dbmcs	DS-7423	TP53	c.722C>T	Resistant
+1161	dbmcs	Nutlin-3	TP53	c.695T>G	Resistant
+1162	dbmcs	Nutlin-3	TP53	c.839_840delGAinsTG	Resistant
+1163	dbmcs	Daunorubicin + Cytarabine	WT1	c.1099_1249	Resistant
+1164	dbmcs	Paclitaxel	ABCB1	c.2677T>A	Sensitive
+1165	dbmcs	Cisplatin	ABCB1	c.3435T>C	Sensitive
+1166	dbmcs	Carboplatin	ABCB1	c.3435T>C	Sensitive
+1167	dbmcs	Axitinib	ABL1	c.944C>T	Sensitive
+1168	dbmcs	Bosutinib	ABL1	c.943A>G	Sensitive
+1169	dbmcs	Bosutinib	ABL1	c.949T>G	Sensitive
+1170	dbmcs	Bosutinib	ABL1	c.949T>A	Sensitive
+1171	dbmcs	Bosutinib	ABL1	c.950T>G	Sensitive
+1172	dbmcs	Bosutinib	ABL1	c.757T>C	Sensitive
+1173	dbmcs	Bosutinib	ABL1	c.1075T>G	Sensitive
+1174	dbmcs	Bosutinib	ABL1	c.1076T>G	Sensitive
+1175	dbmcs	Bosutinib	ABL1	c.1075T>A	Sensitive
+1176	dbmcs	Cabozantinib	ABL1	c.895G>C	Sensitive
+1177	dbmcs	Crizotinib	ABL1	c.895G>C	Sensitive
+1178	dbmcs	Dasatinib	ABL1	c.1076T>G	Sensitive
+1179	dbmcs	Dasatinib	ABL1	c.1075T>A	Sensitive
+1180	dbmcs	Dasatinib	ABL1	c.757T>C	Sensitive
+1181	dbmcs	Dasatinib	ABL1	c.764A>T	Sensitive
+1182	dbmcs	Foretinib	ABL1	c.895G>C	Sensitive
+1183	dbmcs	Nilotinib	ABL1	c.943A>G	Sensitive
+1184	dbmcs	Nilotinib	ABL1	c.949T>C	Sensitive
+1185	dbmcs	Nilotinib	ABL1	c.949T>G	Sensitive
+1186	dbmcs	Nilotinib	ABL1	c.949T>A	Sensitive
+1187	dbmcs	Nilotinib	ABL1	c.950T>G	Sensitive
+1188	dbmcs	Nilotinib	ABL1	c.895G>C	Sensitive
+1189	dbmcs	Ponatinib	ABL1	c.944C>T	Sensitive
+1190	dbmcs	Vandetanib	ABL1	c.895G>C	Sensitive
+1191	dbmcs	Ponatinib	ABL1	c.949T>C	Sensitive
+1192	dbmcs	Nilotinib	ABL1	c.827A>G	Sensitive
+1193	dbmcs	Nilotinib	ABL1	c.1052T>C	Sensitive
+1194	dbmcs	Nilotinib	ABL1	c.1457T>C	Sensitive
+1195	dbmcs	Nilotinib	ABL1	c.1192G>C	Sensitive
+1196	dbmcs	Dasatinib	ABL1	c.1051C>T	Sensitive
+1197	dbmcs	Imatinib	ABL1	c.1018_1019delGGinsCT	Sensitive
+1198	dbmcs	Dasatinib	ABL1	c.1018_1019delGGinsCT	Sensitive
+1199	dbmcs	Imatinib	ABL1	c.1051C>T	Sensitive
+1200	dbmcs	Ponatinib	ABL1	c.943A>G	Sensitive
+1201	dbmcs	Ponatinib	ABL1	c.949T>C	Sensitive
+1202	dbmcs	Ponatinib	ABL1	c.949T>G	Sensitive
+1203	dbmcs	Ponatinib	ABL1	c.949T>A	Sensitive
+1204	dbmcs	Ponatinib	ABL1	c.950T>G	Sensitive
+1205	dbmcs	Dasatinib	ABL1	c.1075T>G	Sensitive
+1206	dbmcs	Ponatinib	ABL1	c.1075T>G	Sensitive
+1207	dbmcs	Ponatinib	ABL1	c.1076T>G	Sensitive
+1208	dbmcs	Ponatinib	ABL1	c.1075T>A	Sensitive
+1209	dbmcs	Ponatinib	ABL1	c.757T>C	Sensitive
+1210	dbmcs	Dasatinib	ABL1	c.763G>A	Sensitive
+1211	dbmcs	Ponatinib	ABL1	c.763G>A	Sensitive
+1212	dbmcs	Ponatinib	ABL1	c.764A>T	Sensitive
+1213	dbmcs	Ponatinib	ABL1	c.895G>C	Sensitive
+1214	dbmcs	Dasatinib	ABL1	c.994C>T	Sensitive
+1215	dbmcs	Imatinib	ABL1	c.994C>T	Sensitive
+1216	dbmcs	Dasatinib	ABL1	c.961_962delGGinsCT	Sensitive
+1217	dbmcs	Imatinib	ABL1	c.961_962delGGinsCT	Sensitive
+1218	dbmcs	Bosutinib	ABL1	c.763G>A	Sensitive
+1219	dbmcs	Bosutinib	ABL1	c.764A>T	Sensitive
+1220	dbmcs	Bosutinib	ABL1	c.949T>C	Sensitive
+1221	dbmcs	Everolimus	AKT1	c.712C>T	Sensitive
+1222	dbmcs	Temsirolimus	AKT1	c.49G>A	Sensitive
+1223	dbmcs	Uprosertib	AKT1	c.49G>A	Sensitive
+1224	dbmcs	Capivasertib	AKT1	c.49G>A	Sensitive
+1225	dbmcs	allosteric AKT inhibitors	AKT1	c.49G>A	Sensitive
+1226	dbmcs	non-allosteric AKT inhibitors	AKT1	c.49G>A	Sensitive
+1227	dbmcs	allosteric AKT inhibitors	AKT1	c.49G>A	Sensitive
+1228	dbmcs	AKT inhibitors	AKT1	c.49G>A	Sensitive
+1229	dbmcs	PI3K pathway inhibitors	AKT1	c.49G>A	Sensitive
+1230	dbmcs	Capivasertib	AKT1	c.202_231	Sensitive
+1231	dbmcs	ARQ 751	AKT1	c.49G>A	Sensitive
+1232	dbmcs	BAY1125976	AKT1	c.49G>A	Sensitive
+1233	dbmcs	Ipatasertib	AKT1	c.49G>A	Sensitive
+1234	dbmcs	Miransertib	AKT1	c.49G>A	Sensitive
+1235	dbmcs	Miransertib	AKT1	c.49G>A	Sensitive
+1236	dbmcs	Capivasertib	AKT1	c.235C>A	Sensitive
+1237	dbmcs	Brigatinib	ALK	c.4223A>T	Sensitive
+1238	dbmcs	Brigatinib	ALK	c.3586C>A	Sensitive
+1239	dbmcs	Ceritinib	ALK	c.3586C>A	Sensitive
+1240	dbmcs	Ceritinib	ALK	c.3617C>A	Sensitive
+1241	dbmcs	Ceritinib	ALK	c.3806G>C	Sensitive
+1242	dbmcs	Ceritinib	ALK	c.3512T>C	Sensitive
+1243	dbmcs	Crizotinib	ALK	c.2567T>C	Sensitive
+1244	dbmcs	Crizotinib	ALK	c.1043C>A	Sensitive
+1245	dbmcs	Crizotinib	ALK	c.3592C>T	Sensitive
+1246	dbmcs	Crizotinib	ALK	c.3824G>A	Sensitive
+1247	dbmcs	Crizotinib	ALK	c.3383G>C	Sensitive
+1248	dbmcs	Crizotinib	ALK	c.3512T>A	Sensitive
+1249	dbmcs	Crizotinib	ALK	c.3575G>C	Sensitive
+1250	dbmcs	Crizotinib	ALK	c.3734T>G	Sensitive
+1251	dbmcs	Lorlatinib	ALK	c.3467G>A	Sensitive
+1252	dbmcs	Alectinib	ALK	c.3522C>A	Sensitive
+1253	dbmcs	Alectinib	ALK	c.3586C>A	Sensitive
+1254	dbmcs	TAE684	ALK	c.3522C>A	Sensitive
+1255	dbmcs	Crizotinib	ALK	c.3824G>A	Sensitive
+1256	dbmcs	Lorlatinib	ALK	c.3467G>A	Sensitive
+1257	dbmcs	Ceritinib	ALK	c.3512T>C	Sensitive
+1258	dbmcs	TAE684	ALK	c.3512T>C	Sensitive
+1259	dbmcs	Ceritinib	ALK	c.3538G>C	Sensitive
+1260	dbmcs	TAE684	ALK	c.3538G>C	Sensitive
+1261	dbmcs	Brigatinib	ALK	c.3538G>C	Sensitive
+1262	dbmcs	AZD3463	ALK	c.3522C>A	Sensitive
+1263	dbmcs	Lorlatinib	ALK	c.3522C>A	Sensitive
+1264	dbmcs	Lorlatinib	ALK	c.3734T>G	Sensitive
+1265	dbmcs	Lorlatinib	ALK	c.3824G>A	Sensitive
+1266	dbmcs	Ceritinib	ALK	c.3734T>G	Sensitive
+1267	dbmcs	Ceritinib	ALK	c.3586C>A	Sensitive
+1268	dbmcs	Ceritinib	ALK	c.3806G>C	Sensitive
+1269	dbmcs	Ceritinib	ALK	c.3617C>A	Sensitive
+1270	dbmcs	Tanespimycin	ALK	c.3453_3454	Sensitive
+1271	dbmcs	Tanespimycin	ALK	c.3604G>A	Sensitive
+1272	dbmcs	Brigatinib	ALK	c.3806G>C	Sensitive
+1273	dbmcs	Brigatinib	ALK	c.3734T>G	Sensitive
+1274	dbmcs	Brigatinib	ALK	c.3383G>C	Sensitive
+1275	dbmcs	Alectinib + Doxorubicin	ALK	c.3271G>A	Sensitive
+1276	dbmcs	AZD3463 + Doxorubicin	ALK	c.3271G>A	Sensitive
+1277	dbmcs	AZD3463	ALK	c.3271G>A	Sensitive
+1278	dbmcs	Alectinib	ALK	c.3271G>A	Sensitive
+1279	dbmcs	Alectinib	ALK	c.3467G>A	Sensitive
+1280	dbmcs	Crizotinib + Cyclophosphamide + Topotecan	ALK	c.3824G>A	Sensitive
+1281	dbmcs	CEP-28122	ALK	c.3824G>A	Sensitive
+1282	dbmcs	Ceritinib	ALK	c.3824G>A	Sensitive
+1283	dbmcs	Brigatinib	ALK	c.3824G>A	Sensitive
+1284	dbmcs	Brigatinib	ALK	c.3520T>G	Sensitive
+1285	dbmcs	Brigatinib	ALK	c.3512T>A	Sensitive
+1286	dbmcs	Lorlatinib	ALK	c.3520T>C	Sensitive
+1287	dbmcs	Brigatinib	ALK	c.3520T>C	Sensitive
+1288	dbmcs	CEP-28122	ALK	c.3520T>C	Sensitive
+1289	dbmcs	AZD3463	ALK	c.3520T>C	Sensitive
+1290	dbmcs	Brigatinib	ALK	c.3575G>C	Sensitive
+1291	dbmcs	Brigatinib	ALK	c.3833A>C	Sensitive
+1292	dbmcs	Entrectinib	ALK	c.3733T>G	Sensitive
+1293	dbmcs	G007-LK	APC	c.2432C>A	Sensitive
+1294	dbmcs	IWR-1	APC	c.2432C>A	Sensitive
+1295	dbmcs	XAV939	APC	c.2432C>A	Sensitive
+1296	dbmcs	NVP-TNKS656	APC	c.4216C>T	Sensitive
+1297	dbmcs	XAV939	APC	c.4216C>T	Sensitive
+1298	dbmcs	G007-LK	APC	c.4216C>T	Sensitive
+1299	dbmcs	IWR-1	APC	c.1658G>A	Sensitive
+1300	dbmcs	G007-LK	APC	c.1658G>A	Sensitive
+1301	dbmcs	TASIN-1	APC	c.4012C>T	Sensitive
+1302	dbmcs	JW67	APC	c.4012C>T	Sensitive
+1303	dbmcs	JW74	APC	c.4012C>T	Sensitive
+1304	dbmcs	TASIN-1	APC	c.3925G>T	Sensitive
+1305	dbmcs	TASIN-1	APC	c.4463T>A	Sensitive
+1306	dbmcs	IWR-1	APC	c.646C>T	Sensitive
+1307	dbmcs	G007-LK	APC	c.646C>T	Sensitive
+1308	dbmcs	TASIN-1	APC	c.4246_4248delGGCinsTGA	Sensitive
+1309	dbmcs	Enzalutamide	AR	c.2629T>C + c.2632A>G	Sensitive
+1310	dbmcs	Sorafenib	ARAF	c.641C>G	Sensitive
+1311	dbmcs	Trametinib	ARAF	c.641C>G	Sensitive
+1312	dbmcs	Dasatinib	ARID1A	c.3524delC	Sensitive
+1313	dbmcs	Talazoparib	ARID1A	c.1366C>T	Sensitive
+1314	dbmcs	Dasatinib	ARID1A	c.1366C>T	Sensitive
+1315	dbmcs	Olaparib	ARID1A	c.1366C>T	Sensitive
+1316	dbmcs	VE-821	ARID1A	c.1366C>T	Sensitive
+1317	dbmcs	Berzosertib	ARID1A	c.1366C>T	Sensitive
+1318	dbmcs	Rucaparib	ARID1A	c.1366C>T	Sensitive
+1319	dbmcs	JQ1	ARID1A	c.3442C>T	Sensitive
+1320	dbmcs	Olaparib	ATM	c.6860_6861insGT	Sensitive
+1321	dbmcs	Olaparib	ATM	c.8623A>C	Sensitive
+1322	dbmcs	Olaparib	ATM	c.1810C>T	Sensitive
+1323	dbmcs	Olaparib	ATM	c.4346T>A	Sensitive
+1324	dbmcs	Olaparib	ATM	c.6112C>T	Sensitive
+1325	dbmcs	Olaparib	ATM	c.1555G>A	Sensitive
+1326	dbmcs	Olaparib	ATM	c.175G>T	Sensitive
+1327	dbmcs	Temozolomide + Veliparib	ATM	c.1229T>C	Sensitive
+1328	dbmcs	Olaparib	ATM	c.8246A>T	Sensitive
+1329	dbmcs	Olaparib	ATM	c.2471C>T	Sensitive
+1330	dbmcs	Olaparib	ATM	c.5620C>T	Sensitive
+1331	dbmcs	Temozolomide + Veliparib	ATM	c.998C>T	Sensitive
+1332	dbmcs	Olaparib	ATM	c.2879C>A	Sensitive
+1333	dbmcs	Temozolomide + Veliparib	ATM	c.8174A>G	Sensitive
+1334	dbmcs	Olaparib	ATM	c.4365T>G	Sensitive
+1335	dbmcs	Olaparib	ATM	c.5521G>A	Sensitive
+1336	dbmcs	Trametinib	BRAF	c.1802A>G	Sensitive
+1337	dbmcs	Trametinib	BRAF	c.1790T>G	Sensitive
+1338	dbmcs	Trametinib	BRAF	c.1798_1799delGTinsAG	Sensitive
+1339	dbmcs	Dabrafenib	BRAF	c.1799T>A	Sensitive
+1340	dbmcs	Dabrafenib	BRAF	c.1799T>A	Sensitive
+1341	dbmcs	Dabrafenib	BRAF	c.1798_1799delGTinsAG	Sensitive
+1342	dbmcs	Dabrafenib + Trametinib	BRAF	c.1799T>A	Sensitive
+1343	dbmcs	Dabrafenib + Trametinib	BRAF	c.1799T>A	Sensitive
+1344	dbmcs	Dabrafenib + Trametinib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1345	dbmcs	Dasatinib	BRAF	c.1397G>T	Sensitive
+1346	dbmcs	Dasatinib	BRAF	c.1415A>G	Sensitive
+1347	dbmcs	Panitumumab + Dabrafenib + Trametinib	BRAF	c.1799T>A	Sensitive
+1348	dbmcs	PLX4720	BRAF	c.1799T>A	Sensitive
+1349	dbmcs	Selumetinib	BRAF	c.1799T>A	Sensitive
+1350	dbmcs	Sorafenib	BRAF	c.1781A>G	Sensitive
+1351	dbmcs	Sorafenib	BRAF	c.1406G>A	Sensitive
+1352	dbmcs	Trametinib	BRAF	c.1799T>A	Sensitive
+1353	dbmcs	Trametinib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1354	dbmcs	Vemurafenib	BRAF	c.1799_1800delTGinsAC	Sensitive
+1355	dbmcs	Vemurafenib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1356	dbmcs	Vemurafenib	BRAF	c.1798G>A	Sensitive
+1357	dbmcs	Vemurafenib	BRAF	c.1799T>G	Sensitive
+1358	dbmcs	Vemurafenib	BRAF	c.1798_1799delGTinsAG	Sensitive
+1359	dbmcs	Vemurafenib	BRAF	c.1799T>A	Sensitive
+1360	dbmcs	Vemurafenib	BRAF	c.1799T>A	Sensitive
+1361	dbmcs	Vemurafenib + Cobimetinib	BRAF	c.1799T>A	Sensitive
+1362	dbmcs	Vemurafenib + Cobimetinib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1363	dbmcs	Dabrafenib	BRAF	c.1799T>A + c.1798G>A	Sensitive
+1364	dbmcs	Sorafenib + Panitumumab	BRAF	c.1799T>A	Sensitive
+1365	dbmcs	Dabrafenib + Trametinib	BRAF	c.1798_1799	Sensitive
+1366	dbmcs	Dabrafenib	BRAF	c.1799_1800delTGinsAC	Sensitive
+1367	dbmcs	PLX4720 + Pictilisib	BRAF	c.1799T>A	Sensitive
+1368	dbmcs	PLX4720 + Nutlin-3	BRAF	c.1799T>A	Sensitive
+1369	dbmcs	Vemurafenib + Capecitabine + Bevacizumab	BRAF	c.1799T>A	Sensitive
+1370	dbmcs	Vemurafenib	BRAF	c.1799T>A	Sensitive
+1371	dbmcs	Vemurafenib	BRAF	c.1790T>G	Sensitive
+1372	dbmcs	Pictilisib	BRAF	c.1799T>A	Sensitive
+1373	dbmcs	RO4987655	BRAF	c.1798_1799	Sensitive
+1374	dbmcs	Selumetinib + Dactolisib	BRAF	c.1799T>A	Sensitive
+1375	dbmcs	Cobimetinib	BRAF	c.1799T>A	Sensitive
+1376	dbmcs	LY3009120	BRAF	c.1453_1470del18	Sensitive
+1377	dbmcs	Vemurafenib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1378	dbmcs	Dabrafenib	BRAF	c.1798_1799	Sensitive
+1379	dbmcs	Vemurafenib + Gefitinib + Cetuximab	BRAF	c.1799T>A	Sensitive
+1380	dbmcs	Trametinib + Dabrafenib	BRAF	c.1798_1799	Sensitive
+1381	dbmcs	Vemurafenib + Cobimetinib	BRAF	c.1799T>A	Sensitive
+1382	dbmcs	Vemurafenib + Cobimetinib	BRAF	c.1798_1799	Sensitive
+1383	dbmcs	Dactolisib + GDC-0879	BRAF	c.1799T>A	Sensitive
+1384	dbmcs	Dabrafenib + Trametinib + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1385	dbmcs	MEK inhibitors	BRAF	c.1781A>C	Sensitive
+1386	dbmcs	Sorafenib	BRAF	c.1781A>C	Sensitive
+1387	dbmcs	Sorafenib	BRAF	c.1781A>T	Sensitive
+1388	dbmcs	Trametinib	BRAF	c.1781A>T	Sensitive
+1389	dbmcs	MEK inhibitors	BRAF	c.1448_1449delAAinsTG	Sensitive
+1390	dbmcs	Sorafenib	BRAF	c.1448_1449delAAinsTG	Sensitive
+1391	dbmcs	Vemurafenib	BRAF	c.1790T>G	Sensitive
+1392	dbmcs	Vemurafenib	BRAF	c.1789_1790delCTinsTC	Sensitive
+1393	dbmcs	Trametinib	BRAF	c.1789_1790delCTinsTC	Sensitive
+1394	dbmcs	TAK-733	BRAF	c.1789_1790delCTinsTC	Sensitive
+1395	dbmcs	Vemurafenib	BRAF	c.1790T>A	Sensitive
+1396	dbmcs	Trametinib	BRAF	c.1790T>A	Sensitive
+1397	dbmcs	Vemurafenib	BRAF	c.1801A>G	Sensitive
+1398	dbmcs	Trametinib	BRAF	c.1801A>G	Sensitive
+1399	dbmcs	Trametinib	BRAF	c.1789C>G	Sensitive
+1400	dbmcs	Vemurafenib	BRAF	c.1798_1799	Sensitive
+1401	dbmcs	Vemurafenib + Panitumumab	BRAF	c.1799T>A	Sensitive
+1402	dbmcs	Dabrafenib + Trametinib	BRAF	c.1786G>T	Sensitive
+1403	dbmcs	Trametinib	BRAF	c.1798_1799	Sensitive
+1404	dbmcs	Vemurafenib + Irinotecan + Cetuximab	BRAF	c.1799T>A	Sensitive
+1405	dbmcs	Trametinib	BRAF	c.1799T>A	Sensitive
+1406	dbmcs	Dabrafenib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1407	dbmcs	Trametinib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1408	dbmcs	Trametinib + Dabrafenib	BRAF	c.1799T>A	Sensitive
+1409	dbmcs	Trametinib + Dabrafenib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1410	dbmcs	Vemurafenib	BRAF	c.1799_1800delTGinsAC	Sensitive
+1411	dbmcs	Dabrafenib + Trametinib DMSO	BRAF	c.1799T>A	Sensitive
+1412	dbmcs	Vemurafenib + Panitumumab + Irinotecan	BRAF	c.1799T>A	Sensitive
+1413	dbmcs	Vemurafenib + Pertuzumab	BRAF	c.1799T>A	Sensitive
+1414	dbmcs	Encorafenib + Cetuximab	BRAF	c.1798_1799	Sensitive
+1415	dbmcs	Alpelisib + Cetuximab + Encorafenib	BRAF	c.1798_1799	Sensitive
+1416	dbmcs	Dabrafenib + Trametinib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1417	dbmcs	Trametinib + Dabrafenib	BRAF	c.1798_1799	Sensitive
+1418	dbmcs	Binimetinib + Encorafenib	BRAF	c.1798_1799	Sensitive
+1419	dbmcs	Cetuximab + Irinotecan + Vemurafenib	BRAF	c.1798_1799	Sensitive
+1420	dbmcs	BRAF inhibitors	BRAF	c.1799_1800delTGinsAC	Sensitive
+1421	dbmcs	Mitogen-Activated Protein Kinase Kinase inhibitor + BRAF inhibitor	BRAF	c.1799_1800delTGinsAC	Sensitive
+1422	dbmcs	Mitogen-Activated Protein Kinase Kinase inhibitor + BRAF inhibitor	BRAF	c.1799_1801delTGA	Sensitive
+1423	dbmcs	Mitogen-Activated Protein Kinase Kinase inhibitor + BRAF inhibitor	BRAF	c.1405_1407	Sensitive
+1424	dbmcs	BRAF inhibitors	BRAF	c.1799T>A	Sensitive
+1425	dbmcs	BRAF inhibitors	BRAF	c.1799T>A	Sensitive
+1426	dbmcs	Dabrafenib + Trametinib	BRAF	c.1406G>C	Sensitive
+1427	dbmcs	ERK inhibitors	BRAF	c.1454T>G	Sensitive
+1428	dbmcs	ERK inhibitors	BRAF	c.1799T>A	Sensitive
+1429	dbmcs	BRAF inhibitors	BRAF	c.1798_1799delGTinsAG	Sensitive
+1430	dbmcs	MEK inhibitors	BRAF	c.1802A>G	Sensitive
+1431	dbmcs	MEK inhibitors	BRAF	c.1790T>G	Sensitive
+1432	dbmcs	CCT196969	BRAF	c.1799_1800delTGinsAC	Sensitive
+1433	dbmcs	TAK-632	BRAF	c.1799_1800delTGinsAC	Sensitive
+1434	dbmcs	Dabrafenib + Trametinib	BRAF	c.1799_1800delTGinsAC	Sensitive
+1435	dbmcs	AZ628	BRAF	c.1799_1800delTGinsAC	Sensitive
+1436	dbmcs	CCT241161	BRAF	c.1799_1800delTGinsAC	Sensitive
+1437	dbmcs	PLX7904	BRAF	c.1799_1800delTGinsAC	Sensitive
+1438	dbmcs	Sorafenib	BRAF	c.1406G>T	Sensitive
+1439	dbmcs	Cobimetinib	BRAF	c.1458_1472del15	Sensitive
+1440	dbmcs	Cobimetinib	BRAF	c.1458_1472del15	Sensitive
+1441	dbmcs	Buparlisib + Vemurafenib	BRAF	c.1798_1800	Sensitive
+1442	dbmcs	MK2206 + Vemurafenib	BRAF	c.1798_1800	Sensitive
+1443	dbmcs	Cobimetinib + Vemurafenib	BRAF	c.1798_1800	Sensitive
+1444	dbmcs	Vemurafenib	BRAF	c.1798_1800	Sensitive
+1445	dbmcs	Atezolizumab + Vemurafenib	BRAF	c.1798_1800	Sensitive
+1446	dbmcs	Selumetinib + Vemurafenib	BRAF	c.1798_1800	Sensitive
+1447	dbmcs	Dabrafenib + Trametinib	BRAF	c.1798_1800	Sensitive
+1448	dbmcs	Binimetinib	BRAF	c.1798_1800	Sensitive
+1449	dbmcs	Trametinib + Vemurafenib	BRAF	c.1798_1800	Sensitive
+1450	dbmcs	Cetuximab + Vemurafenib	BRAF	c.1798_1800	Sensitive
+1451	dbmcs	MK2206 + Trametinib	BRAF	c.1798_1800	Sensitive
+1452	dbmcs	Atezolizumab + Cobimetinib + Vemurafenib	BRAF	c.1798_1800	Sensitive
+1453	dbmcs	Buparlisib + Trametinib	BRAF	c.1798_1800	Sensitive
+1454	dbmcs	Dabrafenib + Trametinib	BRAF	c.1798_1800	Sensitive
+1455	dbmcs	Buparlisib + Selumetinib	BRAF	c.1798_1800	Sensitive
+1456	dbmcs	Ulixertinib	BRAF	c.1790T>A	Sensitive
+1457	dbmcs	Binimetinib	BRAF	c.1789_1790delCTinsTC	Sensitive
+1458	dbmcs	Cobimetinib	BRAF	c.1789_1790delCTinsTC	Sensitive
+1459	dbmcs	Binimetinib + Encorafenib	BRAF	c.1789_1790delCTinsTC	Sensitive
+1460	dbmcs	Dabrafenib	BRAF	c.1789_1790delCTinsTC	Sensitive
+1461	dbmcs	Encorafenib + Trametinib	BRAF	c.1789_1790delCTinsTC	Sensitive
+1462	dbmcs	Encorafenib	BRAF	c.1789_1790delCTinsTC	Sensitive
+1463	dbmcs	Dabrafenib + Trametinib	BRAF	c.1789_1790delCTinsTC	Sensitive
+1464	dbmcs	LY3009120	BRAF	c.1789_1790delCTinsTC	Sensitive
+1465	dbmcs	RMC-4550	BRAF	c.1741A>G	Sensitive
+1466	dbmcs	Trametinib	BRAF	c.1801A>G	Sensitive
+1467	dbmcs	Dasatinib	BRAF	c.1415A>G	Sensitive
+1468	dbmcs	Pembrolizumab	BRAF	c.1798_1799delGTinsAA	Sensitive
+1469	dbmcs	Omipalisib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1470	dbmcs	Binimetinib + Encorafenib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1471	dbmcs	Nivolumab	BRAF	c.1798_1799delGTinsAA	Sensitive
+1472	dbmcs	Dabrafenib	BRAF	c.1457_1471del15	Sensitive
+1473	dbmcs	Trametinib	BRAF	c.1457_1471del15	Sensitive
+1474	dbmcs	LY3009120	BRAF	c.1457_1471del15	Sensitive
+1475	dbmcs	Trametinib	BRAF	c.1457_1471del15	Sensitive
+1476	dbmcs	TAE226	BRAF	c.1406G>C	Sensitive
+1477	dbmcs	Dabrafenib	BRAF	c.1406G>C	Sensitive
+1478	dbmcs	Ulixertinib	BRAF	c.1406G>C	Sensitive
+1479	dbmcs	Dabrafenib + Trametinib	BRAF	c.1406G>C	Sensitive
+1480	dbmcs	Encorafenib + Trametinib	BRAF	c.1406G>C	Sensitive
+1481	dbmcs	PLX8394	BRAF	c.1406G>C	Sensitive
+1482	dbmcs	Trametinib	BRAF	c.1406G>C	Sensitive
+1483	dbmcs	LY3009120	BRAF	c.1460_1474del15	Sensitive
+1484	dbmcs	Trametinib	BRAF	c.1460_1474del15	Sensitive
+1485	dbmcs	Trametinib	BRAF	c.739T>C	Sensitive
+1486	dbmcs	Dabrafenib	BRAF	c.739T>C	Sensitive
+1487	dbmcs	AZ628	BRAF	c.1397G>A	Sensitive
+1488	dbmcs	TAK-632	BRAF	c.1397G>A	Sensitive
+1489	dbmcs	Ulixertinib	BRAF	c.1454T>G	Sensitive
+1490	dbmcs	Panitumumab + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1491	dbmcs	Lifirafenib	BRAF	c.1799T>A	Sensitive
+1492	dbmcs	Everolimus + PLX4720	BRAF	c.1799T>A	Sensitive
+1493	dbmcs	BI-847325	BRAF	c.1799T>A	Sensitive
+1494	dbmcs	INU-152	BRAF	c.1799T>A	Sensitive
+1495	dbmcs	Erlotinib + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1496	dbmcs	Cetuximab + PLX4720	BRAF	c.1799T>A	Sensitive
+1497	dbmcs	SCH772984	BRAF	c.1799T>A	Sensitive
+1498	dbmcs	Dabrafenib + Panitumumab	BRAF	c.1799T>A	Sensitive
+1499	dbmcs	SBI-0640756	BRAF	c.1799T>A	Sensitive
+1500	dbmcs	Dasatinib + Trametinib	BRAF	c.1799T>A	Sensitive
+1501	dbmcs	TW-37 + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1502	dbmcs	E6201	BRAF	c.1799T>A	Sensitive
+1503	dbmcs	CI-1040	BRAF	c.1799T>A	Sensitive
+1504	dbmcs	PAC-1 + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1505	dbmcs	Cetuximab + Selumetinib	BRAF	c.1799T>A	Sensitive
+1506	dbmcs	Ulixertinib	BRAF	c.1799T>A	Sensitive
+1507	dbmcs	Pimasertib	BRAF	c.1799T>A	Sensitive
+1508	dbmcs	Imatinib + PLX4720	BRAF	c.1799T>A	Sensitive
+1509	dbmcs	Binimetinib	BRAF	c.1799T>A	Sensitive
+1510	dbmcs	Gefitinib + PLX4720	BRAF	c.1799T>A	Sensitive
+1511	dbmcs	CCT196969	BRAF	c.1799T>A	Sensitive
+1512	dbmcs	Omipalisib	BRAF	c.1799T>A	Sensitive
+1513	dbmcs	Dabrafenib + SCH772984	BRAF	c.1799T>A	Sensitive
+1514	dbmcs	Cetuximab + Dabrafenib + SCH772984	BRAF	c.1799T>A	Sensitive
+1515	dbmcs	Afatinib + BI-882370	BRAF	c.1799T>A	Sensitive
+1516	dbmcs	Binimetinib + Encorafenib	BRAF	c.1799T>A	Sensitive
+1517	dbmcs	Cetuximab + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1518	dbmcs	Navitoclax + PLX4720	BRAF	c.1799T>A	Sensitive
+1519	dbmcs	PD-0325901	BRAF	c.1799T>A	Sensitive
+1520	dbmcs	Ganetespib + TAK-733	BRAF	c.1799T>A	Sensitive
+1521	dbmcs	SBI-755199	BRAF	c.1799T>A	Sensitive
+1522	dbmcs	Navitoclax + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1523	dbmcs	Dasatinib	BRAF	c.1799T>A	Sensitive
+1524	dbmcs	Everolimus + Selumetinib	BRAF	c.1799T>A	Sensitive
+1525	dbmcs	PLX8394	BRAF	c.1799T>A	Sensitive
+1526	dbmcs	Pimasertib + Regorafenib	BRAF	c.1799T>A	Sensitive
+1527	dbmcs	Selumetinib	BRAF	c.1799T>A	Sensitive
+1528	dbmcs	GDC0879	BRAF	c.1799T>A	Sensitive
+1529	dbmcs	BI-882370 + Cetuximab	BRAF	c.1799T>A	Sensitive
+1530	dbmcs	RO-5126766 free base	BRAF	c.1799T>A	Sensitive
+1531	dbmcs	Trametinib + TW-37	BRAF	c.1799T>A	Sensitive
+1532	dbmcs	Cediranib + PLX4720	BRAF	c.1799T>A	Sensitive
+1533	dbmcs	Pimasertib + Sorafenib	BRAF	c.1799T>A	Sensitive
+1534	dbmcs	SB590885	BRAF	c.1799T>A	Sensitive
+1535	dbmcs	Agerafenib	BRAF	c.1799T>A	Sensitive
+1536	dbmcs	Cobimetinib + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1537	dbmcs	Dasatinib + SCH772984	BRAF	c.1799T>A	Sensitive
+1538	dbmcs	Alpelisib + Cetuximab + Encorafenib	BRAF	c.1799T>A	Sensitive
+1539	dbmcs	Alpelisib + PLX4720	BRAF	c.1799T>A	Sensitive
+1540	dbmcs	Dabrafenib + Trametinib	BRAF	c.1799T>A	Sensitive
+1541	dbmcs	Trametinib + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1542	dbmcs	SBI-0640726	BRAF	c.1799T>A	Sensitive
+1543	dbmcs	Cobimetinib	BRAF	c.1799T>A	Sensitive
+1544	dbmcs	Palbociclib + PD-0325901	BRAF	c.1799T>A	Sensitive
+1545	dbmcs	Everolimus + Pimasertib	BRAF	c.1799T>A	Sensitive
+1546	dbmcs	EBI-907	BRAF	c.1799T>A	Sensitive
+1547	dbmcs	PAC-1 + Trametinib + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1548	dbmcs	PLX4720 + Selumetinib	BRAF	c.1799T>A	Sensitive
+1549	dbmcs	Refametinib	BRAF	c.1799T>A	Sensitive
+1550	dbmcs	RO4987655	BRAF	c.1799T>A	Sensitive
+1551	dbmcs	DETD-35	BRAF	c.1799T>A	Sensitive
+1552	dbmcs	Lapatinib + Panobinostat	BRAF	c.1799T>A	Sensitive
+1553	dbmcs	Cobimetinib + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1554	dbmcs	DETD-35 + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1555	dbmcs	PLX4720 + Tivozanib	BRAF	c.1799T>A	Sensitive
+1556	dbmcs	Navitoclax + Trametinib	BRAF	c.1799T>A	Sensitive
+1557	dbmcs	PF-00477736 + PF3644022	BRAF	c.1799T>A	Sensitive
+1558	dbmcs	TAK-632	BRAF	c.1799T>A	Sensitive
+1559	dbmcs	Dasatinib + Selumetinib	BRAF	c.1799T>A	Sensitive
+1560	dbmcs	Saracatinib	BRAF	c.1799T>A	Sensitive
+1561	dbmcs	Cetuximab + SCH772984	BRAF	c.1799T>A	Sensitive
+1562	dbmcs	PLX7904	BRAF	c.1799T>A	Sensitive
+1563	dbmcs	Regorafenib	BRAF	c.1799T>A	Sensitive
+1564	dbmcs	BI-69A11	BRAF	c.1799T>A	Sensitive
+1565	dbmcs	Cetuximab + Dabrafenib	BRAF	c.1799T>A	Sensitive
+1566	dbmcs	Lapatinib + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1567	dbmcs	CLM3	BRAF	c.1799T>A	Sensitive
+1568	dbmcs	Sorafenib	BRAF	c.1799T>A	Sensitive
+1569	dbmcs	RAF-265	BRAF	c.1799T>A	Sensitive
+1570	dbmcs	RAF-265	BRAF	c.1799T>A	Sensitive
+1571	dbmcs	RAF709	BRAF	c.1799T>A	Sensitive
+1572	dbmcs	Trametinib	BRAF	c.1799T>A	Sensitive
+1573	dbmcs	CCT241161	BRAF	c.1799T>A	Sensitive
+1574	dbmcs	BGB-283 + Cetuximab	BRAF	c.1799T>A	Sensitive
+1575	dbmcs	Encorafenib + Ribociclib	BRAF	c.1799T>A	Sensitive
+1576	dbmcs	Cetuximab + Sorafenib	BRAF	c.1799T>A	Sensitive
+1577	dbmcs	Cediranib + PLX4720 + Selumetinib	BRAF	c.1799T>A	Sensitive
+1578	dbmcs	Erlotinib + PLX4720	BRAF	c.1799T>A	Sensitive
+1579	dbmcs	DEL-22379	BRAF	c.1799T>A	Sensitive
+1580	dbmcs	Ganetespib	BRAF	c.1799T>A	Sensitive
+1581	dbmcs	BI-882370 + Trametinib	BRAF	c.1799T>A	Sensitive
+1582	dbmcs	Dabrafenib + Omipalisib	BRAF	c.1799T>A	Sensitive
+1583	dbmcs	LSN3074753	BRAF	c.1799T>A	Sensitive
+1584	dbmcs	Binimetinib + Cetuximab + Encorafenib	BRAF	c.1799T>A	Sensitive
+1585	dbmcs	BI2536	BRAF	c.1799T>A	Sensitive
+1586	dbmcs	Ulixertinib	BRAF	c.1799T>A	Sensitive
+1587	dbmcs	DT01 + Fluorouracil + Oxaliplatin	BRAF	c.1799T>A	Sensitive
+1588	dbmcs	PLX4720 + Vorinostat	BRAF	c.1799T>A	Sensitive
+1589	dbmcs	Omipalisib + Trametinib	BRAF	c.1799T>A	Sensitive
+1590	dbmcs	S3I-201	BRAF	c.1799T>A	Sensitive
+1591	dbmcs	Cetuximab + Dabrafenib + Trametinib	BRAF	c.1799T>A	Sensitive
+1592	dbmcs	Gefitinib + Vemurafenib	BRAF	c.1799T>A	Sensitive
+1593	dbmcs	AZ628	BRAF	c.1799T>A	Sensitive
+1594	dbmcs	LY3009120	BRAF	c.1799T>A	Sensitive
+1595	dbmcs	Dabrafenib + Panitumumab + Trametinib	BRAF	c.1799T>A	Sensitive
+1596	dbmcs	Doxorubicin + PLX4720	BRAF	c.1799T>A	Sensitive
+1597	dbmcs	BI2536 + PLX4720	BRAF	c.1799T>A	Sensitive
+1598	dbmcs	Cetuximab + Encorafenib	BRAF	c.1799T>A	Sensitive
+1599	dbmcs	Gedatolisib	BRAF	c.1799T>A	Sensitive
+1600	dbmcs	Dabrafenib	BRAF	c.1799T>A	Sensitive
+1601	dbmcs	LY3009120	BRAF	c.1803A>C	Sensitive
+1602	dbmcs	PLX8394	BRAF	c.1397G>T	Sensitive
+1603	dbmcs	Irinotecan + Panitumumab	BRAF	c.1397G>T	Sensitive
+1604	dbmcs	Cetuximab	BRAF	c.1397G>T	Sensitive
+1605	dbmcs	Trametinib	BRAF	c.1397G>T	Sensitive
+1606	dbmcs	RMC-4550	BRAF	c.1397G>T	Sensitive
+1607	dbmcs	TAK-632	BRAF	c.1397G>T	Sensitive
+1608	dbmcs	TAE226	BRAF	c.1397G>T	Sensitive
+1609	dbmcs	Dabrafenib + Trametinib	BRAF	c.1397G>T	Sensitive
+1610	dbmcs	Trametinib	BRAF	c.1786G>C	Sensitive
+1611	dbmcs	RMC-4550	BRAF	c.1786G>C	Sensitive
+1612	dbmcs	Dabrafenib + Trametinib	BRAF	c.1786G>C	Sensitive
+1613	dbmcs	PF-00477736 + PF3644022	BRAF	c.1742A>G	Sensitive
+1614	dbmcs	Trametinib	BRAF	c.1781A>G	Sensitive
+1615	dbmcs	Trametinib	BRAF	c.1790T>G	Sensitive
+1616	dbmcs	RMC-4550	BRAF	c.1780G>A	Sensitive
+1617	dbmcs	TAK-632	BRAF	c.1798_1799delGTinsAG	Sensitive
+1618	dbmcs	Vemurafenib	BRAF	c.1798_1799delGTinsAG	Sensitive
+1619	dbmcs	AZ628	BRAF	c.1798_1799delGTinsAG	Sensitive
+1620	dbmcs	PLX7904	BRAF	c.1798_1799delGTinsAG	Sensitive
+1621	dbmcs	Trametinib	BRAF	c.1453_1470delinsTAT	Sensitive
+1622	dbmcs	LY3009120	BRAF	c.1453_1470delinsTAT	Sensitive
+1623	dbmcs	Vemurafenib	BRAF	c.1800G>A	Sensitive
+1624	dbmcs	Encorafenib + Binimetinib	BRAF	c.1799T>A	Sensitive
+1625	dbmcs	Encorafenib + Binimetinib	BRAF	c.1798_1799delGTinsAA	Sensitive
+1626	dbmcs	Encorafenib + Binimetinib + Cetuximab	BRAF	c.1799T>A	Sensitive
+1627	dbmcs	Vemurafenib + Panitumumab	BRAF	c.1800G>A	Sensitive
+1628	dbmcs	Panitumumab + Dabrafenib + Trametinib	BRAF	c.1800G>A	Sensitive
+1629	dbmcs	Trametinib	BRAF	c.1803A>G	Sensitive
+1630	dbmcs	Trametinib	BRAF	c.1791A>T	Sensitive
+1631	dbmcs	PLX8394	BRAF	c.1392A>T	Sensitive
+1632	dbmcs	PLX8394	BRAF	c.1405G>A	Sensitive
+1633	dbmcs	PLX8394	BRAF	c.1406G>T	Sensitive
+1634	dbmcs	PLX8394	BRAF	c.1803A>G	Sensitive
+1635	dbmcs	PLX8394	BRAF	c.1791A>T	Sensitive
+1636	dbmcs	Rucaparib	BRCA1	c.1A>G	Sensitive
+1637	dbmcs	Rucaparib	BRCA1	c.3G>T	Sensitive
+1638	dbmcs	Rucaparib	BRCA1	c.181T>G	Sensitive
+1639	dbmcs	Rucaparib	BRCA1	c.191G>A	Sensitive
+1640	dbmcs	Rucaparib	BRCA1	c.211A>G	Sensitive
+1641	dbmcs	Rucaparib	BRCA1	c.212G>A	Sensitive
+1642	dbmcs	Rucaparib	BRCA1	c.4484G>T	Sensitive
+1643	dbmcs	Rucaparib	BRCA1	c.4675G>A	Sensitive
+1644	dbmcs	Rucaparib	BRCA1	c.5074G>A	Sensitive
+1645	dbmcs	Rucaparib	BRCA1	c.4327C>T	Sensitive
+1646	dbmcs	Rucaparib	BRCA1	c.4399C>T	Sensitive
+1647	dbmcs	Olaparib	BRCA1	c.5445G>A	Sensitive
+1648	dbmcs	Rucaparib	BRCA2	c.2T>G	Sensitive
+1649	dbmcs	Rucaparib	BRCA2	c.3G>T	Sensitive
+1650	dbmcs	Rucaparib	BRCA2	c.475G>A	Sensitive
+1651	dbmcs	Rucaparib	BRCA2	c.631G>C	Sensitive
+1652	dbmcs	Rucaparib	BRCA2	c.631G>A	Sensitive
+1653	dbmcs	Rucaparib	BRCA2	c.7007G>C	Sensitive
+1654	dbmcs	Rucaparib	BRCA2	c.7007G>A	Sensitive
+1655	dbmcs	Ruxolitinib	CALR	c.1153_1154insTAATT	Sensitive
+1656	dbmcs	Dasatinib	CBL	c.1111T>C	Sensitive
+1657	dbmcs	Dasatinib	CBL	c.1150T>C	Sensitive
+1658	dbmcs	JAK inhibitors	CBL	c.1111T>C	Sensitive
+1659	dbmcs	JAK inhibitors	CBL	c.1150T>C	Sensitive
+1660	dbmcs	Palbociclib	CDK4	c.70C>T	Sensitive
+1661	dbmcs	Palbociclib	CDKN2A	c.238C>T	Sensitive
+1662	dbmcs	Imatinib	CSF1R	c.1711T>G	Sensitive
+1663	dbmcs	Ruxolitinib	CSF3R	c.1853C>T	Sensitive
+1664	dbmcs	Ruxolitinib	CSF3R	c.1843A>G	Sensitive
+1665	dbmcs	Dasatinib	CSF3R	c.2221_2223	Sensitive
+1666	dbmcs	Dasatinib	CSF3R	c.2254_2256	Sensitive
+1667	dbmcs	Dasatinib	CSF3R	c.2371_2373	Sensitive
+1668	dbmcs	Dasatinib	CSF3R	c.2311_2310	Sensitive
+1669	dbmcs	Dasatinib	CSF3R	c.2347_2346	Sensitive
+1670	dbmcs	Ibrutinib + Ruxolitinib	CSF3R	c.2221C>T	Sensitive
+1671	dbmcs	Ruxolitinib	CSF3R	c.2221C>T	Sensitive
+1672	dbmcs	Ibrutinib	CSF3R	c.2221C>T	Sensitive
+1673	dbmcs	Ibrutinib	CSF3R	c.1853C>T	Sensitive
+1674	dbmcs	Ibrutinib + Ruxolitinib	CSF3R	c.1853C>T	Sensitive
+1675	dbmcs	Ruxolitinib	CSF3R	c.1853C>T	Sensitive
+1676	dbmcs	Ruxolitinib	CSF3R	c.1919C>A	Sensitive
+1677	dbmcs	Trametinib	CSF3R	c.1828A>C	Sensitive
+1678	dbmcs	Ruxolitinib	CSF3R	c.1828A>C	Sensitive
+1679	dbmcs	Ruxolitinib	CSF3R	c.1829A>G	Sensitive
+1680	dbmcs	Trametinib	CSF3R	c.1829A>G	Sensitive
+1681	dbmcs	Everolimus + Letrozole	CTNNB1	c.106C>T	Sensitive
+1682	dbmcs	Everolimus + Letrozole	CTNNB1	c.110C>G	Sensitive
+1683	dbmcs	Everolimus + Letrozole	CTNNB1	c.110C>A	Sensitive
+1684	dbmcs	Everolimus + Letrozole	CTNNB1	c.95A>T	Sensitive
+1685	dbmcs	NTRC 0066-0	CTNNB1	c.133_135delTCT	Sensitive
+1686	dbmcs	NMS-P715	CTNNB1	c.133_135delTCT	Sensitive
+1687	dbmcs	BAY1217389	CTNNB1	c.133_135delTCT	Sensitive
+1688	dbmcs	MPI-0479605	CTNNB1	c.133_135delTCT	Sensitive
+1689	dbmcs	Mps1-IN-1	CTNNB1	c.133_135delTCT	Sensitive
+1690	dbmcs	BAY1161909	CTNNB1	c.133_135delTCT	Sensitive
+1691	dbmcs	Mps-BAY2b	CTNNB1	c.133_135delTCT	Sensitive
+1692	dbmcs	NMS-P715	CTNNB1	c.121A>G	Sensitive
+1693	dbmcs	BAY1217389	CTNNB1	c.121A>G	Sensitive
+1694	dbmcs	BAY1161909	CTNNB1	c.121A>G	Sensitive
+1695	dbmcs	Mps-BAY2b	CTNNB1	c.121A>G	Sensitive
+1696	dbmcs	MPI-0479605	CTNNB1	c.121A>G	Sensitive
+1697	dbmcs	Imatinib	CTNNB1	c.121A>G	Sensitive
+1698	dbmcs	NTRC 0066-0	CTNNB1	c.121A>G	Sensitive
+1699	dbmcs	Mps1-IN-1	CTNNB1	c.121A>G	Sensitive
+1700	dbmcs	NMS-P715	CTNNB1	c.98C>A	Sensitive
+1701	dbmcs	Mps-BAY2b	CTNNB1	c.98C>A	Sensitive
+1702	dbmcs	Mps1-IN-1	CTNNB1	c.98C>A	Sensitive
+1703	dbmcs	NTRC 0066-0	CTNNB1	c.98C>A	Sensitive
+1704	dbmcs	MPI-0479605	CTNNB1	c.98C>A	Sensitive
+1705	dbmcs	BAY1217389	CTNNB1	c.98C>A	Sensitive
+1706	dbmcs	BAY1161909	CTNNB1	c.98C>A	Sensitive
+1707	dbmcs	BAY1217389	CTNNB1	c.134C>T	Sensitive
+1708	dbmcs	NTRC 0066-0	CTNNB1	c.134C>T	Sensitive
+1709	dbmcs	Imatinib	CTNNB1	c.134C>T	Sensitive
+1710	dbmcs	MPI-0479605	CTNNB1	c.134C>T	Sensitive
+1711	dbmcs	Mps-BAY2b	CTNNB1	c.134C>T	Sensitive
+1712	dbmcs	NMS-P715	CTNNB1	c.134C>T	Sensitive
+1713	dbmcs	Mps1-IN-1	CTNNB1	c.134C>T	Sensitive
+1714	dbmcs	Dasatinib	DDR2	c.1912A>T	Sensitive
+1715	dbmcs	Dasatinib	DDR2	c.716T>G	Sensitive
+1716	dbmcs	Dasatinib	DDR2	c.757G>T	Sensitive
+1717	dbmcs	Dasatinib	DDR2	c.2321G>T	Sensitive
+1718	dbmcs	Dasatinib	DDR2	c.187C>G	Sensitive
+1719	dbmcs	Dasatinib	DDR2	c.1513G>A	Sensitive
+1720	dbmcs	Dasatinib	DDR2	c.2304T>G	Sensitive
+1721	dbmcs	Erlotinib	DDR2	c.2304T>G	Sensitive
+1722	dbmcs	Dasatinib + Erlotinib	DDR2	c.2304T>A	Sensitive
+1723	dbmcs	Dasatinib + Erlotinib	DDR2	c.2304T>G	Sensitive
+1724	dbmcs	Nilotinib + Saracatinib	DDR2	c.757G>T	Sensitive
+1725	dbmcs	Ponatinib	DDR2	c.757G>T	Sensitive
+1726	dbmcs	Ponatinib	DDR2	c.716T>G	Sensitive
+1727	dbmcs	Nilotinib + Saracatinib	DDR2	c.716T>G	Sensitive
+1728	dbmcs	Ponatinib	DDR2	c.1912A>T	Sensitive
+1729	dbmcs	Nilotinib + Saracatinib	DDR2	c.1912A>T	Sensitive
+1730	dbmcs	Nilotinib + Saracatinib	DDR2	c.2321G>T	Sensitive
+1731	dbmcs	Ponatinib	DDR2	c.2321G>T	Sensitive
+1732	dbmcs	Nilotinib + Saracatinib	DDR2	c.187C>G	Sensitive
+1733	dbmcs	Ponatinib	DDR2	c.187C>G	Sensitive
+1734	dbmcs	Nilotinib + Saracatinib	DDR2	c.1513G>A	Sensitive
+1735	dbmcs	Ponatinib	DDR2	c.1513G>A	Sensitive
+1736	dbmcs	Idarubicin	DNMT3A	c.2645G>A	Sensitive
+1737	dbmcs	Capecitabine	DPYD	c.1679T>G	Sensitive
+1738	dbmcs	Capecitabine	DPYD	c.2846A>T	Sensitive
+1739	dbmcs	Fluorouracil	DPYD	c.1679T>G	Sensitive
+1740	dbmcs	Fluorouracil	DPYD	c.2846A>T	Sensitive
+1741	dbmcs	Tegafur	DPYD	c.1679T>G	Sensitive
+1742	dbmcs	Tegafur	DPYD	c.2846A>T	Sensitive
+1743	dbmcs	Rociletinib	EGFR	c.2369C>T	Sensitive
+1744	dbmcs	Olmutinib	EGFR	c.2369C>T	Sensitive
+1745	dbmcs	Afatinib	EGFR	c.2573T>G	Sensitive
+1746	dbmcs	Afatinib	EGFR	c.2582T>A	Sensitive
+1747	dbmcs	Afatinib	EGFR	c.2156G>C	Sensitive
+1748	dbmcs	Afatinib	EGFR	c.2155G>A	Sensitive
+1749	dbmcs	Afatinib	EGFR	c.2155G>T	Sensitive
+1750	dbmcs	Afatinib	EGFR	c.2156G>A	Sensitive
+1751	dbmcs	Afatinib	EGFR	c.2240T>C	Sensitive
+1752	dbmcs	Afatinib	EGFR	c.2303G>T	Sensitive
+1753	dbmcs	Afatinib	EGFR	c.2582T>C	Sensitive
+1754	dbmcs	Afatinib	EGFR	c.2582T>G	Sensitive
+1755	dbmcs	Afatinib + Cetuximab	EGFR	c.2573T>G	Sensitive
+1756	dbmcs	Afatinib + Cetuximab	EGFR	c.2582T>A	Sensitive
+1757	dbmcs	Afatinib + Cetuximab	EGFR	c.2156G>C	Sensitive
+1758	dbmcs	Afatinib + Cetuximab	EGFR	c.2155G>A	Sensitive
+1759	dbmcs	Afatinib + Cetuximab	EGFR	c.2155G>T	Sensitive
+1760	dbmcs	Afatinib + Cetuximab	EGFR	c.2156G>A	Sensitive
+1761	dbmcs	Afatinib + Cetuximab	EGFR	c.2240T>C	Sensitive
+1762	dbmcs	Afatinib + Cetuximab	EGFR	c.2303G>T	Sensitive
+1763	dbmcs	Afatinib + Cetuximab	EGFR	c.2582T>C	Sensitive
+1764	dbmcs	Afatinib + Cetuximab	EGFR	c.2582T>G	Sensitive
+1765	dbmcs	Afatinib + Cetuximab	EGFR	c.2369C>T	Sensitive
+1766	dbmcs	Afatinib + Nimotuzumab	EGFR	c.2369C>T	Sensitive
+1767	dbmcs	Cetuximab	EGFR	c.1636C>T	Sensitive
+1768	dbmcs	Cetuximab + Sirolimus	EGFR	c.2257C>T	Sensitive
+1769	dbmcs	Erlotinib	EGFR	c.866C>T	Sensitive
+1770	dbmcs	Erlotinib	EGFR	c.323G>A	Sensitive
+1771	dbmcs	Erlotinib	EGFR	c.1793G>T	Sensitive
+1772	dbmcs	Erlotinib	EGFR	c.787A>C	Sensitive
+1773	dbmcs	Erlotinib	EGFR	c.2270A>G	Sensitive
+1774	dbmcs	Erlotinib	EGFR	c.2237A>G	Sensitive
+1775	dbmcs	Erlotinib	EGFR	c.2573T>G	Sensitive
+1776	dbmcs	Gefitinib	EGFR	c.2573T>G	Sensitive
+1777	dbmcs	Gefitinib	EGFR	c.2582T>A	Sensitive
+1778	dbmcs	Gefitinib	EGFR	c.2156G>C	Sensitive
+1779	dbmcs	Gefitinib	EGFR	c.2155G>A	Sensitive
+1780	dbmcs	Gefitinib	EGFR	c.2155G>T	Sensitive
+1781	dbmcs	Gefitinib	EGFR	c.2156G>A	Sensitive
+1782	dbmcs	Gefitinib	EGFR	c.2240T>C	Sensitive
+1783	dbmcs	Gefitinib	EGFR	c.2582T>C	Sensitive
+1784	dbmcs	Gefitinib	EGFR	c.2582T>G	Sensitive
+1785	dbmcs	Lapatinib	EGFR	c.2068G>A	Sensitive
+1786	dbmcs	Osimertinib	EGFR	c.2573T>G	Sensitive
+1787	dbmcs	Osimertinib	EGFR	c.2369C>T	Sensitive
+1788	dbmcs	Panitumumab	EGFR	c.1476C>G	Sensitive
+1789	dbmcs	Gefitinib	EGFR	c.2185_2283	Sensitive
+1790	dbmcs	Pemetrexed + Erlotinib	EGFR	c.2369C>T	Sensitive
+1791	dbmcs	Staurosporine	EGFR	c.2369C>T	Sensitive
+1792	dbmcs	Erlotinib	EGFR	c.2185_2283	Sensitive
+1793	dbmcs	Cetuximab	EGFR	c.2170G>A	Sensitive
+1794	dbmcs	Cetuximab	EGFR	c.2155G>A	Sensitive
+1795	dbmcs	Afatinib	EGFR	c.2573T>G	Sensitive
+1796	dbmcs	Afatinib	EGFR	c.2185_2283	Sensitive
+1797	dbmcs	Afatinib	EGFR	c.2185_2283	Sensitive
+1798	dbmcs	Gefitinib	EGFR	c.3274_3276	Sensitive
+1799	dbmcs	Erlotinib	EGFR	c.3274_3276	Sensitive
+1800	dbmcs	Afatinib	EGFR	c.2186_2283+1del99	Sensitive
+1801	dbmcs	Afatinib	EGFR	c.2186_2283+1del99	Sensitive
+1802	dbmcs	Futuximab	EGFR	c.1393G>A	Sensitive
+1803	dbmcs	Panitumumab	EGFR	c.1476C>A	Sensitive
+1804	dbmcs	Futuximab	EGFR	c.1476C>A	Sensitive
+1805	dbmcs	Panitumumab	EGFR	c.1351C>T	Sensitive
+1806	dbmcs	Futuximab	EGFR	c.1351C>T	Sensitive
+1807	dbmcs	Futuximab	EGFR	c.1400A>C	Sensitive
+1808	dbmcs	Panitumumab	EGFR	c.1400A>C	Sensitive
+1809	dbmcs	Sirolimus + Cetuximab	EGFR	c.2257C>T	Sensitive
+1810	dbmcs	Gefitinib	EGFR	c.2303G>T	Sensitive
+1811	dbmcs	Osimertinib	EGFR	c.2369C>T	Sensitive
+1812	dbmcs	Erlotinib	EGFR	c.2155G>A	Sensitive
+1813	dbmcs	Erlotinib	EGFR	c.2155_2156	Sensitive
+1814	dbmcs	Erlotinib	EGFR	c.2308_2309insCAAGCGTAG	Sensitive
+1815	dbmcs	Neratinib	EGFR	c.2369C>T	Sensitive
+1816	dbmcs	Canertinib	EGFR	c.2369C>T	Sensitive
+1817	dbmcs	Gefitinib	EGFR	c.2573T>G	Sensitive
+1818	dbmcs	Lapatinib	EGFR	c.2573T>G	Sensitive
+1819	dbmcs	Dacomitinib	EGFR	c.2573T>G	Sensitive
+1820	dbmcs	Neratinib	EGFR	c.2573T>G	Sensitive
+1821	dbmcs	Canertinib	EGFR	c.2573T>G	Sensitive
+1822	dbmcs	Gefitinib	EGFR	c.2573T>G	Sensitive
+1823	dbmcs	Erlotinib	EGFR	c.2573T>G	Sensitive
+1824	dbmcs	AEE-788	EGFR	c.2573T>G	Sensitive
+1825	dbmcs	Gefitinib	EGFR	c.2155_2157	Sensitive
+1826	dbmcs	Erlotinib	EGFR	c.2155_2157	Sensitive
+1827	dbmcs	Erlotinib	EGFR	c.2225T>C	Sensitive
+1828	dbmcs	Erlotinib	EGFR	c.2156G>A	Sensitive
+1829	dbmcs	Gefitinib	EGFR	c.2321T>C	Sensitive
+1830	dbmcs	Gefitinib	EGFR	c.2500_2502delGTGinsATC	Sensitive
+1831	dbmcs	Gefitinib	EGFR	c.2513T>C	Sensitive
+1832	dbmcs	Erlotinib	EGFR	c.2551G>A	Sensitive
+1833	dbmcs	Erlotinib	EGFR	c.2240_2257del18	Sensitive
+1834	dbmcs	Erlotinib	EGFR	c.2492G>A	Sensitive
+1835	dbmcs	Erlotinib	EGFR	c.2573T>G	Sensitive
+1836	dbmcs	Cetuximab	EGFR	c.2573T>G	Sensitive
+1837	dbmcs	Gefitinib	EGFR	c.2581_2583	Sensitive
+1838	dbmcs	Erlotinib	EGFR	c.2581_2583	Sensitive
+1839	dbmcs	Erlotinib	EGFR	c.2582T>A	Sensitive
+1840	dbmcs	Erlotinib	EGFR	c.2603A>G	Sensitive
+1841	dbmcs	Erlotinib	EGFR	c.2326C>T	Sensitive
+1842	dbmcs	Erlotinib	EGFR	c.2192G>T	Sensitive
+1843	dbmcs	Erlotinib	EGFR	c.2200G>C	Sensitive
+1844	dbmcs	Erlotinib	EGFR	c.2353A>G	Sensitive
+1845	dbmcs	Erlotinib	EGFR	c.2390G>A	Sensitive
+1846	dbmcs	Erlotinib	EGFR	c.2401T>C	Sensitive
+1847	dbmcs	Dacomitinib	EGFR	c.2185_2283	Sensitive
+1848	dbmcs	Erlotinib	EGFR	c.2582T>A	Sensitive
+1849	dbmcs	Erlotinib	EGFR	c.2156G>C	Sensitive
+1850	dbmcs	Erlotinib	EGFR	c.2155G>A	Sensitive
+1851	dbmcs	Erlotinib	EGFR	c.2155G>T	Sensitive
+1852	dbmcs	Erlotinib	EGFR	c.2156G>A	Sensitive
+1853	dbmcs	Erlotinib	EGFR	c.2240T>C	Sensitive
+1854	dbmcs	Erlotinib	EGFR	c.2303G>T	Sensitive
+1855	dbmcs	Erlotinib	EGFR	c.2582T>C	Sensitive
+1856	dbmcs	Erlotinib	EGFR	c.2582T>G	Sensitive
+1857	dbmcs	Erlotinib	EGFR	c.2185_2283	Sensitive
+1858	dbmcs	Gefitinib	EGFR	c.2185_2283	Sensitive
+1859	dbmcs	Poziotinib	EGFR	c.2310_2311insGGT	Sensitive
+1860	dbmcs	Osimertinib	EGFR	c.2310_2311insGGT	Sensitive
+1861	dbmcs	TAS6417	EGFR	c.2310_2311insGGT	Sensitive
+1862	dbmcs	Poziotinib	EGFR	c.2311_2313delinsTTTCAT	Sensitive
+1863	dbmcs	Gefitinib	EGFR	c.2239_2253delinsCCT	Sensitive
+1864	dbmcs	Erlotinib	EGFR	c.2239_2253delinsCCT	Sensitive
+1865	dbmcs	Rociletinib	EGFR	c.2239_2253delinsCCT	Sensitive
+1866	dbmcs	Gefitinib	EGFR	c.2239_2253delinsCCT	Sensitive
+1867	dbmcs	Afatinib	EGFR	c.2239_2253delinsCCT	Sensitive
+1868	dbmcs	Osimertinib	EGFR	c.2236_2237insTACCTGTAGCAATCAAGG	Sensitive
+1869	dbmcs	Afatinib	EGFR	c.2236_2237insTACCTGTAGCAATCAAGG	Sensitive
+1870	dbmcs	AUY922	EGFR	c.2292_2293insCATCAT	Sensitive
+1871	dbmcs	Poziotinib	EGFR	c.2299_2307	Sensitive
+1872	dbmcs	TAS6417	EGFR	c.2299_2307	Sensitive
+1873	dbmcs	Naquotinib	EGFR	c.2299_2307	Sensitive
+1874	dbmcs	Nazartinib	EGFR	c.2299_2307	Sensitive
+1875	dbmcs	AUY922	EGFR	c.2299_2307	Sensitive
+1876	dbmcs	Poziotinib	EGFR	c.2299_2307	Sensitive
+1877	dbmcs	Osimertinib	EGFR	c.2299_2307	Sensitive
+1878	dbmcs	Osimertinib	EGFR	c.664C>T	Sensitive
+1879	dbmcs	Afatinib	EGFR	c.664C>T	Sensitive
+1880	dbmcs	AUY922	EGFR	c.2308_2309insCAAGCGTAG	Sensitive
+1881	dbmcs	Neratinib	EGFR	c.2153T>A	Sensitive
+1882	dbmcs	Cetuximab	EGFR	c.2153T>A	Sensitive
+1883	dbmcs	EKI-285	EGFR	c.2153T>A	Sensitive
+1884	dbmcs	Afatinib	EGFR	c.2153T>A	Sensitive
+1885	dbmcs	Poziotinib	EGFR	c.2302_2310	Sensitive
+1886	dbmcs	Neratinib	EGFR	c.2302_2310	Sensitive
+1887	dbmcs	Nazartinib	EGFR	c.2302_2310	Sensitive
+1888	dbmcs	AUY922	EGFR	c.2302_2310	Sensitive
+1889	dbmcs	Poziotinib	EGFR	c.2302_2310	Sensitive
+1890	dbmcs	Osimertinib	EGFR	c.2302_2310	Sensitive
+1891	dbmcs	TAS6417	EGFR	c.2302_2310	Sensitive
+1892	dbmcs	Osimertinib	EGFR	c.2302_2310	Sensitive
+1893	dbmcs	AUY922	EGFR	c.2302_2310	Sensitive
+1894	dbmcs	Osimertinib	EGFR	c.2293G>A	Sensitive
+1895	dbmcs	Erlotinib	EGFR	c.2293G>A	Sensitive
+1896	dbmcs	Afatinib	EGFR	c.2293G>A	Sensitive
+1897	dbmcs	Erlotinib	EGFR	c.2504A>T	Sensitive
+1898	dbmcs	Gefitinib	EGFR	c.2504A>T	Sensitive
+1899	dbmcs	Afatinib	EGFR	c.2504A>T	Sensitive
+1900	dbmcs	Osimertinib	EGFR	c.2504A>T	Sensitive
+1901	dbmcs	Rociletinib	EGFR	c.2504A>T	Sensitive
+1902	dbmcs	Osimertinib	EGFR	c.2551G>A	Sensitive
+1903	dbmcs	Afatinib	EGFR	c.3458G>T	Sensitive
+1904	dbmcs	Erlotinib	EGFR	c.3458G>T	Sensitive
+1905	dbmcs	Osimertinib	EGFR	c.3458G>T	Sensitive
+1906	dbmcs	Erlotinib	EGFR	c.2611G>A	Sensitive
+1907	dbmcs	Afatinib	EGFR	c.2611G>A	Sensitive
+1908	dbmcs	Osimertinib	EGFR	c.2257C>T	Sensitive
+1909	dbmcs	Afatinib	EGFR	c.2257C>T	Sensitive
+1910	dbmcs	Osimertinib	EGFR	c.185T>G	Sensitive
+1911	dbmcs	Cetuximab	EGFR	c.185T>G	Sensitive
+1912	dbmcs	Erlotinib	EGFR	c.185T>G	Sensitive
+1913	dbmcs	Afatinib	EGFR	c.185T>G	Sensitive
+1914	dbmcs	AUY922	EGFR	c.2316_2317insGGTAACCCT	Sensitive
+1915	dbmcs	Naquotinib	EGFR	c.2316_2317insGGTAACCCT	Sensitive
+1916	dbmcs	Osimertinib	EGFR	c.2316_2317insGGTAACCCT	Sensitive
+1917	dbmcs	Poziotinib	EGFR	c.2316_2317insGGTAACCCT	Sensitive
+1918	dbmcs	Afatinib	EGFR	c.2316_2317insGGTAACCCT	Sensitive
+1919	dbmcs	Cetuximab	EGFR	c.1793G>T	Sensitive
+1920	dbmcs	Osimertinib	EGFR	c.1793G>T	Sensitive
+1921	dbmcs	Afatinib	EGFR	c.1793G>T	Sensitive
+1922	dbmcs	Erlotinib	EGFR	c.2155G>T	Sensitive
+1923	dbmcs	Dacomitinib	EGFR	c.2155G>T	Sensitive
+1924	dbmcs	Osimertinib	EGFR	c.2155G>T	Sensitive
+1925	dbmcs	Osimertinib	EGFR	c.2582T>A	Sensitive
+1926	dbmcs	Afatinib	EGFR	c.2582T>A	Sensitive
+1927	dbmcs	Erlotinib	EGFR	c.2582T>A	Sensitive
+1928	dbmcs	Lazertinib	EGFR	c.2582T>A	Sensitive
+1929	dbmcs	MM-151	EGFR	c.1393G>A	Sensitive
+1930	dbmcs	Osimertinib	EGFR	c.2290_2291insTTCAAGAGGCAT	Sensitive
+1931	dbmcs	Gefitinib	EGFR	c.2290_2291insTTCAAGAGGCAT	Sensitive
+1932	dbmcs	Naquotinib	EGFR	c.2290_2291insTTCAAGAGGCAT	Sensitive
+1933	dbmcs	Afatinib	EGFR	c.2290_2291insTTCAAGAGGCAT	Sensitive
+1934	dbmcs	Erlotinib	EGFR	c.2290_2291insTTCAAGAGGCAT	Sensitive
+1935	dbmcs	AUY922	EGFR	c.2290_2291insTTCAAGAGGCAT	Sensitive
+1936	dbmcs	Poziotinib	EGFR	c.2290_2291insTTCAAGAGGCAT	Sensitive
+1937	dbmcs	TAS6417	EGFR	c.2290_2291insTTCAAGAGGCAT	Sensitive
+1938	dbmcs	Erlotinib	EGFR	c.2290_2291insTTCAAGAGGCAT	Sensitive
+1939	dbmcs	Afatinib	EGFR	c.323G>A	Sensitive
+1940	dbmcs	Cetuximab	EGFR	c.323G>A	Sensitive
+1941	dbmcs	Osimertinib	EGFR	c.323G>A	Sensitive
+1942	dbmcs	Afatinib	EGFR	c.2593G>A	Sensitive
+1943	dbmcs	Neratinib	EGFR	c.2530C>G	Sensitive
+1944	dbmcs	EKI-285	EGFR	c.2530C>G	Sensitive
+1945	dbmcs	Afatinib	EGFR	c.2530C>G	Sensitive
+1946	dbmcs	Afatinib	EGFR	c.2579A>T	Sensitive
+1947	dbmcs	Osimertinib	EGFR	c.2579A>T	Sensitive
+1948	dbmcs	Gefitinib	EGFR	c.2500G>A	Sensitive
+1949	dbmcs	Afatinib	EGFR	c.2500G>A	Sensitive
+1950	dbmcs	Erlotinib	EGFR	c.102_869del11834	Sensitive
+1951	dbmcs	Erlotinib	EGFR	c.2621G>A	Sensitive
+1952	dbmcs	Osimertinib	EGFR	c.2620G>A	Sensitive
+1953	dbmcs	Erlotinib	EGFR	c.2620G>A	Sensitive
+1954	dbmcs	Afatinib	EGFR	c.2620G>A	Sensitive
+1955	dbmcs	Afatinib	EGFR	c.2239_2240delTTinsCC	Sensitive
+1956	dbmcs	Erlotinib	EGFR	c.2235_2236insACACCTGTAGCAATCAAG	Sensitive
+1957	dbmcs	Osimertinib	EGFR	c.2252C>T	Sensitive
+1958	dbmcs	Afatinib	EGFR	c.2125_2127	Sensitive
+1959	dbmcs	Afatinib	EGFR	c.2232C>G	Sensitive
+1960	dbmcs	AUY922	EGFR	c.2314_2319	Sensitive
+1961	dbmcs	TAS6417	EGFR	c.2314_2319	Sensitive
+1962	dbmcs	Afatinib	EGFR	c.2156G>C	Sensitive
+1963	dbmcs	Dacomitinib	EGFR	c.2156G>C	Sensitive
+1964	dbmcs	Neratinib	EGFR	c.2156G>C	Sensitive
+1965	dbmcs	Dacomitinib	EGFR	c.2156G>C	Sensitive
+1966	dbmcs	Erlotinib	EGFR	c.2156G>C	Sensitive
+1967	dbmcs	Osimertinib	EGFR	c.2497T>G	Sensitive
+1968	dbmcs	Cetuximab	EGFR	c.2497T>G	Sensitive
+1969	dbmcs	Afatinib	EGFR	c.2497T>G	Sensitive
+1970	dbmcs	Afatinib	EGFR	c.2141A>G	Sensitive
+1971	dbmcs	Cetuximab	EGFR	c.2141A>G	Sensitive
+1972	dbmcs	Osimertinib	EGFR	c.2326C>T	Sensitive
+1973	dbmcs	Afatinib	EGFR	c.2326C>T	Sensitive
+1974	dbmcs	Osimertinib	EGFR	c.2618G>A	Sensitive
+1975	dbmcs	Afatinib	EGFR	c.865G>A	Sensitive
+1976	dbmcs	Osimertinib	EGFR	c.865G>A	Sensitive
+1977	dbmcs	Cetuximab	EGFR	c.865G>A	Sensitive
+1978	dbmcs	AUY922	EGFR	c.2310_2311insGGTGTA	Sensitive
+1979	dbmcs	TAS6417	EGFR	c.2311_2319	Sensitive
+1980	dbmcs	Dacomitinib	EGFR	c.2311_2319	Sensitive
+1981	dbmcs	Poziotinib	EGFR	c.2311_2319	Sensitive
+1982	dbmcs	Nazartinib	EGFR	c.2311_2319	Sensitive
+1983	dbmcs	Afatinib	EGFR	c.2311_2319	Sensitive
+1984	dbmcs	Neratinib	EGFR	c.2311_2319	Sensitive
+1985	dbmcs	Osimertinib	EGFR	c.2311_2319	Sensitive
+1986	dbmcs	Erlotinib	EGFR	c.2086_3099	Sensitive
+1987	dbmcs	Afatinib	EGFR	c.2086_3099	Sensitive
+1988	dbmcs	Osimertinib	EGFR	c.2086_3099	Sensitive
+1989	dbmcs	Afatinib	EGFR	c.2086_3099	Sensitive
+1990	dbmcs	Afatinib	EGFR	c.2222C>T	Sensitive
+1991	dbmcs	Osimertinib	EGFR	c.2222C>T	Sensitive
+1992	dbmcs	Erlotinib	EGFR	c.2499G>T	Sensitive
+1993	dbmcs	Osimertinib	EGFR	c.2499G>T	Sensitive
+1994	dbmcs	Afatinib	EGFR	c.2499G>T	Sensitive
+1995	dbmcs	EAI045	EGFR	c.2573T>G	Sensitive
+1996	dbmcs	TAE226	EGFR	c.2573T>G	Sensitive
+1997	dbmcs	EKI-285	EGFR	c.2573T>G	Sensitive
+1998	dbmcs	Osimertinib	EGFR	c.2573T>G	Sensitive
+1999	dbmcs	Naquotinib	EGFR	c.2573T>G	Sensitive
+2000	dbmcs	Lazertinib	EGFR	c.2573T>G	Sensitive
+2001	dbmcs	Bevacizumab + Erlotinib	EGFR	c.2573T>G	Sensitive
+2002	dbmcs	Lifirafenib	EGFR	c.2573T>G	Sensitive
+2003	dbmcs	Brigatinib	EGFR	c.2573T>G	Sensitive
+2004	dbmcs	TAS-121	EGFR	c.2573T>G	Sensitive
+2005	dbmcs	Buparlisib + Osimertinib	EGFR	c.2573T>G	Sensitive
+2006	dbmcs	Icotinib	EGFR	c.2573T>G	Sensitive
+2007	dbmcs	Osimertinib + Selumetinib	EGFR	c.2573T>G	Sensitive
+2008	dbmcs	Rociletinib	EGFR	c.2573T>G	Sensitive
+2009	dbmcs	Dasatinib + Selumetinib	EGFR	c.2573T>G	Sensitive
+2010	dbmcs	Ibrutinib	EGFR	c.2573T>G	Sensitive
+2011	dbmcs	Afatinib + Cetuximab	EGFR	c.2573T>G	Sensitive
+2012	dbmcs	Gefitinib + Pemetrexed	EGFR	c.2573T>G	Sensitive
+2013	dbmcs	AV-412	EGFR	c.2573T>G	Sensitive
+2014	dbmcs	Afatinib	EGFR	c.2573T>G	Sensitive
+2015	dbmcs	Cabozantinib + Erlotinib	EGFR	c.2573T>G	Sensitive
+2016	dbmcs	AZD-3759	EGFR	c.2573T>G	Sensitive
+2017	dbmcs	Vandetanib	EGFR	c.2573T>G	Sensitive
+2018	dbmcs	JBJ-04-125-02	EGFR	c.2573T>G	Sensitive
+2019	dbmcs	Osimertinib	EGFR	c.2335G>A	Sensitive
+2020	dbmcs	Afatinib	EGFR	c.2240_2254del15	Sensitive
+2021	dbmcs	Rociletinib	EGFR	c.2240_2254del15	Sensitive
+2022	dbmcs	Erlotinib	EGFR	c.2240_2254del15	Sensitive
+2023	dbmcs	Gefitinib	EGFR	c.2240_2254del15	Sensitive
+2024	dbmcs	Afatinib	EGFR	c.2236_2250delinsATCCCT	Sensitive
+2025	dbmcs	Erlotinib	EGFR	c.2236_2250delinsATCCCT	Sensitive
+2026	dbmcs	Osimertinib	EGFR	c.2236_2250delinsATCCCT	Sensitive
+2027	dbmcs	Gefitinib	EGFR	c.2236_2250delinsATCCCT	Sensitive
+2028	dbmcs	Rociletinib	EGFR	c.2236_2250delinsATCCCT	Sensitive
+2029	dbmcs	Cetuximab	EGFR	c.2389T>A	Sensitive
+2030	dbmcs	Erlotinib	EGFR	c.2251_2277delinsAAC	Sensitive
+2031	dbmcs	Rociletinib	EGFR	c.2251_2277delinsAAC	Sensitive
+2032	dbmcs	Afatinib	EGFR	c.2251_2277delinsAAC	Sensitive
+2033	dbmcs	Gefitinib	EGFR	c.2251_2277delinsAAC	Sensitive
+2034	dbmcs	Osimertinib	EGFR	c.2251_2277delinsAAC	Sensitive
+2035	dbmcs	hEGFRvIII-CD3 bi-scFv	EGFR	c.89_889del11867	Sensitive
+2036	dbmcs	ER2	EGFR	c.2236_2250del15	Sensitive
+2037	dbmcs	Erlotinib	EGFR	c.2236_2250del15	Sensitive
+2038	dbmcs	Erlotinib + Ganetespib	EGFR	c.2236_2250del15	Sensitive
+2039	dbmcs	Vandetanib	EGFR	c.2236_2250del15	Sensitive
+2040	dbmcs	Naquotinib	EGFR	c.2236_2250del15	Sensitive
+2041	dbmcs	Cisplatin + ER2	EGFR	c.2236_2250del15	Sensitive
+2042	dbmcs	Trametinib + WZ4002	EGFR	c.2236_2250del15	Sensitive
+2043	dbmcs	Gedatolisib	EGFR	c.2236_2250del15	Sensitive
+2044	dbmcs	Lifirafenib	EGFR	c.2236_2250del15	Sensitive
+2045	dbmcs	Brigatinib	EGFR	c.2236_2250del15	Sensitive
+2046	dbmcs	Afatinib	EGFR	c.2236_2250del15	Sensitive
+2047	dbmcs	Osimertinib	EGFR	c.2236_2250del15	Sensitive
+2048	dbmcs	Abivertinib	EGFR	c.2236_2250del15	Sensitive
+2049	dbmcs	TAS6417	EGFR	c.2236_2250del15	Sensitive
+2050	dbmcs	Gefitinib	EGFR	c.2236_2250del15	Sensitive
+2051	dbmcs	Afatinib	EGFR	c.754C>T	Sensitive
+2052	dbmcs	Erlotinib	EGFR	c.2215_2232	Sensitive
+2053	dbmcs	Gefitinib	EGFR	c.2215_2232	Sensitive
+2054	dbmcs	Osimertinib	EGFR	c.3352G>A	Sensitive
+2055	dbmcs	Afatinib	EGFR	c.3352G>A	Sensitive
+2056	dbmcs	Gefitinib	EGFR	c.3352G>A	Sensitive
+2057	dbmcs	Rociletinib	EGFR	c.3352G>A	Sensitive
+2058	dbmcs	Erlotinib	EGFR	c.3352G>A	Sensitive
+2059	dbmcs	Gefitinib	EGFR	c.2239_2256del18	Sensitive
+2060	dbmcs	Osimertinib	EGFR	c.866C>T	Sensitive
+2061	dbmcs	Icotinib	EGFR	c.866C>T	Sensitive
+2062	dbmcs	Cetuximab	EGFR	c.866C>T	Sensitive
+2063	dbmcs	Afatinib	EGFR	c.866C>T	Sensitive
+2064	dbmcs	Rociletinib	EGFR	c.2254_2277del24	Sensitive
+2065	dbmcs	Erlotinib	EGFR	c.2254_2277del24	Sensitive
+2066	dbmcs	Gefitinib	EGFR	c.2254_2277del24	Sensitive
+2067	dbmcs	Afatinib	EGFR	c.2254_2277del24	Sensitive
+2068	dbmcs	Osimertinib	EGFR	c.2254_2277del24	Sensitive
+2069	dbmcs	Afatinib	EGFR	c.2492G>T	Sensitive
+2070	dbmcs	Erlotinib	EGFR	c.2492G>T	Sensitive
+2071	dbmcs	Gefitinib	EGFR	c.2492G>T	Sensitive
+2072	dbmcs	Osimertinib	EGFR	c.2492G>T	Sensitive
+2073	dbmcs	Osimertinib	EGFR	c.874G>C	Sensitive
+2074	dbmcs	Afatinib	EGFR	c.874G>C	Sensitive
+2075	dbmcs	Cetuximab	EGFR	c.874G>C	Sensitive
+2076	dbmcs	MM-151	EGFR	c.1391C>T	Sensitive
+2077	dbmcs	Osimertinib	EGFR	c.2560A>G	Sensitive
+2078	dbmcs	Afatinib	EGFR	c.2492G>A	Sensitive
+2079	dbmcs	Osimertinib	EGFR	c.2492G>A	Sensitive
+2080	dbmcs	Afatinib	EGFR	c.910C>T	Sensitive
+2081	dbmcs	Osimertinib	EGFR	c.910C>T	Sensitive
+2082	dbmcs	Cetuximab	EGFR	c.910C>T	Sensitive
+2083	dbmcs	AUY922	EGFR	c.2310_2311insGGTTTT	Sensitive
+2084	dbmcs	Rociletinib	EGFR	c.2239_2259delinsCAA	Sensitive
+2085	dbmcs	Gefitinib	EGFR	c.2239_2259delinsCAA	Sensitive
+2086	dbmcs	Osimertinib	EGFR	c.2239_2259delinsCAA	Sensitive
+2087	dbmcs	Erlotinib	EGFR	c.2239_2259delinsCAA	Sensitive
+2088	dbmcs	Afatinib	EGFR	c.2239_2259delinsCAA	Sensitive
+2089	dbmcs	Osimertinib	EGFR	c.2236_2253delinsGTA	Sensitive
+2090	dbmcs	Erlotinib	EGFR	c.2236_2253delinsGTA	Sensitive
+2091	dbmcs	Afatinib	EGFR	c.2236_2253delinsGTA	Sensitive
+2092	dbmcs	Gefitinib	EGFR	c.2236_2253delinsGTA	Sensitive
+2093	dbmcs	Afatinib	EGFR	c.2203G>A	Sensitive
+2094	dbmcs	Osimertinib	EGFR	c.2203G>A	Sensitive
+2095	dbmcs	Cabozantinib + Erlotinib	EGFR	c.2369C>T	Sensitive
+2096	dbmcs	AV-412	EGFR	c.2369C>T	Sensitive
+2097	dbmcs	CUDC-101	EGFR	c.2369C>T	Sensitive
+2098	dbmcs	Abivertinib	EGFR	c.2369C>T	Sensitive
+2099	dbmcs	BEZ235 + Selumetinib	EGFR	c.2369C>T	Sensitive
+2100	dbmcs	Amlexanox + Selumetinib	EGFR	c.2369C>T	Sensitive
+2101	dbmcs	Dactolisib	EGFR	c.2369C>T	Sensitive
+2102	dbmcs	Afatinib	EGFR	c.2236_2256delinsGTA	Sensitive
+2103	dbmcs	Osimertinib	EGFR	c.2236_2256delinsGTA	Sensitive
+2104	dbmcs	Gefitinib	EGFR	c.2236_2256delinsGTA	Sensitive
+2105	dbmcs	Erlotinib	EGFR	c.2236_2256delinsGTA	Sensitive
+2106	dbmcs	Osimertinib	EGFR	c.2317C>T	Sensitive
+2107	dbmcs	Afatinib	EGFR	c.2317C>T	Sensitive
+2108	dbmcs	Afatinib	EGFR	c.2239_2250del12	Sensitive
+2109	dbmcs	Gefitinib	EGFR	c.2239_2250del12	Sensitive
+2110	dbmcs	Rociletinib	EGFR	c.2239_2250del12	Sensitive
+2111	dbmcs	Osimertinib	EGFR	c.2239_2250del12	Sensitive
+2112	dbmcs	Erlotinib	EGFR	c.2239_2250del12	Sensitive
+2113	dbmcs	Osimertinib	EGFR	c.2527G>A	Sensitive
+2114	dbmcs	Afatinib	EGFR	c.2500G>C	Sensitive
+2115	dbmcs	Osimertinib	EGFR	c.2500G>C	Sensitive
+2116	dbmcs	Afatinib	EGFR	c.2239_2250delinsCCT	Sensitive
+2117	dbmcs	Rociletinib	EGFR	c.2239_2250delinsCCT	Sensitive
+2118	dbmcs	Erlotinib	EGFR	c.2239_2250delinsCCT	Sensitive
+2119	dbmcs	Osimertinib	EGFR	c.2239_2250delinsCCT	Sensitive
+2120	dbmcs	Osimertinib	EGFR	c.866C>A	Sensitive
+2121	dbmcs	Cetuximab	EGFR	c.866C>A	Sensitive
+2122	dbmcs	Osimertinib	EGFR	c.2300C>T	Sensitive
+2123	dbmcs	Afatinib	EGFR	c.2300C>T	Sensitive
+2124	dbmcs	Afatinib	EGFR	c.2127_2129delAAC	Sensitive
+2125	dbmcs	Dacomitinib	EGFR	c.2127_2129delAAC	Sensitive
+2126	dbmcs	Afatinib	EGFR	c.2127_2129delAAC	Sensitive
+2127	dbmcs	Neratinib	EGFR	c.2127_2129delAAC	Sensitive
+2128	dbmcs	Erlotinib	EGFR	c.2218_2235	Sensitive
+2129	dbmcs	Afatinib	EGFR	c.2218_2235	Sensitive
+2130	dbmcs	Osimertinib	EGFR	c.2240T>C	Sensitive
+2131	dbmcs	Afatinib	EGFR	c.2240T>C	Sensitive
+2132	dbmcs	Afatinib	EGFR	c.2512C>G	Sensitive
+2133	dbmcs	MM-151	EGFR	c.1400A>C	Sensitive
+2134	dbmcs	Afatinib	EGFR	c.2126A>G	Sensitive
+2135	dbmcs	Cetuximab	EGFR	c.646G>A	Sensitive
+2136	dbmcs	Erlotinib	EGFR	c.646G>A	Sensitive
+2137	dbmcs	Osimertinib	EGFR	c.646G>A	Sensitive
+2138	dbmcs	Afatinib	EGFR	c.646G>A	Sensitive
+2139	dbmcs	Gefitinib	EGFR	c.646G>A	Sensitive
+2140	dbmcs	Osimertinib	EGFR	c.2305G>A	Sensitive
+2141	dbmcs	Cetuximab	EGFR	c.2305G>A	Sensitive
+2142	dbmcs	Afatinib	EGFR	c.2305G>A	Sensitive
+2143	dbmcs	AUY922	EGFR	c.2308_2316	Sensitive
+2144	dbmcs	Poziotinib	EGFR	c.2308_2316	Sensitive
+2145	dbmcs	Osimertinib	EGFR	c.2543C>T	Sensitive
+2146	dbmcs	Erlotinib	EGFR	c.2543C>T	Sensitive
+2147	dbmcs	Afatinib	EGFR	c.2543C>T	Sensitive
+2148	dbmcs	Gefitinib	EGFR	c.2159C>T	Sensitive
+2149	dbmcs	Osimertinib	EGFR	c.2159C>T	Sensitive
+2150	dbmcs	Erlotinib	EGFR	c.2159C>T	Sensitive
+2151	dbmcs	Afatinib	EGFR	c.2159C>T	Sensitive
+2152	dbmcs	Cetuximab	EGFR	c.2159C>T	Sensitive
+2153	dbmcs	Erlotinib	EGFR	c.2236_2259delinsGTAAGC	Sensitive
+2154	dbmcs	Gefitinib	EGFR	c.2236_2259delinsGTAAGC	Sensitive
+2155	dbmcs	Osimertinib	EGFR	c.2236_2259delinsGTAAGC	Sensitive
+2156	dbmcs	Afatinib	EGFR	c.2236_2259delinsGTAAGC	Sensitive
+2157	dbmcs	Rociletinib	EGFR	c.2236_2259delinsGTAAGC	Sensitive
+2158	dbmcs	AUY922	EGFR	c.2315_2316insTTATAACCC	Sensitive
+2159	dbmcs	Cetuximab	EGFR	c.2125G>A	Sensitive
+2160	dbmcs	Neratinib	EGFR	c.2125G>A	Sensitive
+2161	dbmcs	Afatinib	EGFR	c.2125G>A	Sensitive
+2162	dbmcs	Dacomitinib	EGFR	c.2125G>A	Sensitive
+2163	dbmcs	Afatinib	EGFR	c.1476C>G	Sensitive
+2164	dbmcs	Osimertinib	EGFR	c.1476C>G	Sensitive
+2165	dbmcs	Panitumumab	EGFR	c.1476C>G	Sensitive
+2166	dbmcs	Necitumumab	EGFR	c.1476C>G	Sensitive
+2167	dbmcs	Futuximab	EGFR	c.1476C>G	Sensitive
+2168	dbmcs	MM-151	EGFR	c.1476C>G	Sensitive
+2169	dbmcs	Afatinib	EGFR	c.2317_2318insCTAACCCTC	Sensitive
+2170	dbmcs	Dacomitinib	EGFR	c.2317_2318insCTAACCCTC	Sensitive
+2171	dbmcs	Afatinib	EGFR	c.1787C>T	Sensitive
+2172	dbmcs	Cetuximab	EGFR	c.1787C>T	Sensitive
+2173	dbmcs	Osimertinib	EGFR	c.1787C>T	Sensitive
+2174	dbmcs	Osimertinib	EGFR	c.2283+1_2283+2insAGGCATTTCAAG	Sensitive
+2175	dbmcs	Afatinib	EGFR	c.2283+1_2283+2insAGGCATTTCAAG	Sensitive
+2176	dbmcs	Afatinib	EGFR	c.2107C>A	Sensitive
+2177	dbmcs	MM-151	EGFR	c.1351C>T	Sensitive
+2178	dbmcs	Cetuximab	EGFR	c.2318A>T	Sensitive
+2179	dbmcs	Osimertinib	EGFR	c.2318A>T	Sensitive
+2180	dbmcs	Gefitinib	EGFR	c.2240_2257del18	Sensitive
+2181	dbmcs	Osimertinib	EGFR	c.2240_2257del18	Sensitive
+2182	dbmcs	Afatinib	EGFR	c.2240_2257del18	Sensitive
+2183	dbmcs	Naquotinib	EGFR	c.2240_2257del18	Sensitive
+2184	dbmcs	AEE-788	EGFR	c.2240_2257del18	Sensitive
+2185	dbmcs	Rociletinib	EGFR	c.2240_2257del18	Sensitive
+2186	dbmcs	Erlotinib	EGFR	c.2590G>A	Sensitive
+2187	dbmcs	Osimertinib	EGFR	c.2590G>A	Sensitive
+2188	dbmcs	Afatinib	EGFR	c.2590G>A	Sensitive
+2189	dbmcs	Afatinib	EGFR	c.2572C>A	Sensitive
+2190	dbmcs	Osimertinib	EGFR	c.2575G>A	Sensitive
+2191	dbmcs	Cetuximab	EGFR	c.2320G>A	Sensitive
+2192	dbmcs	Osimertinib	EGFR	c.2320G>A	Sensitive
+2193	dbmcs	Cetuximab	EGFR	c.2105C>T	Sensitive
+2194	dbmcs	Afatinib	EGFR	c.2105C>T	Sensitive
+2195	dbmcs	Afatinib	EGFR	c.2126A>C	Sensitive
+2196	dbmcs	Cetuximab	EGFR	c.2126A>C	Sensitive
+2197	dbmcs	Erlotinib	EGFR	c.2155G>A	Sensitive
+2198	dbmcs	Dacomitinib	EGFR	c.2155G>A	Sensitive
+2199	dbmcs	Afatinib	EGFR	c.2155G>A	Sensitive
+2200	dbmcs	TAS-121	EGFR	c.2155G>A	Sensitive
+2201	dbmcs	Osimertinib	EGFR	c.2155G>A	Sensitive
+2202	dbmcs	TAS-121	EGFR	c.2155G>A	Sensitive
+2203	dbmcs	Afatinib	EGFR	c.2582T>G	Sensitive
+2204	dbmcs	Osimertinib	EGFR	c.2356G>A	Sensitive
+2205	dbmcs	Afatinib	EGFR	c.2356G>A	Sensitive
+2206	dbmcs	Afatinib	EGFR	c.2155_2157	Sensitive
+2207	dbmcs	Neratinib	EGFR	c.2155_2157	Sensitive
+2208	dbmcs	Erlotinib	EGFR	c.2612C>G	Sensitive
+2209	dbmcs	Afatinib	EGFR	c.2612C>G	Sensitive
+2210	dbmcs	Osimertinib	EGFR	c.2612C>G	Sensitive
+2211	dbmcs	Gefitinib	EGFR	c.2612C>G	Sensitive
+2212	dbmcs	AUY922	EGFR	c.2320_2321insCACATG	Sensitive
+2213	dbmcs	Osimertinib	EGFR	c.2326C>G	Sensitive
+2214	dbmcs	Afatinib	EGFR	c.2326C>G	Sensitive
+2215	dbmcs	Afatinib	EGFR	c.2404G>A	Sensitive
+2216	dbmcs	Osimertinib	EGFR	c.2404G>A	Sensitive
+2217	dbmcs	Erlotinib	EGFR	c.2404G>A	Sensitive
+2218	dbmcs	AUY922	EGFR	c.2311_2312insGCGTAGACA	Sensitive
+2219	dbmcs	AUY922	EGFR	c.2317_2319	Sensitive
+2220	dbmcs	AUY922	EGFR	c.2317_2319	Sensitive
+2221	dbmcs	Cetuximab	EGFR	c.917C>T	Sensitive
+2222	dbmcs	Erlotinib	EGFR	c.917C>T	Sensitive
+2223	dbmcs	Afatinib	EGFR	c.917C>T	Sensitive
+2224	dbmcs	Gefitinib	EGFR	c.917C>T	Sensitive
+2225	dbmcs	Erlotinib	EGFR	c.829_830delATinsGA	Sensitive
+2226	dbmcs	Afatinib	EGFR	c.2108T>C	Sensitive
+2227	dbmcs	Osimertinib	EGFR	c.2108T>C	Sensitive
+2228	dbmcs	MM-151	EGFR	c.1394G>A	Sensitive
+2229	dbmcs	MM-151	EGFR	c.1473A>G	Sensitive
+2230	dbmcs	Osimertinib	EGFR	c.2311_2313	Sensitive
+2231	dbmcs	Afatinib	EGFR	c.2240_2251del12	Sensitive
+2232	dbmcs	Gefitinib	EGFR	c.2240_2251del12	Sensitive
+2233	dbmcs	Erlotinib	EGFR	c.2240_2251del12	Sensitive
+2234	dbmcs	Rociletinib	EGFR	c.2240_2251del12	Sensitive
+2235	dbmcs	Osimertinib	EGFR	c.2240_2251del12	Sensitive
+2236	dbmcs	Afatinib	EGFR	c.2305G>C	Sensitive
+2237	dbmcs	Cetuximab	EGFR	c.2305G>C	Sensitive
+2238	dbmcs	Bevacizumab + Gefitinib	EGFR	c.2317_2322delinsCTTATG	Sensitive
+2239	dbmcs	Bevacizumab + Osimertinib	EGFR	c.2317_2322delinsCTTATG	Sensitive
+2240	dbmcs	Poziotinib	EGFR	c.2308_2310delinsGGTTAT	Sensitive
+2241	dbmcs	Dacomitinib	EGFR	c.2308_2310delinsGGTTAT	Sensitive
+2242	dbmcs	Osimertinib	EGFR	c.2327G>A	Sensitive
+2243	dbmcs	Erlotinib	EGFR	c.2327G>A	Sensitive
+2244	dbmcs	Cetuximab	EGFR	c.2327G>A	Sensitive
+2245	dbmcs	Afatinib	EGFR	c.2327G>A	Sensitive
+2246	dbmcs	Poziotinib	EGFR	c.2303G>T	Sensitive
+2247	dbmcs	Osimertinib	EGFR	c.2314_2315insTTC	Sensitive
+2248	dbmcs	Osimertinib	EGFR	c.2126A>T	Sensitive
+2249	dbmcs	Afatinib	EGFR	c.2126A>T	Sensitive
+2250	dbmcs	Cetuximab	EGFR	c.2126A>T	Sensitive
+2251	dbmcs	Erlotinib	EGFR	c.2248G>C	Sensitive
+2252	dbmcs	Afatinib	EGFR	c.2248G>C	Sensitive
+2253	dbmcs	Gefitinib	EGFR	c.2248G>C	Sensitive
+2254	dbmcs	Erlotinib	EGFR	c.2125G>A	Sensitive
+2255	dbmcs	Afatinib	EGFR	c.2125G>A	Sensitive
+2256	dbmcs	Gefitinib	EGFR	c.2125G>A	Sensitive
+2257	dbmcs	Afatinib	EGFR	c.2157C>T	Sensitive
+2258	dbmcs	Erlotinib	EGFR	c.2157C>T	Sensitive
+2259	dbmcs	Gefitinib	EGFR	c.2157C>T	Sensitive
+2260	dbmcs	Afatinib	EGFR	c.2239_2240delTTinsCC	Sensitive
+2261	dbmcs	Gefitinib	EGFR	c.2239_2240delTTinsCC	Sensitive
+2262	dbmcs	Afatinib	EGFR	c.2497T>G	Sensitive
+2263	dbmcs	Erlotinib	EGFR	c.2497T>G	Sensitive
+2264	dbmcs	Gefitinib	EGFR	c.2497T>G	Sensitive
+2265	dbmcs	Afatinib	EGFR	c.2583G>T	Sensitive
+2266	dbmcs	Erlotinib	EGFR	c.2583G>T	Sensitive
+2267	dbmcs	Gefitinib	EGFR	c.2583G>T	Sensitive
+2268	dbmcs	Afatinib	EGFR	c.829_830delATinsGA	Sensitive
+2269	dbmcs	Erlotinib	EGFR	c.829_830delATinsGA	Sensitive
+2270	dbmcs	Gefitinib	EGFR	c.829_830delATinsGA	Sensitive
+2271	dbmcs	Afatinib	EGFR	c.2127_2129delAAC	Sensitive
+2272	dbmcs	Gefitinib	EGFR	c.2127_2129delAAC	Sensitive
+2273	dbmcs	Lapatinib	EGFR	c.866C>T	Sensitive
+2274	dbmcs	Lapatinib	EGFR	c.323G>A	Sensitive
+2275	dbmcs	Lapatinib	EGFR	c.787A>C	Sensitive
+2276	dbmcs	Osimertinib	EGFR	c.2281G>T	Sensitive
+2277	dbmcs	Dasatinib	EPHA2	c.1171G>A	Sensitive
+2278	dbmcs	MTOR inhibitors	EPHA2	c.1171G>A	Sensitive
+2279	dbmcs	Trastuzumab emtansine	ERBB2	c.1976_1977delTTinsAG	Sensitive
+2280	dbmcs	Trastuzumab emtansine	ERBB2	c.929C>T	Sensitive
+2281	dbmcs	Afatinib	ERBB2	c.2393C>T	Sensitive
+2282	dbmcs	Lapatinib	ERBB2	c.2305G>T	Sensitive
+2283	dbmcs	Lapatinib	ERBB2	c.2305G>C	Sensitive
+2284	dbmcs	Lapatinib	ERBB2	c.2686C>T	Sensitive
+2285	dbmcs	Lapatinib	ERBB2	c.2329G>C	Sensitive
+2286	dbmcs	Lapatinib	ERBB2	c.2524G>A	Sensitive
+2287	dbmcs	Lapatinib	ERBB2	c.926G>C	Sensitive
+2288	dbmcs	Lapatinib	ERBB2	c.1976_1977delTTinsAG	Sensitive
+2289	dbmcs	Neratinib	ERBB2	c.2257A>G	Sensitive
+2290	dbmcs	Neratinib	ERBB2	c.2264T>C	Sensitive
+2291	dbmcs	Neratinib	ERBB2	c.926G>C	Sensitive
+2292	dbmcs	Neratinib	ERBB2	c.2305G>T	Sensitive
+2293	dbmcs	Neratinib	ERBB2	c.2305G>C	Sensitive
+2294	dbmcs	Neratinib	ERBB2	c.2686C>T	Sensitive
+2295	dbmcs	Neratinib	ERBB2	c.2329G>C	Sensitive
+2296	dbmcs	Neratinib	ERBB2	c.2524G>A	Sensitive
+2297	dbmcs	Neratinib	ERBB2	c.2606T>G	Sensitive
+2298	dbmcs	Trastuzumab	ERBB2	c.2305G>T	Sensitive
+2299	dbmcs	Trastuzumab	ERBB2	c.2305G>C	Sensitive
+2300	dbmcs	Trastuzumab	ERBB2	c.2686C>T	Sensitive
+2301	dbmcs	Trastuzumab	ERBB2	c.926G>A	Sensitive
+2302	dbmcs	Trastuzumab	ERBB2	c.929C>T	Sensitive
+2303	dbmcs	Trastuzumab	ERBB2	c.929C>A	Sensitive
+2304	dbmcs	Trastuzumab	ERBB2	c.931T>C	Sensitive
+2305	dbmcs	Trastuzumab	ERBB2	c.962A>G	Sensitive
+2306	dbmcs	Trastuzumab	ERBB2	c.1000T>A	Sensitive
+2307	dbmcs	Trastuzumab	ERBB2	c.2326_2327delGGinsCT	Sensitive
+2308	dbmcs	Lapatinib	ERBB2	c.2264_2278del15	Sensitive
+2309	dbmcs	Neratinib	ERBB2	c.2264_2278del15	Sensitive
+2310	dbmcs	Neratinib	ERBB2	c.2264T>G	Sensitive
+2311	dbmcs	Neratinib	ERBB2	c.2340_2341	Sensitive
+2312	dbmcs	Neratinib	ERBB2	c.2033G>A	Sensitive
+2313	dbmcs	Lapatinib	ERBB2	c.2033G>A	Sensitive
+2314	dbmcs	Neratinib	ERBB2	c.2329G>T	Sensitive
+2315	dbmcs	Afatinib + Sirolimus	ERBB2	c.2325_2326	Sensitive
+2316	dbmcs	Afatinib	ERBB2	c.2325_2326	Sensitive
+2317	dbmcs	Afatinib	ERBB2	c.2325_2326	Sensitive
+2318	dbmcs	Dacomitinib	ERBB2	c.2340_2341	Sensitive
+2319	dbmcs	Trastuzumab emtansine	ERBB2	c.2325_2326	Sensitive
+2320	dbmcs	Trastuzumab + Neratinib + Lapatinib	ERBB2	c.2524G>A	Sensitive
+2321	dbmcs	Trastuzumab + Neratinib + Lapatinib	ERBB2	c.2264T>C	Sensitive
+2322	dbmcs	Trastuzumab + Neratinib + Lapatinib	ERBB2	c.2329G>T	Sensitive
+2323	dbmcs	Trastuzumab + Neratinib + Lapatinib	ERBB2	c.2596C>A	Sensitive
+2324	dbmcs	Trastuzumab + Neratinib + Lapatinib	ERBB2	c.929C>T	Sensitive
+2325	dbmcs	Trastuzumab + Neratinib + Lapatinib	ERBB2	c.929C>A	Sensitive
+2326	dbmcs	Afatinib	ERBB2	c.2326_2327delGGinsCT	Sensitive
+2327	dbmcs	Afatinib	ERBB2	c.2340_2341	Sensitive
+2328	dbmcs	Dacomitinib	ERBB2	c.2320delinsTGGCTGG	Sensitive
+2329	dbmcs	Lapatinib	ERBB2	c.2584A>G	Sensitive
+2330	dbmcs	Lapatinib	ERBB2	c.2318T>C	Sensitive
+2331	dbmcs	Lapatinib	ERBB2	c.2570A>G	Sensitive
+2332	dbmcs	Lapatinib	ERBB2	c.2632C>T	Sensitive
+2333	dbmcs	Neratinib	ERBB2	c.2263_2264delCTinsAG	Sensitive
+2334	dbmcs	Neratinib	ERBB2	c.2265_2279del15	Sensitive
+2335	dbmcs	Neratinib	ERBB2	c.2340_2341insGGTAGCCCT	Sensitive
+2336	dbmcs	ERBB2 TKIs	ERBB2	c.926G>A	Sensitive
+2337	dbmcs	ERBB2 TKIs	ERBB2	c.929C>T	Sensitive
+2338	dbmcs	ERBB2 TKIs	ERBB2	c.929C>A	Sensitive
+2339	dbmcs	ERBB2 TKIs	ERBB2	c.931T>C	Sensitive
+2340	dbmcs	ERBB2 TKIs	ERBB2	c.962A>G	Sensitive
+2341	dbmcs	ERBB2 TKIs	ERBB2	c.1000T>A	Sensitive
+2342	dbmcs	Neratinib	ERBB2	c.930C>T	Sensitive
+2343	dbmcs	Neratinib	ERBB2	c.2265T>G	Sensitive
+2344	dbmcs	Neratinib	ERBB2	c.2331G>A	Sensitive
+2345	dbmcs	Neratinib	ERBB2	c.2340_2341insGGTAGCCCT	Sensitive
+2346	dbmcs	Neratinib	ERBB2	c.2325_2326insTATGTAATGGCA	Sensitive
+2347	dbmcs	Trastuzumab emtansine	ERBB2	c.2325_2326insTATGTAATGGCA	Sensitive
+2348	dbmcs	Trastuzumab emtansine	ERBB2	c.2326_2328delinsGTATGT	Sensitive
+2349	dbmcs	Trastuzumab-based chemotherapy	ERBB2	c.2326_2327delGGinsCT	Sensitive
+2350	dbmcs	Afatinib	ERBB2	c.1988T>C	Sensitive
+2351	dbmcs	Lapatinib	ERBB2	c.1988T>C	Sensitive
+2352	dbmcs	Trastuzumab	ERBB2	c.1988T>C	Sensitive
+2353	dbmcs	Neratinib	ERBB2	c.1988T>C	Sensitive
+2354	dbmcs	Pertuzumab	ERBB2	c.1988T>C	Sensitive
+2355	dbmcs	Lapatinib	ERBB2	c.1976_1977delTTinsAG	Sensitive
+2356	dbmcs	Neratinib	ERBB2	c.1976_1977delTTinsAG	Sensitive
+2357	dbmcs	Trastuzumab	ERBB2	c.1976_1977delTTinsAG	Sensitive
+2358	dbmcs	Afatinib	ERBB2	c.1976_1977delTTinsAG	Sensitive
+2359	dbmcs	Compound 23814 + Tivozanib	ERBB2	c.1976_1977delTTinsAG	Sensitive
+2360	dbmcs	Tesevatinib	ERBB2	c.2743C>A	Sensitive
+2361	dbmcs	Afatinib	ERBB2	c.1979G>A	Sensitive
+2362	dbmcs	Neratinib	ERBB2	c.1979G>A	Sensitive
+2363	dbmcs	Trastuzumab	ERBB2	c.1979G>A	Sensitive
+2364	dbmcs	Lapatinib	ERBB2	c.1979G>A	Sensitive
+2365	dbmcs	Neratinib	ERBB2	c.929C>T	Sensitive
+2366	dbmcs	Afatinib	ERBB2	c.929C>T	Sensitive
+2367	dbmcs	Lapatinib	ERBB2	c.929C>T	Sensitive
+2368	dbmcs	Neratinib	ERBB2	c.929C>T	Sensitive
+2369	dbmcs	Neratinib	ERBB2	c.2089G>C	Sensitive
+2370	dbmcs	Neratinib	ERBB2	c.2303T>C	Sensitive
+2371	dbmcs	Trastuzumab	ERBB2	c.2303T>C	Sensitive
+2372	dbmcs	Lapatinib	ERBB2	c.2303T>C	Sensitive
+2373	dbmcs	Lapatinib	ERBB2	c.2317G>C	Sensitive
+2374	dbmcs	Neratinib	ERBB2	c.2317G>C	Sensitive
+2375	dbmcs	Trastuzumab	ERBB2	c.2317G>C	Sensitive
+2376	dbmcs	Tesevatinib	ERBB2	c.2339C>T	Sensitive
+2377	dbmcs	Neratinib	ERBB2	c.2314_2325	Sensitive
+2378	dbmcs	Neratinib	ERBB2	c.2314_2325	Sensitive
+2379	dbmcs	Poziotinib	ERBB2	c.2314_2325	Sensitive
+2380	dbmcs	Pyrotinib	ERBB2	c.2314_2325	Sensitive
+2381	dbmcs	Ganetespib	ERBB2	c.2314_2325	Sensitive
+2382	dbmcs	AUY922	ERBB2	c.2314_2325	Sensitive
+2383	dbmcs	Afatinib	ERBB2	c.2314_2325	Sensitive
+2384	dbmcs	Afatinib	ERBB2	c.2314_2325	Sensitive
+2385	dbmcs	Poziotinib	ERBB2	c.2314_2325	Sensitive
+2386	dbmcs	Poziotinib	ERBB2	c.2326_2328delinsGTAGTA	Sensitive
+2387	dbmcs	EKI-285	ERBB2	c.2393_2394delCAinsTG	Sensitive
+2388	dbmcs	Pilaralisib	ERBB2	c.2393_2394delCAinsTG	Sensitive
+2389	dbmcs	Buparlisib	ERBB2	c.2393_2394delCAinsTG	Sensitive
+2390	dbmcs	Lapatinib + Trastuzumab	ERBB2	c.2393_2394delCAinsTG	Sensitive
+2391	dbmcs	Trastuzumab + XL147	ERBB2	c.2393_2394delCAinsTG	Sensitive
+2392	dbmcs	Afatinib	ERBB2	c.2393_2394delCAinsTG	Sensitive
+2393	dbmcs	Cetuximab + Lapatinib	ERBB2	c.2393_2394delCAinsTG	Sensitive
+2394	dbmcs	WZ4002	ERBB2	c.2393_2394delCAinsTG	Sensitive
+2395	dbmcs	AEE-788	ERBB2	c.2329G>C	Sensitive
+2396	dbmcs	Trastuzumab	ERBB2	c.2329G>C	Sensitive
+2397	dbmcs	Neratinib + Trastuzumab	ERBB2	c.2329G>C	Sensitive
+2398	dbmcs	Afatinib	ERBB2	c.2329G>C	Sensitive
+2399	dbmcs	Neratinib	ERBB2	c.2329G>C	Sensitive
+2400	dbmcs	EKI-285	ERBB2	c.2264T>C	Sensitive
+2401	dbmcs	WZ4002	ERBB2	c.2264T>C	Sensitive
+2402	dbmcs	Neratinib	ERBB2	c.2596C>A	Sensitive
+2403	dbmcs	Afatinib	ERBB2	c.2596C>A	Sensitive
+2404	dbmcs	Trastuzumab	ERBB2	c.2596C>A	Sensitive
+2405	dbmcs	Afatinib	ERBB2	c.2332_2340	Sensitive
+2406	dbmcs	Neratinib	ERBB2	c.2332_2340	Sensitive
+2407	dbmcs	Neratinib	ERBB2	c.2332_2340	Sensitive
+2408	dbmcs	Afatinib	ERBB2	c.2332_2340	Sensitive
+2409	dbmcs	Dacomitinib	ERBB2	c.2332_2340	Sensitive
+2410	dbmcs	Poziotinib	ERBB2	c.2332_2340	Sensitive
+2411	dbmcs	Trastuzumab emtansine	ERBB2	c.2332_2340	Sensitive
+2412	dbmcs	Dacomitinib	ERBB2	c.2332_2340	Sensitive
+2413	dbmcs	Afatinib	ERBB2	c.2326_2328delinsCTTTGT	Sensitive
+2414	dbmcs	Trastuzumab	ERBB2	c.2126A>T	Sensitive
+2415	dbmcs	Lapatinib	ERBB2	c.2126A>T	Sensitive
+2416	dbmcs	Pertuzumab	ERBB2	c.2126A>T	Sensitive
+2417	dbmcs	Afatinib	ERBB2	c.2126A>T	Sensitive
+2418	dbmcs	Tesevatinib	ERBB2	c.2176C>T	Sensitive
+2419	dbmcs	AEE-788	ERBB2	c.2584A>G	Sensitive
+2420	dbmcs	Neratinib	ERBB2	c.2263_2271delinsAGC	Sensitive
+2421	dbmcs	Afatinib	ERBB2	c.2033G>A	Sensitive
+2422	dbmcs	Trastuzumab	ERBB2	c.2033G>A	Sensitive
+2423	dbmcs	Lapatinib	ERBB2	c.1958C>G	Sensitive
+2424	dbmcs	Afatinib	ERBB2	c.1958C>G	Sensitive
+2425	dbmcs	JQ1 + Osimertinib	ERBB2	c.2325_2326insTATGTAATGGCA	Sensitive
+2426	dbmcs	Afatinib	ERBB2	c.2437A>G	Sensitive
+2427	dbmcs	Afatinib	ERBB2	c.2606T>G	Sensitive
+2428	dbmcs	Tesevatinib	ERBB2	c.2149G>A	Sensitive
+2429	dbmcs	Tesevatinib	ERBB2	c.2198C>T	Sensitive
+2430	dbmcs	Lapatinib	ERBB2	c.2305G>A	Sensitive
+2431	dbmcs	Tesevatinib	ERBB2	c.2516T>G	Sensitive
+2432	dbmcs	AZ5104	ERBB2	c.2326_2328delinsGTATGT	Sensitive
+2433	dbmcs	Poziotinib	ERBB2	c.2326_2328delinsGTATGT	Sensitive
+2434	dbmcs	Afatinib	ERBB2	c.2326_2328delinsGTATGT	Sensitive
+2435	dbmcs	AUY922	ERBB2	c.2326_2328delinsGTATGT	Sensitive
+2436	dbmcs	Dacomitinib	ERBB2	c.2326_2328delinsGTATGT	Sensitive
+2437	dbmcs	Neratinib	ERBB2	c.2326_2328delinsGTATGT	Sensitive
+2438	dbmcs	Ganetespib	ERBB2	c.2326_2328delinsGTATGT	Sensitive
+2439	dbmcs	Poziotinib	ERBB2	c.2326_2328delinsGTATGT	Sensitive
+2440	dbmcs	Pyrotinib	ERBB2	c.2326_2328delinsGTATGT	Sensitive
+2441	dbmcs	Osimertinib	ERBB2	c.2326_2328delinsGTATGT	Sensitive
+2442	dbmcs	Tesevatinib	ERBB2	c.2461G>A	Sensitive
+2443	dbmcs	Tesevatinib	ERBB2	c.2347T>C	Sensitive
+2444	dbmcs	Canertinib	ERBB2	c.2328_2329insTATGTAATGGCA	Sensitive
+2445	dbmcs	Afatinib	ERBB2	c.1978G>C	Sensitive
+2446	dbmcs	Trastuzumab	ERBB2	c.1978G>C	Sensitive
+2447	dbmcs	Neratinib	ERBB2	c.1978G>C	Sensitive
+2448	dbmcs	Lapatinib	ERBB2	c.1978G>C	Sensitive
+2449	dbmcs	Tesevatinib	ERBB2	c.2353C>T	Sensitive
+2450	dbmcs	WZ4002	ERBB2	c.2263_2264delCTinsAG	Sensitive
+2451	dbmcs	Neratinib	ERBB2	c.2263_2264delCTinsAG	Sensitive
+2452	dbmcs	Trastuzumab	ERBB2	c.2263_2264delCTinsAG	Sensitive
+2453	dbmcs	Tesevatinib	ERBB2	c.2263_2264delCTinsAG	Sensitive
+2454	dbmcs	Afatinib	ERBB2	c.2263_2264delCTinsAG	Sensitive
+2455	dbmcs	EKI-285	ERBB2	c.2263_2264delCTinsAG	Sensitive
+2456	dbmcs	AEE-788	ERBB2	c.2318T>C	Sensitive
+2457	dbmcs	AEE-788	ERBB2	c.2632C>T	Sensitive
+2458	dbmcs	Dacomitinib	ERBB2	c.2335_2336insGTCCTGGTT	Sensitive
+2459	dbmcs	AEE-788	ERBB2	c.2570A>G	Sensitive
+2460	dbmcs	Tesevatinib	ERBB2	c.2156A>G	Sensitive
+2461	dbmcs	Afatinib	ERBB2	c.2524G>A	Sensitive
+2462	dbmcs	Trastuzumab	ERBB2	c.2524G>A	Sensitive
+2463	dbmcs	Trastuzumab	ERBB2	c.926G>C	Sensitive
+2464	dbmcs	Tesevatinib	ERBB2	c.2434G>A	Sensitive
+2465	dbmcs	Poziotinib	ERBB2	c.2434G>A	Sensitive
+2466	dbmcs	Tesevatinib	ERBB2	c.2407T>A	Sensitive
+2467	dbmcs	Gefitinib	ERBB2	c.2265_2279del15	Sensitive
+2468	dbmcs	Tesevatinib	ERBB2	c.2393C>T	Sensitive
+2469	dbmcs	Neratinib	ERBB2	c.929C>A	Sensitive
+2470	dbmcs	Afatinib	ERBB2	c.929C>A	Sensitive
+2471	dbmcs	Neratinib + Trastuzumab	ERBB2	c.929C>A	Sensitive
+2472	dbmcs	Lapatinib	ERBB2	c.929C>A	Sensitive
+2473	dbmcs	Lapatinib + Trastuzumab	ERBB2	c.929C>A	Sensitive
+2474	dbmcs	Dacomitinib	ERBB2	c.2320_2322delinsTGGCTTGTA	Sensitive
+2475	dbmcs	Dacomitinib	ERBB2	c.2320_2322delinsTGGCTTGTA	Sensitive
+2476	dbmcs	Afatinib	ERBB3	c.850G>A	Sensitive
+2477	dbmcs	Afatinib	ERBB3	c.307C>G	Sensitive
+2478	dbmcs	Afatinib	ERBB3	c.310G>A	Sensitive
+2479	dbmcs	Lapatinib	ERBB3	c.785C>A	Sensitive
+2480	dbmcs	Lapatinib	ERBB3	c.850G>A	Sensitive
+2481	dbmcs	Lapatinib	ERBB3	c.2426A>G	Sensitive
+2482	dbmcs	Pertuzumab	ERBB3	c.785C>A	Sensitive
+2483	dbmcs	Pertuzumab	ERBB3	c.850G>A	Sensitive
+2484	dbmcs	Trastuzumab	ERBB3	c.785C>A	Sensitive
+2485	dbmcs	Trastuzumab	ERBB3	c.850G>A	Sensitive
+2486	dbmcs	Trastuzumab	ERBB3	c.2426A>G	Sensitive
+2487	dbmcs	Afatinib	ERBB3	c.2564T>C	Sensitive
+2488	dbmcs	Pertuzumab	ERBB3	c.2564T>C	Sensitive
+2489	dbmcs	anti-HER3 mAbs	ERBB3	c.785C>A	Sensitive
+2490	dbmcs	PI3K pathway inhibitors + MEK inhibitors	ERBB3	c.785C>A	Sensitive
+2491	dbmcs	anti-HER3 mAbs	ERBB3	c.850G>A	Sensitive
+2492	dbmcs	PI3K pathway inhibitors + MEK inhibitors	ERBB3	c.850G>A	Sensitive
+2493	dbmcs	PI3K pathway inhibitors + MEK inhibitors	ERBB3	c.2426A>G	Sensitive
+2494	dbmcs	Lapatinib	ERBB4	c.949G>A	Sensitive
+2495	dbmcs	Lapatinib	ERBB4	c.1354G>A	Sensitive
+2496	dbmcs	Lapatinib	ERBB4	c.1630C>T	Sensitive
+2497	dbmcs	Lapatinib	ERBB4	c.1177C>T	Sensitive
+2498	dbmcs	Lapatinib	ERBB4	c.2614G>A	Sensitive
+2499	dbmcs	Lapatinib	ERBB4	c.1624G>A	Sensitive
+2500	dbmcs	Afatinib	ERBB4	c.3325G>T	Sensitive
+2501	dbmcs	Lapatinib	ERBB4	c.1687G>A	Sensitive
+2502	dbmcs	Paclitaxel + Carboplatin	ERCC2	c.2251A>C	Sensitive
+2503	dbmcs	Erlotinib	ERRFI1	c.1150G>T	Sensitive
+2504	dbmcs	Tamoxifen	ESR1	c.1607_1608delTCinsAA	Sensitive
+2505	dbmcs	Fulvestrant	ESR1	c.1607_1608delTCinsAA	Sensitive
+2506	dbmcs	Tamoxifen	ESR1	c.1613A>G	Sensitive
+2507	dbmcs	Fulvestrant	ESR1	c.1613A>G	Sensitive
+2508	dbmcs	Tamoxifen	ESR1	c.1610A>G	Sensitive
+2509	dbmcs	Fulvestrant	ESR1	c.1610A>G	Sensitive
+2510	dbmcs	Tamoxifen	ESR1	c.1609T>A	Sensitive
+2511	dbmcs	Fulvestrant	ESR1	c.1609T>A	Sensitive
+2512	dbmcs	Tamoxifen	ESR1	c.1610A>C	Sensitive
+2513	dbmcs	Paclitaxel + Cisplatin	ETS2	c.1023A>G	Sensitive
+2514	dbmcs	GSK126	EZH2	c.1936T>A	Sensitive
+2515	dbmcs	EZH2 inhibitors	EZH2	c.1922A>T	Sensitive
+2516	dbmcs	EZH2 inhibitors	EZH2	c.2030C>G	Sensitive
+2517	dbmcs	DZNeP	EZH2	c.1921T>A	Sensitive
+2518	dbmcs	Vorinostat	EZH2	c.1921T>A	Sensitive
+2519	dbmcs	GSK126	EZH2	c.1921T>A	Sensitive
+2520	dbmcs	ACY-957 + GSK126	EZH2	c.1921T>A	Sensitive
+2521	dbmcs	ACY-957	EZH2	c.1921T>A	Sensitive
+2522	dbmcs	ACY-957 + DZNeP	EZH2	c.1921T>A	Sensitive
+2523	dbmcs	EED226	EZH2	c.1921T>A	Sensitive
+2524	dbmcs	UNC1999	EZH2	c.1921T>A	Sensitive
+2525	dbmcs	ACY-957 + Doxorubicin	EZH2	c.1921T>A	Sensitive
+2526	dbmcs	EED226 + EI1	EZH2	c.1921T>A	Sensitive
+2527	dbmcs	EPZ005687	EZH2	c.1922A>T	Sensitive
+2528	dbmcs	Vorinostat	EZH2	c.1922A>C	Sensitive
+2529	dbmcs	GSK126	EZH2	c.1922A>C	Sensitive
+2530	dbmcs	ACY-957 + DZNeP	EZH2	c.1922A>C	Sensitive
+2531	dbmcs	ACY-957 + GSK126	EZH2	c.1922A>C	Sensitive
+2532	dbmcs	ACY-957	EZH2	c.1922A>C	Sensitive
+2533	dbmcs	EED226	EZH2	c.1937A>T	Sensitive
+2534	dbmcs	Tazemetostat	EZH2	c.1937A>T	Sensitive
+2535	dbmcs	EED226	EZH2	c.1936T>A	Sensitive
+2536	dbmcs	GSK126	EZH2	c.1921T>C	Sensitive
+2537	dbmcs	EED226	EZH2	c.1937A>C	Sensitive
+2538	dbmcs	Temsirolimus	FBXW7	c.1394G>A	Sensitive
+2539	dbmcs	Vorinostat	FBXW7	c.1513C>T	Sensitive
+2540	dbmcs	Sirolimus	FBXW7	c.575A>C	Sensitive
+2541	dbmcs	Ponatinib	FGFR1	c.1638C>A	Sensitive
+2542	dbmcs	FIIN-1	FGFR1	c.1681G>A	Sensitive
+2543	dbmcs	PRN1371	FGFR1	c.1681G>A	Sensitive
+2544	dbmcs	PD173074	FGFR2	c.1650T>A	Sensitive
+2545	dbmcs	FGFR inhibitors	FGFR2	c.755C>G	Sensitive
+2546	dbmcs	FGFR inhibitors	FGFR2	c.1647T>G	Sensitive
+2547	dbmcs	Pazopanib	FGFR2	c.758C>G	Sensitive
+2548	dbmcs	FGFR inhibitors	FGFR2	c.870G>T	Sensitive
+2549	dbmcs	FGFR inhibitors	FGFR2	c.959C>G	Sensitive
+2550	dbmcs	FGFR inhibitors	FGFR2	c.1980G>C	Sensitive
+2551	dbmcs	Ponatinib	FGFR2	c.1642A>G	Sensitive
+2552	dbmcs	Ponatinib	FGFR2	c.870G>T	Sensitive
+2553	dbmcs	Lenvatinib	FGFR2	c.870G>T	Sensitive
+2554	dbmcs	AZD-4547	FGFR2	c.870G>T	Sensitive
+2555	dbmcs	Infigratinib	FGFR2	c.870G>T	Sensitive
+2556	dbmcs	Cediranib	FGFR2	c.870G>T	Sensitive
+2557	dbmcs	Pazopanib	FGFR2	c.870G>T	Sensitive
+2558	dbmcs	Ponatinib	FGFR2	c.1650T>G	Sensitive
+2559	dbmcs	PRN1371	FGFR2	c.1650T>G	Sensitive
+2560	dbmcs	Ponatinib	FGFR2	c.1852T>A	Sensitive
+2561	dbmcs	Cediranib	FGFR2	c.1647T>G	Sensitive
+2562	dbmcs	Ponatinib	FGFR2	c.1647T>G	Sensitive
+2563	dbmcs	FIIN-1	FGFR2	c.1647T>G	Sensitive
+2564	dbmcs	Derazantinib	FGFR2	c.1647T>G	Sensitive
+2565	dbmcs	DEBIO-1347	FGFR2	c.1647T>G	Sensitive
+2566	dbmcs	PRN1371	FGFR2	c.1647T>G	Sensitive
+2567	dbmcs	Ponatinib	FGFR2	c.1649A>G	Sensitive
+2568	dbmcs	Ponatinib	FGFR2	c.1697A>G	Sensitive
+2569	dbmcs	Ponatinib	FGFR2	c.870_872delGAT	Sensitive
+2570	dbmcs	Infigratinib	FGFR2	c.870_872delGAT	Sensitive
+2571	dbmcs	Ponatinib	FGFR2	c.1608G>C	Sensitive
+2572	dbmcs	Nintedanib	FGFR2	c.755C>G	Sensitive
+2573	dbmcs	Cediranib	FGFR2	c.755C>G	Sensitive
+2574	dbmcs	Derazantinib	FGFR2	c.755C>G	Sensitive
+2575	dbmcs	Dovitinib	FGFR2	c.755C>G	Sensitive
+2576	dbmcs	GSK3052230	FGFR2	c.755C>G	Sensitive
+2577	dbmcs	E7090	FGFR2	c.755C>G	Sensitive
+2578	dbmcs	Brivanib	FGFR2	c.755C>G	Sensitive
+2579	dbmcs	Ponatinib	FGFR2	c.755C>G	Sensitive
+2580	dbmcs	DEBIO-1347	FGFR2	c.755C>G	Sensitive
+2581	dbmcs	RO-5126766 free base	FGFR2	c.755C>G	Sensitive
+2582	dbmcs	Ponatinib	FGFR2	c.1648A>C	Sensitive
+2583	dbmcs	Ponatinib	FGFR2	c.1980G>C	Sensitive
+2584	dbmcs	Pazopanib	FGFR2	c.1980G>C	Sensitive
+2585	dbmcs	PRN1371	FGFR2	c.1980G>C	Sensitive
+2586	dbmcs	Infigratinib	FGFR2	c.1980G>C	Sensitive
+2587	dbmcs	Lenvatinib	FGFR2	c.1980G>C	Sensitive
+2588	dbmcs	AZD-4547	FGFR2	c.1980G>C	Sensitive
+2589	dbmcs	Cediranib	FGFR2	c.1980G>C	Sensitive
+2590	dbmcs	Ponatinib	FGFR2	c.799_819	Sensitive
+2591	dbmcs	Infigratinib	FGFR2	c.799_819	Sensitive
+2592	dbmcs	DEBIO-1347	FGFR2	c.1690G>T	Sensitive
+2593	dbmcs	Infigratinib	FGFR2	c.1978A>G	Sensitive
+2594	dbmcs	Cediranib	FGFR2	c.1978A>G	Sensitive
+2595	dbmcs	AZD-4547	FGFR2	c.1978A>G	Sensitive
+2596	dbmcs	PRN1371	FGFR2	c.1978A>G	Sensitive
+2597	dbmcs	Lenvatinib	FGFR2	c.1978A>G	Sensitive
+2598	dbmcs	Pazopanib	FGFR2	c.1978A>G	Sensitive
+2599	dbmcs	Ponatinib	FGFR2	c.1978A>G	Sensitive
+2600	dbmcs	Pazopanib	FGFR3	c.746C>G	Sensitive
+2601	dbmcs	Bortezomib	FGFR3	c.1948A>G	Sensitive
+2602	dbmcs	FGFR inhibitors	FGFR3	c.746C>G	Sensitive
+2603	dbmcs	FGFR inhibitors	FGFR3	c.2071G>A	Sensitive
+2604	dbmcs	R3Mab	FGFR3	c.1114G>T	Sensitive
+2605	dbmcs	Erdafitinib	FGFR3	c.1108G>T	Sensitive
+2606	dbmcs	R3Mab	FGFR3	c.1124A>G	Sensitive
+2607	dbmcs	Dovitinib	FGFR3	c.1124A>G	Sensitive
+2608	dbmcs	Ponatinib	FGFR3	c.1124A>G	Sensitive
+2609	dbmcs	R3Mab	FGFR3	c.1954A>G	Sensitive
+2610	dbmcs	Derazantinib	FGFR3	c.1954A>G	Sensitive
+2611	dbmcs	Ponatinib	FGFR3	c.1822T>G	Sensitive
+2612	dbmcs	LY-2874455	FGFR3	c.1822T>G	Sensitive
+2613	dbmcs	FIIN-2	FGFR3	c.1822T>G	Sensitive
+2614	dbmcs	Dovitinib	FGFR3	c.1822T>G	Sensitive
+2615	dbmcs	Dovitinib	FGFR3	c.742C>T	Sensitive
+2616	dbmcs	Infigratinib	FGFR3	c.742C>T	Sensitive
+2617	dbmcs	Erdafitinib	FGFR3	c.742C>T	Sensitive
+2618	dbmcs	R3Mab	FGFR3	c.742C>T	Sensitive
+2619	dbmcs	Pazopanib	FGFR3	c.742C>T	Sensitive
+2620	dbmcs	Dovitinib	FGFR3	c.1620C>G	Sensitive
+2621	dbmcs	Erdafitinib	FGFR3	c.1620C>G	Sensitive
+2622	dbmcs	Ponatinib	FGFR3	c.1620C>G	Sensitive
+2623	dbmcs	DEBIO-1347	FGFR3	c.1948A>G	Sensitive
+2624	dbmcs	Erdafitinib	FGFR3	c.1948A>G	Sensitive
+2625	dbmcs	PD98059	FGFR3	c.1948A>G	Sensitive
+2626	dbmcs	Dovitinib	FGFR3	c.1948A>G	Sensitive
+2627	dbmcs	Ponatinib	FGFR3	c.1948A>G	Sensitive
+2628	dbmcs	SU5402	FGFR3	c.1948A>G	Sensitive
+2629	dbmcs	FIIN-2	FGFR3	c.1948A>G	Sensitive
+2630	dbmcs	LY-2874455	FGFR3	c.1948A>G	Sensitive
+2631	dbmcs	PRN1371	FGFR3	c.1949A>T	Sensitive
+2632	dbmcs	DEBIO-1347	FGFR3	c.1156T>C	Sensitive
+2633	dbmcs	LY-2874455	FGFR3	c.1663G>A	Sensitive
+2634	dbmcs	Dovitinib	FGFR3	c.1663G>A	Sensitive
+2635	dbmcs	Ponatinib	FGFR3	c.1663G>A	Sensitive
+2636	dbmcs	Erdafitinib	FGFR3	c.1118A>G	Sensitive
+2637	dbmcs	E7090	FGFR3	c.1118A>G	Sensitive
+2638	dbmcs	DEBIO-1347	FGFR3	c.1118A>G	Sensitive
+2639	dbmcs	Dovitinib	FGFR3	c.746C>G	Sensitive
+2640	dbmcs	Ponatinib	FGFR3	c.746C>G	Sensitive
+2641	dbmcs	R3Mab	FGFR3	c.746C>G	Sensitive
+2642	dbmcs	Dovitinib	FGFR3	c.746C>G	Sensitive
+2643	dbmcs	Infigratinib	FGFR3	c.746C>G	Sensitive
+2644	dbmcs	DEBIO-1347	FGFR3	c.746C>G	Sensitive
+2645	dbmcs	Erdafitinib	FGFR3	c.746C>G	Sensitive
+2646	dbmcs	AZD-4547	FGFR3	c.746C>G	Sensitive
+2647	dbmcs	Cediranib	FGFR3	c.746C>G	Sensitive
+2648	dbmcs	AZD-4547	FGFR3	c.1108G>T	Sensitive
+2649	dbmcs	Infigratinib	FGFR3	c.1108G>T	Sensitive
+2650	dbmcs	DEBIO-1347	FGFR3	c.1108G>T	Sensitive
+2651	dbmcs	AZD-4547	FGFR3	c.1138G>A	Sensitive
+2652	dbmcs	Infigratinib	FGFR3	c.1138G>A	Sensitive
+2653	dbmcs	Erdafitinib	FGFR3	c.1138G>A	Sensitive
+2654	dbmcs	DEBIO-1347	FGFR3	c.1138G>A	Sensitive
+2655	dbmcs	AZD-4547	FGFR3	c.1950G>A	Sensitive
+2656	dbmcs	Infigratinib	FGFR3	c.1950G>A	Sensitive
+2657	dbmcs	Erdafitinib	FGFR3	c.1950G>A	Sensitive
+2658	dbmcs	DEBIO-1347	FGFR3	c.1950G>A	Sensitive
+2659	dbmcs	AZD-4547	FGFR3	c.742C>T	Sensitive
+2660	dbmcs	Infigratinib	FGFR3	c.742C>T	Sensitive
+2661	dbmcs	DEBIO-1347	FGFR3	c.742C>T	Sensitive
+2662	dbmcs	AZD-4547	FGFR3	c.746C>G	Sensitive
+2663	dbmcs	Infigratinib	FGFR3	c.746C>G	Sensitive
+2664	dbmcs	DEBIO-1347	FGFR3	c.746C>G	Sensitive
+2665	dbmcs	AZD-4547	FGFR3	c.1111A>T	Sensitive
+2666	dbmcs	Infigratinib	FGFR3	c.1111A>T	Sensitive
+2667	dbmcs	Erdafitinib	FGFR3	c.1111A>T	Sensitive
+2668	dbmcs	DEBIO-1347	FGFR3	c.1111A>T	Sensitive
+2669	dbmcs	AZD-4547	FGFR3	c.1118A>G	Sensitive
+2670	dbmcs	Infigratinib	FGFR3	c.1118A>G	Sensitive
+2671	dbmcs	DEBIO-1347	FGFR3	c.1118A>G	Sensitive
+2672	dbmcs	PD173074	FGFR4	c.1605C>G	Sensitive
+2673	dbmcs	FGFR inhibitors	FGFR4	c.1649T>A	Sensitive
+2674	dbmcs	Lestaurtinib	FLT3	c.1705_1837	Sensitive
+2675	dbmcs	Sorafenib	FLT3	c.1705_1837	Sensitive
+2676	dbmcs	AG1296	FLT3	c.1705_1837	Sensitive
+2677	dbmcs	Midostaurin	FLT3	c.2503G>T	Sensitive
+2678	dbmcs	SU11248 + Cytarabine	FLT3	c.2504A>T	Sensitive
+2679	dbmcs	SU11248 + Daunorubicin	FLT3	c.2504A>T	Sensitive
+2680	dbmcs	AS602868	FLT3	c.2504A>T	Sensitive
+2681	dbmcs	AG1296	FLT3	c.2504A>T	Sensitive
+2682	dbmcs	Sunitinib	FLT3	c.2504A>T	Sensitive
+2683	dbmcs	Ponatinib	FLT3	c.1705_1837	Sensitive
+2684	dbmcs	Sunitinib	FLT3	c.1705_1837	Sensitive
+2685	dbmcs	Sorafenib	FLT3	c.1705_1837	Sensitive
+2686	dbmcs	Tandutinib	FLT3	c.1798_1799insGTCTTTATGTAGACTTTAGGGAGTATGAGTATG	Sensitive
+2687	dbmcs	MRX-2843	FLT3	c.2504A>T	Sensitive
+2688	dbmcs	Tandutinib	FLT3	c.1783_1803	Sensitive
+2689	dbmcs	Cytarabine + Daunorubicin + Midostaurin	FLT3	c.2503_2505	Sensitive
+2690	dbmcs	E6201	FLT3	c.2503G>T	Sensitive
+2691	dbmcs	Crenolanib	FLT3	c.2503G>T	Sensitive
+2692	dbmcs	Midostaurin	FLT3	c.2503G>T	Sensitive
+2693	dbmcs	Quizartinib	FLT3	c.2503G>T	Sensitive
+2694	dbmcs	Arsenic trioxide + Cytarabine + Methotrexate + Tretinoin	FLT3	c.2503G>T	Sensitive
+2695	dbmcs	MRX-2843	FLT3	c.2503G>T	Sensitive
+2696	dbmcs	Gilteritinib	FLT3	c.2503G>T	Sensitive
+2697	dbmcs	Crenolanib + Trametinib	FLT3	c.2503G>T	Sensitive
+2698	dbmcs	G-749	FLT3	c.2503G>T	Sensitive
+2699	dbmcs	Tandutinib	FLT3	c.1794_1795insGGTCTTGTACAAGTAACAGGTAGCAGCGACAACGAGTATTTTTATGTAGACTTTAGGGAGTATGAG	Sensitive
+2700	dbmcs	Midostaurin	FLT3	c.1715A>G	Sensitive
+2701	dbmcs	Crenolanib	FLT3	c.1715A>G	Sensitive
+2702	dbmcs	Azacitidine + Sorafenib	FLT3	c.1797_1798insAGCACAGACAACGAGTATTTTTATGTAGACTTTAGGGAGTATGAGTAT	Sensitive
+2703	dbmcs	Quizartinib	FLT3	c.1797_1798insAGCACAGACAACGAGTATTTTTATGTAGACTTTAGGGAGTATGAGTAT	Sensitive
+2704	dbmcs	PD98059	FLT3	c.2501G>A	Sensitive
+2705	dbmcs	Midostaurin	FLT3	c.2501G>A	Sensitive
+2706	dbmcs	Cytarabine + Daunorubicin + Midostaurin	FLT3	c.2506_2508	Sensitive
+2707	dbmcs	Crenolanib	FLT3	c.2503G>C	Sensitive
+2708	dbmcs	E6201	FLT3	c.2504A>G	Sensitive
+2709	dbmcs	Midostaurin	FLT3	c.2525A>G	Sensitive
+2710	dbmcs	Midostaurin	FLT3	c.2508_2510delCAT	Sensitive
+2711	dbmcs	Tandutinib	FLT3	c.2508_2510delCAT	Sensitive
+2712	dbmcs	Midostaurin	FLT3	c.1775T>G	Sensitive
+2713	dbmcs	Dabrafenib	G6PD	c.653C>T	Sensitive
+2714	dbmcs	Selumetinib	GNA11	c.626A>T	Sensitive
+2715	dbmcs	Selumetinib	GNA11	c.626A>C	Sensitive
+2716	dbmcs	Vorinostat	GNA11	c.626A>T	Sensitive
+2717	dbmcs	Vorinostat	GNA11	c.626A>C	Sensitive
+2718	dbmcs	FR900359	GNA11	c.626A>T	Sensitive
+2719	dbmcs	AEB071 + Binimetinib	GNA11	c.626A>T	Sensitive
+2720	dbmcs	Trametinib	GNA11	c.626A>T	Sensitive
+2721	dbmcs	TAK-733	GNA11	c.626A>T	Sensitive
+2722	dbmcs	Refametinib	GNAQ	c.626A>T	Sensitive
+2723	dbmcs	Enzastaurin	GNAQ	c.626A>C	Sensitive
+2724	dbmcs	Sotrastaurin	GNAQ	c.626A>C	Sensitive
+2725	dbmcs	TAK-733	GNAQ	c.626A>C	Sensitive
+2726	dbmcs	FR900359	GNAQ	c.626A>C	Sensitive
+2727	dbmcs	Selumetinib	GNAQ	c.626A>C	Sensitive
+2728	dbmcs	Sotrastaurin	GNAQ	c.626A>T	Sensitive
+2729	dbmcs	TAK-733	GNAQ	c.626A>T	Sensitive
+2730	dbmcs	AEB071 + PD-0325901	GNAQ	c.626A>T	Sensitive
+2731	dbmcs	FR900359	GNAQ	c.626A>T	Sensitive
+2732	dbmcs	Omipalisib + Trametinib	GNAQ	c.626A>T	Sensitive
+2733	dbmcs	Enzastaurin	GNAQ	c.626A>T	Sensitive
+2734	dbmcs	Trametinib	GNAQ	c.626A>T	Sensitive
+2735	dbmcs	Selumetinib	GNAQ	c.626A>T	Sensitive
+2736	dbmcs	NAV-2729	GNAQ	c.626A>T	Sensitive
+2737	dbmcs	U0126	GNAQ	c.626A>T	Sensitive
+2738	dbmcs	Verteporfin	GNAQ	c.626A>T	Sensitive
+2739	dbmcs	Radioactive Iodine	GNAS	c.602G>A	Sensitive
+2740	dbmcs	JAK inhibitors	GNAS	c.601C>T	Sensitive
+2741	dbmcs	JAK inhibitors	GNAS	c.602G>A	Sensitive
+2742	dbmcs	JAK inhibitors	GNAS	c.602G>T	Sensitive
+2743	dbmcs	Folfox Protocol	GSTP1	c.313A>G	Sensitive
+2744	dbmcs	Binimetinib	HRAS	c.182A>G	Sensitive
+2745	dbmcs	Everolimus	HRAS	c.182A>G	Sensitive
+2746	dbmcs	Pz-1	HRAS	c.35G>T	Sensitive
+2747	dbmcs	Binimetinib + Everolimus	HRAS	c.35G>T	Sensitive
+2748	dbmcs	Rigosertib	HRAS	c.35G>T	Sensitive
+2749	dbmcs	SR-9009	HRAS	c.35G>T	Sensitive
+2750	dbmcs	Binimetinib	HRAS	c.35G>T	Sensitive
+2751	dbmcs	SR-9011	HRAS	c.35G>T	Sensitive
+2752	dbmcs	Everolimus	HRAS	c.35G>T	Sensitive
+2753	dbmcs	CI-1040	HRAS	c.35G>T	Sensitive
+2754	dbmcs	Everolimus + Selumetinib	HRAS	c.35G>T	Sensitive
+2755	dbmcs	SF1126	HRAS	c.35G>T	Sensitive
+2756	dbmcs	Everolimus + Selumetinib	HRAS	c.182A>T	Sensitive
+2757	dbmcs	Binimetinib + Everolimus	HRAS	c.182A>T	Sensitive
+2758	dbmcs	Selumetinib	HRAS	c.182A>T	Sensitive
+2759	dbmcs	AZD8055 + Binimetinib	HRAS	c.182A>T	Sensitive
+2760	dbmcs	Binimetinib	HRAS	c.182A>T	Sensitive
+2761	dbmcs	Sirolimus + Trametinib	HRAS	c.182A>T	Sensitive
+2762	dbmcs	Everolimus	HRAS	c.182A>T	Sensitive
+2763	dbmcs	NS1	HRAS	c.182A>T	Sensitive
+2764	dbmcs	MK2206	HRAS	c.37G>C	Sensitive
+2765	dbmcs	Oxaliplatin + Fluorouracil	HSPH1	c.1138-20_1138-4	Sensitive
+2766	dbmcs	GSK321	IDH1	c.394C>T	Sensitive
+2767	dbmcs	AGI-5198	IDH1	c.395G>A	Sensitive
+2768	dbmcs	Bevacizumab	IDH1	c.395G>T	Sensitive
+2769	dbmcs	Temozolomide	IDH1	c.394C>T	Sensitive
+2770	dbmcs	AGI-5198	IDH1	c.394C>T	Sensitive
+2771	dbmcs	Bevacizumab	IDH1	c.394C>T	Sensitive
+2772	dbmcs	Ivosidenib	IDH1	c.394C>T	Sensitive
+2773	dbmcs	BPTES	IDH1	c.394C>T	Sensitive
+2774	dbmcs	Bevacizumab	IDH1	c.394C>A	Sensitive
+2775	dbmcs	Cetuximab	IDH1	c.394C>T	Sensitive
+2776	dbmcs	IDH1 inhibitors	IDH1	c.395G>A	Sensitive
+2777	dbmcs	Dasatinib	IDH1	c.394C>T	Sensitive
+2778	dbmcs	PARP inhibitors	IDH1	c.395G>A	Sensitive
+2779	dbmcs	BAY1436032	IDH1	c.395G>T	Sensitive
+2780	dbmcs	Ivosidenib	IDH1	c.395G>T	Sensitive
+2781	dbmcs	Ivosidenib	IDH1	c.394C>G	Sensitive
+2782	dbmcs	BAY1436032	IDH1	c.394C>G	Sensitive
+2783	dbmcs	Niraparib	IDH1	c.395G>A	Sensitive
+2784	dbmcs	Decitabine	IDH1	c.395G>A	Sensitive
+2785	dbmcs	BAY1436032	IDH1	c.395G>A	Sensitive
+2786	dbmcs	Olaparib	IDH1	c.395G>A	Sensitive
+2787	dbmcs	Berzosertib	IDH1	c.395G>A	Sensitive
+2788	dbmcs	Temozolomide + Vandetanib	IDH1	c.395G>A	Sensitive
+2789	dbmcs	Cisplatin + Talazoparib	IDH1	c.395G>A	Sensitive
+2790	dbmcs	Azacitidine	IDH1	c.395G>A	Sensitive
+2791	dbmcs	Talazoparib	IDH1	c.395G>A	Sensitive
+2792	dbmcs	Metformin	IDH1	c.395G>A	Sensitive
+2793	dbmcs	Ivosidenib	IDH1	c.395G>A	Sensitive
+2794	dbmcs	BPTES	IDH1	c.395G>A	Sensitive
+2795	dbmcs	Rucaparib	IDH1	c.395G>A	Sensitive
+2796	dbmcs	Saracatinib	IDH1	c.394C>T	Sensitive
+2797	dbmcs	Talazoparib	IDH1	c.394C>T	Sensitive
+2798	dbmcs	BAY1436032	IDH1	c.394C>T	Sensitive
+2799	dbmcs	Olaparib	IDH1	c.394C>T	Sensitive
+2800	dbmcs	Dasatinib	IDH1	c.394C>A	Sensitive
+2801	dbmcs	Saracatinib	IDH1	c.394C>A	Sensitive
+2802	dbmcs	Ivosidenib	IDH1	c.394C>A	Sensitive
+2803	dbmcs	BAY1436032	IDH1	c.394C>A	Sensitive
+2804	dbmcs	Enasidenib	IDH2	c.418_419delCGinsAA	Sensitive
+2805	dbmcs	Enasidenib	IDH2	c.515G>A	Sensitive
+2806	dbmcs	IDH2 inhibitors	IDH2	c.419G>A	Sensitive
+2807	dbmcs	IDH2 inhibitors	IDH2	c.515G>A	Sensitive
+2808	dbmcs	Dasatinib	IDH2	c.515G>A	Sensitive
+2809	dbmcs	Enasidenib	IDH2	c.419G>T	Sensitive
+2810	dbmcs	Enasidenib	IDH2	c.514A>T	Sensitive
+2811	dbmcs	Enasidenib	IDH2	c.516G>C	Sensitive
+2812	dbmcs	Enasidenib	IDH2	c.515G>A	Sensitive
+2813	dbmcs	Enasidenib	IDH2	c.418C>T	Sensitive
+2814	dbmcs	Enasidenib	IDH2	c.418C>G	Sensitive
+2815	dbmcs	Enasidenib	IDH2	c.419G>A	Sensitive
+2816	dbmcs	AGI-6780	IDH2	c.419G>A	Sensitive
+2817	dbmcs	Enasidenib	IDH2	c.515G>T	Sensitive
+2818	dbmcs	Enasidenib	IDH2	c.514A>G	Sensitive
+2819	dbmcs	Ruxolitinib	IL7R	c.553A>T	Sensitive
+2820	dbmcs	Ruxolitinib	JAK1	c.2108G>T	Sensitive
+2821	dbmcs	Ruxolitinib	JAK1	c.1937C>T	Sensitive
+2822	dbmcs	Ruxolitinib	JAK2	c.1849G>T	Sensitive
+2823	dbmcs	Ruxolitinib	JAK2	c.1849G>T	Sensitive
+2824	dbmcs	Peginterferon alfa-2a	JAK2	c.1849G>T	Sensitive
+2825	dbmcs	Fedratinib	JAK2	c.1849G>T	Sensitive
+2826	dbmcs	Ruxolitinib	JAK2	c.2080T>C	Sensitive
+2827	dbmcs	Ruxolitinib	JAK2	c.2047A>G	Sensitive
+2828	dbmcs	CHZ868	JAK2	c.1849G>T	Sensitive
+2829	dbmcs	BMS-911543	JAK2	c.1849G>T	Sensitive
+2830	dbmcs	AZD1208 + Ruxolitinib	JAK2	c.1849G>T	Sensitive
+2831	dbmcs	Gandotinib	JAK2	c.1849G>T	Sensitive
+2832	dbmcs	Ruxolitinib + ZSTK474	JAK2	c.1849G>T	Sensitive
+2833	dbmcs	Ropeginterferon alfa-2b	JAK2	c.1849G>T	Sensitive
+2834	dbmcs	SHP099	JAK2	c.1849G>T	Sensitive
+2835	dbmcs	Ropeginterferon alfa-2b	JAK2	c.1849G>T	Sensitive
+2836	dbmcs	Ruxolitinib + SGI-1776	JAK2	c.1849G>T	Sensitive
+2837	dbmcs	Go6976	JAK2	c.1849G>T	Sensitive
+2838	dbmcs	NS-018	JAK2	c.1849G>T	Sensitive
+2839	dbmcs	BEZ235 + Ruxolitinib	JAK2	c.1849G>T	Sensitive
+2840	dbmcs	A-1155463	JAK2	c.1849G>T	Sensitive
+2841	dbmcs	Pictilisib + Ruxolitinib	JAK2	c.1849G>T	Sensitive
+2842	dbmcs	JAK inhibitors	JAK3	c.1970G>A	Sensitive
+2843	dbmcs	JAK inhibitors	JAK3	c.260T>C	Sensitive
+2844	dbmcs	JAK inhibitors	JAK3	c.1503G>T	Sensitive
+2845	dbmcs	JAK inhibitors	JAK3	c.1715C>T	Sensitive
+2846	dbmcs	JAK inhibitors	JAK3	c.1718C>T	Sensitive
+2847	dbmcs	Tofacitinib	JAK3	c.1766G>A	Sensitive
+2848	dbmcs	Tofacitinib	JAK3	c.1715C>T	Sensitive
+2849	dbmcs	Tofacitinib	JAK3	c.1747C>T	Sensitive
+2850	dbmcs	Tofacitinib	JAK3	c.1718C>T	Sensitive
+2851	dbmcs	Tofacitinib	JAK3	c.2021T>C	Sensitive
+2852	dbmcs	Ruxolitinib	JAK3	c.2021T>C	Sensitive
+2853	dbmcs	Tofacitinib	JAK3	c.467T>C	Sensitive
+2854	dbmcs	Tofacitinib	JAK3	c.1533G>C	Sensitive
+2855	dbmcs	NIBR3049	JAK3	c.2570T>C	Sensitive
+2856	dbmcs	Tofacitinib	JAK3	c.2570T>C	Sensitive
+2857	dbmcs	Tofacitinib	JAK3	c.548A>G	Sensitive
+2858	dbmcs	JANEX-1	JAK3	c.260T>C	Sensitive
+2859	dbmcs	Tofacitinib	JAK3	c.515G>A	Sensitive
+2860	dbmcs	Tofacitinib	JAK3	c.2164G>A	Sensitive
+2861	dbmcs	Amiloride	KCNJ5	c.503T>G	Sensitive
+2862	dbmcs	Verapamil	KCNJ5	c.503T>G	Sensitive
+2863	dbmcs	Sunitinib	KDR	c.3193G>A	Sensitive
+2864	dbmcs	Sorafenib	KDR	c.3193G>A	Sensitive
+2865	dbmcs	Sorafenib	KDR	c.2150A>T	Sensitive
+2866	dbmcs	Sunitinib	KDR	c.2150A>T	Sensitive
+2867	dbmcs	Regorafenib	KDR	c.2881C>T	Sensitive
+2868	dbmcs	VEGFR inhibitors	KDR	c.3193G>A	Sensitive
+2869	dbmcs	Cabozantinib	KDR	c.3095G>A	Sensitive
+2870	dbmcs	Lenvatinib	KDR	c.3095G>A	Sensitive
+2871	dbmcs	unspecified VEGFR2 antibody	KDR	c.1416A>T	Sensitive
+2872	dbmcs	Dasatinib	KIT	c.2447A>T	Sensitive
+2873	dbmcs	Dasatinib	KIT	c.2446G>T	Sensitive
+2874	dbmcs	Dasatinib	KIT	c.2446_2447delGAinsTT	Sensitive
+2875	dbmcs	Dasatinib	KIT	c.2466T>G	Sensitive
+2876	dbmcs	Imatinib	KIT	c.2458G>T	Sensitive
+2877	dbmcs	Imatinib	KIT	c.1657T>A	Sensitive
+2878	dbmcs	Nilotinib	KIT	c.2458G>T	Sensitive
+2879	dbmcs	Ponatinib	KIT	c.2485G>C	Sensitive
+2880	dbmcs	Ponatinib	KIT	c.1961T>C	Sensitive
+2881	dbmcs	Ponatinib	KIT	c.2009C>T	Sensitive
+2882	dbmcs	Sorafenib	KIT	c.2460T>G	Sensitive
+2883	dbmcs	Sunitinib	KIT	c.2089C>T	Sensitive
+2884	dbmcs	Sunitinib	KIT	c.1657T>A	Sensitive
+2885	dbmcs	Dasatinib	KIT	c.1727T>C	Sensitive
+2886	dbmcs	Imatinib	KIT	c.1648_1774	Sensitive
+2887	dbmcs	Imatinib	KIT	c.1727T>C	Sensitive
+2888	dbmcs	Nilotinib	KIT	c.1727T>C	Sensitive
+2889	dbmcs	Sunitinib	KIT	c.1961T>C	Sensitive
+2890	dbmcs	Imatinib	KIT	c.1679_1681delTTG	Sensitive
+2891	dbmcs	Selumetinib	KIT	c.2586G>C	Sensitive
+2892	dbmcs	Sunitinib	KIT	c.1347_1540	Sensitive
+2893	dbmcs	Sunitinib	KIT	c.1648_1774	Sensitive
+2894	dbmcs	Imatinib	KIT	c.1621A>C	Sensitive
+2895	dbmcs	Midostaurin	KIT	c.2447A>T	Sensitive
+2896	dbmcs	Imatinib	KIT	c.1249_1257delinsTAT	Sensitive
+2897	dbmcs	Imatinib	KIT	c.1451_1462del12	Sensitive
+2898	dbmcs	Imatinib	KIT	c.1735_1737delGAT	Sensitive
+2899	dbmcs	Sunitinib	KIT	c.2458G>T	Sensitive
+2900	dbmcs	Imatinib	KIT	c.1924A>G	Sensitive
+2901	dbmcs	Imatinib	KIT	c.1676T>A	Sensitive
+2902	dbmcs	Dasatinib	KIT	c.1676T>A	Sensitive
+2903	dbmcs	PD-180970	KIT	c.1676T>A	Sensitive
+2904	dbmcs	Imatinib	KIT	c.1676T>A	Sensitive
+2905	dbmcs	Sunitinib	KIT	c.1676T>A	Sensitive
+2906	dbmcs	Tandutinib	KIT	c.1676T>A	Sensitive
+2907	dbmcs	Regorafenib	KIT	c.1678_1728del51	Sensitive
+2908	dbmcs	Imatinib	KIT	c.1669_1674delTGGAAG	Sensitive
+2909	dbmcs	Ponatinib	KIT	c.1669_1674delTGGAAG	Sensitive
+2910	dbmcs	Regorafenib	KIT	c.1672_1677delAAGGTT	Sensitive
+2911	dbmcs	Ponatinib	KIT	c.1651_1662del12	Sensitive
+2912	dbmcs	Ponatinib	KIT	c.1679T>A	Sensitive
+2913	dbmcs	Imatinib	KIT	c.1679T>A	Sensitive
+2914	dbmcs	Regorafenib	KIT	c.1679T>A	Sensitive
+2915	dbmcs	Dasatinib	KIT	c.1924A>G	Sensitive
+2916	dbmcs	Ponatinib	KIT	c.1676T>A	Sensitive
+2917	dbmcs	Regorafenib	KIT	c.1676T>A	Sensitive
+2918	dbmcs	Regorafenib	KIT	c.2458G>T	Sensitive
+2919	dbmcs	Imatinib	KIT	c.1674delinsTCCT	Sensitive
+2920	dbmcs	Ponatinib	KIT	c.1674delinsTCCT	Sensitive
+2921	dbmcs	Sunitinib	KIT	c.1674delinsTCCT	Sensitive
+2922	dbmcs	Regorafenib	KIT	c.1674delinsTCCT	Sensitive
+2923	dbmcs	Regorafenib	KIT	c.1648_1774	Sensitive
+2924	dbmcs	Sunitinib	KIT	c.1705_1728del24	Sensitive
+2925	dbmcs	Imatinib	KIT	c.1883G>A	Sensitive
+2926	dbmcs	Dasatinib	KIT	c.1883G>A	Sensitive
+2927	dbmcs	Ponatinib	KIT	c.2466T>A	Sensitive
+2928	dbmcs	Regorafenib	KIT	c.1679T>G	Sensitive
+2929	dbmcs	Imatinib	KIT	c.1679T>G	Sensitive
+2930	dbmcs	Ponatinib	KIT	c.1679T>G	Sensitive
+2931	dbmcs	Sunitinib	KIT	c.1924A>G	Sensitive
+2932	dbmcs	Ponatinib	KIT	c.1924A>G	Sensitive
+2933	dbmcs	Ponatinib	KIT	c.2362_2484	Sensitive
+2934	dbmcs	Ponatinib	KIT	c.2485_2580	Sensitive
+2935	dbmcs	Imatinib	KIT	c.1648_1776	Sensitive
+2936	dbmcs	Imatinib	KIT	c.1879_1992	Sensitive
+2937	dbmcs	Sorafenib	KIT	c.1729_1734delCCTTAT	Sensitive
+2938	dbmcs	Imatinib	KIT	c.1246_1266	Sensitive
+2939	dbmcs	Imatinib	KIT	c.1345_1542	Sensitive
+2940	dbmcs	Sunitinib	KIT	c.1345_1542	Sensitive
+2941	dbmcs	Regorafenib	KIT	c.1345_1542	Sensitive
+2942	dbmcs	Sunitinib	KIT	c.1648_1776	Sensitive
+2943	dbmcs	Regorafenib	KIT	c.1648_1776	Sensitive
+2944	dbmcs	Imatinib	KIT	c.1990_2142	Sensitive
+2945	dbmcs	Sunitinib	KIT	c.1990_2142	Sensitive
+2946	dbmcs	Regorafenib	KIT	c.1990_2142	Sensitive
+2947	dbmcs	Imatinib	KIT	c.2362_2484	Sensitive
+2948	dbmcs	Sunitinib	KIT	c.2362_2484	Sensitive
+2949	dbmcs	Regorafenib	KIT	c.2362_2484	Sensitive
+2950	dbmcs	Sunitinib	KIT	c.1879_1992	Sensitive
+2951	dbmcs	Regorafenib	KIT	c.1879_1992	Sensitive
+2952	dbmcs	Imatinib	KIT	c.1733A>G	Sensitive
+2953	dbmcs	Sorafenib	KIT	c.1730_1738delCTTATGATC	Sensitive
+2954	dbmcs	Motesanib	KIT	c.1654_1677del24	Sensitive
+2955	dbmcs	Avapritinib	KIT	c.1679T>G	Sensitive
+2956	dbmcs	Nilotinib	KIT	c.1679T>G	Sensitive
+2957	dbmcs	Sunitinib	KIT	c.1679T>G	Sensitive
+2958	dbmcs	Midostaurin	KIT	c.1679T>G	Sensitive
+2959	dbmcs	Ripretinib	KIT	c.1679T>G	Sensitive
+2960	dbmcs	Cabozantinib	KIT	c.1673_1693del21	Sensitive
+2961	dbmcs	Imatinib	KIT	c.1673_1693del21	Sensitive
+2962	dbmcs	Sunitinib	KIT	c.1679_1681delTTG	Sensitive
+2963	dbmcs	Imatinib	KIT	c.1679_1681delTTG	Sensitive
+2964	dbmcs	Regorafenib	KIT	c.1672_1674delinsAACCCT	Sensitive
+2965	dbmcs	Sunitinib	KIT	c.1672_1674delinsAACCCT	Sensitive
+2966	dbmcs	Ponatinib	KIT	c.1672_1674delinsAACCCT	Sensitive
+2967	dbmcs	Imatinib	KIT	c.1672_1674delinsAACCCT	Sensitive
+2968	dbmcs	Axitinib	KIT	c.1676T>G	Sensitive
+2969	dbmcs	Axitinib	KIT	c.1727T>C	Sensitive
+2970	dbmcs	Bevacizumab + Sorafenib	KIT	c.1727T>C	Sensitive
+2971	dbmcs	SEL201	KIT	c.1727T>C	Sensitive
+2972	dbmcs	Sunitinib	KIT	c.2009C>T	Sensitive
+2973	dbmcs	Axitinib	KIT	c.2009C>T	Sensitive
+2974	dbmcs	Nilotinib	KIT	c.1669_1674delTGGAAG	Sensitive
+2975	dbmcs	Sunitinib	KIT	c.1669_1674delTGGAAG	Sensitive
+2976	dbmcs	Dasatinib	KIT	c.1669_1674delTGGAAG	Sensitive
+2977	dbmcs	Regorafenib	KIT	c.1669_1674delTGGAAG	Sensitive
+2978	dbmcs	PD-0325901	KIT	c.1669_1674delTGGAAG	Sensitive
+2979	dbmcs	Imatinib	KIT	c.1669T>G	Sensitive
+2980	dbmcs	Imatinib	KIT	c.1676T>C	Sensitive
+2981	dbmcs	Nilotinib	KIT	c.1676T>C	Sensitive
+2982	dbmcs	Axitinib	KIT	c.1676T>C	Sensitive
+2983	dbmcs	Midostaurin	KIT	c.1427G>T	Sensitive
+2984	dbmcs	Nilotinib	KIT	c.1427G>T	Sensitive
+2985	dbmcs	Ponatinib	KIT	c.1678_1728del51	Sensitive
+2986	dbmcs	Imatinib	KIT	c.1678_1728del51	Sensitive
+2987	dbmcs	Sorafenib	KIT	c.1652_1666del15	Sensitive
+2988	dbmcs	Nilotinib	KIT	c.1679T>A	Sensitive
+2989	dbmcs	Sorafenib	KIT	c.1679T>A	Sensitive
+2990	dbmcs	Sunitinib	KIT	c.1679T>A	Sensitive
+2991	dbmcs	Avapritinib	KIT	c.1679T>A	Sensitive
+2992	dbmcs	Motesanib	KIT	c.1679T>A	Sensitive
+2993	dbmcs	Dasatinib	KIT	c.1679T>A	Sensitive
+2994	dbmcs	Flumatinib	KIT	c.1249_1257delinsATC	Sensitive
+2995	dbmcs	Sunitinib	KIT	c.1249_1257delinsATC	Sensitive
+2996	dbmcs	Dasatinib	KIT	c.2458G>T	Sensitive
+2997	dbmcs	Sorafenib	KIT	c.2458G>T	Sensitive
+2998	dbmcs	SEL201	KIT	c.2458G>T	Sensitive
+2999	dbmcs	Nilotinib	KIT	c.1669T>A	Sensitive
+3000	dbmcs	Ponatinib	KIT	c.2446G>C	Sensitive
+3001	dbmcs	Flumatinib	KIT	c.2446G>C	Sensitive
+3002	dbmcs	Sunitinib	KIT	c.2446G>C	Sensitive
+3003	dbmcs	Gilteritinib	KIT	c.2447A>T	Sensitive
+3004	dbmcs	Crenolanib	KIT	c.2447A>T	Sensitive
+3005	dbmcs	Ripretinib	KIT	c.2447A>T	Sensitive
+3006	dbmcs	Cytarabine + Dasatinib	KIT	c.2447A>T	Sensitive
+3007	dbmcs	Avapritinib	KIT	c.2447A>T	Sensitive
+3008	dbmcs	Midostaurin	KIT	c.2447A>T	Sensitive
+3009	dbmcs	BPR1J373	KIT	c.2447A>T	Sensitive
+3010	dbmcs	FF-10101	KIT	c.2447A>T	Sensitive
+3011	dbmcs	Imatinib	KIT	c.1327T>A	Sensitive
+3012	dbmcs	Imatinib	KIT	c.1679_1735del57	Sensitive
+3013	dbmcs	Axitinib	KIT	c.1679_1735del57	Sensitive
+3014	dbmcs	Ponatinib	KIT	c.1679_1735del57	Sensitive
+3015	dbmcs	Sunitinib	KIT	c.1679_1735del57	Sensitive
+3016	dbmcs	Infigratinib + Imatinib	KIT	c.1679_1735del57	Sensitive
+3017	dbmcs	Avapritinib	KIT	c.2459A>T	Sensitive
+3018	dbmcs	Motesanib	KIT	c.2467T>G	Sensitive
+3019	dbmcs	Axitinib	KIT	c.1961T>C	Sensitive
+3020	dbmcs	Sunitinib	KIT	c.1961T>C	Sensitive
+3021	dbmcs	Regorafenib	KIT	c.1924A>G	Sensitive
+3022	dbmcs	Axitinib	KIT	c.1924A>G	Sensitive
+3023	dbmcs	Infigratinib + Imatinib	KIT	c.1924A>G	Sensitive
+3024	dbmcs	Nilotinib	KIT	c.1924A>G	Sensitive
+3025	dbmcs	Ponatinib	KIT	c.2460T>G	Sensitive
+3026	dbmcs	Ponatinib	KIT	c.1651_1671delinsCTT	Sensitive
+3027	dbmcs	Flumatinib	KIT	c.1504_1509	Sensitive
+3028	dbmcs	Regorafenib	KIT	c.1504_1509	Sensitive
+3029	dbmcs	Cabozantinib	KIT	c.1504_1509	Sensitive
+3030	dbmcs	Sunitinib	KIT	c.1504_1509	Sensitive
+3031	dbmcs	Imatinib	KIT	c.1504_1509	Sensitive
+3032	dbmcs	Dasatinib	KIT	c.2465A>T	Sensitive
+3033	dbmcs	Sorafenib	KIT	c.1651_1665delinsACACTT	Sensitive
+3034	dbmcs	Dasatinib	KIT	c.2485G>C	Sensitive
+3035	dbmcs	Nilotinib	KIT	c.2485G>C	Sensitive
+3036	dbmcs	Axitinib	KIT	c.2485G>C	Sensitive
+3037	dbmcs	G007-LK + Imatinib	KIT	c.1679_1681delTTG	Sensitive
+3038	dbmcs	Avapritinib	KIT	c.1670_1675delGGAAGG	Sensitive
+3039	dbmcs	Nilotinib	KIT	c.1676T>A	Sensitive
+3040	dbmcs	Axitinib	KIT	c.1676T>A	Sensitive
+3041	dbmcs	Flumatinib	KIT	c.1676T>A	Sensitive
+3042	dbmcs	Sunitinib	KIT	c.2466T>G	Sensitive
+3043	dbmcs	Avapritinib	KIT	c.2466T>G	Sensitive
+3044	dbmcs	Ponatinib	KIT	c.2466T>G	Sensitive
+3045	dbmcs	Flumatinib	KIT	c.2466T>G	Sensitive
+3046	dbmcs	BPR1J373	KIT	c.2466T>G	Sensitive
+3047	dbmcs	Ripretinib	KIT	c.2466T>G	Sensitive
+3048	dbmcs	Midostaurin	KIT	c.2466T>G	Sensitive
+3049	dbmcs	Regorafenib	KIT	c.2466T>G	Sensitive
+3050	dbmcs	Avapritinib	KIT	c.2446G>T	Sensitive
+3051	dbmcs	Ripretinib	KIT	c.2446G>T	Sensitive
+3052	dbmcs	Midostaurin	KIT	c.2446G>T	Sensitive
+3053	dbmcs	Imatinib	KIT	c.1514A>T	Sensitive
+3054	dbmcs	Sorafenib	KIT	c.1514A>T	Sensitive
+3055	dbmcs	Imatinib	KIT	c.1676_1681delTTGTTG	Sensitive
+3056	dbmcs	Sunitinib	KIT	c.1676_1681delTTGTTG	Sensitive
+3057	dbmcs	Flumatinib	KIT	c.1676_1681delTTGTTG	Sensitive
+3058	dbmcs	Ponatinib	KIT	c.1650_1673del24	Sensitive
+3059	dbmcs	Imatinib	KIT	c.1650_1673del24	Sensitive
+3060	dbmcs	Regorafenib	KIT	c.1650_1673del24	Sensitive
+3061	dbmcs	Sunitinib	KIT	c.1650_1673del24	Sensitive
+3062	dbmcs	Regorafenib	KIT	c.2009C>T	Sensitive
+3063	dbmcs	Sunitinib	KIT	c.2009C>T	Sensitive
+3064	dbmcs	Regorafenib	KIT	c.1961T>C	Sensitive
+3065	dbmcs	Imatinib	KIT	c.2448C>T	Sensitive
+3066	dbmcs	Imatinib	KIT	c.1961T>C	Sensitive
+3067	dbmcs	Sunitinib	KIT	c.2448C>T	Sensitive
+3068	dbmcs	Sorafenib	KIT	c.2448C>T	Sensitive
+3069	dbmcs	Sorafenib	KIT	c.2009C>T	Sensitive
+3070	dbmcs	Sunitinib	KIT	c.1961T>C	Sensitive
+3071	dbmcs	Sorafenib	KIT	c.1961T>C	Sensitive
+3072	dbmcs	Avapritinib	KIT	c.2448C>T	Sensitive
+3073	dbmcs	Dactolisib + Selumetinib	KRAS	c.35G>A	Sensitive
+3074	dbmcs	Abemaciclib	KRAS	c.437C>T	Sensitive
+3075	dbmcs	Palbociclib	KRAS	c.35G>T	Sensitive
+3076	dbmcs	MK-2206	KRAS	c.35G>A	Sensitive
+3077	dbmcs	Docetaxel + Selumetinib	KRAS	c.34G>T	Sensitive
+3078	dbmcs	Docetaxel + Selumetinib	KRAS	c.35G>T	Sensitive
+3079	dbmcs	EGFR inhibitor + ARS-853	KRAS	c.34G>T	Sensitive
+3080	dbmcs	Irinotecan + Selumetinib	KRAS	c.1-11_111	Sensitive
+3081	dbmcs	Therapeutic Tumor Infiltrating Lymphocytes	KRAS	c.35G>A	Sensitive
+3082	dbmcs	Selumetinib + Dactolisib	KRAS	c.35G>T	Sensitive
+3083	dbmcs	Dactolisib + Selumetinib	KRAS	c.38G>A	Sensitive
+3084	dbmcs	Dactolisib + Selumetinib	KRAS	c.436G>A	Sensitive
+3085	dbmcs	Selumetinib + Dactolisib	KRAS	c.437C>T	Sensitive
+3086	dbmcs	Selumetinib + Dactolisib	KRAS	c.34G>T	Sensitive
+3087	dbmcs	Selumetinib + Dactolisib	KRAS	c.35G>A	Sensitive
+3088	dbmcs	MEK inhibitors	KRAS	c.34_36	Sensitive
+3089	dbmcs	Panitumumab + Trametinib	MAP2K1	c.170A>C	Sensitive
+3090	dbmcs	Trametinib	MAP2K1	c.167A>C	Sensitive
+3091	dbmcs	Selumetinib	MAP2K1	c.166_180del15	Sensitive
+3092	dbmcs	Selumetinib	MAP2K1	c.171G>T	Sensitive
+3093	dbmcs	BRAF inhibitors	MAP2K1	c.370C>T	Sensitive
+3094	dbmcs	BRAF inhibitors	MAP2K1	c.332T>G	Sensitive
+3095	dbmcs	MEK inhibitors	MAP2K1	c.166_180del15	Sensitive
+3096	dbmcs	Cobimetinib	MAP2K1	c.314_322delCCGCAATCC	Sensitive
+3097	dbmcs	PLX4720	MAP2K1	c.361T>A	Sensitive
+3098	dbmcs	Cetuximab + Trametinib	MAP2K1	c.361T>A	Sensitive
+3099	dbmcs	Selumetinib	MAP2K1	c.361T>A	Sensitive
+3100	dbmcs	Cetuximab + Trametinib	MAP2K1	c.170A>C	Sensitive
+3101	dbmcs	Selumetinib	MAP2K1	c.167A>C	Sensitive
+3102	dbmcs	PLX4720	MAP2K1	c.167A>C	Sensitive
+3103	dbmcs	Refametinib	MAP2K1	c.167A>C	Sensitive
+3104	dbmcs	Cobimetinib	MAP2K1	c.167A>C	Sensitive
+3105	dbmcs	PD-0325901	MAP2K1	c.167A>C	Sensitive
+3106	dbmcs	Panitumumab + Trametinib	MAP2K1	c.171G>C	Sensitive
+3107	dbmcs	Selumetinib	MAP2K1	c.171G>C	Sensitive
+3108	dbmcs	PLX4720	MAP2K1	c.171G>C	Sensitive
+3109	dbmcs	Cetuximab + Trametinib	MAP2K1	c.171G>C	Sensitive
+3110	dbmcs	Trametinib	MAP2K1	c.171G>C	Sensitive
+3111	dbmcs	Selumetinib	MAP2K1	c.332T>G	Sensitive
+3112	dbmcs	PLX4720	MAP2K1	c.332T>G	Sensitive
+3113	dbmcs	Cobimetinib	MAP2K1	c.371C>T	Sensitive
+3114	dbmcs	PLX4720	MAP2K1	c.632T>A	Sensitive
+3115	dbmcs	Cobimetinib	MAP2K1	c.371C>A	Sensitive
+3116	dbmcs	PLX4720	MAP2K1	c.385T>C	Sensitive
+3117	dbmcs	Selumetinib	MAP2K1	c.385T>C	Sensitive
+3118	dbmcs	RO4927350	MAP2K1	c.385T>C	Sensitive
+3119	dbmcs	CI-1040	MAP2K1	c.158T>C	Sensitive
+3120	dbmcs	Trametinib	MAP2K1	c.157T>C	Sensitive
+3121	dbmcs	PLX4720	MAP2K1	c.157T>C	Sensitive
+3122	dbmcs	Cetuximab + Trametinib	MAP2K1	c.157T>C	Sensitive
+3123	dbmcs	Selumetinib	MAP2K1	c.157T>C	Sensitive
+3124	dbmcs	Erlotinib	MAPK1	c.964G>A	Sensitive
+3125	dbmcs	Crizotinib	MET	c.3335A>T	Sensitive
+3126	dbmcs	Crizotinib	MET	c.3328G>A	Sensitive
+3127	dbmcs	Crizotinib	MET	c.3335A>G	Sensitive
+3128	dbmcs	Crizotinib	MET	c.3803T>C	Sensitive
+3129	dbmcs	Crizotinib	MET	c.2962C>T	Sensitive
+3130	dbmcs	Crizotinib	MET	c.3029C>T	Sensitive
+3131	dbmcs	Cabozantinib	MET	c.3683A>T	Sensitive
+3132	dbmcs	Crizotinib	MET	c.3010C>G	Sensitive
+3133	dbmcs	Crizotinib	MET	c.3750G>C	Sensitive
+3134	dbmcs	MET inhibitors	MET	c.3335A>T	Sensitive
+3135	dbmcs	MET inhibitors	MET	c.3803T>C	Sensitive
+3136	dbmcs	MET inhibitors	MET	c.3281A>G	Sensitive
+3137	dbmcs	Crizotinib	MET	c.3394_3990	Sensitive
+3138	dbmcs	Bevacizumab + Sorafenib	MET	c.1124A>G	Sensitive
+3139	dbmcs	Capmatinib	MET	c.3028G>T	Sensitive
+3140	dbmcs	Merestinib	MET	c.3028G>T	Sensitive
+3141	dbmcs	Savolitinib	MET	c.3028G>T	Sensitive
+3142	dbmcs	Crizotinib	MET	c.3028G>T	Sensitive
+3143	dbmcs	Glesatinib	MET	c.3028G>T	Sensitive
+3144	dbmcs	Tepotinib	MET	c.3028G>T	Sensitive
+3145	dbmcs	Cabozantinib	MET	c.3028G>T	Sensitive
+3146	dbmcs	Cabozantinib	MET	c.3683A>T	Sensitive
+3147	dbmcs	Glesatinib	MET	c.3683A>T	Sensitive
+3148	dbmcs	Merestinib	MET	c.3683A>T	Sensitive
+3149	dbmcs	SU11274	MET	c.3616G>C	Sensitive
+3150	dbmcs	Crizotinib	MET	c.3598T>A	Sensitive
+3151	dbmcs	Cabozantinib	MET	c.3682G>A	Sensitive
+3152	dbmcs	Altiratinib	MET	c.3682G>A	Sensitive
+3153	dbmcs	BMS-777607	MET	c.3682G>A	Sensitive
+3154	dbmcs	Merestinib	MET	c.3682G>A	Sensitive
+3155	dbmcs	Altiratinib	MET	c.3749T>C	Sensitive
+3156	dbmcs	Glesatinib	MET	c.3008A>T	Sensitive
+3157	dbmcs	Crizotinib	MET	c.3008A>T	Sensitive
+3158	dbmcs	Cabozantinib	MET	c.3008A>T	Sensitive
+3159	dbmcs	Tepotinib	MET	c.3008A>T	Sensitive
+3160	dbmcs	Capmatinib	MET	c.3008A>T	Sensitive
+3161	dbmcs	Savolitinib	MET	c.3008A>T	Sensitive
+3162	dbmcs	Merestinib	MET	c.3008A>T	Sensitive
+3163	dbmcs	SU11274	MET	c.3328G>A	Sensitive
+3164	dbmcs	K252a	MET	c.3803T>C	Sensitive
+3165	dbmcs	SU11274	MET	c.3803T>C	Sensitive
+3166	dbmcs	SU11274	MET	c.3335A>T	Sensitive
+3167	dbmcs	SU11274	MET	c.3712G>A	Sensitive
+3168	dbmcs	Altiratinib	MET	c.3688T>G	Sensitive
+3169	dbmcs	Altiratinib	MET	c.3682G>C	Sensitive
+3170	dbmcs	Crizotinib	MET	c.3682G>C	Sensitive
+3171	dbmcs	SU11274	MET	c.3334C>T	Sensitive
+3172	dbmcs	BMS-777607	MET	c.3688T>C	Sensitive
+3173	dbmcs	Altiratinib	MET	c.3688T>C	Sensitive
+3174	dbmcs	Cabozantinib	MET	c.3688T>C	Sensitive
+3175	dbmcs	Glesatinib	MET	c.3689A>G	Sensitive
+3176	dbmcs	Merestinib	MET	c.3689A>G	Sensitive
+3177	dbmcs	Altiratinib	MET	c.3689A>G	Sensitive
+3178	dbmcs	Crizotinib	MET	c.3446T>C	Sensitive
+3179	dbmcs	SU11274	MET	c.504G>C	Sensitive
+3180	dbmcs	Crizotinib	MET	c.3028G>C	Sensitive
+3181	dbmcs	Crizotinib	MET	c.3028G>A	Sensitive
+3182	dbmcs	Crizotinib	MET	c.3028G>T	Sensitive
+3183	dbmcs	Crizotinib	MET	c.3008A>G	Sensitive
+3184	dbmcs	Crizotinib	MET	c.3008A>T	Sensitive
+3185	dbmcs	Crizotinib	MET	c.3007T>A	Sensitive
+3186	dbmcs	Cabozantinib	MET	c.3028G>C	Sensitive
+3187	dbmcs	Capmatinib	MET	c.3028G>C	Sensitive
+3188	dbmcs	Cabozantinib	MET	c.3028G>A	Sensitive
+3189	dbmcs	Capmatinib	MET	c.3028G>A	Sensitive
+3190	dbmcs	Cabozantinib	MET	c.3028G>T	Sensitive
+3191	dbmcs	Capmatinib	MET	c.3028G>T	Sensitive
+3192	dbmcs	Cabozantinib	MET	c.3008A>G	Sensitive
+3193	dbmcs	Capmatinib	MET	c.3008A>G	Sensitive
+3194	dbmcs	Cabozantinib	MET	c.3008A>T	Sensitive
+3195	dbmcs	Capmatinib	MET	c.3008A>T	Sensitive
+3196	dbmcs	Cabozantinib	MET	c.3007T>A	Sensitive
+3197	dbmcs	Capmatinib	MET	c.3007T>A	Sensitive
+3198	dbmcs	Temozolomide	MGMT	c.66C>T	Sensitive
+3199	dbmcs	JAK inhibitors	MPL	c.1544_1545delGGinsTT	Sensitive
+3200	dbmcs	Everolimus	MPL	c.1544G>T	Sensitive
+3201	dbmcs	BMS-911543	MPL	c.1544G>T	Sensitive
+3202	dbmcs	BEZ235 + Ruxolitinib	MPL	c.1544G>T	Sensitive
+3203	dbmcs	Ruxolitinib + TGX-221	MPL	c.1544G>T	Sensitive
+3204	dbmcs	CHZ868	MPL	c.1544G>T	Sensitive
+3205	dbmcs	NS-018	MPL	c.1544G>T	Sensitive
+3206	dbmcs	MK2206	MPL	c.1544G>T	Sensitive
+3207	dbmcs	Pictilisib + Ruxolitinib	MPL	c.1544G>T	Sensitive
+3208	dbmcs	Everolimus	MPL	c.1543_1544delTGinsAA	Sensitive
+3209	dbmcs	Fluorouracil	MTHFR	c.665C>T	Sensitive
+3210	dbmcs	Everolimus	MTOR	c.6040G>A	Sensitive
+3211	dbmcs	Everolimus	MTOR	c.7255G>A	Sensitive
+3212	dbmcs	Everolimus	MTOR	c.4261A>G	Sensitive
+3213	dbmcs	Everolimus	MTOR	c.5917A>T	Sensitive
+3214	dbmcs	Everolimus	MTOR	c.5312A>G	Sensitive
+3215	dbmcs	Everolimus	MTOR	c.6667C>A	Sensitive
+3216	dbmcs	Sirolimus	MTOR	c.4379T>C	Sensitive
+3217	dbmcs	Sirolimus	MTOR	c.6644C>A	Sensitive
+3218	dbmcs	Sirolimus	MTOR	c.7514G>C	Sensitive
+3219	dbmcs	LY-294002	MTOR	c.5902C>T	Sensitive
+3220	dbmcs	Capivasertib	MTOR	c.5902C>T	Sensitive
+3221	dbmcs	LY-294002 + Capivasertib	MTOR	c.6637C>T	Sensitive
+3222	dbmcs	Sirolimus	MTOR	c.4448G>A	Sensitive
+3223	dbmcs	Sirolimus	MTOR	c.5395G>A	Sensitive
+3224	dbmcs	Pazopanib + Everolimus	MTOR	c.6040_7255	Sensitive
+3225	dbmcs	Temsirolimus	MTOR	c.4379T>C	Sensitive
+3226	dbmcs	Temsirolimus	MTOR	c.6625C>G	Sensitive
+3227	dbmcs	Temsirolimus	MTOR	c.7280T>A	Sensitive
+3228	dbmcs	Ibrutinib	MYD88	c.794T>C	Sensitive
+3229	dbmcs	IMG-2005-5	MYD88	c.794T>C	Sensitive
+3230	dbmcs	IRAK-1 or IRAK-4 inhibitors	MYD88	c.794T>C	Sensitive
+3231	dbmcs	Ibrutinib	MYD88	c.794T>C	Sensitive
+3232	dbmcs	Vorinostat	MYD88	c.794T>C	Sensitive
+3233	dbmcs	Everolimus	NF1	c.4931A>C	Sensitive
+3234	dbmcs	Temsirolimus	NF2	c.476_477insCG	Sensitive
+3235	dbmcs	MRK-003	NOTCH1	c.4655C>G	Sensitive
+3236	dbmcs	MRK-003	NOTCH1	c.5047C>T	Sensitive
+3237	dbmcs	WNT-974	NOTCH1	c.1433G>T	Sensitive
+3238	dbmcs	MRK-003	NOTCH1	c.5039T>G	Sensitive
+3239	dbmcs	MRK-003	NOTCH1	c.4795G>A	Sensitive
+3240	dbmcs	MRK-003	NOTCH1	c.5026G>A	Sensitive
+3241	dbmcs	MRK-003	NOTCH1	c.5119G>A	Sensitive
+3242	dbmcs	MRK-003	NOTCH1	c.4655C>T	Sensitive
+3243	dbmcs	MRK-003	NOTCH1	c.4724T>C	Sensitive
+3244	dbmcs	MRK-003	NOTCH1	c.4699G>A	Sensitive
+3245	dbmcs	MRK-003	NOTCH1	c.4709C>G	Sensitive
+3246	dbmcs	Daunorubicin	NPM1	c.847_882+3	Sensitive
+3247	dbmcs	Valproic acid	NPM1	c.847_882+3	Sensitive
+3248	dbmcs	Tretinoin + NSC348884	NPM1	c.847_882+3	Sensitive
+3249	dbmcs	Anti-CD33 + Anti-CD123	NPM1	c.847_882+3	Sensitive
+3250	dbmcs	Anti-CD33	NPM1	c.847_882+3	Sensitive
+3251	dbmcs	NSC348884	NPM1	c.863_864	Sensitive
+3252	dbmcs	Induction Therapy	NPM1	c.863_864	Sensitive
+3253	dbmcs	Amrubicin	NQO1	c.559C>T	Sensitive
+3254	dbmcs	Tanespimycin	NRAS	c.38G>A	Sensitive
+3255	dbmcs	Temozolomide	NRAS	c.182A>T	Sensitive
+3256	dbmcs	Temozolomide	NRAS	c.182A>G	Sensitive
+3257	dbmcs	Everolimus + Binimetinib	NRAS	c.181C>A	Sensitive
+3258	dbmcs	Binimetinib	NRAS	c.182A>T	Sensitive
+3259	dbmcs	Binimetinib	NRAS	c.182A>G	Sensitive
+3260	dbmcs	Selumetinib	NRAS	c.182A>T	Sensitive
+3261	dbmcs	Selumetinib	NRAS	c.182A>G	Sensitive
+3262	dbmcs	Selumetinib	NRAS	c.181C>A	Sensitive
+3263	dbmcs	Selumetinib + Dactolisib	NRAS	c.181C>A	Sensitive
+3264	dbmcs	Trametinib	NRAS	c.181C>A	Sensitive
+3265	dbmcs	ERK inhibitors	NRAS	c.34G>T	Sensitive
+3266	dbmcs	N-Arachidonoyl Dopamine	NRAS	c.35G>A	Sensitive
+3267	dbmcs	Alpelisib + Binimetinib	NRAS	c.35G>A	Sensitive
+3268	dbmcs	Binimetinib	NRAS	c.35G>A	Sensitive
+3269	dbmcs	Cetuximab + Trametinib	NRAS	c.35G>T	Sensitive
+3270	dbmcs	Compound 3144	NRAS	c.38G>T	Sensitive
+3271	dbmcs	Alpelisib + Binimetinib	NRAS	c.183A>T	Sensitive
+3272	dbmcs	MK2206	NRAS	c.182A>G	Sensitive
+3273	dbmcs	RAF709	NRAS	c.181C>A	Sensitive
+3274	dbmcs	Binimetinib	NRAS	c.181C>A	Sensitive
+3275	dbmcs	Pimasertib + Regorafenib	NRAS	c.181C>A	Sensitive
+3276	dbmcs	Everolimus + Pimasertib	NRAS	c.181C>A	Sensitive
+3277	dbmcs	Pimasertib	NRAS	c.181C>A	Sensitive
+3278	dbmcs	Pimasertib + Sorafenib	NRAS	c.181C>A	Sensitive
+3279	dbmcs	LY3009120	NRAS	c.181C>A	Sensitive
+3280	dbmcs	Selumetinib	NRAS	c.38G>A	Sensitive
+3281	dbmcs	Compound 3144	NRAS	c.38G>A	Sensitive
+3282	dbmcs	LY3009120	NRAS	c.38G>A	Sensitive
+3283	dbmcs	RAF709	NRAS	c.182A>T	Sensitive
+3284	dbmcs	CCT196969	NRAS	c.182A>T	Sensitive
+3285	dbmcs	CCT241161	NRAS	c.182A>T	Sensitive
+3286	dbmcs	Crenolanib	PDGFRA	c.2525A>T	Sensitive
+3287	dbmcs	Crenolanib	PDGFRA	c.1973T>C	Sensitive
+3288	dbmcs	Crenolanib	PDGFRA	c.1729C>T	Sensitive
+3289	dbmcs	Crenolanib	PDGFRA	c.2522G>A	Sensitive
+3290	dbmcs	Crenolanib	PDGFRA	c.2533C>T	Sensitive
+3291	dbmcs	Crenolanib	PDGFRA	c.2558G>A	Sensitive
+3292	dbmcs	Dasatinib	PDGFRA	c.2525A>T	Sensitive
+3293	dbmcs	Imatinib	PDGFRA	c.1729C>T	Sensitive
+3294	dbmcs	Imatinib	PDGFRA	c.2522G>A	Sensitive
+3295	dbmcs	Imatinib	PDGFRA	c.2533C>T	Sensitive
+3296	dbmcs	Imatinib	PDGFRA	c.2558G>A	Sensitive
+3297	dbmcs	Crenolanib	PDGFRA	c.2524_2525delGAinsAT	Sensitive
+3298	dbmcs	Crenolanib	PDGFRA	c.2524G>T	Sensitive
+3299	dbmcs	Crenolanib	PDGFRA	c.2529_2531delCAT	Sensitive
+3300	dbmcs	Crenolanib	PDGFRA	c.2524_2529delinsGTAATG	Sensitive
+3301	dbmcs	Imatinib	PDGFRA	c.1682T>C	Sensitive
+3302	dbmcs	Imatinib	PDGFRA	c.2529_2531delCAT	Sensitive
+3303	dbmcs	Ponatinib	PDGFRA	c.2021C>T	Sensitive
+3304	dbmcs	Imatinib	PDGFRA	c.1682T>A	Sensitive
+3305	dbmcs	Imatinib	PDGFRA	c.2242A>G	Sensitive
+3306	dbmcs	Sunitinib	PDGFRA	c.2242A>G	Sensitive
+3307	dbmcs	Regorafenib	PDGFRA	c.2242A>G	Sensitive
+3308	dbmcs	Imatinib	PDGFRA	c.1654_1788	Sensitive
+3309	dbmcs	Sunitinib	PDGFRA	c.1654_1788	Sensitive
+3310	dbmcs	Regorafenib	PDGFRA	c.1654_1788	Sensitive
+3311	dbmcs	Imatinib	PDGFRA	c.1891_2004	Sensitive
+3312	dbmcs	Sunitinib	PDGFRA	c.1891_2004	Sensitive
+3313	dbmcs	Regorafenib	PDGFRA	c.1891_2004	Sensitive
+3314	dbmcs	Imatinib	PDGFRA	c.2440_2562	Sensitive
+3315	dbmcs	Sunitinib	PDGFRA	c.2440_2562	Sensitive
+3316	dbmcs	Regorafenib	PDGFRA	c.2440_2562	Sensitive
+3317	dbmcs	Imatinib	PDGFRA	c.1950C>A	Sensitive
+3318	dbmcs	Imatinib	PDGFRA	c.2242A>G	Sensitive
+3319	dbmcs	Imatinib	PDGFRA	c.661C>T	Sensitive
+3320	dbmcs	Imatinib	PDGFRA	c.2533_2544delinsCCT	Sensitive
+3321	dbmcs	Imatinib	PDGFRA	c.2533_2544delinsCCT	Sensitive
+3322	dbmcs	Imatinib	PDGFRA	c.1683_1684insGAGAGG	Sensitive
+3323	dbmcs	Ripretinib	PDGFRA	c.2525A>T	Sensitive
+3324	dbmcs	Crenolanib	PDGFRA	c.2525A>T	Sensitive
+3325	dbmcs	Omipalisib	PDGFRA	c.2525A>T	Sensitive
+3326	dbmcs	Avapritinib	PDGFRA	c.2525A>T	Sensitive
+3327	dbmcs	Midostaurin	PDGFRA	c.2525A>T	Sensitive
+3328	dbmcs	Regorafenib	PDGFRA	c.2525A>T	Sensitive
+3329	dbmcs	Avapritinib	PDGFRA	c.2525A>T	Sensitive
+3330	dbmcs	Trametinib	PDGFRA	c.863A>G	Sensitive
+3331	dbmcs	Omipalisib	PDGFRA	c.863A>G	Sensitive
+3332	dbmcs	Sunitinib	PDGFRA	c.1682T>A	Sensitive
+3333	dbmcs	Avapritinib	PDGFRA	c.1682T>A	Sensitive
+3334	dbmcs	Imatinib	PDGFRA	c.1682T>A	Sensitive
+3335	dbmcs	Crenolanib	PDGFRA	c.1682T>A	Sensitive
+3336	dbmcs	Omipalisib	PDGFRA	c.1682T>A	Sensitive
+3337	dbmcs	Nilotinib	PDGFRA	c.1682T>A	Sensitive
+3338	dbmcs	Imatinib	PDGFRA	c.2524G>T	Sensitive
+3339	dbmcs	Imatinib	PDGFRA	c.1973T>C	Sensitive
+3340	dbmcs	Imatinib	PDGFRA	c.2544C>G	Sensitive
+3341	dbmcs	Imatinib	PDGFRA	c.1698_1712del15	Sensitive
+3342	dbmcs	Imatinib	PDGFRA	c.2546A>C	Sensitive
+3343	dbmcs	Imatinib	PDGFRA	c.1977C>G	Sensitive
+3344	dbmcs	Crenolanib	PDGFRA	c.1977C>G	Sensitive
+3345	dbmcs	Imatinib	PDGFRA	c.2536G>T	Sensitive
+3346	dbmcs	Sorafenib	PDGFRA	c.2537A>T	Sensitive
+3347	dbmcs	CH-5132799	PIK3CA	c.1624G>A	Sensitive
+3348	dbmcs	Sirolimus	PIK3CA	c.1624G>A	Sensitive
+3349	dbmcs	CH-5132799	PIK3CA	c.3140A>G	Sensitive
+3350	dbmcs	MK-2206	PIK3CA	c.1633G>A	Sensitive
+3351	dbmcs	Pictilisib	PIK3CA	c.1633G>A	Sensitive
+3352	dbmcs	Idelalisib	PIK3CA	c.1412C>T	Sensitive
+3353	dbmcs	Dactolisib	PIK3CA	c.3140A>G	Sensitive
+3354	dbmcs	Cetuximab + Dactolisib	PIK3CA	c.3140A>G	Sensitive
+3355	dbmcs	Alpelisib	PIK3CA	c.3140A>G	Sensitive
+3356	dbmcs	Taselisib	PIK3CA	c.3140A>G	Sensitive
+3357	dbmcs	AZD5363 + Trastuzumab	PIK3CA	c.3140A>G	Sensitive
+3358	dbmcs	AZD5363 + Lapatinib	PIK3CA	c.3140A>G	Sensitive
+3359	dbmcs	Apitolisib	PIK3CA	c.1624G>A	Sensitive
+3360	dbmcs	Apitolisib	PIK3CA	c.1633G>A	Sensitive
+3361	dbmcs	Everolimus + Fulvestrant	PIK3CA	c.3140A>G	Sensitive
+3362	dbmcs	Perifosine	PIK3CA	c.3140A>G	Sensitive
+3363	dbmcs	Temsirolimus	PIK3CA	c.3140A>G	Sensitive
+3364	dbmcs	Perifosine	PIK3CA	c.1624G>A	Sensitive
+3365	dbmcs	Temsirolimus	PIK3CA	c.1624G>A	Sensitive
+3366	dbmcs	Trastuzumab emtansine	PIK3CA	c.1633G>A	Sensitive
+3367	dbmcs	PI103	PIK3CA	c.1633G>A	Sensitive
+3368	dbmcs	Trastuzumab emtansine	PIK3CA	c.3140A>G	Sensitive
+3369	dbmcs	PI103	PIK3CA	c.3140A>G	Sensitive
+3370	dbmcs	Fulvestrant + Alpelisib	PIK3CA	c.1624G>A	Sensitive
+3371	dbmcs	Cetuximab	PIK3CA	c.1625A>T	Sensitive
+3372	dbmcs	Alpelisib	PIK3CA	c.1348_1374del27	Sensitive
+3373	dbmcs	Apitolisib	PIK3CA	c.263G>A	Sensitive
+3374	dbmcs	Cetuximab + Floxuridine + Fluorouracil + Irinotecan	PIK3CA	c.263G>A	Sensitive
+3375	dbmcs	Trametinib	PIK3CA	c.1624G>A	Sensitive
+3376	dbmcs	VS-5584	PIK3CA	c.1624G>A	Sensitive
+3377	dbmcs	Alpelisib + Fulvestrant	PIK3CA	c.1624G>A	Sensitive
+3378	dbmcs	Gemcitabine + LY2780301	PIK3CA	c.1624G>A	Sensitive
+3379	dbmcs	Cetuximab + Irinotecan	PIK3CA	c.1624G>A	Sensitive
+3380	dbmcs	PD-0325901 + Pictilisib	PIK3CA	c.1624G>A	Sensitive
+3381	dbmcs	Dactolisib	PIK3CA	c.1624G>A	Sensitive
+3382	dbmcs	MK2206 + Temsirolimus	PIK3CA	c.1624G>A	Sensitive
+3383	dbmcs	Alpelisib	PIK3CA	c.1624G>A	Sensitive
+3384	dbmcs	MK2206	PIK3CA	c.1624G>A	Sensitive
+3385	dbmcs	Lapatinib	PIK3CA	c.1624G>A	Sensitive
+3386	dbmcs	Capivasertib	PIK3CA	c.1624G>A	Sensitive
+3387	dbmcs	Miransertib	PIK3CA	c.1624G>A	Sensitive
+3388	dbmcs	Neratinib	PIK3CA	c.1624G>A	Sensitive
+3389	dbmcs	Neratinib	PIK3CA	c.3145G>C	Sensitive
+3390	dbmcs	MK2206	PIK3CA	c.3145G>C	Sensitive
+3391	dbmcs	Alpelisib	PIK3CA	c.3145G>C	Sensitive
+3392	dbmcs	Dactolisib	PIK3CA	c.3145G>C	Sensitive
+3393	dbmcs	Lapatinib	PIK3CA	c.3145G>C	Sensitive
+3394	dbmcs	Trametinib	PIK3CA	c.3145G>C	Sensitive
+3395	dbmcs	Alpelisib + Fulvestrant	PIK3CA	c.1634A>G	Sensitive
+3396	dbmcs	Sirolimus	PIK3CA	c.3127A>G	Sensitive
+3397	dbmcs	Alpelisib + Fulvestrant	PIK3CA	c.1634A>C	Sensitive
+3398	dbmcs	BAY1125976	PIK3CA	c.1616C>G	Sensitive
+3399	dbmcs	CYH33	PIK3CA	c.1616C>G	Sensitive
+3400	dbmcs	MK2206	PIK3CA	c.1035T>G	Sensitive
+3401	dbmcs	Dactolisib	PIK3CA	c.1035T>G	Sensitive
+3402	dbmcs	Lapatinib	PIK3CA	c.1035T>G	Sensitive
+3403	dbmcs	Trametinib	PIK3CA	c.1035T>G	Sensitive
+3404	dbmcs	Neratinib	PIK3CA	c.1035T>G	Sensitive
+3405	dbmcs	Alpelisib	PIK3CA	c.1035T>G	Sensitive
+3406	dbmcs	Lapatinib	PIK3CA	c.1636C>A	Sensitive
+3407	dbmcs	Dactolisib	PIK3CA	c.1636C>A	Sensitive
+3408	dbmcs	Trametinib	PIK3CA	c.1636C>A	Sensitive
+3409	dbmcs	MK2206	PIK3CA	c.1636C>A	Sensitive
+3410	dbmcs	Alpelisib	PIK3CA	c.1636C>A	Sensitive
+3411	dbmcs	Neratinib	PIK3CA	c.1636C>A	Sensitive
+3412	dbmcs	Trametinib	PIK3CA	c.3140A>T	Sensitive
+3413	dbmcs	Alpelisib	PIK3CA	c.3140A>T	Sensitive
+3414	dbmcs	MK2206	PIK3CA	c.3140A>T	Sensitive
+3415	dbmcs	Lapatinib	PIK3CA	c.3140A>T	Sensitive
+3416	dbmcs	Alpelisib + Fulvestrant	PIK3CA	c.3140A>T	Sensitive
+3417	dbmcs	Dactolisib	PIK3CA	c.3140A>T	Sensitive
+3418	dbmcs	Neratinib	PIK3CA	c.3140A>T	Sensitive
+3419	dbmcs	Temsirolimus	PIK3CA	c.3139_3141	Sensitive
+3420	dbmcs	Taselisib	PIK3CA	c.3139_3141	Sensitive
+3421	dbmcs	Alpelisib + Fulvestrant	PIK3CA	c.1258T>C	Sensitive
+3422	dbmcs	DS-7423	PIK3CA	c.1258T>C	Sensitive
+3423	dbmcs	Sirolimus	PIK3CA	c.1258T>C	Sensitive
+3424	dbmcs	Sirolimus	PIK3CA	c.1173A>G	Sensitive
+3425	dbmcs	Alpelisib + Fulvestrant	PIK3CA	c.1636C>G	Sensitive
+3426	dbmcs	YM-024	PIK3CA	c.3139C>T	Sensitive
+3427	dbmcs	CH-5132799	PIK3CA	c.3139C>T	Sensitive
+3428	dbmcs	Alpelisib + Fulvestrant	PIK3CA	c.3139C>T	Sensitive
+3429	dbmcs	LY-3023414	PIK3CA	c.353G>A	Sensitive
+3430	dbmcs	Miransertib	PIK3CA	c.333G>C	Sensitive
+3431	dbmcs	DHM25	PIK3CA	c.333G>C	Sensitive
+3432	dbmcs	AZD8835	PIK3CA	c.333G>C	Sensitive
+3433	dbmcs	BAY1125976	PIK3CA	c.333G>C	Sensitive
+3434	dbmcs	ARQ 751	PIK3CA	c.333G>C	Sensitive
+3435	dbmcs	Capivasertib	PIK3CA	c.3140A>G	Sensitive
+3436	dbmcs	MK2206 + Temsirolimus	PIK3CA	c.3140A>G	Sensitive
+3437	dbmcs	SHR-A1307	PIK3CA	c.3140A>G	Sensitive
+3438	dbmcs	Everolimus	PIK3CA	c.3140A>G	Sensitive
+3439	dbmcs	Trametinib	PIK3CA	c.3140A>G	Sensitive
+3440	dbmcs	CYH33	PIK3CA	c.3140A>G	Sensitive
+3441	dbmcs	Miransertib	PIK3CA	c.3140A>G	Sensitive
+3442	dbmcs	CH-5132799	PIK3CA	c.3140A>G	Sensitive
+3443	dbmcs	MK2206	PIK3CA	c.3140A>G	Sensitive
+3444	dbmcs	A66	PIK3CA	c.3140A>G	Sensitive
+3445	dbmcs	Rigosertib	PIK3CA	c.3140A>G	Sensitive
+3446	dbmcs	Taselisib	PIK3CA	c.3140A>G	Sensitive
+3447	dbmcs	ARQ 751	PIK3CA	c.3140A>G	Sensitive
+3448	dbmcs	Gedatolisib	PIK3CA	c.3140A>G	Sensitive
+3449	dbmcs	PF-04691502	PIK3CA	c.3140A>G	Sensitive
+3450	dbmcs	Alpelisib + Fulvestrant	PIK3CA	c.3140A>G	Sensitive
+3451	dbmcs	Metformin	PIK3CA	c.3140A>G	Sensitive
+3452	dbmcs	Neratinib	PIK3CA	c.3140A>G	Sensitive
+3453	dbmcs	Radiotherapy + Taselisib	PIK3CA	c.3140A>G	Sensitive
+3454	dbmcs	Buparlisib	PIK3CA	c.3140A>G	Sensitive
+3455	dbmcs	BAY1125976	PIK3CA	c.3140A>G	Sensitive
+3456	dbmcs	Sirolimus + Trametinib	PIK3CA	c.3140A>G	Sensitive
+3457	dbmcs	Lapatinib	PIK3CA	c.3140A>G	Sensitive
+3458	dbmcs	Sirolimus	PIK3CA	c.3140A>G	Sensitive
+3459	dbmcs	Cisplatin + Pictilisib	PIK3CA	c.3140A>G	Sensitive
+3460	dbmcs	Pictilisib	PIK3CA	c.3140A>G	Sensitive
+3461	dbmcs	Buparlisib + Paclitaxel	PIK3CA	c.3140A>G	Sensitive
+3462	dbmcs	DHM25	PIK3CA	c.3140A>G	Sensitive
+3463	dbmcs	M2698	PIK3CA	c.3140A>G	Sensitive
+3464	dbmcs	Alpelisib + Fulvestrant	PIK3CA	c.1635G>C	Sensitive
+3465	dbmcs	Alpelisib + Fulvestrant	PIK3CA	c.1637A>G	Sensitive
+3466	dbmcs	CH-5132799	PIK3CA	c.1637A>G	Sensitive
+3467	dbmcs	Alpelisib + Letrozole	PIK3CA	c.1340_1366del27	Sensitive
+3468	dbmcs	DS-7423	PIK3CA	c.1634A>T	Sensitive
+3469	dbmcs	Dactolisib	PIK3CA	c.1633G>A	Sensitive
+3470	dbmcs	Lapatinib	PIK3CA	c.1633G>A	Sensitive
+3471	dbmcs	Alpelisib	PIK3CA	c.1633G>A	Sensitive
+3472	dbmcs	MK2206	PIK3CA	c.1633G>A	Sensitive
+3473	dbmcs	Pictilisib + Sorafenib	PIK3CA	c.1633G>A	Sensitive
+3474	dbmcs	Everolimus	PIK3CA	c.1633G>A	Sensitive
+3475	dbmcs	Miransertib	PIK3CA	c.1633G>A	Sensitive
+3476	dbmcs	Trametinib	PIK3CA	c.1633G>A	Sensitive
+3477	dbmcs	Cisplatin + Pictilisib	PIK3CA	c.1633G>A	Sensitive
+3478	dbmcs	CYH33	PIK3CA	c.1633G>A	Sensitive
+3479	dbmcs	LY-3023414	PIK3CA	c.1633G>A	Sensitive
+3480	dbmcs	Gemcitabine + Pictilisib	PIK3CA	c.1633G>A	Sensitive
+3481	dbmcs	Carboplatin + Paclitaxel + Temsirolimus	PIK3CA	c.1633G>A	Sensitive
+3482	dbmcs	CH-5132799	PIK3CA	c.1633G>A	Sensitive
+3483	dbmcs	Buparlisib	PIK3CA	c.1633G>A	Sensitive
+3484	dbmcs	PW12	PIK3CA	c.1633G>A	Sensitive
+3485	dbmcs	Alpelisib + Fulvestrant	PIK3CA	c.1633G>A	Sensitive
+3486	dbmcs	DHM25	PIK3CA	c.1633G>A	Sensitive
+3487	dbmcs	LY2780301	PIK3CA	c.1633G>A	Sensitive
+3488	dbmcs	Sirolimus	PIK3CA	c.1633G>A	Sensitive
+3489	dbmcs	WYE-125132	PIK3CA	c.1633G>A	Sensitive
+3490	dbmcs	ARQ 751	PIK3CA	c.1633G>A	Sensitive
+3491	dbmcs	Rigosertib	PIK3CA	c.1633G>A	Sensitive
+3492	dbmcs	Voxtalisib	PIK3CA	c.1633G>A	Sensitive
+3493	dbmcs	Gedatolisib	PIK3CA	c.1633G>A	Sensitive
+3494	dbmcs	Dactolisib + WEHI-539	PIK3CA	c.1633G>A	Sensitive
+3495	dbmcs	AZD8835	PIK3CA	c.1633G>A	Sensitive
+3496	dbmcs	Neratinib	PIK3CA	c.1633G>A	Sensitive
+3497	dbmcs	BAY1125976	PIK3CA	c.1633G>A	Sensitive
+3498	dbmcs	Pilaralisib	PIK3CA	c.1633G>A	Sensitive
+3499	dbmcs	PKI-402	PIK3CA	c.1633G>A	Sensitive
+3500	dbmcs	Capivasertib	PIK3CA	c.1633G>A	Sensitive
+3501	dbmcs	Cetuximab + Irinotecan	PIK3CA	c.1633G>A	Sensitive
+3502	dbmcs	Copanlisib + Paclitaxel	PIK3CA	c.1633G>A	Sensitive
+3503	dbmcs	LY-294002	PIK3CA	c.1633G>A	Sensitive
+3504	dbmcs	MTOR inhibitors	PIK3R2	c.512C>T	Sensitive
+3505	dbmcs	MTOR inhibitors	PIK3R2	c.1681A>G	Sensitive
+3506	dbmcs	Nivolumab	PMS2	c.2118delG	Sensitive
+3507	dbmcs	Pembrolizumab	POLD1	c.851G>A	Sensitive
+3508	dbmcs	Pembrolizumab	POLD1	c.1120G>A	Sensitive
+3509	dbmcs	Bevacizumab + FOLFIRI Regimen	PPP1R15A	c.752G>C	Sensitive
+3510	dbmcs	ACLY SiRNA	PRKAA2	c.514_516	Sensitive
+3511	dbmcs	MTOR inhibitors	PTEN	c.697C>T	Sensitive
+3512	dbmcs	MK-2206 + PD184352	PTEN	c.950_953	Sensitive
+3513	dbmcs	Perifosine	PTEN	c.388C>T	Sensitive
+3514	dbmcs	Temsirolimus	PTEN	c.388C>T	Sensitive
+3515	dbmcs	Carboplatin + Paclitaxel + Temsirolimus	PTEN	c.389G>A	Sensitive
+3516	dbmcs	AZD-6482	PTEN	c.377C>G	Sensitive
+3517	dbmcs	Alpelisib	PTEN	c.377C>G	Sensitive
+3518	dbmcs	DHM25	PTEN	c.823_824delGTinsTA	Sensitive
+3519	dbmcs	BAY1125976	PTEN	c.323T>G	Sensitive
+3520	dbmcs	DHM25	PTEN	c.323T>G	Sensitive
+3521	dbmcs	MK2206	PTEN	c.388C>T	Sensitive
+3522	dbmcs	SHP099	PTPN11	c.205G>A	Sensitive
+3523	dbmcs	Cryptotanshinone	PTPN11	c.226G>A	Sensitive
+3524	dbmcs	U0126	PTPN11	c.226G>A	Sensitive
+3525	dbmcs	PD98059	PTPN11	c.226G>A	Sensitive
+3526	dbmcs	II-B08	PTPN11	c.226G>A	Sensitive
+3527	dbmcs	Cixutumumab	PTPRD	c.757G>A	Sensitive
+3528	dbmcs	Teprotumumab	PTPRD	c.757G>A	Sensitive
+3529	dbmcs	AZD7762 + Irinotecan	RAD50	c.3709C>T	Sensitive
+3530	dbmcs	Irinotecan + CHK1 or CHK2 inhibitors	RAD50	c.3709C>T	Sensitive
+3531	dbmcs	Cabozantinib	RET	c.1902C>G	Sensitive
+3532	dbmcs	Cabozantinib	RET	c.2753T>C	Sensitive
+3533	dbmcs	Sunitinib	RET	c.1902C>G	Sensitive
+3534	dbmcs	Sunitinib	RET	c.2753T>C	Sensitive
+3535	dbmcs	AZD1480	RET	c.2753T>C	Sensitive
+3536	dbmcs	Sorafenib	RET	c.2753T>C	Sensitive
+3537	dbmcs	Vandetanib	RET	c.1902C>G	Sensitive
+3538	dbmcs	Vandetanib	RET	c.2753T>C	Sensitive
+3539	dbmcs	Sorafenib	RET	c.1901G>T	Sensitive
+3540	dbmcs	Everolimus	RET	c.1858T>C	Sensitive
+3541	dbmcs	Sorafenib	RET	c.2671T>G	Sensitive
+3542	dbmcs	Ponatinib	RET	c.2671T>G	Sensitive
+3543	dbmcs	Vandetanib	RET	c.2671T>G	Sensitive
+3544	dbmcs	Dovitinib	RET	c.2071G>A	Sensitive
+3545	dbmcs	Ponatinib	RET	c.2417A>G	Sensitive
+3546	dbmcs	ALW-II-41-27	RET	c.1901G>A	Sensitive
+3547	dbmcs	HG-6-63-01	RET	c.1901G>A	Sensitive
+3548	dbmcs	Sorafenib	RET	c.1901G>A	Sensitive
+3549	dbmcs	Ponatinib	RET	c.1901G>A	Sensitive
+3550	dbmcs	XMD15-44	RET	c.1901G>A	Sensitive
+3551	dbmcs	Vandetanib	RET	c.2370G>T	Sensitive
+3552	dbmcs	Ponatinib	RET	c.2370G>T	Sensitive
+3553	dbmcs	Selpercatinib	RET	c.2753T>C	Sensitive
+3554	dbmcs	Sorafenib	RET	c.2753T>C	Sensitive
+3555	dbmcs	HG-6-63-01	RET	c.2753T>C	Sensitive
+3556	dbmcs	Vandetanib	RET	c.2753T>C	Sensitive
+3557	dbmcs	Pz-1	RET	c.2753T>C	Sensitive
+3558	dbmcs	XMD15-44	RET	c.2753T>C	Sensitive
+3559	dbmcs	Pralsetinib	RET	c.2753T>C	Sensitive
+3560	dbmcs	Cabozantinib	RET	c.2753T>C	Sensitive
+3561	dbmcs	Ponatinib	RET	c.2753T>C	Sensitive
+3562	dbmcs	ALW-II-41-27	RET	c.2753T>C	Sensitive
+3563	dbmcs	Everolimus	RET	c.2753T>C	Sensitive
+3564	dbmcs	Vandetanib	RET	c.2372A>T	Sensitive
+3565	dbmcs	Ponatinib	RET	c.2372A>T	Sensitive
+3566	dbmcs	Ponatinib	RET	c.2650G>A	Sensitive
+3567	dbmcs	Vandetanib	RET	c.2647_2648delGCinsTT	Sensitive
+3568	dbmcs	Ponatinib	RET	c.2647_2648delGCinsTT	Sensitive
+3569	dbmcs	Pralsetinib	RET	c.1902C>G	Sensitive
+3570	dbmcs	Selpercatinib	RET	c.1902C>G	Sensitive
+3571	dbmcs	Regorafenib	RET	c.1902C>G	Sensitive
+3572	dbmcs	Agerafenib	RET	c.1902C>G	Sensitive
+3573	dbmcs	Sorafenib	RET	c.1902C>G	Sensitive
+3574	dbmcs	AZD1480	RET	c.1902C>G	Sensitive
+3575	dbmcs	Lenvatinib	RET	c.1902C>G	Sensitive
+3576	dbmcs	ALW-II-41-27	RET	c.1902C>G	Sensitive
+3577	dbmcs	XMD15-44	RET	c.1902C>G	Sensitive
+3578	dbmcs	HG-6-63-01	RET	c.1902C>G	Sensitive
+3579	dbmcs	Ponatinib	RET	c.1902C>G	Sensitive
+3580	dbmcs	Vandetanib	RET	c.2304G>C	Sensitive
+3581	dbmcs	Ponatinib	RET	c.2304G>C	Sensitive
+3582	dbmcs	Pz-1	RET	c.2410G>C	Sensitive
+3583	dbmcs	Ponatinib	RET	c.2410G>C	Sensitive
+3584	dbmcs	Ponatinib	RET	c.1900T>C	Sensitive
+3585	dbmcs	Sorafenib	RET	c.1900T>C	Sensitive
+3586	dbmcs	Sorafenib	RET	c.1900T>C	Sensitive
+3587	dbmcs	Vandetanib	RET	c.1900T>C	Sensitive
+3588	dbmcs	Pz-1	RET	c.1900T>C	Sensitive
+3589	dbmcs	Sorafenib	RET	c.2410G>A	Sensitive
+3590	dbmcs	Pz-1	RET	c.2410G>A	Sensitive
+3591	dbmcs	Ponatinib	RET	c.2410G>A	Sensitive
+3592	dbmcs	Sorafenib	RET	c.1852T>C	Sensitive
+3593	dbmcs	Ponatinib	RET	c.2693A>T	Sensitive
+3594	dbmcs	Cabozantinib	ROS1	c.6094G>A	Sensitive
+3595	dbmcs	Lorlatinib	ROS1	c.5957C>A	Sensitive
+3596	dbmcs	Lorlatinib	ROS1	c.5957C>T	Sensitive
+3597	dbmcs	Foretinib	ROS1	c.6094G>A	Sensitive
+3598	dbmcs	Lorlatinib	ROS1	c.6094G>A	Sensitive
+3599	dbmcs	Lorlatinib	ROS1	c.6076C>A	Sensitive
+3600	dbmcs	Foretinib	ROS1	c.6076C>A	Sensitive
+3601	dbmcs	Foretinib	ROS1	c.6302G>C	Sensitive
+3602	dbmcs	Spliceostatin A	SF3B1	c.2098A>G	Sensitive
+3603	dbmcs	Spliceostatin A	SF3B1	c.1998G>T	Sensitive
+3604	dbmcs	Spliceosome inhibitors	SF3B1	c.2098A>G	Sensitive
+3605	dbmcs	Spliceosome inhibitors	SF3B1	c.1998G>C	Sensitive
+3606	dbmcs	Spliceostatin A	SF3B1	c.1998G>C	Sensitive
+3607	dbmcs	E7107	SF3B1	c.2098A>G	Sensitive
+3608	dbmcs	Vismodegib	SMO	c.1921C>G	Sensitive
+3609	dbmcs	Patidegib	SMO	c.1417G>C	Sensitive
+3610	dbmcs	JQ1	SMO	c.1376C>T	Sensitive
+3611	dbmcs	JQ1	SMO	c.722C>T	Sensitive
+3612	dbmcs	JQ1	SMO	c.1222A>G	Sensitive
+3613	dbmcs	TAK-441	SMO	c.1417G>C	Sensitive
+3614	dbmcs	JQ1	SMO	c.961G>A	Sensitive
+3615	dbmcs	Arsenic trioxide + Posaconazole	SMO	c.1160G>A	Sensitive
+3616	dbmcs	Posaconazole	SMO	c.1160G>A	Sensitive
+3617	dbmcs	MRT-92	SMO	c.1198_1199delCGinsGC	Sensitive
+3618	dbmcs	JQ1	SMO	c.843G>T	Sensitive
+3619	dbmcs	JQ1	SMO	c.1406G>A	Sensitive
+3620	dbmcs	Arsenic trioxide + Posaconazole	SMO	c.1552G>A	Sensitive
+3621	dbmcs	Posaconazole	SMO	c.1552G>A	Sensitive
+3622	dbmcs	Sonidegib	SMO	c.1604G>T	Sensitive
+3623	dbmcs	Arsenic trioxide	SMO	c.1604G>T	Sensitive
+3624	dbmcs	Arsenic trioxide + Posaconazole	SMO	c.655A>G	Sensitive
+3625	dbmcs	Posaconazole	SMO	c.655A>G	Sensitive
+3626	dbmcs	Posaconazole	SMO	c.1418A>G	Sensitive
+3627	dbmcs	Arsenic trioxide + Posaconazole	SMO	c.1418A>G	Sensitive
+3628	dbmcs	Posaconazole	SMO	c.1150G>A	Sensitive
+3629	dbmcs	Arsenic trioxide + Posaconazole	SMO	c.1150G>A	Sensitive
+3630	dbmcs	Olaparib	STAG2	c.1958C>A	Sensitive
+3631	dbmcs	Camptothecin	STAG2	c.1958C>A	Sensitive
+3632	dbmcs	Everolimus	STK11	c.582C>G	Sensitive
+3633	dbmcs	Everolimus	STK11	c.582C>A	Sensitive
+3634	dbmcs	Everolimus + Radiotherapy	STK11	c.892T>C	Sensitive
+3635	dbmcs	Trametinib	STK11	c.995G>A	Sensitive
+3636	dbmcs	Trametinib	STK11	c.109C>T	Sensitive
+3637	dbmcs	Everolimus + Exemestane	STK11	c.1060T>C	Sensitive
+3638	dbmcs	Trametinib	STK11	c.595G>T	Sensitive
+3639	dbmcs	Doxorubicin	TP53	c.524G>A	Sensitive
+3640	dbmcs	Mitomycin + Cisplatin + Etoposide	TP53	c.659A>G	Sensitive
+3641	dbmcs	EAP Protocol	TP53	c.524G>A	Sensitive
+3642	dbmcs	EAP Protocol	TP53	c.845G>T	Sensitive
+3643	dbmcs	EAP Protocol	TP53	c.638G>C	Sensitive
+3644	dbmcs	HSP90 inhibitors	TP53	c.743G>A	Sensitive
+3645	dbmcs	HSP90 inhibitors	TP53	c.524G>A	Sensitive
+3646	dbmcs	CP-31398	TP53	c.747G>C	Sensitive
+3647	dbmcs	APR-246	TP53	c.517G>A	Sensitive
+3648	dbmcs	APR-246 + Cisplatin	TP53	c.742C>T	Sensitive
+3649	dbmcs	Cisplatin + Irinotecan	TP53	c.215C>G	Sensitive
+3650	dbmcs	Daunoxome	TP53	c.215C>G	Sensitive
+3651	dbmcs	Cyclophosphamide + Doxorubicin + Fluorouracil	TP53	c.215C>G	Sensitive
+3652	dbmcs	Epirubicin	TP53	c.215C>G	Sensitive
+3653	dbmcs	Doxorubicin + Ifosfamide	TP53	c.215C>G	Sensitive
+3654	dbmcs	Doxorubicin	TP53	c.215C>G	Sensitive
+3655	dbmcs	APR-246 + Cisplatin	TP53	c.487T>C	Sensitive
+3656	dbmcs	APR-246 + Cisplatin	TP53	c.404G>A	Sensitive
+3657	dbmcs	Tanespimycin	TP53	c.743G>A	Sensitive
+3658	dbmcs	ReACp53	TP53	c.743G>A	Sensitive
+3659	dbmcs	APR-246 + Cisplatin	TP53	c.743G>A	Sensitive
+3660	dbmcs	Napabucasin	TP53	c.743G>A	Sensitive
+3661	dbmcs	Ganetespib	TP53	c.743G>A	Sensitive
+3662	dbmcs	NSC59984	TP53	c.524G>A	Sensitive
+3663	dbmcs	ReACp53	TP53	c.524G>A	Sensitive
+3664	dbmcs	NSC319726	TP53	c.524G>A	Sensitive
+3665	dbmcs	Ganetespib	TP53	c.524G>A	Sensitive
+3666	dbmcs	Alvespimycin + Vorinostat	TP53	c.524G>A	Sensitive
+3667	dbmcs	APR-246 + Cisplatin	TP53	c.839G>A	Sensitive
+3668	dbmcs	Ganetespib	TP53	c.839G>A	Sensitive
+3669	dbmcs	YW3-56	TP53	c.839G>A	Sensitive
+3670	dbmcs	APR-246 + Cisplatin	TP53	c.488A>G	Sensitive
+3671	dbmcs	ReACp53	TP53	c.979_980delTAinsCT	Sensitive
+3672	dbmcs	ReACp53	TP53	c.701A>G	Sensitive
+3673	dbmcs	Vemurafenib	TP53	c.775G>T	Sensitive
+3674	dbmcs	Selumetinib	TP53	c.775G>T	Sensitive
+3675	dbmcs	LY3009120	TP53	c.775G>T	Sensitive
+3676	dbmcs	MK-1775 + Carboplatin	TP53	c.489C>A	Sensitive
+3677	dbmcs	Ibrutinib + Rituximab	TP53	c.730G>A	Sensitive
+3678	dbmcs	CP-31398	TP53	c.659A>G	Sensitive
+3679	dbmcs	APR-246 + Cisplatin	TP53	c.818G>A	Sensitive
+3680	dbmcs	APR-246 + Cisplatin	TP53	c.452C>A	Sensitive
+3681	dbmcs	NSC59984	TP53	c.524G>T	Sensitive
+3682	dbmcs	NSC319726	TP53	c.524G>T	Sensitive
+3683	dbmcs	Gedatolisib	TP53	c.472C>G	Sensitive
+3684	dbmcs	APR-246	TP53	c.818G>T	Sensitive
+3685	dbmcs	APR-246 + Cisplatin	TP53	c.332T>A	Sensitive
+3686	dbmcs	APR-246 + Cisplatin	TP53	c.713G>T	Sensitive
+3687	dbmcs	Tanespimycin	TP53	c.580C>T	Sensitive
+3688	dbmcs	Tanespimycin + Vorinostat	TP53	c.580C>T	Sensitive
+3689	dbmcs	Ganetespib	TP53	c.580C>T	Sensitive
+3690	dbmcs	Vorinostat	TP53	c.580C>T	Sensitive
+3691	dbmcs	APR-246	TP53	c.722C>T	Sensitive
+3692	dbmcs	Ganetespib	TP53	c.722C>T	Sensitive
+3693	dbmcs	APR-246 + Cisplatin	TP53	c.833C>G	Sensitive
+3694	dbmcs	Cisplatin	TPMT	c.238G>C	Sensitive
+3695	dbmcs	Cisplatin	TPMT	c.719A>G	Sensitive
+3696	dbmcs	Cisplatin	TPMT	c.460G>A	Sensitive
+3697	dbmcs	Cisplatin	TPMT	c.500C>G	Sensitive
+3698	dbmcs	Mercaptopurine	TPMT	c.238G>C	Sensitive
+3699	dbmcs	Mercaptopurine	TPMT	c.719A>G	Sensitive
+3700	dbmcs	Mercaptopurine	TPMT	c.460G>A	Sensitive
+3701	dbmcs	Mercaptopurine	TPMT	c.500C>G	Sensitive
+3702	dbmcs	Tioguanine	TPMT	c.238G>C	Sensitive
+3703	dbmcs	Tioguanine	TPMT	c.719A>G	Sensitive
+3704	dbmcs	Tioguanine	TPMT	c.460G>A	Sensitive
+3705	dbmcs	Tioguanine	TPMT	c.500C>G	Sensitive
+3706	dbmcs	Everolimus	TSC2	c.3532C>T	Sensitive
+3707	dbmcs	Temsirolimus	TSC2	c.196G>A	Sensitive
+3708	dbmcs	Irinotecan	UGT1A1	c.211G>A	Sensitive
+3709	dbmcs	Irinotecan	UGT1A1	c.686C>A	Sensitive
+3710	dbmcs	Nilotinib	UGT1A1	c.211G>A	Sensitive
+3711	dbmcs	Nilotinib	UGT1A1	c.686C>A	Sensitive
+3712	dbmcs	Ruxolitinib	VHL	c.598C>T	Sensitive
+3713	dbmcs	Gemcitabine + PLATINUM	WEE1	c.1141+1133A>G	Sensitive
+3714	dbmcs	Gemcitabine	XRCC1	c.580C>T	Sensitive
+3715	dbmcs	Vinorelbine	XRCC1	c.580C>T	Sensitive
+3716	dbmcs	Docetaxel	XRCC1	c.580C>T	Sensitive
+3717	dbmcs	Cisplatin	XRCC1	c.1196A>G	Sensitive
+3718	dbmcs	Carboplatin	XRCC1	c.1196A>G	Sensitive
