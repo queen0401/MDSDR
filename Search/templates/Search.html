@@ -1,0 +1,106 @@
+{% extends "Base.html" %}
+{% block content %}
+<div class="col-12">
+    <div class="card">
+      <div class="card-header">
+        <h3 class="card-title">Results</h3>
+      </div>
+      <div class="card-body border-bottom py-3">
+        <div class="d-flex">
+          <div class="text-secondary">
+            Show
+            <div class="mx-2 d-inline-block">
+              <input type="text" class="form-control form-control-sm" value="10" size="3" aria-label="Invoices count">
+            </div>
+            entries
+          </div>
+          <div class="ms-auto text-secondary">
+            Search:
+            <div class="ms-2 d-inline-block">
+                <form method="post" >
+              <!-- <input type="text" class="form-control form-control-sm" name="search_query" id="search_query" aria-label="Search invoice">
+              <button type="submit" class="btn btn-primary btn-sm">Search</button> -->
+              {{ form.csrf_token }}
+              {{ form.name }}
+              <!-- {{ form.submit(class='btn btn-primary btn-sm') }} -->
+            </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="table-responsive">
+
+        <table class="table card-table table-vcenter text-nowrap datatable" >
+          <thead>
+            <tr>
+              <th class="w-1"><input class="form-check-input m-0 align-middle" type="checkbox" aria-label="Select all invoices"></th>
+              <th class="w-1">No. 
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-sm icon-thick" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M6 15l6 -6l6 6" /></svg>
+              </th>
+              <th>Drug Name</th>
+              <th>Disease</th>
+              <th>Uniprot ID</th>
+              <th>Gene Symbol</th>
+              <th>Mutation</th>
+              <th>ddg</th>
+              <th>label</th>
+              <th>source</th>
+            </tr>
+          </thead>
+          <tbody>
+                {% for item in data %}
+                <tr>
+                    <td><input class="form-check-input m-0 align-middle" type="checkbox" aria-label="Select invoice"></td>
+                    <td><span class="text-secondary">{{ item['id'] }}</span></td>
+                    <td>{{ item['chemical name'] }}</td>
+                    <td>{{ item['disease name'] }}</td>
+                    <td>{{ item['uniprot id'] }}</td>
+                    <td>{{ item['gene symbol'] }}</td>
+                    <td>{{ item['variant'] }}</td>
+                    <td>{{ item['ddg'] }}</td>
+                    <td>{{ item['label'] }}</td>
+                    <td>{{ item['source'] }}</td>
+
+                </tr>
+                {% endfor %}
+
+          </tbody>
+        </table>
+
+      </div>
+      <div class="card-footer d-flex align-items-center">
+        <p class="m-0 text-secondary">Showing <span>1</span> to <span>10</span> of <span>{{data.count()}}</span> entries</p>
+        <ul class="pagination m-0 ms-auto">
+
+          <li class="page-item {% if page == 1 %}disabled{% endif %}">
+            <a class="page-link" href="?page={{ page - 1 }}" tabindex="-1" aria-disabled="true">
+              <!-- Download SVG icon from http://tabler-icons.io/i/chevron-left -->
+              <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M15 6l-6 6l6 6" /></svg>
+              prev
+            </a>
+          </li>
+
+        {% for p in range(max(1, page - 4), min(total_pages + 1, page + 5)) %}
+          <li class="page-item {% if p == page %}active{% endif %}">
+            <a class="page-link" href="?page={{ p }}">{{ p }}</a>
+          </li>
+        {% endfor %}
+
+          <!-- <li class="page-item"><a class="page-link" href="#">1</a></li>
+          <li class="page-item active"><a class="page-link" href="#">2</a></li>
+          <li class="page-item"><a class="page-link" href="#">3</a></li>
+          <li class="page-item"><a class="page-link" href="#">4</a></li>
+          <li class="page-item"><a class="page-link" href="#">5</a></li> -->
+
+          <li class="page-item {% if page == total_pages %}disabled{% endif %}" >
+            <a class="page-link" href="?page={{ page + 1 }}">
+              next <!-- Download SVG icon from http://tabler-icons.io/i/chevron-right -->
+              <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 6l6 6l-6 6" /></svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+{% endblock content %}
