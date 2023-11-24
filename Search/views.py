@@ -144,4 +144,4 @@ def Search():
     # 分页数据
     data = data.skip((page - 1) * items_per_page).limit(items_per_page)
 
-    return render_template('Search.html', data=data, page=page, total_pages=total_pages, form=form, max=custom_max, min=custom_min)
+    return render_template('Search.html', name = name, data=data, page=page, total_pages=total_pages, form=form, max=custom_max, min=custom_min)

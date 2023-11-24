@@ -21,7 +21,7 @@
               <!-- <input type="text" class="form-control form-control-sm" name="search_query" id="search_query" aria-label="Search invoice">
               <button type="submit" class="btn btn-primary btn-sm">Search</button> -->
               {{ form.csrf_token }}
-              {{ form.name }}
+              {{ form.name(value=name) }}
               <!-- {{ form.submit(class='btn btn-primary btn-sm') }} -->
             </form>
             </div>
