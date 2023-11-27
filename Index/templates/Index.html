@@ -39,4 +39,301 @@
     </div>
   </div>
 </div>
+
+<div class="col-lg-6 col-xl-6">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">Data Sources</h3>
+        <div id="chart-sources-pie"></div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-6 col-xl-6">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">Lable statistics</h3>
+        <div id="chart-label"></div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-12 col-xl-12">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">DDG statistics</h3>
+        <div id="chart-ddg"></div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-12 col-xl-12">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">Disease statistics</h3>
+        <div id="chart-disease"></div>
+      </div>
+    </div>
+  </div>
+
+
+  <script>
+    // @formatter:off
+    document.addEventListener("DOMContentLoaded", function () {
+        window.ApexCharts && (new ApexCharts(document.getElementById('chart-sources-pie'), {
+            chart: {
+                type: "donut",
+                fontFamily: 'inherit',
+                height: 240,
+                sparkline: {
+                    enabled: true
+                },
+                animations: {
+                    enabled: false
+                },
+            },
+            fill: {
+                opacity: 1,
+            },
+            series: JSON.parse('{{ source_count|tojson|safe }}'),
+            labels: JSON.parse('{{ source_name|tojson|safe }}'),
+            tooltip: {
+                theme: 'dark'
+            },
+            grid: {
+                strokeDashArray: 4,
+            },
+            colors: [tabler.getColor("primary"), tabler.getColor("primary", 0.8), tabler.getColor("primary", 0.6), tabler.getColor("gray-300")],
+            legend: {
+                show: true,
+                position: 'bottom',
+                offsetY: 12,
+                markers: {
+                    width: 10,
+                    height: 10,
+                    radius: 100,
+                },
+                itemMargin: {
+                    horizontal: 8,
+                    vertical: 8
+                },
+            },
+            tooltip: {
+                fillSeriesColor: false
+            },
+        })).render();
+    });
+    // @formatter:on
+  </script>
+
+<script>
+    // @formatter:off
+    document.addEventListener("DOMContentLoaded", function () {
+        window.ApexCharts && (new ApexCharts(document.getElementById('chart-label'), {
+            chart: {
+                type: "bar",
+                fontFamily: 'inherit',
+                height: 240,
+                parentHeightOffset: 0,
+                toolbar: {
+                    show: false,
+                },
+                animations: {
+                    enabled: false
+                },
+            },
+            plotOptions: {
+                bar: {
+                    columnWidth: '50%',
+                }
+            },
+            dataLabels: {
+                enabled: false,
+            },
+            fill: {
+                opacity: 1,
+            },
+            series: [{
+                name: "Number",
+                data: JSON.parse('{{ label_count|tojson|safe }}')
+            }],
+            tooltip: {
+                theme: 'dark'
+            },
+            grid: {
+                padding: {
+                    top: -20,
+                    right: 0,
+                    left: -4,
+                    bottom: -4
+                },
+                strokeDashArray: 4,
+            },
+            xaxis: {
+                labels: {
+                    padding: 0,
+                },
+                tooltip: {
+                    enabled: false
+                },
+                axisBorder: {
+                    show: false,
+                },
+                // type: 'datetime',
+            },
+            yaxis: {
+                labels: {
+                    padding: 4
+                },
+            },
+            labels: JSON.parse('{{ label_name|tojson|safe }}'),
+            colors: [tabler.getColor("primary")],
+            legend: {
+                show: false,
+            },
+        })).render();
+    });
+    // @formatter:on
+  </script>
+
+
+<script>
+    // @formatter:off
+    document.addEventListener("DOMContentLoaded", function () {
+        window.ApexCharts && (new ApexCharts(document.getElementById('chart-ddg'), {
+            chart: {
+                type: "bar",
+                fontFamily: 'inherit',
+                height: 240,
+                parentHeightOffset: 0,
+                toolbar: {
+                    show: false,
+                },
+                animations: {
+                    enabled: false
+                },
+            },
+            plotOptions: {
+                bar: {
+                    columnWidth: '100%',
+                }
+            },
+            dataLabels: {
+                enabled: false,
+            },
+            fill: {
+                opacity: 1,
+            },
+            series: [{
+                name: "Number",
+                data: JSON.parse('{{ ddg_interval_entries|tojson|safe }}')
+            }],
+            tooltip: {
+                theme: 'dark'
+            },
+            grid: {
+                padding: {
+                    top: -20,
+                    right: 0,
+                    left: -4,
+                    bottom: -4
+                },
+                strokeDashArray: 4,
+            },
+            xaxis: {
+                labels: {
+                    padding: 0,
+                },
+                tooltip: {
+                    enabled: false
+                },
+                axisBorder: {
+                    show: false,
+                },
+                type: 'category',
+                categories: [-10,,,,,,,,,,-5,,,,,,,,,,0,,,,,,,,,,5,,,,,,,,,,10],
+            },
+            yaxis: {
+                labels: {
+                    padding: 4
+                },
+            },
+            labels: JSON.parse('{{ ddg_interval_names|tojson|safe }}'),
+            colors: [tabler.getColor("primary")],
+            legend: {
+                show: false,
+            },
+        })).render();
+    });
+    // @formatter:on
+  </script>
+
+<script>
+    // @formatter:off
+    document.addEventListener("DOMContentLoaded", function () {
+        window.ApexCharts && (new ApexCharts(document.getElementById('chart-disease'), {
+            chart: {
+                type: "bar",
+                fontFamily: 'inherit',
+                height: 240,
+                parentHeightOffset: 0,
+                toolbar: {
+                    show: false,
+                },
+                animations: {
+                    enabled: false
+                },
+            },
+            plotOptions: {
+                bar: {
+                    columnWidth: '50%',
+                }
+            },
+            dataLabels: {
+                enabled: false,
+            },
+            fill: {
+                opacity: 1,
+            },
+            series: [{
+                name: "Number",
+                data: JSON.parse('{{ disease_count|tojson|safe }}')
+            }],
+            tooltip: {
+                theme: 'dark'
+            },
+            grid: {
+                padding: {
+                    top: -20,
+                    right: 0,
+                    left: -4,
+                    bottom: -4
+                },
+                strokeDashArray: 4,
+            },
+            xaxis: {
+                labels: {
+                    padding: 0,
+                },
+                tooltip: {
+                    enabled: false
+                },
+                axisBorder: {
+                    show: false,
+                },
+                // type: 'datetime',
+            },
+            yaxis: {
+                labels: {
+                    padding: 4
+                },
+            },
+            labels: JSON.parse('{{ disease_name|tojson|safe }}'),
+            colors: [tabler.getColor("primary")],
+            legend: {
+                show: false,
+            },
+        })).render();
+    });
+    // @formatter:on
+  </script>
+
+
 {% endblock %}
