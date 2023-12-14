@@ -3,7 +3,7 @@
 # @Time        :   2023/11/19 13:14:46
 #-------------------------------------------------------------------------------
 from . import app_Index
-from flask import render_template,request,session,redirect, url_for
+from flask import render_template,request,session,redirect, url_for, send_file
 import Forms
 import pymongo
 import numpy
@@ -70,8 +70,8 @@ def Index():
 	label_name,label_count = count_data('label')
 	ddg_interval_names,ddg_interval_entries = ddg_distributation()
 
-	filtered_diseases = [disease for disease, count in zip(disease_name, disease_count) if count > 100 and isinstance(disease,str)]
-	filtered_disease_counts = [count for disease, count in zip(disease_name, disease_count) if count > 100 and isinstance(disease,str)]
+	filtered_diseases = [disease for disease, count in zip(disease_name, disease_count) if count > 120 and isinstance(disease,str)]
+	filtered_disease_counts = [count for disease, count in zip(disease_name, disease_count) if count > 120 and isinstance(disease,str)]
 	sorted_data = sorted(zip(filtered_diseases, filtered_disease_counts), key=lambda x: x[1], reverse=True)
 	sorted_disease_names, sorted_disease_counts = zip(*sorted_data)
 	filtered_labels = [label for label, count in zip(label_name, label_count) if count > 100 and isinstance(label,str)]
@@ -81,3 +81,8 @@ def Index():
 	print(ddg_interval_names)
 
 	return render_template('Index.html',form = form, source_name=source_name, source_count=source_count, disease_count=sorted_disease_counts, disease_name=sorted_disease_names, label_name=sorted_label_names, label_count=sorted_label_counts, ddg_interval_names=ddg_interval_names, ddg_interval_entries=ddg_interval_entries)  
+
+@app_Index.route('/download')
+def Download():
+    # 提供下载文件的路由
+    return send_file('middlefile/final_table.tsv', as_attachment=True)
