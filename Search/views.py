@@ -8,8 +8,9 @@ from flask import render_template,request,session
 # from flask_pymongo import PyMongo
 import pymongo
 
-client = pymongo.MongoClient(host='127.0.0.1') #连接
-db = client.mdsdap
+
+client = pymongo.MongoClient(host='127.0.0.1', username='mdsap_user', password='123456', authSource='mdsap')
+db = client.mdsap
 
 def custom_max(value, arg):
     return max(value, arg)
@@ -28,7 +29,7 @@ def Searchpage():
 
     if request.method == 'POST' and form.validate():
         session['name'] = form.name.data
-        return redirect(url_for('search.Search'))
+        return redirect('/mdsdap/Search')
 
 
     data = db.all_data.find()
@@ -50,7 +51,7 @@ def Search():
 
     if request.method == 'POST' and form.validate():
         session['name'] = form.name.data
-        return redirect(url_for('search.Search'))
+        return redirect('/mdsdap/Search')
 
     name = session.get('name', '')
     search_criteria = {
@@ -80,3 +81,15 @@ def Search():
     data = data.skip((page - 1) * items_per_page).limit(items_per_page)
 
     return render_template('Search.html', name = name, data=data, page=page, total_pages=total_pages, form=form, max=custom_max, min=custom_min)
+
+@app_Search.route('/Searchresult', methods=['GET', 'POST'])
+def Searchresult():
+    form = Forms.SearchForm()
+    if request.method == 'POST' and form.validate():
+        session['name'] = form.name.data
+        return redirect(url_for('search.Search'))
+    id = request.args.get('id')
+    # print(id)
+    data = db.all_data.find_one({'id': int(id)})
+    # print(data)     
+    return render_template('Searchresult.html', data = data, form = form) 

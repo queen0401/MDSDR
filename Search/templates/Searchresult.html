@@ -7,11 +7,11 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
         <title>MDSAP Mutation-Drug Sensitivity Analysis Platform.</title>
         <!-- CSS files -->
-        <link href="mdsdap/static/dist/css/tabler.min.css" rel="stylesheet"/>
-        <link href="mdsdap/static/dist/css/tabler-flags.min.css" rel="stylesheet"/>
-        <link href="mdsdap/static/dist/css/tabler-payments.min.css" rel="stylesheet"/>
-        <link href="mdsdap/static/dist/css/tabler-vendors.min.css" rel="stylesheet"/>
-        <link href="mdsdap/static/dist/css/demo.min.css" rel="stylesheet"/>
+        <link href="static/dist/css/tabler.min.css" rel="stylesheet"/>
+        <link href="static/dist/css/tabler-flags.min.css" rel="stylesheet"/>
+        <link href="static/dist/css/tabler-payments.min.css" rel="stylesheet"/>
+        <link href="static/dist/css/tabler-vendors.min.css" rel="stylesheet"/>
+        <link href="static/dist/css/demo.min.css" rel="stylesheet"/>
         <style>
           @import url('https://rsms.me/inter/inter.css');
           :root {
@@ -24,14 +24,14 @@
         {% endblock head %}
       </head>
       <body>
-        <script src="mdsdap/static/dist/js/demo-theme.min.js?1692870487"></script>
+        <script src="static/dist/js/demo-theme.min.js?1692870487"></script>
         <div class="page">
         {% block nav %}
         <header class="navbar navbar-expand-sm navbar-light d-print-none">
             <div class="container-xl">
               <h1 class="navbar-brand navbar-brand-autodark d-none-navbar-horizontal pe-0 pe-md-3">
                 <a href="#">
-                  <img src="mdsdap/static/dist/img/logo.png" width="110" height="32" alt="Tabler" class="navbar-brand-image" />
+                  <img src="static/dist/img/logo.png" width="110" height="32" alt="Tabler" class="navbar-brand-image" />
                 </a>
               </h1>
   
@@ -54,7 +54,7 @@
               <div class="navbar">
                 <div class="container-xl">
                   <ul class="navbar-nav">
-                    <li class="nav-item {% if request.path == '/' %}active{% endif %}">
+                    <li class="nav-item {% if request.path == '/mdsdap' %}active{% endif %}">
                       <a class="nav-link" href="/mdsdap" >
                         <span class="nav-link-icon d-md-none d-lg-inline-block"><!-- Download SVG icon from http://tabler-icons.io/i/star -->
                             <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 12l-2 0l9 -9l9 9l-2 0" /><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" /><path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" /></svg>
@@ -65,7 +65,7 @@
                       </a>
                     </li>
                     <li class="nav-item {% if request.path == url_for('search.Searchpage') %}active{% endif %} {% if request.path == url_for('search.Search') %}active{% endif %}">
-                      <a class="nav-link" href="/mdsdap/Searchpage" >
+                      <a class="nav-link" href='/mdsdap' + "{{ url_for('search.Searchpage') }}" >
                         <span class="nav-link-icon d-md-none d-lg-inline-block"><!-- Download SVG icon from http://tabler-icons.io/i/star -->
                             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" /><path d="M21 21l-6 -6" /></svg>
                         </span>
@@ -155,7 +155,145 @@
               <div class="container-xl">
                 <div class="row row-deck row-cards">
   
-                  {% block content %}{% endblock content %} 
+                  {% block content %}
+                  <div class="page-header d-print-none"> 
+                    <div class="container-xl">
+                      <div class="row g-2 align-items-center">
+                        <div class="col">
+                          <h2 class="page-title">
+                            ID:{{ data['id'] }}
+                          </h2>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Page body -->
+                  <div class="page-body">
+                    <div class="container-xl">
+                      <div class="card">
+                        <div class="card-header">
+                          <h3 class="card-title">Base info</h3>
+                        </div>
+                        <div class="card-body">
+                          <div class="datagrid">
+                
+                            <div class="datagrid-item">
+                                <div class="datagrid-title">DRUG NAME</div>
+                                <div class="datagrid-content">{{ data['chemical_name'] }}</div>
+                              </div>
+                              <div class="datagrid-item">
+                                <div class="datagrid-title">DISEASE</div>
+                                <div class="datagrid-content">{{ data['disease_name'] }}</div>
+                              </div>
+                              <div class="datagrid-item">
+                                <div class="datagrid-title">UNIPROT ID</div>
+                                <div class="datagrid-content">{{ data['uniprot_id'] }}</div>
+                              </div>
+                              <div class="datagrid-item">
+                                <div class="datagrid-title">GENE SYMBOL</div>
+                                <div class="datagrid-content">{{ data['gene_symbol'] }}</div>
+                              </div>
+                              <div class="datagrid-item">
+                                <div class="datagrid-title">MUTATION</div>
+                                <div class="datagrid-content">{{ data['variant'] }}</div>
+                              </div>
+                              <div class="datagrid-item">
+                                <div class="datagrid-title">DDG</div>
+                                <div class="datagrid-content">{{ data['ddg'] }}</div>
+                              </div>
+                              <div class="datagrid-item">
+                                <div class="datagrid-title">LABEL</div>
+                                <div class="datagrid-content">{{ data['label'] }}</div>
+                              </div>
+                              <div class="datagrid-item">
+                                <div class="datagrid-title">SOURCE</div>
+                                <div class="datagrid-content">{{ data['source'] }}</div>
+                              </div>
+                
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                
+                  <div class="page-body">
+                    <div class="container-xl">
+                      <div class="card">
+                        <div class="card-header">
+                          <h3 class="card-title">Sequence info</h3>
+                        </div>
+                        <div class="card-body">
+                          <div class="datagrid">
+                
+                            <div class="datagrid-item">
+                                <div class="datagrid-title">UNIPROT ID</div>
+                                <div class="datagrid-content">{{ data['uniprot_id'] }}</div>
+                              </div>
+                            <div class="datagrid-item">
+                                <div class="datagrid-title">FASTA</div>
+                                <div class="datagrid-content">{{ data['fasta'] }}</div>
+                              </div>
+                
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                
+                  <div class="page-body">
+                    <div class="container-xl">
+                      <div class="card">
+                        <div class="card-header">
+                          <h3 class="card-title">Drug info</h3>
+                        </div>
+                        <div class="card-body">
+                          <div class="datagrid">
+                
+                            <div class="datagrid-item">
+                                <div class="datagrid-title">PUBCHEM ID</div>
+                                <div class="datagrid-content">{{ data['punchem_id'] }}</div>
+                              </div>            
+                              <div class="datagrid-item">
+                                <div class="datagrid-title">PUBCHEM FINGERPRINT</div>
+                                <div class="datagrid-content">{{ data['pubchem_fingerprint'] }}</div>
+                              </div> 
+                              <div class="datagrid-item">
+                                <div class="datagrid-title">SMILE</div>
+                                <div class="datagrid-content">{{ data['smile'] }}</div>
+                              </div> 
+                
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                
+                  <div class="page-body">
+                    <div class="container-xl">
+                      <div class="card">
+                        <div class="card-header">
+                          <h3 class="card-title">Disease info</h3>
+                        </div>
+                        <div class="card-body">
+                          <div class="datagrid">
+                
+                            <div class="datagrid-item">
+                                <div class="datagrid-title">DISEASE</div>
+                                <div class="datagrid-content">{{ data['disease_name'] }}</div>
+                              </div>
+                              <div class="datagrid-item">
+                                <div class="datagrid-title">ICD11</div>
+                                <div class="datagrid-content">{{ data['icd11'] }}</div>
+                              </div>
+                                                                 
+                
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                
+                  {% endblock content %}
   
                 </div>
               </div>
@@ -193,13 +331,13 @@
 
         </div>
           <!-- Libs JS -->
-    <script src="mdsdap/static/dist/libs/apexcharts/dist/apexcharts.min.js?1692870487" defer></script>
-    <script src="mdsdap/static/dist/libs/jsvectormap/dist/js/jsvectormap.min.js?1692870487" defer></script>
-    <script src="mdsdap/static/dist/libs/jsvectormap/dist/maps/world.js?1692870487" defer></script>
-    <script src="mdsdap/static/dist/libs/jsvectormap/dist/maps/world-merc.js?1692870487" defer></script>
+    <script src="static/dist/libs/apexcharts/dist/apexcharts.min.js?1692870487" defer></script>
+    <script src="static/dist/libs/jsvectormap/dist/js/jsvectormap.min.js?1692870487" defer></script>
+    <script src="static/dist/libs/jsvectormap/dist/maps/world.js?1692870487" defer></script>
+    <script src="static/dist/libs/jsvectormap/dist/maps/world-merc.js?1692870487" defer></script>
     <!-- Tabler Core -->
-    <script src="mdsdap/static/dist/js/tabler.min.js?1692870487" defer></script>
-    <script src="mdsdap/static/dist/js/demo.min.js?1692870487" defer></script>
+    <script src="static/dist/js/tabler.min.js?1692870487" defer></script>
+    <script src="static/dist/js/demo.min.js?1692870487" defer></script>
     <script>
       // @formatter:off
       document.addEventListener("DOMContentLoaded", function () {
@@ -791,3 +929,4 @@
     </script>
       </body>
 </html>
+
