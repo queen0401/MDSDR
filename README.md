@@ -73,7 +73,7 @@ Drug resistance poses a significant challenge in the treatment of various diseas
    
 11. **Open your browser and navigate to**
 
-   ```
+   ```shell
    http://127.0.0.1:5000
    ```
 
