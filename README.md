@@ -37,23 +37,23 @@ Drug resistance poses a significant challenge in the treatment of various diseas
 
 1. **Clone the repository**
 
-   \`\`\`bash
+   ```shell
    git clone https://github.com/your-username/mdsdr.git
    cd mdsdr
-   \`\`\`
+   ```
    
 3. **Set up a virtual environment**
 
-   \`\`\`bash
+   ```shell
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   \`\`\`
+   ```
    
 5. **Install the required packages**
 
-   \`\`\`bash
+   ```shell
    pip install -r requirements.txt
-   \`\`\`
+   ```
    
 7. **Set up the MongoDB database**
 
@@ -61,21 +61,21 @@ Drug resistance poses a significant challenge in the treatment of various diseas
 
    Create a new database and import the provided data.
 
-   \`\`\`bash
+   ```shell
    mongoimport --db mdsdr --collection your_collection --file path/to/your/data.json
-   \`\`\`
+   ```
    
 9. **Run the Flask web application**
 
-   \`\`\`bash
+   ```shell
    flask run
-   \`\`\`
+   ```
    
 11. **Open your browser and navigate to**
 
-   \`\`\`
+   ```
    http://127.0.0.1:5000
-   \`\`\`
+   ```
 
 ## Usage
 
@@ -88,9 +88,9 @@ Several Jupyter Notebooks are provided for data preprocessing and analysis:
 
 To run these notebooks, navigate to the `notebooks` directory and start Jupyter Notebook:
 
-\`\`\`bash
+```shell
 jupyter notebook
-\`\`\`
+```
 
 Open the desired notebook and run the cells.
 
