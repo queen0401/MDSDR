@@ -41,18 +41,21 @@ Drug resistance poses a significant challenge in the treatment of various diseas
    git clone https://github.com/your-username/mdsdr.git
    cd mdsdr
    \`\`\`
-2. **Set up a virtual environment**
+   
+3. **Set up a virtual environment**
 
    \`\`\`bash
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    \`\`\`
-3. **Install the required packages**
+   
+5. **Install the required packages**
 
    \`\`\`bash
    pip install -r requirements.txt
    \`\`\`
-4. **Set up the MongoDB database**
+   
+7. **Set up the MongoDB database**
 
    Make sure MongoDB is installed and running on your machine. You can follow the installation instructions [here](https://docs.mongodb.com/manual/installation/).
 
@@ -61,12 +64,14 @@ Drug resistance poses a significant challenge in the treatment of various diseas
    \`\`\`bash
    mongoimport --db mdsdr --collection your_collection --file path/to/your/data.json
    \`\`\`
-5. **Run the Flask web application**
+   
+9. **Run the Flask web application**
 
    \`\`\`bash
    flask run
    \`\`\`
-6. **Open your browser and navigate to**
+   
+11. **Open your browser and navigate to**
 
    \`\`\`
    http://127.0.0.1:5000
